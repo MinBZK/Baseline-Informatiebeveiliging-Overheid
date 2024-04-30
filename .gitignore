@@ -1,0 +1,6 @@
+# build files
+site
+.venv/
+
+#  python cache
+**/__pycache__/**

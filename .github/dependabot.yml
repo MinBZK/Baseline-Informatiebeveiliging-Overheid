@@ -1,0 +1,31 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "friday"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "ruthkoole"
+    groups:
+      all-github-actions:
+        patterns:
+          - "*"
+
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "friday"
+      time: "10:00"
+      timezone: "Europe/Amsterdam"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "ruthkoole"
+    groups:
+      all-pip-packages:
+        patterns:
+          - "*"

@@ -1,0 +1,47 @@
+name: Deploy PR preview
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed    
+
+concurrency: preview-${{ github.ref }}
+
+jobs:
+  deploy:
+    name: deploy PR
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add url
+        run: |
+          echo "site_url: https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/pr-preview/pr-${{github.event.number}}" >> mkdocs.yml
+
+      - uses: actions/setup-python@v5
+        if: github.event.action != 'closed' 
+        with:
+          python-version: 3.x
+          cache: 'pip'
+
+      - name: install dependencies
+        if: github.event.action != 'closed' 
+        run: pip install -r requirements.txt
+
+      - name: build preview
+        if: github.event.action != 'closed' 
+        run: mkdocs build
+
+      - uses: actions/upload-artifact@v4
+        if: github.event.action != 'closed' 
+        with: 
+          name: BIOwebsite-${{github.event.number}}
+          path: ./site/
+
+      - name: Deploy preview
+        if: github.event.pull_request.head.repo.full_name == github.repository && github.actor != 'dependabot[bot]'
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./site/

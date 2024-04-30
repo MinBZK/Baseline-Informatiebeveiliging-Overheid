@@ -1,0 +1,85 @@
+### Site metadata ###
+
+site_name: Baseline Informatiebeveiliging Overheid [concept]
+site_description: 
+watch:
+    - includes/
+
+### theme settings ###
+theme: 
+    name: material
+    language: nl
+    palette:
+        - primary: blue
+    features:
+        - navigation.indexes
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.top
+        - navigation.tracking
+        - navigation.instant
+        - navigation.footer
+        - search.highlight
+        - search.suggest
+        - content.action.edit
+        - content.action.view
+        - content.tooltips
+        - content.tabs.link
+    icon:
+        logo: fontawesome/solid/house
+        annotation: fontawesome/solid/circle-info
+
+# Navigation for the site 
+nav:
+    - Home: index.md
+
+# Extra opties
+markdown_extensions: 
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.superfences
+    - pymdownx.details
+    - admonition
+    - attr_list
+    - abbr
+    - md_in_html
+    - footnotes
+    - toc:
+        permalink: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.snippets:
+        auto_append:
+            - includes/begrippenlijst.md
+
+# Extra opties voor footer
+extra: 
+    social:
+        - icon: fontawesome/brands/github 
+          link: https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid
+
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  
+plugins:
+    - glightbox
+    - search
+    - git-revision-date-localized:
+        enable_creation_date: true
+    - awesome-pages
+
+hooks:
+    - src/overrides/hooks/tags.py
+    - src/overrides/hooks/lists.py
+
+# Link naar GitHub repo
+repo_url: https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid
+edit_uri: edit/main/docs/
