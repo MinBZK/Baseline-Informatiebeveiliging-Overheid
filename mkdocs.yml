@@ -76,10 +76,6 @@ plugins:
         enable_creation_date: true
     - awesome-pages
 
-hooks:
-    - src/overrides/hooks/tags.py
-    - src/overrides/hooks/lists.py
-
 # Link naar GitHub repo
 repo_url: https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid
 edit_uri: edit/main/docs/
