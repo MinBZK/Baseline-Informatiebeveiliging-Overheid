@@ -9,7 +9,7 @@ updates:
       timezone: "Europe/Amsterdam"
     open-pull-requests-limit: 5
     reviewers:
-      - "ruthkoole"
+      - "dvebzk"
     groups:
       all-github-actions:
         patterns:
@@ -24,7 +24,7 @@ updates:
       timezone: "Europe/Amsterdam"
     open-pull-requests-limit: 5
     reviewers:
-      - "ruthkoole"
+      - "dvebzk"
     groups:
       all-pip-packages:
         patterns:
