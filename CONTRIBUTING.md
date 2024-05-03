@@ -3,7 +3,7 @@ Bedankt dat je de tijd neemt om een bijdrage te leveren! 🫶
 
 We waarderen alle soorten bijdragen enorm. 
 
-Zie de [Inhoudsopgave](#inhoudsopgave) voor verschillende manieren waarop je kan bijdragen aan het Algoritmekader.
+Zie de [Inhoudsopgave](#inhoudsopgave) voor verschillende manieren waarop je kan bijdragen aan de BIO2.
 Lees de onderstaande informatie voordat je aan de slag gaat.
 
 # Inhoudsopgave
@@ -71,7 +71,7 @@ Je kan een suggestie doen door een [Issue](https://github.com/MinBZK/Baseline-In
 #### Voordat je een suggestie gaat maken
 
 - Voordat je een suggestie gaat maken, kan je bekijken of jouw suggestie al tussen de bestaande [Issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) staat. Wellicht bestaat er al een issue die jouw suggestie beschrijft, en zijn we er al mee bezig.
-- Zoek uit of jouw idee past binnen het doel en de scope van het project. Wat zijn de voordelen van deze functionaliteit of toevoeging? Het is aan jou om het team van de BIO en de community te overtuigen dat dit een nuttige toevoeging is aan het Algoritmekader. Houd in gedachten dat we functioanliteiten willen die nuttig zijn voor de meerderheid van onze gebruikers en niet slechts voor een kleine groep.
+- Zoek uit of jouw idee past binnen het doel en de scope van het project. Wat zijn de voordelen van deze toevoeging? Het is aan jou om het team van de BIO te overtuigen dat dit een nuttige toevoeging is aan de BIO. Houd in gedachten dat we toevoegingen willen die nuttig zijn voor de meerderheid van de overheid en niet slechts voor een kleine groep of een overheidslaag.
 
 #### Een issue aanmaken
 
@@ -79,7 +79,7 @@ Als je jouw suggestie nog steeds wilt doen, kan je een [Issue](https://github.co
 
 1. Gebruik daarvoor de knop new issue.
 2. Beschrijf duidelijk jouw suggestie en geef een heldere toelichting en onderbouwing waarom dit een goede toevoeging zal zijn aan de BIO.
-3. Het team van het Algoritmekader zal deze issue labelen als `enhancement` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van de BIO contact op voor een verduidelijking of een oplossing.
+3. Het team van de BIO zal deze issue labelen als `enhancement` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van de BIO contact op voor een verduidelijking of een oplossing.
 
 > Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door het team van de BIO.
 
@@ -88,12 +88,12 @@ Als je jouw suggestie nog steeds wilt doen, kan je een [Issue](https://github.co
 Kun je niet uit de voeten met de issues?
 Bijvoorbeeld omdat je verschillende wijzigingsvoorstellen wilt doen? Je kan ook gebruik maken van een [Fork en een Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks).
 
-Het team van Algoritmekader bekijkt daarna jouw aanpassingen en kan bij akkoord jouw aanpassingen *mergen*. Er zijn ook andere manieren om een pull request te doen. [Meer daarover](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+Het team van de BIO bekijkt daarna jouw aanpassingen en kan bij akkoord jouw aanpassingen *mergen*. Er zijn ook andere manieren om een pull request te doen. [Meer daarover](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door het team van het Algoritmekader.
+Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door het team van de BIO.
 
 ### Hoe we werken op Github
 We werken met [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden.
-Dit is bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Dit maakt het eenvoudig om versiebeheer op het Algoritmekader toe te passen.
+Dit is bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Dit maakt het eenvoudig om versiebeheer op de BIO toe te passen.
 
 Daarnaast maken gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/).
