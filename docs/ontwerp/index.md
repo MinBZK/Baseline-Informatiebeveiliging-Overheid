@@ -1,7 +1,6 @@
 ---
 title: Concept ontwerp BIO2
 summary: Ontwerp van de BIO2 op hoofdlijnen
-icon: material/pencil-ruler
 ---
 
 # Concept ontwerp BIO2
