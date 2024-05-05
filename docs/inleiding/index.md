@@ -1,7 +1,6 @@
 ---
 title: BIO2
 summary: Het gedeelte van de BIO waar de inleiding, context en werkwijze van de BIO is te vinden. 
-icon: material-book-open-page-variant
 hide:
   - navigation
 ---
