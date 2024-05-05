@@ -1,4 +1,12 @@
+---
+title: Verhouding NIS2 en BIO2
+summary: Samenhang van NIS2, BIO2 en NEN-EN-ISO 27002 
+---
+
 # Verhouding NIS2 en BIO2
+
+!!! warning "BIO2 in ontwikkeling" 
+    Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
 
 De [NIS2](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/nis2-richtlijn/), oftewel de nieuwe versie van de Netwerk- en Informatiesystemen-richtlijn, wordt momenteel geïntegreerd in de Nederlandse Cybersecuritywet. In de wet worden specifieke eisen gesteld aan alle entiteiten die onder deze richtlijn vallen. Afhankelijk van de sector kunnen er aanvullende eisen worden gesteld. Voor de overheidssector is het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) verantwoordelijk.
 
