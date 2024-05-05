@@ -19,5 +19,5 @@ Beschrijf in detail de voorgestelde feature. Vermeld de stappen die volgens jou 
 **Alternatieven overwogen**
 Beschrijf eventuele alternatieve oplossingen of features die je hebt overwogen. Leg uit waarom deze minder geschikt zijn vergeleken met jouw voorgestelde oplossing.
 
-## Aanvullende context
+**Aanvullende context**
 Voeg eventuele andere relevante informatie toe die kan helpen bij het evalueren van deze feature request. Dit kan zijn links naar gerelateerde issues, externe literatuur, of vergelijkbare features in andere producten.
