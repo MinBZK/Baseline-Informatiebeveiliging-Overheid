@@ -1,20 +1,26 @@
+---
+title: Concept ontwerp BIO2
+summary: Ontwerp van de BIO2 op hoofdlijnen
+icon: pencil-ruler
+---
+
 # Concept ontwerp BIO2
 
 !!! warning "BIO2 in ontwikkeling" 
-    Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
+    Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
 
 ## Doel van de BIO2 
 
-De BIO2 is een verplicht kader om de informatiebeveiliging van informatie(systemen)[^1] bij alle bestuurslagen en bestuursorganen van de overheid te bevorderen. Invulling daarvan is op basis van risicobeoordeling. Met de BIO2 draagt de overheid bij aan één gezamenlijke taal en een gemeenschappelijk doel voor een basisniveau informatiebeveiliging van de overheid. 
+De BIO2 is een verplicht kader om de informatiebeveiliging van informatie(systemen) bij alle bestuurslagen en bestuursorganen van de overheid te bevorderen. Invulling daarvan is op basis van risicobeoordeling. Met de BIO2 draagt de overheid bij aan één gezamenlijke taal en een gemeenschappelijk doel voor een basisniveau informatiebeveiliging van de overheid. 
 
-Doel van de BIO2 is om de informatiebeveiliging overheidsbreed op een basisniveau[^2] te brengen. Daarnaast hebben overheidsorganisaties met de BIO2 een instrument in handen om transparant te zijn en te verantwoorden over de invulling van informatiebeveiliging door de organisatie (opzet, bestaan en werking), onder meer naar ketenpartners, toezichthouders en burgers. De BIO draagt bij aan het vertrouwen van ketenpartners in de overheidssector bij gegevensuitwisseling. 
+Doel van de BIO2 is om de informatiebeveiliging overheidsbreed op een basisniveau[^1] te brengen. Daarnaast hebben overheidsorganisaties met de BIO2 een instrument in handen om transparant te zijn en te verantwoorden over de invulling van informatiebeveiliging door de organisatie (opzet, bestaan en werking), onder meer naar ketenpartners, toezichthouders en burgers. De BIO draagt bij aan het vertrouwen van ketenpartners in de overheidssector bij gegevensuitwisseling. 
 
 ## Reikwijdte 
 De BIO2 is van toepassing op alle overheden. De BIO zal, als invulling aan de zorgplicht verplicht worden voor de sector ‘Overheid’. Een overheidsinstantie is een essentiële entiteit wanneer de organisatie voldoet aan de defnitie en criteria voor een overheidsinstantie, zoals beschreven in artikel 6, onderdeel 35 van de NIS2-richtlijn. Ministeries, provincies, gemeenten en waterschappen voldoen in ieder geval aan deze criteria. 
 
-De BIO2 is de norm voor alle overheidslagen en heeft betrekking op alle informatie(systemen) zowel digitaal als fysiek. Het is belangrijk dat de BIO2 ruimte geeft om de informatiebeveiliging voor alle type omgevingen, waaronder ook operationele technologie (OT) en zorginformatie, van de overheid op een hoger niveau te brengen met behulp van normen en richtlijnen zoals de NEN 7510 en CyberSecurity ImplementatieRichtlijn (CSIR). 
+De BIO2 is de norm voor alle overheidslagen en heeft betrekking op alle informatie(systemen) zowel digitaal als fysiek. Het is belangrijk dat de BIO2 ruimte geeft om de informatiebeveiliging voor alle type omgevingen, waaronder ook operationele technologie (OT) en zorginformatie, van de overheid op een hoger niveau te brengen met behulp van normen en richtlijnen zoals de [NEN 7510](https://www.webtoolmanagementsystemen.nl/nl/NormDetail?standardId=cc28b925-3d18-4036-bd60-196465c9a05b) en CyberSecurity ImplementatieRichtlijn ([CSIR](https://www.cert-wm.nl/csir)). 
 
-De maatregelen uit de BIO2 kunnen ook gebruikt worden om, waar relevant, door een overheidorganisatie als eis[^3] worden gesteld aan leveranciers en partners. 
+De maatregelen uit de BIO2 kunnen ook gebruikt worden om, waar relevant, door een overheidorganisatie als eis[^2] worden gesteld aan leveranciers en partners. 
 
 ## Basisniveau 
 
@@ -65,6 +71,5 @@ De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen zijn aanvu
 
     * __Overheidsrisico’s__: mitigeren van universele informatiebeveiligsrisico’s die gelden voor de gehele overheid. Een voorbeeld: periodieke herziening beleid.
 
-[^1]: Definitie informatiesystemen: “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie”.
-[^2]: Zie ook beschrijving onder kop “Basisniveau”
-[^3]: Toelichting: Het gaat hier om het stellen van de BIO als een verplicht normenkader. Aanvullend kan het ook nodig zijn om specifieke maatregelen te laten volgen uit de risicoanalyse die past bij de dienst of product van de leverancier en/of het vereisen van specifieke beveiligingsdiensten door de leverancier, zoals monitoring. De BIO geeft geen invulling aan specifieke situaties.
+[^1]: Zie ook beschrijving onder kop “Basisniveau”
+[^2]: Toelichting: Het gaat hier om het stellen van de BIO als een verplicht normenkader. Aanvullend kan het ook nodig zijn om specifieke maatregelen te laten volgen uit de risicoanalyse die past bij de dienst of product van de leverancier en/of het vereisen van specifieke beveiligingsdiensten door de leverancier, zoals monitoring. De BIO geeft geen invulling aan specifieke situaties.
