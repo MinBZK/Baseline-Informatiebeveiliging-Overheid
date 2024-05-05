@@ -1,7 +1,7 @@
 # Concept ontwerp BIO2
 
-> [!WARNING]  
->De onderstaande tekst is een concept voor het ontwerp van de BIO2. Het ontwerp is nog continu aan verandering onderhevig en daarom kan aan onderstaande tekst geen rechten worden ontleend! 
+!!! warning "BIO2 in ontwikkeling" 
+    Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
 
 ## Doel van de BIO2 
 
@@ -43,16 +43,24 @@ Met de invoer van de BIO2 komen er ook verplichtingen te vervallen:
 
 ## Elementen BIO2 
 Het conceptontwerp van de BIO2 omvat, conform de [Harmonized Structure](https://www.nen.nl/managementsystemen/high-level-structure-hls), de volgende elementen): 
-*	__BIO2 inleiding__ (vergelijkbaar met aan [inleiding NEN 7510](https://www.webtoolmanagementsystemen.nl/nl/ViewDocumentSection/7d63d3f5-2acf-47cd-9789-587b5fdb3136/7d63d3f5-2acf-47cd-9789-587b5fdb3136/e8aa6485-ca28-4f41-bcc2-1e746bc6aaa2#e8aa6485-ca28-4f41-bcc2-1e746bc6aaa2)): De BIO bevat een inleiding waarin de context voor informatiebeveiliging voor de overheid wordt toegelicht. Deze context bepaalt hoe het managementsysteem en de beheersmaatregelen moeten worden ingericht. In de inleiding wordt daarom de context geschetst voor de gehele overheid. Dit is vergelijkbaar met de inleiding van de NEN 7510 waar de context voor een zorgorganisatie en zorginformatie wordt geschetst.
+
+*	BIO2 inleiding (vergelijkbaar met aan [inleiding NEN 7510](https://www.webtoolmanagementsystemen.nl/nl/ViewDocumentSection/7d63d3f5-2acf-47cd-9789-587b5fdb3136/7d63d3f5-2acf-47cd-9789-587b5fdb3136/e8aa6485-ca28-4f41-bcc2-1e746bc6aaa2#e8aa6485-ca28-4f41-bcc2-1e746bc6aaa2)): De BIO bevat een inleiding waarin de context voor informatiebeveiliging voor de overheid wordt toegelicht. Deze context bepaalt hoe het managementsysteem en de beheersmaatregelen moeten worden ingericht. In de inleiding wordt daarom de context geschetst voor de gehele overheid. Dit is vergelijkbaar met de inleiding van de NEN 7510 waar de context voor een zorgorganisatie en zorginformatie wordt geschetst.
 Voorbeelden van onderwerpen in de inleiding zijn ISMS, risicomanagement, inrichting van de governance (besturing), relatie tot informatie/beheer/ bedrijfscontinuïteit, soorten overheidsinformatie, aanvullend normen overheidslagen, dreigingen, kwetsbaarheden, en wet- en regelgeving.
-*	__Eisen 27001__: Verwijzing naar de eisen uit de NEN-EN-ISO 27001, waarbij het volgen van de 27001 verplicht is voor overheden. Dit bevat een directe verwijzing en geen kopie van de norm.
-*	__Beheersmaatregelen__: Verwijzing naar de beheersmaatregelen en implementatierichtlijnen uit de NEN-EN-ISO 27002, waarin het selecteren en toepassen van de beheersmaatregelen verplicht is voor overheden. Dit bevat een directe verwijzing en geen kopie van de norm. Een organisatie kan er voor kiezen de normen NEN 7510 en/of CSIR te gebruiken met een gelijkwaardig beveiligingsniveau als beschreven in de ISO 27002. 
-*	__Verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen__: De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen definiëren de verplichte maatregelen en richtlijnen die nodig zijn voor de overheid om aan de beheersdoelstelling te voldoen. Dit volgt uit de context die geldt voor de overheid. De BIO volgt de structuur van de 27002 en richt zich daarmee op organisatorische, menselijke, fysieke en technische maatregelen.
+
+*	Eisen 27001: Verwijzing naar de eisen uit de NEN-EN-ISO 27001, waarbij het volgen van de 27001 verplicht is voor overheden. Dit bevat een directe verwijzing en geen kopie van de norm.
+
+*	Beheersmaatregelen: Verwijzing naar de beheersmaatregelen en implementatierichtlijnen uit de NEN-EN-ISO 27002, waarin het selecteren en toepassen van de beheersmaatregelen verplicht is voor overheden. Dit bevat een directe verwijzing en geen kopie van de norm. Een organisatie kan er voor kiezen de normen NEN 7510 en/of CSIR te gebruiken met een gelijkwaardig beveiligingsniveau als beschreven in de ISO 27002. 
+
+*	Verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen__: De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen definiëren de verplichte maatregelen en richtlijnen die nodig zijn voor de overheid om aan de beheersdoelstelling te voldoen. Dit volgt uit de context die geldt voor de overheid. De BIO volgt de structuur van de 27002 en richt zich daarmee op organisatorische, menselijke, fysieke en technische maatregelen.
 De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen zijn aanvullend op de NEN-EN-ISO 27002 en dus geen dubbeling ten opzichte van bestaande 27002 maatregelen. De overheidsspecifieke maatregelen en richtlijnen moeten verplicht worden toegepast.
+
 *	De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen van de BIO moeten een toegevoegde waarde hebben voor de overheid als aanvulling op de bestaande maatregelen en implementatierichtlijnen uit de 27002. Een maatregelen of implementatierichtlijn uit de BIO moet meerwaarde leveren op een of meerdere onderstaande categorieën (dit mag overlappen):
-*	__Basishygiëne__: basismaatregelen die passen bij een standaard goede informatiebeveiliging. De hygiënemaatregelen zullen minimaal van het niveau van de cyberhygiëne maatregelen uit de NIS2 volgen. 
-*	__Ketenrisico’s__: maatregelen die bijdragen aan het mitigeren van risico’s in de keten van overheden (en andere organisaties), en waarbij gezamenlijk handelen door de overheid nodig is. Een voorbeeld: het Nationaal Detectie Netwerk.
-*	__Overheidsrisico’s__: mitigeren van universele informatiebeveiligsrisico’s die gelden voor de gehele overheid. Een voorbeeld: periodieke herziening beleid.
+
+*	Basishygiëne: basismaatregelen die passen bij een standaard goede informatiebeveiliging. De hygiënemaatregelen zullen minimaal van het niveau van de cyberhygiëne maatregelen uit de NIS2 volgen. 
+
+*	Ketenrisico’s: maatregelen die bijdragen aan het mitigeren van risico’s in de keten van overheden (en andere organisaties), en waarbij gezamenlijk handelen door de overheid nodig is. Een voorbeeld: het Nationaal Detectie Netwerk.
+
+*	Overheidsrisico’s: mitigeren van universele informatiebeveiligsrisico’s die gelden voor de gehele overheid. Een voorbeeld: periodieke herziening beleid.
 
 [^1]: Definitie informatiesystemen: “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie”.
 [^2]: Zie ook beschrijving onder kop “Basisniveau”
