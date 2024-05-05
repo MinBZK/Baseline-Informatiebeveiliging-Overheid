@@ -7,7 +7,8 @@ hide:
 
 #  Welkom bij de ontwikkelpagina van de BIO2
 
-!!! warning "BIO2 in ontwikkeling" Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
+!!! warning "BIO2 in ontwikkeling" 
+    Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
 
 ## BIO2 Ontwikkeling
 De BIO is het kader voor informatiebeveiliging voor de overheid. Op deze pagina's werken wij met jou aan de nieuwe versie van de BIO2.
