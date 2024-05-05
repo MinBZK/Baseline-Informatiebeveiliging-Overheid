@@ -4,3 +4,5 @@
 *[Overheidsspecifieke]: Overheidsspecifieke beheersmaatregelen en implementatierichtlijnen definiëren de verplichte maatregelen en richtlijnen die nodig zijn voor de overheid om aan de beheersdoelstelling te voldoen. Dit volgt uit de context die geldt voor de overheid.De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen zijn aanvullend op de NEN-EN-ISO 27002 en dus geen dubbeling ten opzichte van bestaande 27002 maatregelen. 
 *[CSIRT]: Computer Security Incident Response Team
 *[JenV]: Ministerie van Justitie en Veiligheid
+*[informatiesystemen]: een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.
+*[informatie(systemen)]: een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.
