@@ -1,3 +1,6 @@
-<!-- Hier kunnen we op een gegeven moment definities van termen neerzetten -->
-
-*[algoritme]: Een set van regels en instructies die een computer geautomatiseerd volgt bij het maken van berekeningen om een probleem op te lossen of een vraag te beantwoorden.
+*[BZK]: Ministerie van Binnenlandse Zaken en Koninkrijkrelaties
+*[BIO2]: Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.
+*[NIS2]: De Network and Information Security directive 2, of NIS2-richtlijn. Vastgesteld door de Europese Unie en bedoeld om de cyberbeveiliging en de weerbaarheid van essentiële diensten in EU-lidstaten te verbeteren. De NIS2 vergroot de reikwijdte van de eerste richtlijn door meer sectoren te omvatten. Daarnaast stelt de richtlijn strengere beveiligingsnormen en meldingsvereisten voor incidenten. De NIS2 wordt naar Nederlandse wetgeving vertaald.
+*[Overheidsspecifieke]: Overheidsspecifieke beheersmaatregelen en implementatierichtlijnen definiëren de verplichte maatregelen en richtlijnen die nodig zijn voor de overheid om aan de beheersdoelstelling te voldoen. Dit volgt uit de context die geldt voor de overheid.De overheidsspecifieke beheersmaatregelen en implementatierichtlijnen zijn aanvullend op de NEN-EN-ISO 27002 en dus geen dubbeling ten opzichte van bestaande 27002 maatregelen. 
+*[CSIRT]: Computer Security Incident Response Team
+*[JenV]: Ministerie van Justitie en Veiligheid
