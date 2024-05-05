@@ -1,7 +1,6 @@
 ---
 title: Verplichte maatregelen en richtlijnen
 summary: De verplichte maatregelen en richtlijnen voor overheden uit de BIO2
-icon: material-security
 ---
 
 # Verplichte overheidsspecifieke maatregelen en implementatierichtlijnen
