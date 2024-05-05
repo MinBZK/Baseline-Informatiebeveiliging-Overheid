@@ -1,7 +1,7 @@
 ### Site metadata ###
 
 site_name: Baseline Informatiebeveiliging Overheid [concept]
-site_description: 
+site_description: Concept van de BIO2. Samen werken aan het nieuwe kader voor informatiebeveiliging van de overheid.
 watch:
     - includes/
 
@@ -32,7 +32,12 @@ theme:
 # Navigation for the site 
 nav:
     - Home: index.md
-
+    - BIO2 ontwerp: 
+        - ontwerp/index.md
+        - ontwerp/nis2enBIO.md
+    - Verplichte maatregelen en richtlijnen:
+        - maatregelen/index.md
+        
 # Extra opties
 markdown_extensions: 
     - pymdownx.tabbed:
