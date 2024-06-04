@@ -26,5 +26,5 @@ De volgende documenten zijn op dit moment beschikbaar:
 
 - [X] Conceptontwerp
 - [X] Verhouding NIS2 en BIO
-- [ ] BIO2 inleiding. *Deze teksten zijn nog niet gepubliceerd.*
+- [X] BIO2 inleiding
 - [ ] Beheersmaatregelen en richtlijnen. *Deze teksten zijn nog niet gepubliceerd.*
