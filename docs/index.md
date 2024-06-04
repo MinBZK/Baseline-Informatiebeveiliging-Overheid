@@ -23,6 +23,7 @@ De aanvullingen die we van jullie ontvangen, nemen wij zoveel mogelijk mee in de
 ## Leeswijzer 
 Via het menu aan de bovenzijde kan je bij de stukken die de BIO2 zullen vormen. We voegen stapsgewijs nieuwe documentatie toe.
 De volgende documenten zijn op dit moment beschikbaar: 
+
 - [X] Conceptontwerp
 - [X] Verhouding NIS2 en BIO
 - [ ] BIO2 inleiding. *Deze teksten zijn nog niet gepubliceerd.*
