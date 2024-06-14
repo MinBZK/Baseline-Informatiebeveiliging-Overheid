@@ -21,10 +21,10 @@ Mocht je wijzigingen willen voorstellen voor de BIO, deel dan jouw inbreng via G
 De aanvullingen die we van jullie ontvangen, nemen wij zoveel mogelijk mee in de ontwikkeling. Het is belangrijk om te weten dat we niet alle inbreng overnemen. De keuze over wat we wel en niet overnemen blijft bij het BIO team op Github en later ook in besluitvorming door onder meer de BIO werkgroep en IBO-kerngroep.
 
 ## Leeswijzer 
-Via het menu aan de bovenzijde kan je bij de stukken die de BIO2 zullen vormen. We voegen stapsgewijs nieuwe documentatie toe.
-De volgende documenten zijn op dit moment beschikbaar: 
+Via het menu aan de bovenzijde kan je bij de stukken die de BIO2 zullen vormen. We hebben de nieuwe documentatie stapsgewijs toegevoegd.
+De volgende documenten zijn beschikbaar: 
 
 - [X] Conceptontwerp
 - [X] Verhouding NIS2 en BIO
 - [X] BIO2 inleiding
-- [ ] Beheersmaatregelen en richtlijnen. *Deze teksten zijn nog niet gepubliceerd.*
+- [X] Beheersmaatregelen en richtlijnen.
