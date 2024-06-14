@@ -1,6 +1,8 @@
 ---
 title: Verplichte maatregelen en richtlijnen
 summary: De verplichte maatregelen en richtlijnen voor overheden uit de BIO2
+hide:
+  - navigation
 ---
 
 # Verplichte overheidsspecifieke maatregelen en richtlijnen
