@@ -9,7 +9,7 @@ summary: De verplichte maatregelen en richtlijnen voor overheden uit de BIO2
     Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
 
 !!! info 
-    Het gebruik van delen van de NEN-EN-ISO/IEC normen 27001 en 27002 in de BIO is auteursrechtelijk beschermd. Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van het Nederlands Normalisatie Instituut. Voor meer informatie zie de [website van NEN](www.nen.nl)
+    Het gebruik van delen van de NEN-EN-ISO/IEC normen 27001 en 27002 in de BIO is auteursrechtelijk beschermd. Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van het Nederlands Normalisatie Instituut. Voor meer informatie zie de [website van NEN](https://www.nen.nl)
 
 De opbouw van dit document is als volgt:
 - Titel
