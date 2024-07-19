@@ -1,0 +1,1206 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Concept van de BIO2. Samen werken aan het nieuwe kader voor informatiebeveiliging van de overheid.">
+      
+      
+      
+      
+        <link rel="prev" href="../ontwerp/nis2enbio/">
+      
+      
+        <link rel="next" href="../maatregelen/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.29">
+    
+    
+      
+        <title>BIO2 - Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.76a95c52.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zm-40-176h24v-64h-24c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24h-80c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>');}</style>
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#bio2-inleiding" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]" class="md-header__button md-logo" aria-label="Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40h-16c-1.1 0-2.2 0-3.3-.1-1.4.1-2.8.1-4.2.1H392c-22.1 0-40-17.9-40-40v-88c0-17.7-14.3-32-32-32h-64c-17.7 0-32 14.3-32 32v88c0 22.1-17.9 40-40 40h-55.9c-1.5 0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2h-16c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9.1-2.8v-69.6H32c-18 0-32-14-32-32.1 0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7l255.4 224.5c8 7 12 15 11 24z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              BIO2
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../ontwerp/" class="md-tabs__link">
+          
+  
+    
+  
+  Ontwerp
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+    
+  
+  BIO2 inleiding
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../maatregelen/" class="md-tabs__link">
+          
+  
+    
+  
+  Verplichte maatregelen en richtlijnen
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]" class="md-nav__button md-logo" aria-label="Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40h-16c-1.1 0-2.2 0-3.3-.1-1.4.1-2.8.1-4.2.1H392c-22.1 0-40-17.9-40-40v-88c0-17.7-14.3-32-32-32h-64c-17.7 0-32 14.3-32 32v88c0 22.1-17.9 40-40 40h-55.9c-1.5 0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2h-16c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9.1-2.8v-69.6H32c-18 0-32-14-32-32.1 0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7l255.4 224.5c8 7 12 15 11 24z"/></svg>
+
+    </a>
+    Baseline Informatiebeveiliging Overheid 2 (BIO2) [concept]
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid" title="Ga naar repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../ontwerp/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Ontwerp
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Ontwerp
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ontwerp/nis2enbio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verhouding NIS2 en BIO2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="./" class="md-nav__link md-nav__link--active">
+              
+  
+  <span class="md-ellipsis">
+    BIO2 inleiding
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            BIO2 inleiding
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../maatregelen/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Verplichte maatregelen en richtlijnen
+  </span>
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Verplichte maatregelen en richtlijnen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#de-bio" class="md-nav__link">
+    <span class="md-ellipsis">
+      De BIO
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reikwijdte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reikwijdte
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#verplichtingen-bio" class="md-nav__link">
+    <span class="md-ellipsis">
+      Verplichtingen BIO
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#het-managementsysteem-voor-informatiebeveiliging" class="md-nav__link">
+    <span class="md-ellipsis">
+      Het managementsysteem voor informatiebeveiliging
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Het managementsysteem voor informatiebeveiliging">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reikwijdte-managementsysteem" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reikwijdte managementsysteem
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#samenhang-managementsystemen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Samenhang managementsystemen
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#risicomanagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Risicomanagement
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#continue-ontwikkeling" class="md-nav__link">
+    <span class="md-ellipsis">
+      Continue ontwikkeling
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#transparantie-en-verantwoording" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transparantie en verantwoording
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#toezicht" class="md-nav__link">
+    <span class="md-ellipsis">
+      Toezicht
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wettelijke-borging-informatiebeveiliging-overheden" class="md-nav__link">
+    <span class="md-ellipsis">
+      Wettelijke borging informatiebeveiliging overheden
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Wettelijke borging informatiebeveiliging overheden">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aanvullende-normen-overheidslagen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aanvullende normen overheidslagen
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cyberbeveiligingswet" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cyberbeveiligingswet
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#governance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Governance
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Governance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bestuurder" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bestuurder
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lijnmanagers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lijnmanagers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ciso" class="md-nav__link">
+    <span class="md-ellipsis">
+      CISO
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#interne-toezichthouder" class="md-nav__link">
+    <span class="md-ellipsis">
+      Interne toezichthouder
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#leveranciers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Leveranciers
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#soorten-overheidsinformatie" class="md-nav__link">
+    <span class="md-ellipsis">
+      Soorten overheidsinformatie
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#impact-van-risicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Impact van risico's
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#relatie-tot-informatiebeheerbusiness-continuity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Relatie tot informatie/beheer/business continuity
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wet-en-regelgeving" class="md-nav__link">
+    <span class="md-ellipsis">
+      Wet- en regelgeving
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/edit/main/docs/inleiding/index.md" title="Wijzig deze pagina" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/raw/main/docs/inleiding/index.md" title="Bron van deze pagina bekijken" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+<h1 id="bio2-inleiding"><abbr title="Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.">BIO2</abbr> inleiding<a class="headerlink" href="#bio2-inleiding" title="Permanent link">&para;</a></h1>
+<div class="admonition warning">
+<p class="admonition-title"><abbr title="Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.">BIO2</abbr> in ontwikkeling</p>
+<p>Dit is een werkversie van de <abbr title="Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.">BIO2</abbr>. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen. De onderstaande concepttekst zal onderdeel worden van <abbr title="Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.">BIO2</abbr>. De <abbr title="Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.">BIO2</abbr> bestaat uit twee delen: 1) een inleiding waarin de context, verplichtingen en samenhang van de BIO, 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen.</p>
+</div>
+<p>De overheid heeft een unieke rol in de samenleving. De overheid draagt onder meer bij aan een democratische rechtsstaat en het handhaven van de orde, en verleent unieke diensten aan de burger. Voor het invullen van die rol heeft de overheid informatie nodig. </p>
+<p>Om deel te kunnen nemen aan de samenleving moeten burgers informatie met de overheid delen, soms zelfs verplicht, en zijn zij afhankelijk van de overheid om informatie te ontvangen. De overheid heeft vanuit deze unieke rol de plicht om zorgvuldig om te gaan met de beveiliging van die gegevens. </p>
+<p>De Cyberbeveiligingswet verplicht de BIO voor de sector 'Overheid' als voornaamste invulling van die zorgplicht. </p>
+<h2 id="de-bio">De BIO<a class="headerlink" href="#de-bio" title="Permanent link">&para;</a></h2>
+<p>De Baseline Informatiebeveiliging Overheid (BIO), is het verplichte normenkader voor informatiebeveiliging bij de overheid. De BIO biedt handvatten om de beveiliging van informatie(systemen) bij alle bestuurslagen en bestuursorganen van de overheid te organiseren en te realiseren. De invulling ervan risicogestuurd. Het uitvoeren van de BIO moet altijd gebaseerd zijn op een grondige analyse van alle relevante risico's voor de overheidsorganisatie. </p>
+<p>Doel van de BIO is om de informatieveiligheid overheidsbreed op een acceptabel basisniveau te brengen en daardoor ook de ketenpartners een basis voor vertrouwen te geven bij gegevensuitwisseling. </p>
+<p>Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als extern transparant te zijn over de wijze waarop informatiebeveiliging is ingericht. Met de BIO hanteert de overheid één gezamenlijke taal en een gezamenlijk doel op het gebied van informatiebeveiliging.</p>
+<h2 id="reikwijdte">Reikwijdte<a class="headerlink" href="#reikwijdte" title="Permanent link">&para;</a></h2>
+<p>De BIO is van toepassing op alle overheden. Met de Cyberbeveiligingswet is de BIO verplicht voor alle organisaties die vallen onder de sector 'Overheid'.</p>
+<p>De BIO is een norm voor alle overheidslagen en heeft betrekking op alle informatie(systemen) zowel digitaal als fysiek. De BIO is van toepassing op de informatiebeveiliging van alle type omgevingen, onder andere ook operationele technologie (OT) en zorginformatie, van de overheid en brengt deze op het noodzakelijke niveau met behulp van normen en richtlijnen zoals de NEN 7510 en Cybersecurity implementatierichtlijn (CSIR). </p>
+<div class="admonition info">
+<p class="admonition-title">De term informatiesysteem</p>
+<p>Een informatiesysteem is "een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie". Het gaat dus expliciet niet alleen om technische (ICT) systemen. </p>
+</div>
+<p>De BIO is samengesteld uit de aanpak van de ISO 27001 (het managementsysteem), de beheersmaatregelen en implementatierichtlijnen uit de ISO 27002 en aanvullende verplichte verplichte overheidsspecifieke maatregelen en -richtlijnen uit de BIO.  </p>
+<h2 id="verplichtingen-bio">Verplichtingen BIO<a class="headerlink" href="#verplichtingen-bio" title="Permanent link">&para;</a></h2>
+<p>De BIO stelt de volgende verplichtingen:</p>
+<ul>
+<li>
+<p><strong>NEN-EN-ISO 27001 moet worden toegepast op het formuleren</strong> van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.</p>
+<ul>
+<li>Voor het bepalen van de context van de organisatie moet de beschreven context uit de BIO minimaal worden meegenomen.</li>
+</ul>
+</li>
+<li>
+<p><strong>NEN-EN-ISO 27002 én de verplichte overheidsspecifieke maatregelen en richtlijnen uit de BIO moet worden toegepast op het formuleren van beheersmaatregelen</strong>, hierbij rekening houdend met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden. De maatregelen uit de NEN-ISO/IEC 27002 kunnen, waar nodig en gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de <strong>NEN 7510</strong> en voor Operational Technology (OT) de <strong>CSIR</strong> en IEC 62443.</p>
+</li>
+</ul>
+<h2 id="het-managementsysteem-voor-informatiebeveiliging">Het managementsysteem voor informatiebeveiliging<a class="headerlink" href="#het-managementsysteem-voor-informatiebeveiliging" title="Permanent link">&para;</a></h2>
+<p>Het managementsysteem voor informatiebeveiliging (Information Security Management Systeem, ook wel ISMS) is een werkwijze om informatiebeveiliging op een gestructureerde manier toe te passen in de organisatie. Zo wordt de organisatie, en een bestuurder in het bijzonder, in staat gesteld om de juiste afwegingen te maken. </p>
+<div class="admonition info">
+<p class="admonition-title">De term managementsysteem</p>
+<p>Om een veelvoorkomend misverstand te voorkomen: een managementsysteem is géén applicatie. Een applicatie kan wel ondersteunen bij het toepassen van een managementsysteem. </p>
+</div>
+<p>Het managementsysteem dat de basis vormt voor de BIO, is beschreven in de NEN-EN-ISO 27001.</p>
+<p>Het managementsysteem voor informatiebeveiliging borgt de beschikbaarheid, integriteit en vertrouwelijkheid van informatie door een risicomanagementproces toe te passen, en geeft belanghebbenden het vertrouwen dat risico’s adequaat worden beheerd.</p>
+<p>Het is belangrijk dat het managementsysteem voor informatiebeveiliging deel uitmaakt van en geïntegreerd is met de procedures van de organisatie en met de algehele managementstructuur, en dat informatiebeveiliging in aanmerking wordt genomen bij het ontwerpen van processen, (informatie)systemen en beheersmaatregelen. </p>
+<h3 id="reikwijdte-managementsysteem">Reikwijdte managementsysteem<a class="headerlink" href="#reikwijdte-managementsysteem" title="Permanent link">&para;</a></h3>
+<p>Een overheid moet minimaal de primaire (informatie)systemen opnemen in de reikwijdte van het managementsysteem. Het is aan de overheidsorganisaties zelf om te bepalen in welke mate de ondersteunende processen zijn opgenomen in het managementsysteem. </p>
+<p>Waar overheden gelijkwaardige processen hanteren is het aanbevolen om, waar beschikbaar, gebruik te maken van de analyses die een koepelorganisatie heeft gedaan. </p>
+<h3 id="samenhang-managementsystemen">Samenhang managementsystemen<a class="headerlink" href="#samenhang-managementsystemen" title="Permanent link">&para;</a></h3>
+<p>De BIO sluit aan op de <a href="https://www.nen.nl/managementsystemen/high-level-structure-hls">Harmonized Structure – HS</a> en is daardoor compatibel met andere managementsysteemnormen uit de ISO reeks die de HLS volgen. Daardoor wordt het voor een organisatie mogelijk om één enkel managementsysteem te hanteren.</p>
+<h3 id="risicomanagement">Risicomanagement<a class="headerlink" href="#risicomanagement" title="Permanent link">&para;</a></h3>
+<p>De BIO gaat uit van risicomanagement.  Dit is in lijn met doelen uit de NEN-EN-ISO 27001 en de uitgangspunten van de Cyberbeveiligingswet. </p>
+<p>De set overheidsmaatregelen vormen de basishygiëne op gebied van informatiebeveiliging van elke (overheids)organisatie en worden zonder meer getroffen, los van hoge of lage risico-acceptatie.  Onderdeel daarvan zijn ketenrisico's en risico's die de gehele overheid gelden.</p>
+<ul>
+<li>
+<p><strong>Basishygiëne</strong>: basismaatregelen die passen bij een standaard goede informatiebeveiliging. De selectie van hygiënemaatregelen zal hierbij minimaal gelijk zijn aan of hoger liggen dan het vereiste niveau van de cyberhygiëne van <abbr title="De Network and Information Security directive 2, of NIS2-richtlijn. Vastgesteld door de Europese Unie en bedoeld om de cyberbeveiliging en de weerbaarheid van essentiële diensten in EU-lidstaten te verbeteren. De NIS2 vergroot de reikwijdte van de eerste richtlijn door meer sectoren te omvatten. Daarnaast stelt de richtlijn strengere beveiligingsnormen en meldingsvereisten voor incidenten. De NIS2 wordt naar Nederlandse wetgeving vertaald.">NIS2</abbr>.</p>
+</li>
+<li>
+<p><strong>Ketenrisico’s</strong>: maatregelen die bijdragen aan het mitigeren van risico’s in de keten van overheden en waarbij gezamenlijk handelen door de overheid nodig is.</p>
+</li>
+<li>
+<p><strong>Overheidsrisico’s:</strong> mitigeren van universele informatieveiligheidsrisico’s die gelden voor de gehele overheid.</p>
+</li>
+</ul>
+<h3 id="continue-ontwikkeling">Continue ontwikkeling<a class="headerlink" href="#continue-ontwikkeling" title="Permanent link">&para;</a></h3>
+<p>Informatiebeveiliging is een cyclisch proces, het toepassen van de BIO kan niet afgedaan worden met een eenmalig project. Door het toepassen van een managementsysteem kan de organisatie continu ontwikkelen. </p>
+<h2 id="transparantie-en-verantwoording">Transparantie en verantwoording<a class="headerlink" href="#transparantie-en-verantwoording" title="Permanent link">&para;</a></h2>
+<p>Burgers moeten de overheid kunnen vertrouwen.  De overheid doet dit door transparant te zijn over de inrichting en de staat van informatieveiligheid en daar verantwoording over af te leggen aan burgers, toezichthouders, ketenpartners en stelselverantwoordelijken.</p>
+<p>Een managementsysteem voor informatiebeveiliging (ISMS) is noodzakelijk voor gestructureerde verantwoording. Het is vanuit de NEN-EN-ISO 27001 verplicht om een reikwijdte en een zogenaamde Verklaring van Toepasselijkheid (VvT) te hanteren. </p>
+<p>Het publiceren van de reikwijdte van het ISMS en de bijbehorende Verklaring van Toepasselijkheid draagt bij aan transparantie over de inrichting van informatiebeveiliging door de organisatie. Het publiceren van deze documenten wordt daarom aangeraden.</p>
+<p>Een voorbeeld van een Verklaring van Toepasselijkheid is opgenomen in de <abbr title="Afkorting voor de Baseline Informatiebeveiliging Overheid 2. De opvolger van de BIO 1.04.">BIO2</abbr> [moet ontwikkeld worden].</p>
+<h2 id="toezicht">Toezicht<a class="headerlink" href="#toezicht" title="Permanent link">&para;</a></h2>
+<p>De BIO aanpak is de basis voor het invullen van de zorgplicht door overheden. De kaders NEN-EN-ISO 27001 en 27002 vormen de basis van de BIO. Het is aangeraden voor toezichthouders om deze kaders als basis te hanteren. De inleiding in de BIO en de overheidsmaatregelen vormen vervolgens een basis om het managementsysteem te toetsen. </p>
+<p>Certificering aan de hand van de ISO 27001 is niet verplicht vanuit de BIO. Certificering kan wel bijdragen aan het vereenvoudigen bij verantwoording. De certificering geeft namelijk op basis van een onafhankelijke beoordeling aan, dat de organisatie in staat is om informatiebeveiliging procesmatig uit te voeren.</p>
+<h2 id="wettelijke-borging-informatiebeveiliging-overheden">Wettelijke borging informatiebeveiliging overheden<a class="headerlink" href="#wettelijke-borging-informatiebeveiliging-overheden" title="Permanent link">&para;</a></h2>
+<p>De BIO is expliciet niet bedoeld om alle beveiligingseisen van de overheid af te dekken. Elke overheidsorganisatie is zelf verantwoordelijk om te bepalen welke interne en externe eisen, zoals wet- en regelgeving van toepassing zijn. </p>
+<p>De BIO bevat wel overheidsmaatregelen die soms voortkomen uit andere wet- en regelgeving, maar is daarin zeker niet uitputtend. Alleen die maatregelen die zinvol zijn voor het bereiken van de eerder genoemde doelen zijn daarom soms opgenomen. </p>
+<h3 id="aanvullende-normen-overheidslagen">Aanvullende normen overheidslagen<a class="headerlink" href="#aanvullende-normen-overheidslagen" title="Permanent link">&para;</a></h3>
+<p>De BIO richt zich op de generieke informatiebeveiliging van overheidsorganisaties. De verschillende overheidslagen hebben te maken met specifieke dreigingen. Het staat ze vrij om voor hun overheidslagen specifieke aanvullende maatregelen te benoemen en die, afhankelijk van de interne besluitvorming, verplichtend of adviserend door te voeren.  </p>
+<p>Binnen de overheid bestaan meerdere normen voor informatiebeveiliging. Naast de BIO zijn er bijvoorbeeld de Nederlandse normen NEN 7510, voor verwerkers van zorginformatie, de ISO 22301, voor BCM en crisismanagement en de CSIR voor operationele technologie (OT). De basis van die normen is de internationale norm ISO 27001 en ISO 27002. </p>
+<p>Daarmee vallen de twee onderdelen samen: risicomanagement en maatregelen die specifiek passen bij de context. Zo stelt de BIO overheidseisen en staan in de aanvullende normen specifieke eisen die alleen van toepassing zijn als die normen binnen de reikwijdte vallen van het ISMS.</p>
+<h3 id="cyberbeveiligingswet">Cyberbeveiligingswet<a class="headerlink" href="#cyberbeveiligingswet" title="Permanent link">&para;</a></h3>
+<p>Voor overheden is in de Cyberbeveiligingswet vastgelegd op welke wijze de zorgplicht voor informatiebeveiliging moet worden ingevuld. Hieronder volgt een samenvatting van de belangrijkste punten die betrekking hebben op het toepassen van de BIO:</p>
+<ul>
+<li>
+<p><strong>Verplichting BIO</strong>: De BIO is via de Cyberbeveiligingswet verplicht voor alle overheden die vallen onder de sector 'Overheid'.   </p>
+</li>
+<li>
+<p><strong>Verantwoordelijkheid bestuurder</strong>: De bestuurder is verantwoordelijk voor</p>
+<ul>
+<li>
+<p>het treffen van passende en evenredige technische, operationele en organisatorische maatregelen om de risico’s te beheren afgestemd op de risico’s die zich voordoen</p>
+</li>
+<li>
+<p>het goedkeuren van te nemen maatregelen voor het beheer van cyberbeveiligingsrisico’s </p>
+</li>
+<li>
+<p>het toezien op de uitvoering en het beheer ervan.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Opleiding</strong>: Bestuurders moeten opgeleid zijn en kennis hebben om te kunnen sturen op IB risico's. En bestuurders moeten regelmatig een soortgelijke opleiding/training aan hun werknemers aanbieden. Dit betekent dat de opleiding moet voldoen aan [invulling Cyberbeveiligingswet voor de sector 'Overheid'].</p>
+</li>
+<li>
+<p><strong>Meldplicht:</strong> Bestuurders zijn verantwoordelijk voor het tijdig melden van incidenten. Overheden moeten binnen de doorlooptijden [invulling Cyberbeveiligingswet voor de sector 'Overheid'] een melding maken van een meldplichtig incident.</p>
+</li>
+<li>
+<p><strong>Toezicht en verantwoording:</strong> De toezichthouder zal toezicht houden op de invulling van de zorgplicht volgens de Cyberbeveiligingswet. De RDI is als toezichthouder aangewezen voor de sector 'Overheid'.  </p>
+</li>
+</ul>
+<h2 id="governance">Governance<a class="headerlink" href="#governance" title="Permanent link">&para;</a></h2>
+<p>Het beheersen van informatiebeveiligingsrisico's is de verantwoordelijkheid van de bestuurder van een overheidsorganisatie. De bestuurder kan dat niet alleen. Om informatiebeveiliging gedegen  in te regelen is een structuur nodig. Het is aan de organisatie om deze structuur aan te brengen volgens de NEN-EN-ISO 27001.</p>
+<p>Voor overheden zijn er een aantal rollen die hier een vast onderdeel horen te zijn. Deze rollen komen ook terug in de BIO-maatregelen.</p>
+<h3 id="bestuurder">Bestuurder<a class="headerlink" href="#bestuurder" title="Permanent link">&para;</a></h3>
+<p>De bestuurder is verantwoordelijk voor het treffen van passende en evenredige technische, operationele en organisatorische maatregelen en moet toezien op de naleving daarvan. Kortgezegd is de bestuurder er verantwoordelijk voor dat het risicomanagement is gericht op het borgen van digitale weerbaarheid van de organisatie.  </p>
+<p>Voor de vier overheidslagen is voor de invulling van sector 'Overheid' binnen de Cyberbeveiligingswet gedefinieerd welke bestuurders worden bedoeld:</p>
+<ul>
+<li>
+<p>Gemeenten: [Volgt uit invulling Cyberbeveiligingswet voor sector 'Overheid']</p>
+</li>
+<li>
+<p>Provincies: [Volgt uit invulling Cyberbeveiligingswet voor sector 'Overheid']</p>
+</li>
+<li>
+<p>Rijksoverheid: [Volgt uit invulling Cyberbeveiligingswet voor sector 'Overheid']</p>
+</li>
+<li>
+<p>Waterschappen: [Volgt uit invulling Cyberbeveiligingswet voor sector 'Overheid']</p>
+</li>
+</ul>
+<p>De bestuurder laat zich daarbij adviseren door functionarissen, zoals een CISO, CIO en FG .</p>
+<h3 id="lijnmanagers">Lijnmanagers<a class="headerlink" href="#lijnmanagers" title="Permanent link">&para;</a></h3>
+<p>Het lijnmanagement is de eigenaar van informatie(systemen) en is daarmee verantwoordelijk voor het identificeren van dreigingen en risico's ten aanzien van deze informatie(systemen).</p>
+<p>Het lijnmanagement is verantwoordelijk voor het toepassen van de verplichte beheersmaatregelen en implementatierichtlijnen uit de BIO voor het informatiesysteem.</p>
+<h3 id="ciso">CISO<a class="headerlink" href="#ciso" title="Permanent link">&para;</a></h3>
+<p>De CISO is verantwoordelijk voor de coördinatie van informatiebeveiliging. </p>
+<p>De CISO uitdrukkelijk niet verantwoordelijk voor de informatiebeveiliging door het lijnmanagement. De CISO vertaalt wetgeving en bedrijfsdoelstellingen naar een informatiebeveiligingsbeleid en rapporteert aan het bestuur hoe het lijnmanagement het informatiebeveiligingsbeleid implementeert. </p>
+<p>Om ervoor zorg te dragen dat de bestuurder geïnformeerde besluiten kan maken over de behandeling van informatiebeveiligingsrisico's. De CISO is ondersteunend aan de bestuurder en moet gevraagd en ongevraagd advies kunnen geven aan de bestuurder.</p>
+<h3 id="interne-toezichthouder">Interne toezichthouder<a class="headerlink" href="#interne-toezichthouder" title="Permanent link">&para;</a></h3>
+<p>Een bestuurder moet toezien op de toepassing van informatiebeveiliging in de organisatie. Een interne toezichthouder kan helpen bij dit toezicht. </p>
+<h2 id="leveranciers">Leveranciers<a class="headerlink" href="#leveranciers" title="Permanent link">&para;</a></h2>
+<p>Leveranciers bieden diensten en/of producten aan overheidsorganisaties. Een overheidsorganisatie blijft zelf echter verantwoordelijk voor het behandelen van risico's die betrekking hebben op de uitbestede of ingekochte dienst of product.   </p>
+<p>De verplichting voor het toepassen van de BIO ontstaat uit de risico's en verplichtingen die gelden voor alle overheden. De risico's, de bijhorende maatregelen en verplichtingen gelden daarmee ook voor een dienst of product die een overheid uitbesteed. </p>
+<p>De BIO verwijst naar de Inkoopeisen Cybersecurity Overheid (ICO) voor de basis van het stellen van eisen aan leveranciers. Het samenstellen van de eisen voor leveranciers bestaat dus uit de afweging van risico's en de verplichtingen die gelden voor de overheidsorganisatie.</p>
+<h2 id="soorten-overheidsinformatie">Soorten overheidsinformatie<a class="headerlink" href="#soorten-overheidsinformatie" title="Permanent link">&para;</a></h2>
+<p>Overheden kennen verschillende soorten informatie. Het is aan de organisatie zelf om te bepalen welk type informatie wordt verwerkt door de organisatie en welke aanvullende beveiligingsmaatregelen getroffen moeten worden. Bij deze afweging moeten in ieder geval de volgende type gegevens worden afgewogen:</p>
+<ul>
+<li>
+<p>Persoonsgegevens</p>
+</li>
+<li>
+<p>Bijzondere persoonsgegevens</p>
+</li>
+<li>
+<p>Gevoelige informatie</p>
+</li>
+<li>
+<p>Open data</p>
+</li>
+<li>
+<p>Gerubriceerde informatie</p>
+</li>
+</ul>
+<h2 id="impact-van-risicos">Impact van risico's<a class="headerlink" href="#impact-van-risicos" title="Permanent link">&para;</a></h2>
+<p>De impact van een incident hangt sterk af van de context. Overheidsorganisaties ondervinden vaak specifieke gevolgen door hun rol in de samenleving en democratie, hun bestuursstijl en hun verhouding tot de burgers. Bij het bepalen van de impact moeten minimaal onderstaande impactsgebieden worden afgewogen. </p>
+<ul>
+<li>
+<p>Politieke schade aan een bestuurder</p>
+</li>
+<li>
+<p>Diplomatieke schade</p>
+</li>
+<li>
+<p>Financiële gevolgen</p>
+</li>
+<li>
+<p>Directe imagoschade</p>
+<ul>
+<li>
+<p>Verlies van publiek respect of vertrouwen</p>
+</li>
+<li>
+<p>Organisatiebrede negatieve publiciteit</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Significant verlies van motivatie van medewerkers</p>
+</li>
+<li>
+<p>Belangrijk verlies van management control</p>
+</li>
+</ul>
+<p>De impactgebieden kunnen tevens bijdragen aan begrip bij de uitwisseling van impact met ketenpartners.</p>
+<h2 id="relatie-tot-informatiebeheerbusiness-continuity">Relatie tot informatie/beheer/business continuity<a class="headerlink" href="#relatie-tot-informatiebeheerbusiness-continuity" title="Permanent link">&para;</a></h2>
+<p>De BIO richt zich op informatiebeveiliging. Onderwerpen zoals privacy, informatievoorziening, beheersprocessen en business continuity zijn aanpalend aan informatiebeveiliging. Voor deze onderwerpen zijn vaak aparte standaarden opgezet. Deze onderwerpen worden daarom niet uitgewerkt in de BIO. Daar waar nuttig wordt verwezen naar deze separate standaarden.  </p>
+<h2 id="wet-en-regelgeving">Wet- en regelgeving<a class="headerlink" href="#wet-en-regelgeving" title="Permanent link">&para;</a></h2>
+<p>In BIO zijn een aantal verwijzingen opgenomen naar wet- en regelgeving die relevant zijn voor de gehele overheid. </p>
+<p>De BIO alleen is onvoldoende voor een organisatie om te bepalen of het voldoet aan wet- en regelgeving op het gebied van informatieveiligheid. In lijn met risicomanagement moet een organisatie zelf haar context met de daarin van toepassing zijnde wet- en regelgeving bepalen en dit uitwerken in een reikwijdte als basis voor het in te richten ISMS. </p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Laatst geüpdatet">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 19, 2024</span>
+  </span>
+
+    
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Gecreëerd">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">July 19, 2024</span>
+  </span>
+
+    
+    
+    
+  </aside>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+        
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../ontwerp/nis2enbio/" class="md-footer__link md-footer__link--prev" aria-label="Vorige: Verhouding NIS2 en BIO2">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Vorige
+              </span>
+              <div class="md-ellipsis">
+                Verhouding NIS2 en BIO2
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../maatregelen/" class="md-footer__link md-footer__link--next" aria-label="Volgende: Verplichte maatregelen en richtlijnen">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Volgende
+              </span>
+              <div class="md-ellipsis">
+                Verplichte maatregelen en richtlijnen
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.indexes", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "navigation.instant", "navigation.footer", "search.highlight", "search.suggest", "content.action.edit", "content.action.view", "content.tooltips", "content.tabs.link"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../javascripts/tablesort.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
