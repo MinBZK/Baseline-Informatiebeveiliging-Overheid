@@ -8,7 +8,7 @@ hide:
 # BIO2 inleiding
 
 !!! warning "BIO2 in ontwikkeling" 
-Dit document bevat een voorlopige versie van de Baseline Informatiebeveiliging Overheid 2 (BIO2). Het document is het resultaat van de online raadpleging op Github en de werkgroep BIO. De teksten zijn gebaseerd op feedback van verschillende betrokken partijen en zijn nog in ontwikkeling. De onderstaande concepttekst zal onderdeel worden van BIO2. De BIO2 bestaat uit twee delen: ) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, en 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen.
+	Dit document bevat een voorlopige versie van de Baseline Informatiebeveiliging Overheid 2 (BIO2). Het document is het resultaat van de online raadpleging op Github en de werkgroep BIO. De teksten zijn gebaseerd op feedback van verschillende betrokken partijen en zijn nog in ontwikkeling. De onderstaande concepttekst zal onderdeel worden van BIO2. De BIO2 bestaat uit twee delen: ) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, en 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen.
 
 De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers bedrijven. Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie.
 
