@@ -6,3 +6,7 @@
 *[JenV]: Ministerie van Justitie en Veiligheid
 *[informatiesystemen]: een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.
 *[informatie(systemen)]: een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.
+*[RDI]: De Rijksinspectie Digitale Infrastructuur is de Nederlandse toezichthouder die toezicht houdt op de veiligheid, betrouwbaarheid en weerbaarheid van digitale infrastructuren in Nederland.
+*[BCM]: Business continuity management, het proces om bedrijfscontinuïteit te waarborgen bij verstoringen.
+*[OT]: Operationele technologie, hardware en software die fysieke processen in industriële omgevingen aanstuurt, bewaakt en bestuurt, zoals in water- en infrastructuurbeheer.
+*[CSIR]: De Cybersecurity Implementatierichtlijn Objecten biedt overheden richtlijnen voor het beveiligen van hun procesautomatisering om kritieke infrastructuren tegen dreigingen te beschermen.
