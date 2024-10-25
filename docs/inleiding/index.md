@@ -8,7 +8,7 @@ hide:
 # BIO2 inleiding
 
 !!! warning "BIO2 in ontwikkeling" 
-	Dit document bevat een voorlopige versie van de Baseline Informatiebeveiliging Overheid 2 (BIO2). Het document is het resultaat van de online raadpleging op Github en de werkgroep BIO. De teksten zijn gebaseerd op feedback van verschillende betrokken partijen en zijn nog in ontwikkeling. De onderstaande concepttekst zal onderdeel worden van BIO2. De BIO2 bestaat uit twee delen: ) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, en 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen.
+	Dit document bevat een voorlopige versie van de Baseline Informatiebeveiliging Overheid 2 (BIO2). Het document is het resultaat van de online raadpleging op Github en de werkgroep BIO. De teksten zijn gebaseerd op feedback van verschillende betrokken partijen en zijn nog in ontwikkeling. De onderstaande concepttekst zal onderdeel worden van BIO2. De BIO2 bestaat uit drie delen: 1) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen, en 3) een bijlage met daarin de toelichting over best practices.
 
 De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers bedrijven. Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie.
 
@@ -101,9 +101,10 @@ Monitoring en continue verbetering
 De NEN-EN-ISO/IEC 27001-norm en de BIO leggen de nadruk op een continu verbeterproces. Een organisatie dient haar risicomanagement te onderhouden en regelmatig te evalueren om de effectiviteit van beheersmaatregelen te waarborgen. Eventuele wijzigingen in wetgeving of nieuwe bedreigingen kunnen aanleiding geven tot het bijwerken van de risicoanalyse en beheersmaatregelen. Met behulp van interne audits, managementbeoordelingen en een gestroomlijnde documentatie binnen het Information Security Management System (ISMS) houdt de organisatie haar risicomanagement actueel.
 
 
-## Samenstelling overheidsmaatregelen
+### Samenstelling overheidsmaatregelen
 
 De set overheidsmaatregelen vormt een eerste stap naar een goed niveau van informatiebeveiliging voor elke (overheids)organisatie en moet zonder meer worden geïmplementeerd, ongeacht de mate van risico-acceptatie. Deze set bestaat uit basismaatregelen, aangevuld met ketenmaatregelen en maatregelen specifiek voor overheidsrisico’s. Het doel is hiermee een minimumstandaard te waarborgen`.
+
 - **Basishygiëne**: Aan deze maatregelen dient minimaal voldaan te worden om aan NIS2 te kunnen voldoen.
 
 - **Ketenrisico’s**: maatregelen die bijdragen aan het mitigeren van risico’s in de keten van overheden en waarbij gezamenlijk handelen door de overheid nodig is.
@@ -134,6 +135,7 @@ Certificering aan de hand van de NEN-EN-ISO/IEC 27001 is niet verplicht vanuit d
 De BIO is expliciet niet bedoeld om alle beveiligingseisen van de overheid af te dekken. Elke overheidsorganisatie is zelf verantwoordelijk om vast te stellen welke interne en externe eisen, waaronder ook wet- en regelgeving, van toepassing zijn. De BIO bevat wel overheidsmaatregelen die in lijn zijn met andere wet- en regelgeving, maar is daarin zeker niet uitputtend.
 
 Binnen de overheid bestaan meerdere normen voor informatiebeveiliging. Naast de BIO zijn er bijvoorbeeld de Nederlandse normen NEN 7510 voor verwerkers van zorginformatie en de CSIR voor operationele technologie (OT). Managementsystemen en beheersmaatregelen volgens deze normen kunnen worden geïntegreerd in een managementsysteem voor informatiebeveiliging op basis van de NEN-ISO/IEC 27001.
+
 ### Cyberbeveiligingswet
 
 Voor overheden is in de Cyberbeveiligingswet vastgelegd op welke wijze de zorgplicht voor informatiebeveiliging moet worden ingevuld. Hieronder volgt een samenvatting van de belangrijkste punten die betrekking hebben op het toepassen van de BIO:
