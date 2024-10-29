@@ -387,7 +387,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 > verwerkte opmerkingen:
 > CIO-rijk: Geheel nieuw tekstvoorstel gedaan
-> Aangescherpt onder meer op basis van [https://www.ncsc.nl/onderwerpen/multifactorauthenticatie](https://www.ncsc.nl/wat-kun-je-zelf-doen/weerbaarheid/beschermen/authenticatie). Maatregel aangepast als gevolg van NIS2 en nieuwe technische mogelijkheden.
+> Aangescherpt onder meer op basis van [[https://www.ncsc.nl/onderwerpen/multifactorauthenticatie](https://www.ncsc.nl/wat-kun-je-zelf-doen/weerbaarheid/beschermen/authenticatie)](https://www.ncsc.nl/wat-kun-je-zelf-doen/weerbaarheid/beschermen/authenticatie). Maatregel aangepast als gevolg van NIS2 en nieuwe technische mogelijkheden.
 
 ### 5.17.02 De organisatie biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan.
 
