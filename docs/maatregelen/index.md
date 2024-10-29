@@ -32,12 +32,12 @@ Informatiebeveiligingsbeleid en onderwerpspecifieke beleidsregels behoren te wor
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.01.01 Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie en de verantwoordelijkheden met betrekking tot de continuÔteit van de taakuitvoering van organisatie (BCM) zijn beschreven en vastgesteld. 
+### 5.01.01 Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) zijn beschreven en vastgesteld. 
  De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld. Dit beleid is vastgesteld door de leiding van de organisatie en bevat ten minste de volgende punten:
 
  1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid.
  2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden.
- 3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van operationele technologie, privacy en de verantwoordelijkheden met betrekking tot de continuÔteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
+ 3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van operationele technologie, privacy en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
  4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.
  5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geÎvalueerd.
  6. De bevordering van het beveiligingsbewustzijn.
@@ -184,7 +184,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 # Beheersmaatregel 5.08 Informatiebeveiliging in projectmanagement
 
-Informatiebeveiliging behoort te worden geÔntegreerd in projectmanagement.
+Informatiebeveiliging behoort te worden geïntegreerd in projectmanagement.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -216,7 +216,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 # Beheersmaatregel 5.10 Aanvaard gebruik van informatie en andere gerelateerde bedrijfsmiddelen
 
-Regels voor het aanvaardbaar gebruik van en procedures voor het omgaan met informatie en andere gerelateerde bedrijfsmiddelen behoren te worden geÔdentificeerd, gedocumenteerd en geÔmplementeerd.
+Regels voor het aanvaardbaar gebruik van en procedures voor het omgaan met informatie en andere gerelateerde bedrijfsmiddelen behoren te worden geïdentificeerd, gedocumenteerd en geïmplementeerd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -257,14 +257,14 @@ Informatie behoort te worden geclassificeerd volgens de informatiebeveiligingsbe
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 > verwerkte opmerkingen:
-> Rijk: Geen motivatie beschrijven in de maatregel (ZIE: ëzodat duidelijk is welke bescherming nodig isí). Hoort naar onze mening niet thuis in deze baseline.  CIO rijk: vastgestelde risicomanagement methodiek toevoegen
+> Rijk: Geen motivatie beschrijven in de maatregel (ZIE: "zodat duidelijk is welke bescherming nodig is"). Hoort naar onze mening niet thuis in deze baseline.  CIO rijk: vastgestelde risicomanagement methodiek toevoegen
 > Aangepast: nog wel een goede meetlat opnemen zodat alle BIO gebruikers op dezelfde manier meten. CIScontrols relateert vooral aan classificatie voor rubriceren/labelen. Belangrijk voor informatiedeling in ketens (ongeacht de verschijningsvorm). Maatregel aangepast als gevolg van NIS2
 
 
 
 # Beheersmaatregel 5.13 Labelen van informatie
 
-Om informatie te labelen, behoort een passende reeks procedures te worden ontwikkeld en geÔmplementeerd in overeenstemming met het informatieclassificatieschema dat is vastgesteld door de organisatie.
+Om informatie te labelen, behoort een passende reeks procedures te worden ontwikkeld en geïmplementeerd in overeenstemming met het informatieclassificatieschema dat is vastgesteld door de organisatie.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -309,7 +309,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > RO: laat deze eis vervallen
 > Aangescherpt als gevolg van NIS2.
 
-### 5.14.04 Van alle internetfacingsystemen, webapplicaties, IP-adressen en api's is een actuele registratie.
+### 5.14.04 Van alle internetfacingsystemen, webapplicaties, IP-adressen en API's is een actuele registratie.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -329,7 +329,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 5.15 Toegangsbeveiliging
 
-Er behoren regels op basis van bedrijfs- en informatiebeveiligingseisen te worden vastgesteld en geÔmplementeerd om de fysieke en logische toegang tot informatie en andere gerelateerde bedrijfsmiddelen te beheersen.
+Er behoren regels op basis van bedrijfs- en informatiebeveiligingseisen te worden vastgesteld en geïmplementeerd om de fysieke en logische toegang tot informatie en andere gerelateerde bedrijfsmiddelen te beheersen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -387,7 +387,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 > verwerkte opmerkingen:
 > CIO-rijk: Geheel nieuw tekstvoorstel gedaan
-> Aangescherpt onder meer op basis van https://www.ncsc.nl/onderwerpen/multifactorauthenticatie. Maatregel aangepast als gevolg van NIS2 en nieuwe technische mogelijkheden.
+> Aangescherpt onder meer op basis van [https://www.ncsc.nl/onderwerpen/multifactorauthenticatie](https://www.ncsc.nl/wat-kun-je-zelf-doen/weerbaarheid/beschermen/authenticatie). Maatregel aangepast als gevolg van NIS2 en nieuwe technische mogelijkheden.
 
 ### 5.17.02 De organisatie biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan.
 
@@ -441,7 +441,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 5.19 Informatiebeveiliging in leveranciersrelaties
 
-Er behoren processen en procedures te worden vastgesteld en geÔmplementeerd om de informatiebeveiligingsrisicoís in verband met het gebruik van producten of diensten van de leverancier te beheersen.
+Er behoren processen en procedures te worden vastgesteld en geïmplementeerd om de informatiebeveiligingsrisicoís in verband met het gebruik van producten of diensten van de leverancier te beheersen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -479,7 +479,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk tekstvoorstel overgenomen
 > 
 
-### 5.20.03 In inkoopcontracten wordt expliciet de mogelijkheid van een externe audit opgenomen waarmee de betrouwbaarheid van de geleverde dienst kan worden getoetst. Een audit is niet nodig als de contractant door middel van een ISO 27001 certificering of ISAE 3402 of richtlijn 3000 rapportage aantoont dat de gewenste betrouwbaarheid van de dienst is geborgd. In alle gevallen moet dan wel de scope en statement of applicability van deze certificering of rapportage passen bij de onderhavige levering of opdracht Èn moeten de hoge risico's die door de overheidsorganisatie zijn geÔdentificeerd zijn behandeld. 
+### 5.20.03 In inkoopcontracten wordt expliciet de mogelijkheid van een externe audit opgenomen waarmee de betrouwbaarheid van de geleverde dienst kan worden getoetst. Een audit is niet nodig als de contractant door middel van een ISO 27001 certificering of ISAE 3402 of richtlijn 3000 rapportage aantoont dat de gewenste betrouwbaarheid van de dienst is geborgd. In alle gevallen moet dan wel de scope en statement of applicability van deze certificering of rapportage passen bij de onderhavige levering of opdracht Èn moeten de hoge risico's die door de overheidsorganisatie zijn geïdentificeerd zijn behandeld. 
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -530,7 +530,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 # Beheersmaatregel 5.21 Beheren van informatiebeveiliging in de ICT-toeleveringsketen
 
-Er behoren processen en procedures te worden bepaald en geÔmplementeerd om de informatiebeveiligingsrisicoís in verband met de toeleveringsketen van ICT-producten en -diensten te beheersen.
+Er behoren processen en procedures te worden bepaald en geïmplementeerd om de informatiebeveiligingsrisicoís in verband met de toeleveringsketen van ICT-producten en -diensten te beheersen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -765,13 +765,13 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 
 
-# Beheersmaatregel 5.30 ICT-gereedheid voor bedrijfscontinuÔteit
+# Beheersmaatregel 5.30 ICT-gereedheid voor bedrijfscontinuïteit
 
-De ICT-gereedheid behoort te worden gepland, geÔmplementeerd, onderhouden en getest op basis van bedrijfscontinuÔteitsdoelstellingen en ICT-continuÔteitseisen.
+De ICT-gereedheid behoort te worden gepland, geïmplementeerd, onderhouden en getest op basis van bedrijfscontinuïteitsdoelstellingen en ICT-continuïteitseisen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.30.01 De proceseigenaar test jaarlijks de continuÔteitsplannen op werking, volledigheid en actualiteit. De resultaten worden gebruikt om de plannen te verbeteren.
+### 5.30.01 De proceseigenaar test jaarlijks de continuïteitsplannen op werking, volledigheid en actualiteit. De resultaten worden gebruikt om de plannen te verbeteren.
 
 Draagt bij aan: 
 
@@ -791,7 +791,7 @@ Draagt bij aan:
 
 # Beheersmaatregel 5.31 Wettelijke, statutaire, regelgevende en contractuele eisen
 
-Wettelijke, statutaire, regelgevende en contractuele eisen die relevant zijn voor informatiebeveiliging en de aanpak van de organisatie om aan deze eisen te voldoen, behoren te worden geÔdentificeerd, gedocumenteerd en actueel gehouden.
+Wettelijke, statutaire, regelgevende en contractuele eisen die relevant zijn voor informatiebeveiliging en de aanpak van de organisatie om aan deze eisen te voldoen, behoren te worden geïdentificeerd, gedocumenteerd en actueel gehouden.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1004,7 +1004,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 6.06 Vertrouwelijkheids- of geheimhoudingsovereenkomsten
 
-Vertrouwelijkheids- of geheimhoudingsovereenkomsten die de behoeften van de organisatie inzake de bescherming van informatie weerspiegelen, behoren te worden geÔdentificeerd, gedocumenteerd, regelmatig te worden beoordeeld en ondertekend door personeel en andere relevante belanghebbenden.
+Vertrouwelijkheids- of geheimhoudingsovereenkomsten die de behoeften van de organisatie inzake de bescherming van informatie weerspiegelen, behoren te worden geïdentificeerd, gedocumenteerd, regelmatig te worden beoordeeld en ondertekend door personeel en andere relevante belanghebbenden.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1020,7 +1020,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 6.07 Werken op afstand
 
-Wanneer personeel op afstand werkt, behoren er beveiligingsmaatregelen te worden geÔmplementeerd om informatie te beschermen die buiten het gebouw en/of terrein van de organisatie wordt ingezien, verwerkt of opgeslagen.
+Wanneer personeel op afstand werkt, behoren er beveiligingsmaatregelen te worden geïmplementeerd om informatie te beschermen die buiten het gebouw en/of terrein van de organisatie wordt ingezien, verwerkt of opgeslagen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1091,7 +1091,7 @@ Draagt bij aan: Ketenhygiëne
 
 # Beheersmaatregel 7.03 Beveiligen van kantoren, ruimten en faciliteiten
 
-Voor kantoren, ruimten en faciliteiten behoort fysieke beveiliging te worden ontworpen en geÔmplementeerd.
+Voor kantoren, ruimten en faciliteiten behoort fysieke beveiliging te worden ontworpen en geïmplementeerd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1122,7 +1122,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 7.05 Beschermen tegen fysieke en omgevingsdreigingen
 
-Er behoort bescherming tegen fysieke en omgevingsdreigingen, zoals natuurrampen en andere opzettelijke of onopzettelijke fysieke dreigingen voor de infrastructuur, te worden ontworpen en geÔmplementeerd.
+Er behoort bescherming tegen fysieke en omgevingsdreigingen, zoals natuurrampen en andere opzettelijke of onopzettelijke fysieke dreigingen voor de infrastructuur, te worden ontworpen en geïmplementeerd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1138,7 +1138,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 7.06 Werken in beveiligde zones
 
-Voor het werken in beveiligde zones behoren beveiligingsmaatregelen te worden ontwikkeld en geÔmplementeerd.
+Voor het werken in beveiligde zones behoren beveiligingsmaatregelen te worden ontwikkeld en geïmplementeerd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1151,9 +1151,9 @@ Draagt bij aan: Basishygiëne, NIS2
 > Oorspronkelijk geen maatregel, maar ISO volgen is beter
 
 
-# Beheersmaatregel 7.07 ëClear deskí en ëclear screení
+# Beheersmaatregel 7.07 Clear desk en clear screen
 
-Er behoren ëclear deskí-regels voor papieren documenten en verwijderbare opslagmedia en ëclear screení-regels voor informatieverwerkende faciliteiten te worden gedefinieerd en op passende wijze te worden afgedwongen.
+Er behoren clear desk-regels voor papieren documenten en verwijderbare opslagmedia en clear screen-regels voor informatieverwerkende faciliteiten te worden gedefinieerd en op passende wijze te worden afgedwongen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1302,13 +1302,13 @@ Draagt bij aan: Basishygiëne, NIS2
 > Oorspronkelijk maatregel met verwijzingen, maar wel de ISO volgen
 
 
-# Beheersmaatregel 8.01 ëUser endpoint devicesí
+# Beheersmaatregel 8.01 User endpoint devices
 
-Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via ëuser endpoint devicesí behoort te worden beschermd.
+Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user endpoint devices behoort te worden beschermd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (ëzero footprintí). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op het mobiele apparatuur moet ëwissen op afstandí mogelijk zijn.
+### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (ëzero footprintí). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op het mobiele apparatuur moet wissen op afstand mogelijk zijn.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1316,7 +1316,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > CIO rijk 94: zero footprint was vroeger, voorstel voor nieuwe maatregel gedaan
 > 
 
-### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geÔmplementeerd
+### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd
 1. In bewustwordingsprogrammaís komen gedragsaspecten van veilig mobiel werken aan de orde. 
 2. Het apparaat maakt deel uit van patchmanagement en hardening.
 3. Er wordt gebruik gemaakt van Mobile Device Management (MDM) of van Mobile Application Management (MAM)-oplossingen. 
@@ -1329,6 +1329,13 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 > ongewijzigd
 
+### 8.01.03 Applicaties/apps uit landen met een offensief cyberprogramma worden beoordeeld op risico's voor de bedrijfsvoering en als die er zijn, worden deze apps als onwenselijk op een blacklist gezet en die blacklist moet automatisch worden afgedwongen.
+
+Draagt bij aan: Basishygiëne, NIS2
+
+> verwerkte opmerkingen:
+> 
+> ongewijzigd
 
 # Beheersmaatregel 8.02 Speciale toegangsrechten
 
@@ -1387,7 +1394,7 @@ Draagt bij aan:
 
 # Beheersmaatregel 8.05 Beveiligde authenticatie
 
-Er behoren beveiligde authenticatietechnologieÎn en -procedures te worden geÔmplementeerd op basis van beperkingen van de toegang tot informatie en het onderwerpspecifieke beleid inzake toegangsbeveiliging.
+Er behoren beveiligde authenticatietechnologieÎn en -procedures te worden geïmplementeerd op basis van beperkingen van de toegang tot informatie en het onderwerpspecifieke beleid inzake toegangsbeveiliging.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1419,7 +1426,7 @@ Draagt bij aan:
 
 # Beheersmaatregel 8.07 Bescherming tegen malware
 
-Bescherming tegen malware behoort te worden geÔmplementeerd en ondersteund door een passend gebruikersbewustzijn.
+Bescherming tegen malware behoort te worden geïmplementeerd en ondersteund door een passend gebruikersbewustzijn.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1519,7 +1526,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 8.09 Configuratiebeheer
 
-Configuraties, met inbegrip van beveiligingsconfiguraties, van hardware, software, diensten en netwerken behoren te worden vastgesteld, gedocumenteerd, geÔmplementeerd, gemonitord en beoordeeld.
+Configuraties, met inbegrip van beveiligingsconfiguraties, van hardware, software, diensten en netwerken behoren te worden vastgesteld, gedocumenteerd, geïmplementeerd, gemonitord en beoordeeld.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1623,7 +1630,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 # Beheersmaatregel 8.14 Redundantie van informatieverwerkende faciliteiten
 
-Informatieverwerkende faciliteiten behoren met voldoende redundantie te worden geÔmplementeerd om aan beschikbaarheidseisen te voldoen.
+Informatieverwerkende faciliteiten behoren met voldoende redundantie te worden geïmplementeerd om aan beschikbaarheidseisen te voldoen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1782,7 +1789,7 @@ Draagt bij aan:
 
 # Beheersmaatregel 8.19 Installeren van software op operationele systemen
 
-Er behoren procedures en maatregelen te worden geÔmplementeerd om het installeren van software op operationele systemen op beveiligde wijze te beheren.
+Er behoren procedures en maatregelen te worden geïmplementeerd om het installeren van software op operationele systemen op beveiligde wijze te beheren.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1822,11 +1829,11 @@ Draagt bij aan:
 
 # Beheersmaatregel 8.21 Beveiliging van netwerkdiensten
 
-Beveiligingsmechanismen, dienstverleningsniveaus en dienstverleningseisen voor alle netwerkdiensten behoren te worden geÔdentificeerd, geÔmplementeerd en gemonitord.
+Beveiligingsmechanismen, dienstverleningsniveaus en dienstverleningseisen voor alle netwerkdiensten behoren te worden geïdentificeerd, geïmplementeerd en gemonitord.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.21.01 In koppelpunten met externe of onvertrouwde zones en in het kader van netwerksegmentatie zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beÔnvloeden (bijvoorbeeld DDoS-aanvallen, Distributed Denial of Service attacks) te signaleren en te mitigeren.
+### 8.21.01 In koppelpunten met externe of onvertrouwde zones en in het kader van netwerksegmentatie zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beïnvloeden (bijvoorbeeld DDoS-aanvallen, Distributed Denial of Service attacks) te signaleren en te mitigeren.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1891,7 +1898,7 @@ Draagt bij aan:
 
 # Beheersmaatregel 8.24 Gebruik van cryptografie
 
-Regels voor het doeltreffende gebruik van cryptografie, met inbegrip van het beheer van cryptografische sleutels, behoren te worden gedefinieerd en geÔmplementeerd.
+Regels voor het doeltreffende gebruik van cryptografie, met inbegrip van het beheer van cryptografische sleutels, behoren te worden gedefinieerd en geïmplementeerd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1963,7 +1970,7 @@ Draagt bij aan: Basishygiëne, NIS2
 
 # Beheersmaatregel 8.26 Toepassingsbeveiligingseisen
 
-Er behoren eisen aan de informatiebeveiliging te worden geÔdentificeerd, gespecificeerd en goedgekeurd bij het ontwikkelen of aanschaffen van toepassingen.
+Er behoren eisen aan de informatiebeveiliging te worden geïdentificeerd, gespecificeerd en goedgekeurd bij het ontwikkelen of aanschaffen van toepassingen.
 
 ## Verplichte overheidsspecifieke maatregelen
 
@@ -1983,7 +1990,7 @@ Uitgangspunten voor het ontwerpen van beveiligde systemen behoren te worden vast
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.27.01 Best Practices rondom ësecurity by designí en 'security by default' zijn uitgangspunt voor de ontwikkeling van software en systemen.
+### 8.27.01 Best Practices rondom 'security by design' en 'security by default' zijn uitgangspunt voor de ontwikkeling van software en systemen.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -2010,7 +2017,7 @@ Draagt bij aan:
 
 # Beheersmaatregel 8.29 Testen van de beveiliging tijdens ontwikkeling en acceptatie
 
-Processen voor het testen van de beveiliging behoren te worden gedefinieerd en geÔmplementeerd in de ontwikkelcyclus.
+Processen voor het testen van de beveiliging behoren te worden gedefinieerd en geïmplementeerd in de ontwikkelcyclus.
 
 ## Verplichte overheidsspecifieke maatregelen
 
