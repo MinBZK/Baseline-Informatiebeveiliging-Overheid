@@ -52,8 +52,6 @@ De BIO stelt de volgende verplichtingen aan overheidsorganisaties:
 
 *   Er bestaan beheersmaatregelen zonder overheidsmaatregelen: Als een dergelijke beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de NEN-EN-ISO/IEC 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
 
-
-
 ## Het managementsysteem voor informatiebeveiliging
 
 Het managementsysteem voor informatiebeveiliging (Information Security Management Systeem, ook wel ISMS) is een werkwijze om informatiebeveiliging op een gestructureerde manier toe te passen in de organisatie. Zo wordt de organisatie, en een bestuurder in het bijzonder, in staat gesteld om de juiste afwegingen te maken. 
