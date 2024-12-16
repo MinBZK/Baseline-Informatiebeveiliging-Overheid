@@ -1329,14 +1329,6 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 > ongewijzigd
 
-### 8.01.03 Applicaties/apps uit landen met een offensief cyberprogramma worden beoordeeld op risico's voor de bedrijfsvoering en als die er zijn, worden deze apps als onwenselijk op een blacklist gezet en die blacklist moet automatisch worden afgedwongen.
-
-Draagt bij aan: Basishygiëne, NIS2
-
-> verwerkte opmerkingen:
-> 
-> ongewijzigd
-
 # Beheersmaatregel 8.02 Speciale toegangsrechten
 
 Het toewijzen en het gebruik van speciale toegangsrechten behoren te worden beperkt en beheerd.
