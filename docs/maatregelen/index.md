@@ -1308,7 +1308,7 @@ Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (ëzero footprintí). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op het mobiele apparatuur moet wissen op afstand mogelijk zijn.
+### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (ëzero footprintí). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op mobiele apparatuur moet wissen op afstand mogelijk zijn.
 
 Draagt bij aan: Basishygiëne, NIS2
 
