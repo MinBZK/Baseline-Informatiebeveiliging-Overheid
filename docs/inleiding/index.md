@@ -51,7 +51,7 @@ De BIO stelt de volgende verplichtingen aan overheidsorganisaties:
 
 - **NEN-EN-ISO/IEC 27001 moet worden toegepast op het formuleren** van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.
 
-    * Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging..
+    * Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.
 
 - **NEN-EN-ISO 27002 én de verplichte overheidsspecifieke maatregelen en richtlijnen uit de BIO moet worden toegepast op het formuleren van beheersmaatregelen**, hierbij rekening houdend met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden. De maatregelen uit de NEN-ISO/IEC 27002 en BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technology (OT) de **CSIR** en IEC 62443.
 
@@ -181,7 +181,7 @@ Daarmee vallen de twee onderdelen samen: risicomanagement en maatregelen die spe
 
 ## Governance
 
-De bestuurder van een overheidsorganisatie is verantwoordelijk voor het beheersen van informatiebeveiligingsrisico's.. De bestuurder kan dat niet alleen. Om informatiebeveiliging gedegen in te regelen is een structuur nodig. Het is aan de organisatie om deze structuur aan te brengen volgens de NEN-EN-ISO/IEC 27001.
+De bestuurder van een overheidsorganisatie is verantwoordelijk voor het beheersen van informatiebeveiligingsrisico's. De bestuurder kan dat niet alleen. Om informatiebeveiliging gedegen in te regelen is een structuur nodig. Het is aan de organisatie om deze structuur aan te brengen volgens de NEN-EN-ISO/IEC 27001.
 
 Voor overheden zijn er een aantal rollen die standaard deel uitmaken van informatiebeveiliging van een overheidsorganisatie. Deze rollen komen ook terug in de uitwerking van de BIO-overheidsmaatregelen.
 
