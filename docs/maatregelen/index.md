@@ -88,7 +88,7 @@ Conflicterende taken en conflicterende verantwoordelijkheden behoren te worden g
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.03.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.03.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -155,7 +155,7 @@ De organisatie behoort contacten met speciale belangengroepen of andere gespecia
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.06.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -171,7 +171,7 @@ Informatie met betrekking tot informatiebeveiligingsdreigingen behoort te worden
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.07.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.07.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -220,7 +220,7 @@ Regels voor het aanvaardbaar gebruik van en procedures voor het omgaan met infor
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.10.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.10.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -236,7 +236,7 @@ Personeel en andere belanghebbenden, al naargelang de situatie, behoren alle bed
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.11.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -268,7 +268,7 @@ Om informatie te labelen, behoort een passende reeks procedures te worden ontwik
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.13.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.13.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Ketenhygiëne
 
@@ -413,7 +413,7 @@ Toegangsrechten voor informatie en andere gerelateerde bedrijfsmiddelen behoren 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.18.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.18.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -699,7 +699,7 @@ Op informatiebeveiligingsincidenten behoort te worden gereageerd in overeenstemm
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.26.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.26.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -755,7 +755,7 @@ De organisatie behoort plannen te maken voor het op het passende niveau waarborg
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.29.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.29.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -795,7 +795,7 @@ Wettelijke, statutaire, regelgevende en contractuele eisen die relevant zijn voo
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.31.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.31.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -810,7 +810,7 @@ De organisatie behoort passende procedures te implementeren om intellectuele-eig
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.32.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.32.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -842,7 +842,7 @@ De organisatie behoort de eisen met betrekking tot het behoud van privacy en de 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.34.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 5.34.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -898,7 +898,7 @@ Bedieningsprocedures voor informatieverwerkende faciliteiten behoren te worden g
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.35.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.35.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -976,7 +976,7 @@ Er behoort een formele en gecommuniceerde disciplinaire procedure te zijn om act
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 6.04.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 6.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -992,7 +992,7 @@ Verantwoordelijkheden en taken met betrekking tot informatiebeveiliging die van 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 6.05.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 6.05.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1008,7 +1008,7 @@ Vertrouwelijkheids- of geheimhoudingsovereenkomsten die de behoeften van de orga
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 6.06.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 6.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1024,7 +1024,7 @@ Wanneer personeel op afstand werkt, behoren er beveiligingsmaatregelen te worden
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 6.07.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 6.07.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1095,7 +1095,7 @@ Voor kantoren, ruimten en faciliteiten behoort fysieke beveiliging te worden ont
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.03.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.03.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1110,7 +1110,7 @@ Het gebouw en terrein behoort voortdurend te worden gemonitord op onbevoegde fys
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.04.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1126,7 +1126,7 @@ Er behoort bescherming tegen fysieke en omgevingsdreigingen, zoals natuurrampen 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.05.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.05.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1142,7 +1142,7 @@ Voor het werken in beveiligde zones behoren beveiligingsmaatregelen te worden on
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.06.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1165,7 +1165,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > CIO rijk 98: voorstel voor aanpassen tekst beheersmaatregel > moet naar de NEN
 > verplaatst
 
-### 7.07.02 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.07.02 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1181,7 +1181,7 @@ Apparatuur behoort veilig te worden geplaatst en beschermd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.08.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.08.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1197,7 +1197,7 @@ Bedrijfsmiddelen buiten het gebouw en/of terrein behoren te worden beschermd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.09.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.09.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1245,7 +1245,7 @@ Informatieverwerkende faciliteiten behoren te worden beschermd tegen stroomuitva
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.11.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1261,7 +1261,7 @@ Voedingskabels en kabels voor het versturen van gegevens of die informatiedienst
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.12.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.12.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1277,7 +1277,7 @@ Apparatuur behoort op de juiste wijze te worden onderhouden om de beschikbaarhei
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.13.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.13.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1293,7 +1293,7 @@ Onderdelen van de apparatuur die opslagmedia bevatten, behoren te worden gecontr
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.14.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 7.14.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1374,7 +1374,7 @@ Lees- en schrijftoegang tot broncode, ontwikkelinstrumenten en softwarebibliothe
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.04.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1406,7 +1406,7 @@ Het gebruik van middelen behoort te worden gemonitord en aangepast overeenkomsti
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.06.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1522,7 +1522,7 @@ Configuraties, met inbegrip van beveiligingsconfiguraties, van hardware, softwar
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.09.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.09.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1538,7 +1538,7 @@ In informatiesystemen, apparaten of andere opslagmedia opgeslagen informatie beh
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.10.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.10.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1554,7 +1554,7 @@ Gegevens behoren te worden gemaskeerd overeenkomstig het onderwerpspecifieke bel
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.11.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1570,7 +1570,7 @@ Maatregelen om gegevenslekken te voorkomen, behoren te worden toegepast in syste
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.12.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.12.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1626,7 +1626,7 @@ Informatieverwerkende faciliteiten behoren met voldoende redundantie te worden g
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.14.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.14.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1744,7 +1744,7 @@ De klokken van informatieverwerkende systemen die door de organisatie worden geb
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.17.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.17.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1879,7 +1879,7 @@ De toegang tot externe websites behoort te worden beheerd om de blootstelling aa
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.23.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.23.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -1898,7 +1898,7 @@ Regels voor het doeltreffende gebruik van cryptografie, met inbegrip van het beh
 1. Wanneer cryptografie ingezet wordt. 
 2. Wie verantwoordelijk is voor de implementatie.
 3. Wie verantwoordelijk is voor het sleutelbeheer. 
-4. Hoe geregistreerd wordt waar welke cryptografie toegpast wordt.
+4. Hoe geregistreerd wordt waar welke cryptografie toegepast wordt.
 5. Welke normen als basis dienen voor cryptografie en de wijze waarop de normen van het Forum Standaardisatie worden toegepast. 
 6. De wijze waarop het beschermingsniveau vastgesteld wordt. 
 7. Bij communicatie tussen organisaties wordt het beleid onderling vastgesteld.
@@ -1909,7 +1909,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk 74: aanvulling over registratie
 > 
 
-### 8.24.02 Cryptografische beheersmaatregelen zijn opgenomen in de invenataris van de bedrijfsmiddelen. Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie er voor verantwoordelijk is en hoe ze actueel worden gehouden.
+### 8.24.02 Cryptografische beheersmaatregelen zijn opgenomen in de inventaris van de bedrijfsmiddelen. Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie er voor verantwoordelijk is en hoe ze actueel worden gehouden.
 
 Draagt bij aan: 
 
@@ -1933,7 +1933,7 @@ Draagt bij aan:
 > #62 "waar mogelijk" weghalen
 > 
 
-### 8.24.05 Er zijn (contractuele) afspraken over reservecertificaten van een alternatieve leverancier als uit risicoafweging blijkt dat deze noodzakelijk zijn als onderdeel van gereedheid voor bedrijfscontinuiteit (beheersmaatregel 5.30).
+### 8.24.05 Er zijn (contractuele) afspraken over reservecertificaten van een alternatieve leverancier als uit risicoafweging blijkt dat deze noodzakelijk zijn als onderdeel van gereedheid voor bedrijfscontinuïteit (beheersmaatregel 5.30).
 
 Draagt bij aan: 
 
@@ -1941,15 +1941,13 @@ Draagt bij aan:
 > CIO rijk 75 tekstueel aangepast 
 > verplaatst
 
-
-
 # Beheersmaatregel 8.25 Beveiligen tijdens de ontwikkelcyclus
 
 Voor het veilig ontwikkelen van software en systemen behoren regels te worden vastgesteld en toegepast.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.25.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.25.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1966,7 +1964,7 @@ Er behoren eisen aan de informatiebeveiliging te worden geïdentificeerd, gespec
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.26.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.26.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1998,7 +1996,7 @@ Er behoren principes voor veilig coderen te worden toegepast op softwareontwikke
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.28.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.28.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -2096,7 +2094,7 @@ Testgegevens behoren op passende wijze te worden geselecteerd, beschermd en behe
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.33.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.33.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
@@ -2112,7 +2110,7 @@ Audittests en andere auditactiviteiten waarbij operationele systemen worden beoo
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.34.01 Als de beheersmaatregel van toepassing is dan moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit de ISO 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid.
+### 8.34.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: 
 
