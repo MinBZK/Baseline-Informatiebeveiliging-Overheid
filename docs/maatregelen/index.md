@@ -898,7 +898,7 @@ Bedieningsprocedures voor informatieverwerkende faciliteiten behoren te worden g
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.35.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
+### 5.37.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, NIS2
 
