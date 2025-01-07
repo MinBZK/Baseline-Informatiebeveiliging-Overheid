@@ -10,7 +10,7 @@ hide:
 !!! warning "BIO2 in ontwikkeling" 
 	Dit document bevat een voorlopige versie van de Baseline Informatiebeveiliging Overheid 2 (BIO2). Het document is het resultaat van de online raadpleging op Github en de werkgroep BIO. De teksten zijn gebaseerd op feedback van verschillende betrokken partijen en zijn nog in ontwikkeling. De onderstaande concepttekst zal onderdeel worden van BIO2. De BIO2 bestaat uit drie delen: 1) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen, en 3) een bijlage met daarin de toelichting over best practices.
 
-De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers bedrijven. Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie.
+De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers bedrijven. Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie c.q. gegevens.
 
 Om deel te kunnen nemen aan de samenleving moeten burgers en bedrijven informatie met de overheid delen, soms zelfs verplicht, en zijn zij afhankelijk van de overheid om informatie te ontvangen. De overheid heeft vanuit deze unieke rol de plicht om zorgvuldig om te gaan met de beveiliging van die gegevens. 
 
@@ -19,16 +19,16 @@ De Cyberbeveiligingswet verplicht overheidsorganisatie de BIO2 voor de sector 'O
 ## Leeswijzer
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen. 
 1) Deel 1: Kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO.
-2) Deel 2: BIO-overheidsmaatregelen - verplichte normen en richtlijnen, gebaseerd op internationale standaarden zoals NEN-EN-ISO/IEC 27001, aangevuld met specifieke overheidseisen.
+2) Deel 2: BIO-overheidsmaatregelen - verplichte normen en richtlijnen, gebaseerd op internationale standaard NEN-EN-ISO/IEC 27001, aangevuld met specifieke overheidseisen.
 3) Deel 3: Bijlage toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om de BIO-maatregelen effectief te implementeren. Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. 
 
-Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt, daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoelt. 
+Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt, daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld. 
 
 ## Structuur en toepasselijkheid van de BIO
 
 De Baseline Informatiebeveiliging Overheid (BIO) is het verplichte normenkader voor informatiebeveiliging binnen alle overheidsorganisaties. Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens. 
 
-Het doel van de BIO is om de informatieveiligheid overheidsbreed op een gemeenschappelijk basisniveau te brengen en daardoor ook de ketenpartners een basis voor vertrouwen te geven bij gegevensuitwisseling. De aanpak conform de BIO vraagt inspanning door ketenorganisaties en eenduidige samenwerking.
+Het doel van de BIO is om de informatieveiligheid overheidsbreed op een gemeenschappelijk basisniveau te brengen en daardoor ook de ketenpartners een basis van vertrouwen te geven bij gegevensuitwisseling. De aanpak conform de BIO vraagt inspanning door ketenorganisaties en eenduidige samenwerking.
 
 Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als extern transparant te zijn over de wijze waarop informatiebeveiliging is ingericht. Met de BIO hanteert de overheid één gezamenlijke taal en een gezamenlijk doel op het gebied van informatiebeveiliging.
 
@@ -51,9 +51,9 @@ De BIO stelt de volgende verplichtingen aan overheidsorganisaties:
 
 - **NEN-EN-ISO/IEC 27001 moet worden toegepast op het formuleren** van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.
 
-    * Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.
+	* Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.
 
-- **NEN-EN-ISO 27002 én de verplichte overheidsspecifieke maatregelen en richtlijnen uit de BIO moet worden toegepast op het formuleren van beheersmaatregelen**, hierbij rekening houdend met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden. De maatregelen uit de NEN-ISO/IEC 27002 en BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technology (OT) de **CSIR** en IEC 62443.
+- **NEN-EN-ISO 27002 én de verplichte overheidsspecifieke maatregelen en richtlijnen uit de BIO moet worden toegepast op het formuleren van beheersmaatregelen**, hierbij rekeninghoudend met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden. De maatregelen uit de NEN-ISO/IEC 27002 en BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technology (OT) de **CSIR** en IEC 62443.
 
 - **Organisaties kunnen opzet, bestaan en werking van de maatregelen aantonen.** Deze vereiste volgt ook uit de CBW/NIS2. De BIO omvat maatregelen op tactisch niveau. Dit betekent dat de maatregelen eerst geoperationaliseerd moeten worden voordat ze geïmplementeerd kunnen worden. Deze implementatie is risicogericht en voldoet aan best practices en marktstandaarden. Onderdeel van de operationalisatie is ook het kunnen detecteren of de maatregel al dan niet goed functioneert. Over het hele ontwerp wordt geborgd dat uitval van één maatregel niet leidt tot een directe kwetsbaarheid in het hele systeem.
 
