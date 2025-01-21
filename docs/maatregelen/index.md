@@ -519,15 +519,6 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk heeft tekst aangeleverd
 > NIEUW  
 
-### 5.20.08 Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is. Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie. 
-
-Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
-
-> verwerkte opmerkingen:
-> CIO rijk heeft tekst aangeleverd
-> NIEUW  
-
-
 # Beheersmaatregel 5.21 Beheren van informatiebeveiliging in de ICT-toeleveringsketen
 
 Er behoren processen en procedures te worden bepaald en geïmplementeerd om de informatiebeveiligingsrisicoís in verband met de toeleveringsketen van ICT-producten en -diensten te beheersen.
