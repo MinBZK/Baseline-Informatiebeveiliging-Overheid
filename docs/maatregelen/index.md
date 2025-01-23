@@ -674,15 +674,14 @@ De organisatie behoort informatiebeveiligingsgebeurtenissen te beoordelen en te 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.25.01 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. Ze worden indien relevant gemeld bij toezichthouders conform de bepalingen uit de betrokken wet- en regelgeving zoals de CBW en de AVG.
+### 5.25.01 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. Ze worden indien relevant gemeld bij toezichthouders conform de bepalingen uit de betrokken wet- en regelgeving zoals de CBW, de Archiefwet en de AVG.
 
 Draagt bij aan: Basishygiëne, NIS2, overheidsrisico
 
 > verwerkte opmerkingen:
 > Mogelijk vervallen of aangepast als CBW en/of AMvB definitief is. CIO rijk 124 tekstvoorstel gedaan
 > Aangescherpt als gevolg van NIS2
-
-
+> Tekstuele aanvulling als gevolg van opmerkingen van het Ministerie van OCW
 
 # Beheersmaatregel 5.26 Reageren op informatiebeveiligingsincidenten
 
