@@ -7,7 +7,7 @@ hide:
 
 # Verplichte overheidsspecifieke maatregelen en richtlijnen
 
-!!! warning "BIO2 in ontwikkeling" 
+!!! warning "BIO2 in conceptversie" 
     Dit is de door de werkgroep-BIO en het kern-IBO goedgekeurde versie van de BIO2. De teksten zijn representatief voor de definitieve versie, de definitieve versie kan nog veranderen als gevolg van opmaak en redactie. Deze versie zal worden ingebracht in het Overheidsbrede overleg OBDO. 
 
 !!! info 
@@ -39,7 +39,7 @@ Informatiebeveiligingsbeleid en onderwerpspecifieke beleidsregels behoren te wor
  2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden.
  3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van operationele technologie, privacy en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
  4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.
- 5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geÎvalueerd.
+ 5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.
  6. De bevordering van het beveiligingsbewustzijn.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
@@ -65,7 +65,7 @@ Rollen en verantwoordelijkheden bij informatiebeveiliging behoren te worden gede
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.02.01 De leiding van de organisatie heeft vastgelegd wat de verantwoordelijkheden en rollen zijn op het gebied van informatiebeveiliging (ook voor OT, BCM en privacy) binnen haar organisatie, met specifieke aandacht voor de verantwoordelijkheden en rollen voor het adequaat afhandelen van incidenten. Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico's die op die bedrijfsmiddelen van toepassing zijn.  
+### 5.02.01 De leiding van de organisatie heeft vastgelegd wat de verantwoordelijkheden en rollen zijn op het gebied van informatiebeveiliging (ook voor OT, bedrijfscontinuïteit (BCM) en privacy) binnen haar organisatie, met specifieke aandacht voor de verantwoordelijkheden en rollen voor het adequaat afhandelen van incidenten. Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico's die op die bedrijfsmiddelen van toepassing zijn. 
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -106,7 +106,7 @@ Het management behoort van al het personeel te eisen dat ze informatiebeveiligin
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 5.04.01 Bestuur en werknemers moeten regelmatig, scholing volgen om cyberbeveiligingsrisico's te herkennen en te voorkomen dan wel te weten wat men moet doen als er een cyberincident is. 
-Daarbij dienen bestuurders te kunnen aantonen dat zij voldoende kennis en vaardigheden hebben om de gevolgen van cyberbeveiligingsrisico's te beoordelen op de diensten en/of producten die de organisatie levert.
+### Daarbij dienen bestuurders te kunnen aantonen dat zij voldoende kennis en vaardigheden hebben om de gevolgen van cyberbeveiligingsrisico's te beoordelen op de diensten en/of producten die de organisatie levert.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -188,7 +188,7 @@ Informatiebeveiliging behoort te worden geïntegreerd in projectmanagement.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.08.01 Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen moet een expliciete risicoafweging op basis van de door de organisatie vastgestelde risicomanagementmethodiek worden uitgevoerd om risicoís te identificeren en in voldoende mate te beheersen en ook voor het vaststellen van de beveiligingseisen.
+### 5.08.01 Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen moet een expliciete risicoafweging op basis van de door de organisatie vastgestelde risicomanagementmethodiek worden uitgevoerd om risico’s te identificeren en in voldoende mate te beheersen en ook voor het vaststellen van de beveiligingseisen.
 
 Draagt bij aan: Ketenhygiëne
 
@@ -292,7 +292,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > #56 pas de maatregel aan zodat er ruimte komt om af te wijken als een website dat vereist. RO CIO 52 : herschrijf naar wat anders 
 > Aangepast: In plaats van veel verwijzingen naar het Forum, nu nog 1 maatregel dat de standaarden van het Forum gehanteert (door alles in 1 keer te testen op internet.nl). Moeten worden beschreven in de inleiding van de BIO. Maatregel aangepast als gevolg van NIS2
 
-### 5.14.02 Bij publiek toegankelijke websites wordt gebruik gemaakt van ten minste publiek vertrouwde Organization Validated-certificaten, tenzij uit een risicoanalyse blijkt dat een hogere eis nodig is of met een lagere eis kan worden volstaan.
+### 5.14.02 Maak bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated-certificaten. Maak bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV-certificaten of private PKIo-certificaten. Hogere eisen aan certificaten kunnen voortvloeien uit een risicoanalyse, aansluitvoorwaarden of wetgeving.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -357,7 +357,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 > ongewijzigd
 
-### 5.16.02 Het gebruiken van groepsaccounts is niet toegestaan, tenzij dit wordt gemotiveerd en vastgelegd door de proceseigenaar en afgestemd met de CISO
+### 5.16.02 Het gebruiken van groepsaccounts is niet toegestaan, tenzij dit wordt gemotiveerd en vastgelegd door de proceseigenaar en afgestemd met de CISO.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -374,14 +374,15 @@ De toewijzing en het beheer van authenticatie-informatie behoort te worden behee
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 5.17.01 Pas multi-factor authenticatie (MFA) toe ten minste voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
-1.	Pas MFA toe in deze twee vormen:
-i.	Wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey).
-ii.	Wachtwoord toegang in combinatie met minimaal een tweede factor. 
-2.	Indien MFA niet mogelijk is voor deze accounts, neem dan andere mitigerende maatregelen. Betrek de CISO hierbij en laat dit goedkeuren door de proceseigenaar.
-3.	Combineer waar mogelijk en veilig, MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone oplossing
+1. Pas MFA toe in deze twee vormen:
+i. Wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey).
+ii. Wachtwoord toegang in combinatie met minimaal een tweede factor. 
+2. Indien MFA niet mogelijk is voor deze accounts, neem dan andere mitigerende maatregelen. Betrek de CISO hierbij en laat dit goedkeuren door de proceseigenaar.
+3. Combineer waar mogelijk en veilig, MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone oplossing
 Beheer en monitoring van authenticatiegegevens:
-1.	Geef authenticatie-informatie uit volgens formele en vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld.
-2.	Definieer Use Cases voor misbruik van authenticatiegegevens, monitor deze en neem passende actie bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen. 
+1. Geef authenticatie-informatie uit volgens formele en vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld.
+2. Definieer Use Cases voor misbruik van authenticatiegegevens, monitor deze en neem passende actie bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen. 
+
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -421,7 +422,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > RDI heeft tekstvoorstel gedaan voor alle beheersmaatregelen zonder overheidsmaatregelen. Omwille van leesbaarheid tekst laten staan. Latere opmaak is anders.
 > Oorspronkelijk was dit een maatregel, maar nu een expliciete verwijzing naar de implementatieaanwijzing uit de ISO 27002. Maatregel aangepast als gevolg van NIS2
 
-### 5.18.02 Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien die wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt als zodanig vastgelegd en afgehandeld. 
+### 5.18.02 Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien die wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt dit als zodanig vastgelegd en afgehandeld. 
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -445,8 +446,9 @@ Er behoren processen en procedures te worden vastgesteld en geïmplementeerd om 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.19.01 Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn eisen ten aanzien van informatiebeveiliging (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen. De eisen voor informatiebeveiliging zijn gebaseerd op een expliciete risicoafweging.
-Bij inkoopsegmenten die op cyberproducten of -diensten betrekking hebben, wordt als uitgangspunt voor de risicoanalyse de maatregelset Inkoopeisen Cybersecurity Overheid gehanteerd.
+### Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn eisen ten aanzien van informatiebeveiliging (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen. De eisen voor informatiebeveiliging zijn gebaseerd op een expliciete risicoafweging.
+### Bij inkoopsegmenten die op cyberproducten of -diensten betrekking hebben, wordt als uitgangspunt voor de risicoanalyse de maatregelset Inkoopeisen Cybersecurity Overheid gehanteerd.
+
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -470,8 +472,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > #111 Maak er prestatiedoelstellingen van 
 > ongewijzigd
 
-### 5.20.02 Sluit waar mogelijk algemene voorwaarden van leveranciers expliciet uit en neem eventueel aanvullende voorwaarden op. Als uitsluiten niet mogelijk is beoordeel dan de risicoís. 
-Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd moeten zijn en welke voorwaarden niet of nooit geaccepteerd mogen worden bij het aangaan van de overeenkomst.
+### 5.20.02 Sluit waar mogelijk algemene voorwaarden van leveranciers expliciet uit en neem eventueel aanvullende voorwaarden op. Als uitsluiten niet mogelijk is beoordeel dan de risico's. Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd moeten zijn en welke voorwaarden niet of nooit geaccepteerd mogen worden bij het aangaan van de overeenkomst.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -479,7 +480,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk tekstvoorstel overgenomen
 > 
 
-### 5.20.03 In inkoopcontracten wordt expliciet de mogelijkheid van een externe audit opgenomen waarmee de betrouwbaarheid van de geleverde dienst kan worden getoetst. Een audit is niet nodig als de contractant door middel van een ISO 27001 certificering of ISAE 3402 of richtlijn 3000 rapportage aantoont dat de gewenste betrouwbaarheid van de dienst is geborgd. In alle gevallen moet dan wel de scope en statement of applicability van deze certificering of rapportage passen bij de onderhavige levering of opdracht Èn moeten de hoge risico's die door de overheidsorganisatie zijn geïdentificeerd zijn behandeld. 
+### 5.20.03 In het Inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden. Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de supply chain en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie 5.21.01. Dit toont de leverancier jaarlijks opnieuw aan.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -487,7 +488,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk heeft tekst aangeleverd
 > Aangescherpt als gevolg van NIS2.
 
-### 5.20.04 Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is. Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie.
+### 5.20.04 De overheidsorganisatie voert zelfstandig onderzoek uit ook ter validatie van de rapportages die de leverancier aanlevert. Om dit mogelijk te maken wordt in ieder geval expliciet opgenomen dat er een mogelijkheid is voor een externe audit. Indien uit het voorgaande rest-risico’s volgen, beheerst de overheidsorganisatie deze door het toepassen van zijn vastgestelde risicomanagementmethodiek.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -495,7 +496,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk heeft tekst aangeleverd
 > 
 
-### 5.20.05 De leverancier toont periodiek aantoon en verifieerbaar opnieuw aan dat hij voldoet aan alle eisen en de opdrachtgever beoordeelt dit ook periodiek. Deze periode wordt risicogericht bepaald en vastgelegd in de overeenkomst.
+### 5.20.05 Onderdeel van de afspraken is ook dat de leverancier transparant is over kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken. Dit stelt de overheidsorganisatie in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -503,15 +504,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk heeft tekst aangeleverd
 > NIEUW  
 
-### 5.20.06 De overheidsorganisatie voert risicogericht zelfstandig aanvullend onderzoek uit. Dit is ook ter validatie van de rapportages die de leverancier aanlevert. Om dit mogelijk te maken wordt in ieder geval expliciet opgenomen dat er een mogelijkheid is voor een externe audit.
-
-Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
-
-> verwerkte opmerkingen:
-> CIO rijk heeft tekst aangeleverd
-> NIEUW  
-
-### 5.20.07 Onderdeel van de afspraken is ook dat de leverancier transparant is over nieuwe risicoís waaronder kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken.
+### 5.20.06 Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is. Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie. 
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -567,7 +560,7 @@ De organisatie behoort de informatiebeveiligingspraktijken en de dienstverlening
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.22.01 Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie 5.20.03, is de proceseigenaar verantwoordelijk voor het jaarlijks beoordelen dat leverancier voldoet aan de gestelde IB-eisen, het vaststellen van eventuele de beveiligingsrisicoís, het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risicoís.
+### 5.22.01 Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie 5.20.03, is de proceseigenaar verantwoordelijk voor het jaarlijks beoordelen dat leverancier voldoet aan de gestelde IB-eisen, het vaststellen van eventuele de beveiligingsrisico’s, het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risico’s.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -575,7 +568,7 @@ Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 > CIO rijk 114: tekst nemen we over
 > Aangescherpt als gevolg van NIS2.
 
-### 5.22.02 Er is een actuele registratie van leveranciers en afgesloten contracten
+### 5.22.02 Er is een actuele registratie van leveranciers en afgesloten contracten.
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -591,7 +584,7 @@ Processen voor het aanschaffen, gebruiken, beheren en beÎindigen van clouddiens
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.23.01 Stel beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van cloudserviceproviders (CSP) en het beÎindigen van dienstverlening door CSPís. Implementeer het beleid en herzie dit beleid minimaal eens per drie jaar. Neem in de contracten op welke situaties aanleiding kunnen zijn tot ontbinding van het contract. Wanneer zich belangrijke wijzigingen bij de leverancier optreden beoordeel de risicoís daarvan en neem passende maatregelen.  
+### 5.23.01 Stel beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van cloudserviceproviders (CSP) en het beëindigen van dienstverlening door CSP’s. Implementeer het beleid en herzie dit beleid minimaal eens per drie jaar. Neem in de contracten op welke situaties aanleiding kunnen zijn tot ontbinding van het contract. Wanneer zich belangrijke wijzigingen bij de leverancier optreden beoordeel de risico’s daarvan en neem passende maatregelen.   
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
@@ -647,8 +640,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > uitgesplitst naar 3 maatregelen 06, 07 en 08
 > Aangescherpt als gevolg van NIS2.
 
-### 5.24.06 De beveiliging van toeleveringsketens zijn onderdeel van de risicoanalyse voor de organisatie.
-In de risicoanalyse wordt rekening gehouden met de specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener en met de algemene kwaliteit van de producten en de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners met inbegrip van hun veilige ontwikkelingsprocedures.
+### 5.24.06 De beveiliging van toeleveringsketens zijn onderdeel van de risicoanalyse voor de organisatie. In de risicoanalyse wordt rekening gehouden met de specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener en met de algemene kwaliteit van de producten en de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners met inbegrip van hun veilige ontwikkelingsprocedures.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -656,9 +648,8 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 > Aangescherpt als gevolg van NIS2.
 
-### 5.24.07 De incidentprocedure is er op ingericht om binnen de wettelijke termijn incidenten te melden bij het nationale CSIRT.
-De incidentprocedure is er op ingericht om meldingen van het nationale CSIRT te ontvangen, te beoordelen en op te nemen in de risicobehandeling.
-De incidentprocedure is er op ingericht om betrokkenen binnen de wettelijke termijn op de hoogte te stellen van het incident.
+### 5.24.07 De incidentprocedure is er op ingericht om binnen de wettelijke termijn incidenten te melden bij het nationale CSIRT. De incidentprocedure is er op ingericht om meldingen van het nationale CSIRT te ontvangen, te beoordelen en op te nemen in de risicobehandeling. De incidentprocedure is er op ingericht om betrokkenen binnen de wettelijke termijn op de hoogte te stellen van het incident.
+
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -872,7 +863,7 @@ De naleving van het informatiebeveiligingsbeleid, het onderwerpspecifieke beleid
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.36.01 In de P&C-cyclus en als onderdeel van de PDCA-cyclus wordt gerapporteerd over informatiebeveiliging onder coˆrdinatie van de CISO. Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de overheidsorganisatie. De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
+### 5.36.01 In de P&C-cyclus en als onderdeel van de PDCA-cyclus wordt gerapporteerd over informatiebeveiliging onder coördinatie van de CISO. Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de overheidsorganisatie. De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1069,7 +1060,7 @@ Beveiligde zones behoren te worden beschermd door passende toegangsbeveiligings�
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 7.02.01 In geval van concrete beveiligingsrisicoís worden waarschuwingen, conform onderlinge afspraken, verzonden aan de relevante collegaís binnen het beveiligingsdomein van de overheid.
+### 7.02.01 In geval van concrete beveiligingsrisico's worden waarschuwingen, conform onderlinge afspraken, verzonden aan de relevante collegaís binnen het beveiligingsdomein van de overheid.
 
 Draagt bij aan: Ketenhygiëne
 
@@ -1298,7 +1289,7 @@ Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (ëzero footprintí). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op mobiele apparatuur moet wissen op afstand mogelijk zijn.
+### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen ('zero footprint'). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen door middel van een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op mobiele apparatuur moet wissen op afstand mogelijk zijn.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1307,7 +1298,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 
 ### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd
-1. In bewustwordingsprogrammaís komen gedragsaspecten van veilig mobiel werken aan de orde. 
+1. In bewustwordingsprogramma's komen gedragsaspecten van veilig mobiel werken aan de orde. 
 2. Het apparaat maakt deel uit van patchmanagement en hardening.
 3. Er wordt gebruik gemaakt van Mobile Device Management (MDM) of van Mobile Application Management (MAM)-oplossingen. 
 4. Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
@@ -1439,7 +1430,7 @@ Draagt bij aan: Basishygiëne, NIS2
 ### 8.07.04 De malwarescan wordt uitgevoerd op: 
 (a) alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie;
 (b) alle gedownloade content voorafgaand aan executie of opslag;
-(c) alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vÛÛr gebruik of opslag in de eigen omgeving.
+(c) alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1479,7 +1470,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 > ongewijzigd
 
-### 8.08.04 Informatiesystemen worden bij voorkeur jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en risicoís ten aanzien van de feitelijke veiligheid. Dit kan bijvoorbeeld door (geautomatiseerde) kwetsbaarheidsanalyses, penetratietesten of red-teamingstesten. Internetfacing informatiesystemen worden bij voorkeur continue getest op zwakheden en kwetsbaarheden.
+### 8.08.04 Informatiesystemen worden bij voorkeur jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en risico’s ten aanzien van de feitelijke veiligheid. Dit kan bijvoorbeeld door (geautomatiseerde) kwetsbaarheidsanalyses, penetratietesten of red-teamingstesten. Internetfacing informatiesystemen worden bij voorkeur continue getest op zwakheden en kwetsbaarheden.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1678,7 +1669,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > 
 > ongewijzigd
 
-### 8.15.06 Op basis van een expliciete risicoafweging bepaald de organisatie de periodieke toetsing op het ongewijzigd bestaan van logbestanden gedurende de bewaartermijn. Toetsing wordt uitgevoerd door een onafhankelijke functionaris (ten opzichte van de uitvoering).
+### 8.15.06 Op basis van een expliciete risicoafweging bepaalt de organisatie de periodieke toetsing op het ongewijzigd bestaan van logbestanden gedurende de bewaartermijn. Toetsing wordt uitgevoerd door een onafhankelijke functionaris (ten opzichte van de uitvoering).
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1710,7 +1701,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > CIO rijk 81: taalkundige onjuistheden aanpassen, opmerking van ADR verwerkt
 > verplaatst
 
-### 8.16.03 De informatieverwerkende omgeving wordt gemonitord met een detectie- en response-oplossing, waarmee aanvallen kunnen worden gedetecteerd en afwijkingen worden adequaat en tijdig behandeld.
+### 8.16.03 De informatieverwerkende omgeving wordt gemonitord met een detectie- en response-oplossing, waarmee aanvallen kunnen worden gedetecteerd en afwijkingen adequaat en tijdig worden behandeld.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1839,7 +1830,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > #58 deze laten vervallen, staat al in de CBW. ; werkwoord toegevoegd als gevolg van opmerking CIO rijk
 > Aangepast als gevolg van NIS2
 
-### 8.21.04 Bij transport van gegevens over draadloze verbindingen zoals wifi en bij bedrade verbindingen buiten het gecontroleerd gebied worden de gegevens versleuteld met uitzondering van metagegevens die noodzakelijk zijn om het transport tot stand te laten komen. De inrichting van de versleuteling is risicogericht en houdt rekening met de noodzakelijke beschermingstermijn en -niveau. Hierbij wordt bij gebruik gemaakt van encryptiemiddelen waarvoor bij voorkeur de Unit Weerbaarheid van de AIVD een positief inzetadvies heeft afgegeven. Indien er geen geschikte door het Unit Weerbaarheid geadviseerde encryptiemiddelen zijn, wordt in overleg met de CISO een andere geschikte versleutelingsmethodiek gekozen en ingericht. 
+### 8.21.04 Bij transport van gegevens over draadloze verbindingen zoals wifi en bij bedrade verbindingen buiten het gecontroleerd gebied worden de gegevens versleuteld met uitzondering van metagegevens die noodzakelijk zijn om het transport tot stand te laten komen. De inrichting van de versleuteling is risicogericht en houdt rekening met de noodzakelijke beschermingstermijn en -niveau. Hierbij wordt bij voorkeur gebruik gemaakt van encryptiemiddelen waarvoor de Unit Weerbaarheid van de AIVD een positief inzetadvies heeft afgegeven. Indien er geen geschikte door het Unit Weerbaarheid geadviseerde encryptiemiddelen zijn, wordt in overleg met de CISO een andere geschikte versleutelingsmethodiek gekozen en ingericht. 
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -1893,13 +1884,14 @@ Regels voor het doeltreffende gebruik van cryptografie, met inbegrip van het beh
 6. De wijze waarop het beschermingsniveau vastgesteld wordt. 
 7. Bij communicatie tussen organisaties wordt het beleid onderling vastgesteld.
 
+
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
 
 > verwerkte opmerkingen:
 > CIO rijk 74: aanvulling over registratie
 > 
 
-### 8.24.02 Cryptografische beheersmaatregelen zijn opgenomen in de inventaris van de bedrijfsmiddelen. Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie er voor verantwoordelijk is en hoe ze actueel worden gehouden.
+### 8.24.02 Cryptografische beheersmaatregelen zijn opgenomen in de inventaris van bedrijfsmiddelen. Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie er voor verantwoordelijk is en hoe ze actueel worden gehouden.
 
 Draagt bij aan: 
 
@@ -1970,7 +1962,7 @@ Uitgangspunten voor het ontwerpen van beveiligde systemen behoren te worden vast
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.27.01 Best Practices rondom 'security by design' en 'security by default' zijn uitgangspunt voor de ontwikkeling van software en systemen.
+### 8.27.01 Architectuurprincipes zoals bijvoorbeeld ‘security by design’ en 'security by default' voor het ontwerpen van beveiliging van informatiesystemen behoren te worden vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle activiteiten betreffende het ontwikkelen van informatiesystemen.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -2001,8 +1993,7 @@ Processen voor het testen van de beveiliging behoren te worden gedefinieerd en g
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 8.29.01 Voor acceptatietesten van systemen worden gestructureerde testmethodieken gebruikt. De testen worden bij voorkeur geautomatiseerd uitgevoerd.
-Van de resultaten van de testen wordt verslag gemaakt.
+### 8.29.01 Voor acceptatietesten van systemen worden gestructureerde testmethodieken gebruikt. De testen worden bij voorkeur geautomatiseerd uitgevoerd. Van de resultaten van de testen wordt verslag gemaakt.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -2042,7 +2033,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > #60 CISO toevoegen aan maatregel #122 schriftelijk weggehaald
 > verplaatst
 
-### 8.31.02 Significante wijzigingen in de productieomgeving worden altijd getest voordat zij in productie gebracht worden. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.
+### 8.31.02 Significante wijzigingen in productieomgeving worden altijd getest voordat zij in productie gebracht worden. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.
 
 Draagt bij aan: Basishygiëne, NIS2
 
@@ -2069,7 +2060,7 @@ Draagt bij aan: Basishygiëne, NIS2
 > Tekstvoorstel CIO rijk overgenomen
 > 
 
-### 8.32.02 Wijzigingsbeheer vindt plaats op basis van een†algemeen geaccepteerd beheerraamwerk.
+### 8.32.02 Wijzigingsbeheer vindt plaats op basis van een algemeen geaccepteerd beheerraamwerk.
 
 Draagt bij aan: Basishygiëne, NIS2
 
