@@ -446,8 +446,7 @@ Er behoren processen en procedures te worden vastgesteld en geïmplementeerd om 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn eisen ten aanzien van informatiebeveiliging (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen. De eisen voor informatiebeveiliging zijn gebaseerd op een expliciete risicoafweging.
-### Bij inkoopsegmenten die op cyberproducten of -diensten betrekking hebben, wordt als uitgangspunt voor de risicoanalyse de maatregelset Inkoopeisen Cybersecurity Overheid gehanteerd.
+### 5.19.01 Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn eisen ten aanzien van informatiebeveiliging (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen. De eisen voor informatiebeveiliging zijn gebaseerd op een expliciete risicoafweging.
 
 
 Draagt bij aan: Basishygiëne, NIS2, ketenhygiëne
