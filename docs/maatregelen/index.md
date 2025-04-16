@@ -243,16 +243,16 @@ De toewijzing en het beheer van authenticatie-informatie behoort te worden behee
 ### 5.17.01 Pas multi-factor authenticatie (MFA) ten minste toevoor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
 
 Pas MFA toe in deze twee vormen:
-1. wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey);
-2. wachtwoordtoegang in combinatie met minimaal een tweede factor. 
+I. wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey);
+II. wachtwoordtoegang in combinatie met minimaal een tweede factor. 
 
 Indien MFA niet mogelijk is voor deze accounts, neem andere mitigerende maatregelen. Betrek de CISO hierbij en laat ze goedkeuren door de proceseigenaar.
 
 Combineer waar mogelijk en veilig, MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone oplossing.
 
 Voor beheer en monitoring van authenticatiegegevens:
-1. geef authenticatie-informatie uit met formele vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld;
-2. definieer Use Cases voor misbruik van authenticatiegegevens, monitor deze en neem passende actie bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen.
+* geef authenticatie-informatie uit met formele vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld;
+* definieer Use Cases voor misbruik van authenticatiegegevens, monitor deze en neem passende actie bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -822,10 +822,11 @@ Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user
 Draagt bij aan: Basishygiëne
 
 ### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd:
-1. In bewustwordingsprogramma's komen gedragsaspecten van veilig mobiel werken aan de orde. 
-2. Het apparaat maakt deel uit van patchmanagement en hardening.
-3. Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of van Mobile Application Management (MAM)-oplossingen. 
-4. Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
+* In bewustwordingsprogramma's komen gedragsaspecten van veilig mobiel werken aan de orde. 
+* Het apparaat maakt deel uit van patchmanagement en hardening.
+* Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of van Mobile Application Management (MAM)-oplossingen. 
+* Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
+
 Periodiek wordt getoetst of de punten in lid 1., 2. en 3. worden nageleefd.
 
 Draagt bij aan: Basishygiëne 
@@ -903,9 +904,9 @@ Draagt bij aan: Basishygiëne
 Draagt bij aan: Basishygiëne
 
 ### 8.07.04 De malwarescan wordt uitgevoerd op: 
-1. alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie;
-2. alle gedownloade content voorafgaand aan executie of opslag;
-3. alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
+* alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie;
+* alle gedownloade content voorafgaand aan executie of opslag;
+* alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
 
 Draagt bij aan: Basishygiëne
 
@@ -1018,12 +1019,12 @@ Er behoren logbestanden waarin activiteiten, uitzonderingen, fouten en andere re
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 8.15.01 Een logregel bevat minimaal:
-Actie: de gebeurtenis of handeling die heeft plaatsgevonden.
-Object: waarop de gebeurtenis of handeling effect had (bijvoorbeeld welk bestand, proces of systeem).
-Resultaat: het resultaat van de gebeurtenis of handeling.
-Oorsprong: het apparaat of de netwerklocatie van waaruit de gebeurtenis of handeling in gang is gezet.
-Actor: identificatie van de persoon die of het proces dat de gebeurtenis in gang heeft gezet.
-Tijdstempel: datum en tijdstip waarop de gebeurtenis of handling plaatsvond.
+* Actie: de gebeurtenis of handeling die heeft plaatsgevonden.
+* Object: waarop de gebeurtenis of handeling effect had (bijvoorbeeld welk bestand, proces of systeem).
+* Resultaat: het resultaat van de gebeurtenis of handeling.
+* Oorsprong: het apparaat of de netwerklocatie van waaruit de gebeurtenis of handeling in gang is gezet.
+* Actor: identificatie van de persoon die of het proces dat de gebeurtenis in gang heeft gezet.
+* Tijdstempel: datum en tijdstip waarop de gebeurtenis of handling plaatsvond.
 
 Draagt bij aan: Basishygiëne
 
@@ -1170,13 +1171,13 @@ Regels voor het doeltreffende gebruik van cryptografie, met inbegrip van het beh
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 8.24.01 In het cryptografiebeleid zijn minimaal de volgende onderwerpen uitgewerkt: 
-1. Wanneer cryptografie ingezet wordt. 
-2. Wie verantwoordelijk is voor de implementatie.
-3. Wie verantwoordelijk is voor het sleutelbeheer. 
-4. Hoe geregistreerd wordt waar welke cryptografie toegepast wordt.
-5. Welke normen als basis dienen voor cryptografie en de wijze waarop de normen van het Forum Standaardisatie worden toegepast. 
-6. De wijze waarop het beschermingsniveau vastgesteld wordt. 
-7. Bij communicatie tussen organisaties wordt het beleid onderling vastgesteld.
+* Wanneer cryptografie ingezet wordt.
+* Wie verantwoordelijk is voor de implementatie.
+* Wie verantwoordelijk is voor het sleutelbeheer.
+* Hoe geregistreerd wordt waar welke cryptografie toegepast wordt.
+* Welke normen als basis dienen voor cryptografie en de wijze waarop de normen van het Forum Standaardisatie worden toegepast.
+* De wijze waarop het beschermingsniveau vastgesteld wordt.
+* Bij communicatie tussen organisaties wordt het beleid onderling vastgesteld.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -1277,9 +1278,9 @@ Wijzigingen in informatieverwerkende faciliteiten en informatiesystemen behoren 
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 8.32.01 In het wijzigingenbeheerproces is minimaal aandacht besteed aan: 
-1.	het administreren van wijzigingen, met de resultaten van het testplan;
-2.	een risicoafweging van mogelijke gevolgen van de wijzigingen, inclusief een beschreven rollbackplan;
-3.	de goedkeuringsprocedure voor wijzigingen.
+* het administreren van wijzigingen, met de resultaten van het testplan;
+* een risicoafweging van mogelijke gevolgen van de wijzigingen, inclusief een beschreven rollbackplan;
+* de goedkeuringsprocedure voor wijzigingen.
 
 Draagt bij aan: Basishygiëne
 
