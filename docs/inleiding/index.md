@@ -59,8 +59,8 @@ De BIO is van toepassing op de informatiebeveiliging van alle typen omgevingen, 
 
 Dit BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een verplichtend karakter en moeten altijd gevolgd worden. Deel 3 is een uitwerking en verduidelijking op sommige punten van het kader en de overheidsmaatregelen.
 
-!!! info  "De term informatiesysteem" 
-    Een informatiesysteem is "een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie". Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie.   
+> [!NOTE]
+> _Een informatiesysteem is "een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie". Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
 
 ## Verplichtingen BIO
 
@@ -84,8 +84,8 @@ Hoe de maatregelen zijn geoperationaliseerd wordt, via verwijzingen, vastgelegd.
 
 Het managementsysteem voor informatiebeveiliging (Information Security Management Systeem, ook wel ISMS) is een werkwijze om informatiebeveiliging op een gestructureerde manier toe te passen in de organisatie. Zo wordt de organisatie, en een bestuurder in het bijzonder, in staat gesteld om de juiste afwegingen te maken. 
 
-!!! info "De term managementsysteem" 
-    Om een veelvoorkomend misverstand te voorkomen: een managementsysteem is géén applicatie. Een applicatie kan wel ondersteunen bij het toepassen van een managementsysteem. 
+> [!Note]
+> _Om een veelvoorkomend misverstand te voorkomen: een managementsysteem is géén applicatie. Een applicatie kan wel ondersteunen bij het toepassen van een managementsysteem._
 
 De BIO schrijft voor dat het managementsysteem van een organisatie voldoet aan NEN-EN-ISO/IEC 27001. Bij het bepalen van de reikwijdte van het managementsysteem moet een organisatie minimaal de bedrijfsprocessen en informatiesystemen opnemen die kritisch zijn voor haar dienstverlening, waarbij aantasting van de beschikbaarheid, integriteit of vertrouwelijkheid zou leiden tot onacceptabele impact.
 
