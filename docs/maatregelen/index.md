@@ -78,7 +78,7 @@ Het management behoort van al het personeel te eisen dat ze informatiebeveiligin
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.04.01 Bestuur en werknemers moeten regelmatig, scholing volgen om cyberbeveiligingsrisico's te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.
+### 5.04.01 Bestuur en werknemers moeten regelmatig scholing volgen om cyberbeveiligingsrisico's te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.
 ### Daarbij tonen bestuurders aan dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico's te beoordelen op de diensten en/of producten die de organisatie levert.
 
 Draagt bij aan: Basishygiëne
