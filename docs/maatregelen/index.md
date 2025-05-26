@@ -226,7 +226,7 @@ De volledige levenscyclus van identiteiten behoort te worden beheerd.
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.16.01 Er is een sluitende formele registratie- en afmeldprocedure is voor het beheren van gebruikersidentificaties.
+### 5.16.01 Er is een sluitende formele registratie- en afmeldprocedure voor het beheren van gebruikersidentificaties.
 
 Draagt bij aan: Basishygiëne
 
