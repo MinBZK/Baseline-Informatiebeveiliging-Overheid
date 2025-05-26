@@ -240,7 +240,7 @@ De toewijzing en het beheer van authenticatie-informatie behoort te worden behee
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.17.01 Pas multi-factor authenticatie (MFA) ten minste toevoor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
+### 5.17.01 Pas multi-factor authenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
 
 Pas MFA toe in deze twee vormen:
 I. wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey);
