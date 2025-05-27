@@ -5,26 +5,27 @@ hide:
   - navigation
 ---
 
-#  Welkom bij de GitHub pagina van de BIO2
+#  Welkom bij de GitHub-pagina van de BIO2
 
 !!! warning "BIO2 in concept" 
-    Dit is een conceptversie van de BIO2. De teksten zijn representatief voor de definitieve versie. De definitieve versie zal niet heel veel meer veranderen. De huidige versie is de versie die zal worden voorgelegd aan het OBDO voor bestuurlijke besluitvorming.
+    Dit is de conceptversie van de BIO2. De teksten zijn representatief voor de definitieve versie. De definitieve versie zal niet heel veel meer veranderen. De huidige versie wordt voorgelegd aan het OBDO voor bestuurlijke besluitvorming. <br><br>
+Let op! Het concept van de BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van het concept BIO2 is beschikbaar via de BIO-website: https://www.bio-overheid.nl/category/producten/bio.
 
-## BIO2 Doorontwikkeling
-De BIO is het kader voor informatiebeveiliging voor de overheid. Op deze pagina's werd het afgelopen jaar met jou gewerkt aan de nieuwe versie van de BIO2.
+## Doorontwikkeling BIO2
+De BIO is het kader voor informatiebeveiliging voor de overheid. In deze GitHub-omgeving werd gewerkt aan een nieuwe versie van de BIO, de BIO2.
+In deze nieuwe norm is feedback verwerkt, afkomstig uit GitHub. Ook met het [evaluatierapport van de BIO](https://bio-overheid.nl/category/producten/rapport-bio-evaluatie) en workshops met de overheden is nuttige feedback opgehaald. Het resultaat hiervan is het concept BIO2.<br>
+Op deze GitHub-pagina blijven we ook in de toekomst samenwerken tijdens het onderhoud op de BIO2.
 
-Als je meer wilt weten over de huidige conceptversie, de achtergrond van de BIO en ondersteunende documentatie ga dan naar [bio-overheid.nl](https://bio-overheid.nl/over-de-bio). 
-In deze GitHub omgeving werd gewerkt aan de nieuwe versie van de BIO: de BIO2. In deze nieuwe norm is feedback verwerkt die via verschillende kanalen is ingediend, zoals onder andere via deze GitHub pagina. Onder meer met een [evaluatie](https://www.rijksoverheid.nl/documenten/rapporten/2022/11/17/evaluatie-baseline-informatieveiligheid-overheid) van de BIO en workshops met de overheden hebben we nuttige feedback opgehaald. Het eerste resultaat hiervan is het concept. Op deze GitHub pagina blijven we ook in de toekomst samenwerken tijdens de onderhoudsfase van de BIO2.
+## Wijzigingen BIO2
+Heb je een een wijzigingsvoorstel voor de BIO2, deel dan jouw inbreng via GitHub. In [CONTRIBUTING](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/blob/main/CONTRIBUTING.md) staat hoe je kan bijdragen.
+De aanvullingen die we van jullie ontvangen, nemen wij zoveel mogelijk mee tijdens de beheerfase van de BIO2. Het is belangrijk om te weten dat we niet alle inbreng overnemen. De keuze over wat we wel en niet overnemen blijft bij het beheerteam BIO2 op GitHub en later ook ter besluitvorming door onder meer de werkgroep BIO en het kern-IBO.
 
-## Wijzigingen BIO2 
-Mocht je wijzigingen willen voorstellen voor de BIO2, deel dan jouw inbreng via Github. In [CONTRIBUTING](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/blob/main/CONTRIBUTING.md) staat hoe je kan bijdragen.
-De aanvullingen die we van jullie ontvangen, nemen wij zoveel mogelijk mee tijdens de beheerfase van de BIO2. Het is belangrijk om te weten dat we niet alle inbreng overnemen. De keuze over wat we wel en niet overnemen blijft bij het beheerteam BIO2 op Github en later ook ter besluitvorming door onder meer de werkgroep-BIO en het kern-IBO.
-
-## Leeswijzer 
-Via het menu aan de bovenzijde kan je bij de stukken die de BIO2 vormen. 
-De volgende documenten zijn beschikbaar: 
-
-- [X] Conceptontwerp
-- [X] Verhouding NIS2 en BIO
+## Leeswijzer BIO2
+Via het horizontale navigatiemenu aan de bovenzijde kom je bij de documenten/onderdelen van de BIO2.<br>
+De volgende documenten/onderdelen zijn beschikbaar:
+- [X] Concept ontwerp BIO2
 - [X] BIO2 inleiding
-- [X] Beheersmaatregelen en richtlijnen.
+- [X] Verplichte maatregelen en richtlijnen
+
+## Meer informatie BIO
+Wil je meer weten over de huidige conceptversie, de achtergrond van de BIO en ondersteunende documentatie ga naar [bio-overheid.nl](https://bio-overheid.nl/over-de-bio).
