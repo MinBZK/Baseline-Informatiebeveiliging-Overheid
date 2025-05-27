@@ -1,5 +1,5 @@
 # Baseline Informatiebeveiliging Overheid 2 (BIO2)
-Deze repository is opgestart om te kunnen werken aan het eerste concept van de BIO2. We ontwikkelen de BIO2 op een open manier via GitHub.
+Deze repository is opgestart om te kunnen werken aan het concept van de BIO2. We ontwikkelen de BIO2 op een open manier via GitHub.
 
 ## Dit is de GitHub repository voor de BIO2
 De repository staat op <https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid>.
