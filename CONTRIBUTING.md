@@ -1,99 +1,104 @@
 # Bijdragen aan de BIO2
-Bedankt dat je de tijd neemt om een bijdrage te leveren! 🫶
+Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van het concept van de BIO2. <br>
+in de [inhoudsopgave](#inhoudsopgave) vind je alle informatie die je nodig hebt om effectief bij te dragen.
+Lees deze informatie door voordat je aan de slag gaat.
 
-We waarderen alle soorten bijdragen enorm. 
-
-Zie de [Inhoudsopgave](#inhoudsopgave) voor verschillende manieren waarop je kan bijdragen aan de BIO2.
-Lees de onderstaande informatie voordat je aan de slag gaat.
-
-# Inhoudsopgave
+## Inhoudsopgave
 - [Disclaimer](#disclaimer)
-- [Code of Conduct](#code-of-conduct)
-- [Ik heb een vraag](#ik-heb-een-vraag)
-- [Ik wil iets bijdragen](#ik-wil-iets-bijdragen)
-- [Ik wil een fout of bug melden](#ik-wil-een-fout--bug-melden)
-- [Hoe we werken op GitHub](#hoe-we-werken-op-github)
-
-## Inbreng
-- Wanneer je bijdraagt aan dit project, moet je ermee akkoord gaan dat je 100% van de inhoud hebt geschreven, dat je de benodigde rechten op de inhoud hebt en dat de inhoud die je bijdraagt mag worden geleverd onder de Code of Conduct en licentievoorwaarden.
-- Voorstellen aanleveren op de BIO via Github betekent niet dat jouw inbreng ook altijd verwerkt wordt.
+- [Gedragscode](#gedragscode)
+- [Ik wil een onvolkomenheid melden](#ik-wil-een-onvolkomenheid-melden)
+- [Ik wil een verbetervoorstel indienen](#ik-wil-een-verbetervoorstel-indienen)
+- [Ik wil een vraag stellen](#ik-wil-een-vraag-stellen)
+- [Vaststelling en doorontwikkeling van de BIO2](#vaststelling-en-doorontwikkeling-van-de-bio2) 
 
 ## Disclaimer
-🚧 De teksten op deze Github zijn nog niet definitief en kunnen nog substantieel veranderen. We vinden het wel belangrijk om iedereen vroeg in het proces te betrekken.
+- BIO-teksten in GitHub worden voorlopig niet aangepast, tenzij het gaat om een afwijking ten opzichte van de [conceptversie van de BIO2 op de BIO-website](https://www.bio-overheid.nl/category/producten/bio).
+BIO-teksten in GitHub worden handmatig beheerd.
+- Je kunt nog steeds bijdragen. 
+Overige verbetervoorstellen worden verzameld in een backlog.
+Op dit moment richten we het proces voor verbetervoorstellen opnieuw in.
+Zodra duidelijk is hoe dit proces eruit komt te zien, informeren we je daarover.
+- Open ontwikkeling vinden we belangrijk.
+Werken in GitHub is nieuw voor ons en we leren nog.
+Fouten kunnen voorkomen.
+We waarderen je begrip en hulp.
+- We werken met een klein team.
+Desondanks streven we ernaar om binnen een werkdag reageren.
 
-👶 We zijn nieuw met het werken in Github. We zullen dus fouten maken. We vinden het belangrijk dat we open beleid kunnen ontwikkelingen. Help ons dus vooral om dat steeds beter te doen!
+## Gedragscode
+Door bij te dragen aan de BIO2 ga je akkoord met onze [gedragscode](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid?tab=coc-ov-file). 
+Zo zorgen we samen voor een prettige samenwerking. 
+Je gaat ermee akkoord dat je 100% van de inhoud hebt geschreven, dat je de benodigde rechten op de inhoud hebt en dat de inhoud die je bijdraagt, mag worden geleverd onder de Code of Conduct en licentievoorwaarden.
 
-⌛ We werken met een klein team. Het kan dus even duren voordat we reageren. Dat betekent niet dat we jouw inbreng niet waarderen!
+## Ik wil een onvolkomenheid melden
+In GitHub is een Issue een manier om een onvolkomenheid in het concept van de BIO2 te melden.
 
-## Code of Conduct
+Een onvolkomenheid meld je als volgt:
+1. Kijk of jouw gevonden onvolkomenheid al bestaat in het [overzicht met issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
+2. Wil je de onvolkomenheid nog steeds melden, gebruik de knop New issue of deze link: https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues/new/choose.
+3. Geef een beknopte en dekkende titel.
+4. Beschrijf de onvolkomenheid met toelichting duidelijk.
+5. Voeg waar mogelijk een screenshot toe, met het paperclip-symbool.
+6. Klik op de knop Create.
 
-Dit project en iedereen die eraan deelneemt, valt onder de
-[Code of Conduct](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid?tab=coc-ov-file). Door deel te nemen, wordt van je verwacht dat je je aan deze code houdt.
+Anderen hebben nu de mogelijkheid om opmerkingen toe te voegen aan jouw gemelde onvolkomenheid.<br>
 
-## Ik heb een vraag
+De BIO-beheerder:
+- [labelt](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) binnen een werkdag jouw issue als Bug, eventueel aangevuld met Stijl en consistentie of Documentation en kiest een of meer labels om het betreffende BIO-onderdeel te duiden;
+- neemt indien nodig contact met jou op voor een verduidelijking of een oplossing;
+- voegt aan jouw issue toe wat er met de onvolkomenheid gaat gebeuren of is gebeurd.
 
-### Maak een issue aan
-Voordat je een [Issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) gaat aanmaken, kan je bekijken of jouw vraag al tussen de bestaande [Issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) staat. Wellicht staat er al een issue tussen die jou vraag kan beantwoorden.
+## Ik wil een verbetervoorstel indienen
+In GitHub is een [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) een manier om op het concept BIO2 een verbetering voor te stellen.<br>
 
-Als je jouw vraag nog steeds wilt stellen, kan je een [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) aanmaken. Dat doe je als volgt:
+Een verbetervoorstel dien je als volgt in:
+1. Zoek uit of jouw verbetervoostel past binnen het doel en de scope van het project.
+2. Houd in gedachten dat verbetervoorstellen nuttig dienen te zijn voor de meerderheid van de overheid en niet slechts voor een kleine groep of een overheidslaag.
+3. Kijk of jouw verbetervoorstel al bestaat in het [overzicht met issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
+4. Wil je het verbeteringvoorstel nog steeds indienen, gebruik de knop New issue of deze link: https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues/new/choose.
+5. Geef een beknopte en dekkende titel.
+6. Beschrijf het verbetervoorstel met toelichting duidelijk en onderbouw waarom dit een goede toevoeging zal zijn.
+7. Klik op de knop Create.
 
-1. Gebruik daarvoor de knop new issue of deze [link](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues/new/choose).
-2. Schrijf je vraag of opmerking is en geef een heldere toelichting.
-3. Anderen kunnen nu opmerkingen toevoegen aan jouw issue.
-4. Het team van de BIO zal het issue labelen als `question` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van de BIO contact op voor een verduidelijking of een oplossing.
+Anderen hebben nu de mogelijkheid om opmerkingen toe te voegen aan jouw ingediende verbetervoorstel.<br>
 
-## Ik wil iets bijdragen
-
-Er zijn verschillende manieren waarop je kan bijdragen. Zie hieronder de mogelijkheden.
-
-### Vertegenwoordiging via koepelorganisaties
-
-De interbestuurlijke [werkgroep-BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/#:~:text=De%20interbestuurlijke%20werkgroep%2DBIO%20draagt,Overleg%20en%20Unie%20van%20Waterschappen.) zorgt voor het onderhoud op de BIO. Onder het voorzitterschap van BZK zijn in de werkgroep de 4 overheidskoepels vertegenwoordigd: CIO Rijk, Vereniging Nederlandse Gemeenten, InterProvinciaal Overleg en Unie van Waterschappen. In de werkgroep zijn de vier overheidslagen vertegenwoordigd (Rijk, waterschappen, gemeenten en provincies). De eerste vaststelling en verdere ontwikkeling van de BIO verloopt via de werkgroep.
-
-### Ik wil een fout / bug melden
-
-Heb je een foutje gevonden in de BIO? Dan kan je deze melden door een [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) aan te maken.
-
-Voordat je een [Issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) gaat aanmaken, kan je bekijken of jouw gevonden fout al tussen de bestaande [Issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) staat.
-
-Als je de gevonden fout nog steeds wilt melden, kan je een [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) aanmaken.
-
-1. Gebruik daarvoor de knop new issue.
-2. Beschrijf de fout duidelijk en geef een heldere toelichting. Voeg waar mogelijk een screenshot toe.
-3. Het team van de BIO zal het issue labelen als `bug` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van de BIO contact op voor een verduidelijking of een oplossing.
-
-### Ik wil een verbetering voorstellen
-
-Heb je een suggestie of wil je een verbetering voorstellen? Dat kan gaan om een compleet nieuwe functionaliteit van de site of om kleine verbeteringen. Het volgen van onderstaande instructie helpt het team van de BIO om je suggestie te begrijpen en gerelateerde suggesties te vinden.
-
-Je kan een suggestie doen door een [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) aan te maken of door een Pull Request te maken.
-
-#### Voordat je een suggestie gaat maken
-
-- Voordat je een suggestie gaat maken, kan je bekijken of jouw suggestie al tussen de bestaande [Issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) staat. Wellicht bestaat er al een issue die jouw suggestie beschrijft, en zijn we er al mee bezig.
-- Zoek uit of jouw idee past binnen het doel en de scope van het project. Wat zijn de voordelen van deze toevoeging? Het is aan jou om het team van de BIO te overtuigen dat dit een nuttige toevoeging is aan de BIO. Houd in gedachten dat we toevoegingen willen die nuttig zijn voor de meerderheid van de overheid en niet slechts voor een kleine groep of een overheidslaag.
-
-#### Een issue aanmaken
-
-Als je jouw suggestie nog steeds wilt doen, kan je een [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) aanmaken.
-
-1. Gebruik daarvoor de knop new issue.
-2. Beschrijf duidelijk jouw suggestie en geef een heldere toelichting en onderbouwing waarom dit een goede toevoeging zal zijn aan de BIO.
-3. Het team van de BIO zal deze issue labelen als `enhancement` en pakt jouw issue zo snel mogelijk op. Mogelijk neemt het team van de BIO contact op voor een verduidelijking of een oplossing.
-
-> Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door het team van de BIO.
+De BIO-beheerder:
+- [labelt](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) binnen een werkdag jouw issue als Enhancement, Dubplicate en/of Stijl en consistentie en kiest indien van toepassing het betreffende label om het BIO-onderdeel te duiden;
+- neemt indien nodig contact met jou op voor een verduidelijking of een oplossing;
+- voegt aan jouw issue toe wat er met de onvolkomenheid gaat gebeuren of is gebeurd.
 
 #### Een pull-request maken
+Kun je niet uit de voeten met issues, bijvoorbeeld omdat je verschillende wijzigingsvoorstellen wilt doen? 
+Je kan ook gebruik maken van een [Fork en een Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks).
+Maak een [Pull Request](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull-request) aan.
+De BIO-beheerder beoordeeld jouw aanpassingen en Mergt bij akkoord jouw aanpassingen.
+Er zijn ook andere manieren om een pull request te doen: voor meer [informatie over een pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door de BIO-beheerder.
 
-Kun je niet uit de voeten met de issues?
-Bijvoorbeeld omdat je verschillende wijzigingsvoorstellen wilt doen? Je kan ook gebruik maken van een [Fork en een Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks).
+## Ik wil een vraag stellen
+Gebruik voor het stellen van een vraag het [contactformulier op de BIO-website](https://www.bio-overheid.nl/contact/). 
+Je vraag stellen over de BIO In GitHub is ook mogelijk.
 
-Het team van de BIO bekijkt daarna jouw aanpassingen en kan bij akkoord jouw aanpassingen *mergen*. Er zijn ook andere manieren om een pull request te doen. [Meer daarover](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+Een vraag stel je als volgt:
+1. Kijk of jouw vraag al bestaat in het [overzicht met issues](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
+2. Wil je jouw vraag nog steeds stellen, gebruik de knop New issue of deze link: https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues/new/choose.
+3. Geef een beknopte en dekkende titel.
+4. Noteer je vraag en geef een heldere toelichting.
+5. Klik op de knop Create.
 
-Afhankelijk van de complexiteit en het onderwerp van jouw suggestie kan het even duren voordat deze wordt opgepakt door het team van de BIO.
+Anderen hebben nu de mogelijkheid om opmerkingen toe te voegen aan jouw gestelde vraag.<br>
 
-### Hoe we werken op Github
-We werken met [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden.
-Dit is bestandsformaat voor platte tekstbestanden en wordt door veel verschillende tools ondersteund. Dit maakt het eenvoudig om versiebeheer op de BIO toe te passen.
+De BIO-beheerder:
+- [labelt](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) binnen een werkdag jouw vraag als Question en kiest indien van toepassing een of meer labels om het BIO-onderdeel te duiden;
+- neemt indien nodig contact met je op voor een verduidelijking of een oplossing.
+- voegt aan jouw issue het antwoord op de vraag toe.
 
-Daarnaast maken gebruik van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/).
+## Vaststelling en doorontwikkeling van de BIO2 
+De interbestuurlijke [werkgroep-BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/#:~:text=De%20interbestuurlijke%20werkgroep%2DBIO%20draagt,Overleg%20en%20Unie%20van%20Waterschappen.) onderhoudt de BIO.
+Onder het voorzitterschap van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) zijn in de werkgroep BIO vier overheidskoepels vertegenwoordigd: 
+1.  CIO Rijk (Rijksoverheid)
+2.  Vereniging Nederlandse Gemeenten (gemeenten)
+3.  Interprovinciaal Overleg (provincies)
+4.  Unie van Waterschappen (waterschappen)
+
+De vaststelling verloopt via de werkgroep BIO en het kern-IBO naar het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO). De werkgroep BIO ontwikkelt de BIO verder.
