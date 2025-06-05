@@ -4,12 +4,12 @@ We ontwikkelen de BIO2 op een open manier via GitHub.
 
 ## Dit is de GitHub repository voor de BIO2
 De repository van de BIO2 staat op <https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid>.
-Het concept van de BIO2 als website vind je op <https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/>.<br>
+Het concept van de BIO2 als website vind je op <https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/>.
+Bovenaan deze pagina vind je de bestanden/onderdelen van de BIO2.<br>
 
 Let op! Het concept van de BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie.
 De officiële versie van het concept BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>.<br>
 
-Bovenaan deze pagina vind je de bestanden van de BIO2. 
 De informatie van de BIO wordt uitgewerkt in verschillende markdown-bestanden (een bestandsformaat voor platte tekstbestanden). 
 Deze bestanden worden inzichtelijk gemaakt met behulp van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/).
 
