@@ -1,4 +1,4 @@
-# Bijdragen aan de BIO2
+# Bijdragen aan de Baseline Informatiebeveiliging Overheid 2 (BIO2)
 Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van het concept van de BIO2. <br>
 in de [inhoudsopgave](#inhoudsopgave) vind je alle informatie die je nodig hebt om effectief bij te dragen.
 Lees deze informatie door voordat je aan de slag gaat.
@@ -16,7 +16,7 @@ Lees deze informatie door voordat je aan de slag gaat.
 BIO-teksten in GitHub worden handmatig beheerd.
 - Je kunt nog steeds bijdragen. 
 Overige verbetervoorstellen worden verzameld in een backlog.
-Op dit moment richten we het proces voor verbetervoorstellen opnieuw in.
+Op dit moment richten we het proces voor wijzigingsverzoeken opnieuw in.
 Zodra duidelijk is hoe dit proces eruit komt te zien, informeren we je daarover.
 - Open ontwikkeling vinden we belangrijk.
 Werken in GitHub is nieuw voor ons en we leren nog.
