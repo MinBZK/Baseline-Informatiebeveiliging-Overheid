@@ -1,6 +1,6 @@
 # Bijdragen aan de Baseline Informatiebeveiliging Overheid 2 (BIO2)
-Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van het concept van de BIO2. <br>
-in de [inhoudsopgave](#inhoudsopgave) vind je alle informatie die je nodig hebt om effectief bij te dragen.
+Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van het concept van de BIO2.<br>
+In de [inhoudsopgave](#inhoudsopgave) vind je alle informatie die je nodig hebt om effectief bij te dragen.
 Lees deze informatie door voordat je aan de slag gaat.
 
 ## Inhoudsopgave
@@ -44,7 +44,7 @@ Een onvolkomenheid meld je als volgt:
 Anderen hebben nu de mogelijkheid om opmerkingen toe te voegen aan jouw gemelde onvolkomenheid.<br>
 
 De BIO-beheerder:
-- [labelt](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) binnen een werkdag jouw issue als Bug, eventueel aangevuld met Stijl en consistentie of Documentation en kiest een of meer labels om het betreffende BIO-onderdeel te duiden;
+- [labelt](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) binnen een werkdag jouw issue als Bug, eventueel aangevuld met het label Stijl en consistentie of het label Documentation en kiest een of meer labels om het betreffende BIO-onderdeel te duiden;
 - neemt indien nodig contact met jou op voor een verduidelijking of een oplossing;
 - voegt aan jouw issue toe wat er met de onvolkomenheid gaat gebeuren of is gebeurd.
 
