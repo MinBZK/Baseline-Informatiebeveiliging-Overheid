@@ -1,5 +1,5 @@
 # Bijdragen aan de Baseline Informatiebeveiliging Overheid 2 (BIO2)
-Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van het concept van de BIO2.<br>
+Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van [het concept van de BIO2](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/).<br>
 In de [inhoudsopgave](#inhoudsopgave) vind je alle informatie die je nodig hebt om effectief bij te dragen.
 Lees deze informatie door voordat je aan de slag gaat.
 
