@@ -11,7 +11,7 @@ Lees deze informatie door voordat je aan de slag gaat.
 - [Vaststelling en doorontwikkeling van de BIO2](#vaststelling-en-doorontwikkeling-van-de-bio2)
 
 ## Disclaimer
-- [BIO-teksten](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/) in GitHub worden niet aangepast, tenzij het gaat om een afwijking ten opzichte van het [Concept BIO2 op de BIO-website](https://www.bio-overheid.nl/category/producten/bio). Na goedkeuring van het Concept BIO2 in het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) worden BIO-wijzigingsverzoeken weer verwerkt GitHub. 
+- [Het concept van de BIO2](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/) in GitHub worden niet aangepast, tenzij het gaat om een afwijking ten opzichte van het [Concept BIO2 op de BIO-website](https://www.bio-overheid.nl/category/producten/bio). Na goedkeuring van het Concept BIO2 in het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) worden BIO-wijzigingsverzoeken weer verwerkt GitHub. 
 - Je kunt nog steeds bijdragen.
 Nieuwe wijzigingsverzoeken worden beoordeeld, maar nog niet verwerkt.
 - Op dit moment richten we het proces voor wijzigingsverzoeken opnieuw in.
