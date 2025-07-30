@@ -605,6 +605,14 @@ Draagt bij aan: Basishygiëne
 
 Draagt bij aan: Basishygiëne
 
+### 6.03.04 In bewustwordingsprogramma's komen gedragsaspecten van veilig mobiel werken aan de orde.
+
+Draagt bij aan: Basishygiëne
+
+### 6.03.05 Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.
+
+Draagt bij aan: Basishygiëne
+
 # Beheersmaatregel 6.04 Disciplinaire procedure
 
 Er behoort een formele en gecommuniceerde disciplinaire procedure te zijn om actie te ondernemen tegen personeel en andere belanghebbenden die zich schuldig hebben gemaakt aan een schending van het informatiebeveiligingsbeleid.
@@ -821,13 +829,12 @@ Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user
 
 Draagt bij aan: Basishygiëne
 
-### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd:
-* In bewustwordingsprogramma's komen gedragsaspecten van veilig mobiel werken aan de orde. 
+### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd: 
 * Het apparaat maakt deel uit van patchmanagement en hardening.
 * Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of van Mobile Application Management (MAM)-oplossingen. 
 * Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
 
-Periodiek wordt getoetst of de punten in lid 1., 2. en 3. worden nageleefd.
+Periodiek wordt getoetst of de punten in lid 1. en 2. worden nageleefd.
 
 Draagt bij aan: Basishygiëne 
 
@@ -895,15 +902,11 @@ Bescherming tegen malware behoort te worden geïmplementeerd en ondersteund door
 
 Draagt bij aan: Basishygiëne 
 
-### 8.07.02 Gebruikers zijn voorgelicht over de risicoís ten aanzien van surfgedrag en het klikken op onbekende links.
+### 8.07.02 De gebruikte antimalwaresoftware en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates. 
 
 Draagt bij aan: Basishygiëne
 
-### 8.07.03 De gebruikte antimalwaresoftware en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates. 
-
-Draagt bij aan: Basishygiëne
-
-### 8.07.04 De malwarescan wordt uitgevoerd op: 
+### 8.07.03 De malwarescan wordt uitgevoerd op: 
 * alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie;
 * alle gedownloade content voorafgaand aan executie of opslag;
 * alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
