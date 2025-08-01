@@ -270,15 +270,11 @@ Toegangsrechten voor informatie en andere gerelateerde bedrijfsmiddelen behoren 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.18.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
+### 5.18.01 Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt dit als zodanig vastgelegd en afgehandeld. 
 
 Draagt bij aan: Basishygiëne
 
-### 5.18.02 Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt dit als zodanig vastgelegd en afgehandeld. 
-
-Draagt bij aan: Basishygiëne
-
-### 5.18.03 Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet.
+### 5.18.02 Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet.
 
 Draagt bij aan: Basishygiëne
 
