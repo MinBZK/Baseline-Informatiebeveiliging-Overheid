@@ -737,10 +737,6 @@ Er behoren clear desk-regels voor papieren documenten en verwijderbare opslagmed
 
 Draagt bij aan: Basishygiëne
 
-### 7.07.02 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
-Draagt bij aan: Basishygiëne
-
 # Beheersmaatregel 7.08 Plaatsen en beschermen van apparatuur
 
 Apparatuur behoort veilig te worden geplaatst en beschermd.
