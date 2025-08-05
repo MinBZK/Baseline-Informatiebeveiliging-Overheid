@@ -1,5 +1,5 @@
 ---
-title: Verplichte overheidsmaatregelen, Baseline Informatiebeveiliging (BIO2), versie 1.1
+title: Verplichte overheidsmaatregelen, Baseline Informatiebeveiliging (BIO2), versie 1.1.1, 5 augustus 2025
 summary: De verplichte maatregelen en richtlijnen voor overheden uit de BIO2
 hide:
   - navigation
@@ -22,7 +22,7 @@ De opbouw van dit document is als volgt:
 
 !!! Het kan voorkomen dat een deel van een overheidsmaatregeltekst niet **vet** weergegeven wordt.
 
-Versie 1.1 Diverse tekstuele aanpassingen
+Versie 1.1.1 Diverse tekstuele aanpassingen
 
 # Beheersmaatregel 5.01 Beleidsregels voor informatiebeveiliging
 
@@ -54,7 +54,7 @@ Rollen en verantwoordelijkheden bij informatiebeveiliging behoren te worden gede
 
 ### 5.02.01 De leiding van de organisatie heeft vastgelegd wat de verantwoordelijkheden en rollen zijn op het gebied van informatiebeveiliging (ook voor OT, BCM en privacybescherming) binnen haar organisatie. Hierbij is specifieke aandacht voor de verantwoordelijkheden en rollen voor het adequaat afhandelen van incidenten.
 
-Lijnmanagers die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico's die op die bedrijfsmiddelen van toepassing zijn.
+Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico's die op die bedrijfsmiddelen van toepassing zijn.
 
 Draagt bij aan: Basishygiëne
 
@@ -70,7 +70,7 @@ Conflicterende taken en conflicterende verantwoordelijkheden behoren te worden g
 
 ### 5.03.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 5.04 Managementverantwoordelijkheden
 
@@ -109,7 +109,7 @@ De organisatie behoort contacten met speciale belangengroepen of andere gespecia
 
 ### 5.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 5.07 Informatie en analyses over dreigingen
 
@@ -137,7 +137,9 @@ Er behoort een inventarislijst van informatie en andere gerelateerde bedrijfsmid
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.09.01 Er is een inventaris van bedrijfsmiddelen die van belang zijn, voor informatieverwerking met inbegrip van OT. De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud. In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de organisatie staan. De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.
+### 5.09.01 Er is een inventaris van bedrijfsmiddelen die van belang zijn, voor informatieverwerking met inbegrip van OT. 
+### De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud. In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de organisatie staan. 
+### De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -159,7 +161,7 @@ Personeel en andere belanghebbenden, al naargelang de situatie, behoren alle bed
 
 ### 5.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 5.12 Classificeren van informatie
 
@@ -167,7 +169,8 @@ Informatie behoort te worden geclassificeerd volgens de informatiebeveiligingsbe
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.12.01 Informatie in alle informatiesystemen is door middel van een expliciete risicoafweging geclassificeerd. Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.
+### 5.12.01 Informatie in alle informatiesystemen is door middel van een expliciete risicoafweging geclassificeerd. 
+### Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -187,11 +190,14 @@ Er behoren regels, procedures of overeenkomsten voor informatieoverdracht te zij
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.14.01 Internetfacing-informatiesystemen en e-mail-berichtenverkeer moeten blijvend voldoen aan de verplichte standaarden, zie hiervoor de website van het Forum Standaardisatie. Hierop wordt gestuurd met de metingen van internet.nl. Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
+### 5.14.01 Internetfacing-informatiesystemen en e-mail-berichtenverkeer moeten blijvend voldoen aan de verplichte standaarden, zie hiervoor de website van het Forum Standaardisatie. 
+### Hierop wordt gestuurd met de metingen van internet.nl. 
+### Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
 
 Draagt bij aan: Basishygiëne
 
-### 5.14.02 Maak bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten. Maak bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV-certificaten of private PKIo-certificaten. Hogere eisen aan certificaten kunnen voortvloeien uit een risicoanalyse, aansluitvoorwaarden of wetgeving.
+### 5.14.02 Maak bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten. 
+### Maak bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV-certificaten of private PKIo-certificaten. Hogere eisen aan certificaten kunnen voortvloeien uit een risicoanalyse, aansluitvoorwaarden of wetgeving.
 
 Draagt bij aan: Basishygiëne
 
@@ -304,7 +310,7 @@ Draagt bij aan: Basishygiëne, ketenhygiëne
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
 ### 5.20.03 In het inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden. Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de toeleveringsketen en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie overheidsmaatregel 5.21.01. 
-Dit toont de leverancier jaarlijks opnieuw aan.
+### Dit toont de leverancier jaarlijks opnieuw aan.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -328,7 +334,6 @@ Er behoren processen en procedures te worden bepaald en geïmplementeerd om de i
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 5.21.01 In het contract is opgenomen dat de leverancier verantwoordelijk is voor het borgen van de gestelde eisen bij de toeleveranciers.
-
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -436,7 +441,7 @@ Op informatiebeveiligingsincidenten behoort te worden gereageerd in overeenstemm
 
 ### 5.26.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 5.27 Leren van informatiebeveiligingsincidenten
 
@@ -480,12 +485,12 @@ De ICT-gereedheid behoort te worden gepland, geïmplementeerd, onderhouden en ge
 
 ### 5.30.01 De proceseigenaar test jaarlijks continuïteitsplannen op werking, volledigheid en actualiteit, om de plannen te verbeteren.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 ### 5.30.02 Binnen de inventarisatie van beheersmaatregel 5.12, identificeert de proceseigenaar kritieke systemen op basis van de vastgestelde risicomanagementmethodiek en een expliciete risicoafweging. 
-De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.
+### De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 5.31 Wettelijke, statutaire, regelgevende en contractuele eisen
 
@@ -505,7 +510,7 @@ De organisatie behoort passende procedures te implementeren om intellectuele-eig
 
 ### 5.32.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 5.33 Beschermen van registraties
 
@@ -579,7 +584,7 @@ In arbeidsovereenkomsten behoort te worden vermeld wat de verantwoordelijkheden 
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 6.02.01 Alle medewerkers (intern en extern) zijn bij hun aanstelling of functiewisseling gewezen op hun verantwoordelijkheden voor informatiebeveiliging. 
-De voor hen geldende regelingen en instructies voor informatiebeveiliging zijn eenvoudig toegankelijk.
+### De voor hen geldende regelingen en instructies voor informatiebeveiliging zijn eenvoudig toegankelijk.
 
 Draagt bij aan: Basishygiëne
 
@@ -598,14 +603,6 @@ Draagt bij aan: Basishygiëne
 Draagt bij aan: Basishygiëne
 
 ### 6.03.03 Het management benadrukt bij aanstelling en interne overplaatsing en bijvoorbeeld in werkoverleggen of in personeelsgesprekken bij zijn medewerkers en contractanten het belang van opleiding en training op het gebied van informatiebeveiliging. Het management stimuleert hen actief deze periodiek te volgen.
-
-Draagt bij aan: Basishygiëne
-
-### 6.03.04 In bewustwordingsprogramma's komen gedragsaspecten van veilig mobiel werken aan de orde.
-
-Draagt bij aan: Basishygiëne
-
-### 6.03.05 Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.
 
 Draagt bij aan: Basishygiëne
 
@@ -761,15 +758,15 @@ Opslagmedia behoren te worden beheerd gedurende hun volledige levenscyclus van a
 
 ### 7.10.01 Er is een verwijderinstructie waarin is opgenomen dat van verwijderbare media die herbruikbaar zijn en die de organisatie verlaten, de bedrijfsgevoelige inhoud onherstelbaar verwijderd is.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 ### 7.10.02 Voor het wissen van alle data op het medium, wordt de data onherstelbaar verwijderd of onbeschikbaar gemaakt. Er wordt gecontroleerd of alle data onherstelbaar verwijderd is. Hiervan wordt verslag gemaakt. Er wordt bij voorkeur gebruik gemaakt van producten waarvoor de Unit Weerbaarheid van het Nationaal Bureau voor Verbindingsbeveiliging (NBV) een positief inzetadvies afgegeven heeft.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 ### 7.10.03 Het gebruik van koeriers of transporteurs voor transport van geclassificeerde informatie voldoet aan vooraf opgestelde betrouwbaarheidseisen.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 7.11 Nutsvoorzieningen
 
@@ -822,11 +819,12 @@ Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user
 Draagt bij aan: Basishygiëne
 
 ### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd: 
+* In bewustwordingsprogramma’s komen gedragsaspecten van veilig mobiel werken aan de orde.
 * Het apparaat maakt deel uit van patchmanagement en hardening.
 * Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of van Mobile Application Management (MAM)-oplossingen. 
 * Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
 
-Periodiek wordt getoetst of de punten in lid 1. en 2. worden nageleefd.
+Periodiek wordt getoetst of de punten in lid 1., 2. en 3. worden nageleefd.
 
 Draagt bij aan: Basishygiëne 
 
@@ -862,7 +860,7 @@ Lees- en schrijftoegang tot broncode, ontwikkelinstrumenten en softwarebibliothe
 
 ### 8.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.05 Beveiligde authenticatie
 
@@ -882,7 +880,7 @@ Het gebruik van middelen behoort te worden gemonitord en aangepast overeenkomsti
 
 ### 8.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.07 Bescherming tegen malware
 
@@ -894,11 +892,15 @@ Bescherming tegen malware behoort te worden geïmplementeerd en ondersteund door
 
 Draagt bij aan: Basishygiëne 
 
-### 8.07.02 De gebruikte antimalwaresoftware en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates. 
+### 8.07.02 Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links. 
 
 Draagt bij aan: Basishygiëne
 
-### 8.07.03 De malwarescan wordt uitgevoerd op: 
+### 8.07.03 De gebruikte antimalwaresoftware en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates. 
+
+Draagt bij aan: Basishygiëne
+
+### 8.07.04 De malwarescan wordt uitgevoerd op: 
 * alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie;
 * alle gedownloade content voorafgaand aan executie of opslag;
 * alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
@@ -943,7 +945,7 @@ Configuraties, met inbegrip van beveiligingsconfiguraties, van hardware, softwar
 
 ### 8.09.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.10 Wissen van informatie
 
@@ -953,7 +955,7 @@ In informatiesystemen, apparaten of andere opslagmedia opgeslagen informatie beh
 
 ### 8.10.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.11 Maskeren van gegevens
 
@@ -963,7 +965,7 @@ Gegevens behoren te worden gemaskeerd overeenkomstig het onderwerpspecifieke bel
 
 ### 8.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.12 Voorkomen van gegevenslekken (data leakage prevention)
 
@@ -973,7 +975,7 @@ Maatregelen om gegevenslekken te voorkomen, behoren te worden toegepast in syste
 
 ### 8.12.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.13 Back-up van informatie
 
@@ -1005,7 +1007,7 @@ Informatieverwerkende faciliteiten behoren met voldoende redundantie te worden g
 
 ### 8.14.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.15 Logging
 
@@ -1051,7 +1053,7 @@ Netwerken, systemen en toepassingen behoren te worden gemonitord op afwijkend ge
 
 ### 8.16.01 Bij ontdekte nieuwe dreigingen (aanvallen) via overheidsmaatregel 8.16.3 worden deze binnen geldende juridische kaders verplicht gedeeld met de daarvoor aangewezen Computer Emergency Response Team (CERT).
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Basishygiëne, Overheidsrisico
 
 ### 8.16.02 Het SIEM- en/of het SOC monitoring-proces hebben eenduidige regels over wanneer een incident moet worden gerapporteerd aan het verantwoordelijk management.
 
@@ -1073,7 +1075,7 @@ De klokken van informatieverwerkende systemen die door de organisatie worden geb
 
 ### 8.17.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.18 Gebruik van speciale systeemhulpmiddelen
 
@@ -1083,11 +1085,11 @@ Het gebruik van systeemhulpmiddelen die in staat kunnen zijn om beheersmaatregel
 
 ### 8.18.01 Alleen bevoegd personeel heeft op die momenten dat toegang strikt noodzakelijk is toegang tot systeemhulpmiddelen.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 ### 8.18.02 Het gebruik van systeemhulpmiddelen wordt gelogd. De logging is een halfjaar beschikbaar voor onderzoek.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.19 Installeren van software op operationele systemen
 
@@ -1097,7 +1099,7 @@ Er behoren procedures en maatregelen te worden geïmplementeerd om het installer
 
 ### 8.19.01 Het risico van installatie door gebruikers van niet geautoriseerde software moet worden beheerst.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.20 Beveiliging netwerkcomponenten
 
@@ -1107,11 +1109,11 @@ Netwerken en netwerkapparaten behoren te worden beveiligd, beheerd en beheerst o
 
 ### 8.20.01 Netwerkcomponenten moeten minimaal voldoen aan het vertrouwelijkheidsniveau van het netwerk waarvan ze onderdeel zijn.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 ### 8.20.02 Toegang tot beheerinterfaces van netwerkcomponenten moet (zo veel als mogelijk en risicogericht) gescheiden zijn van het gebruikersnetwerk.
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.21 Beveiliging van netwerkdiensten
 
@@ -1122,7 +1124,6 @@ Beveiligingsmechanismen, dienstverleningsniveaus en dienstverleningseisen voor a
 ### 8.21.01 In koppelpunten met externe of onvertrouwde zones en vanwege netwerksegmentatie zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beïnvloeden (bijvoorbeeld DDoS-aanvallen, Distributed Denial of Service attacks) te signaleren en te mitigeren.
 
 Draagt bij aan: Basishygiëne
-
 
 ### 8.21.02 Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt/geanalyseerd op verdacht verkeer met detectievoorzieningen
 
@@ -1157,7 +1158,7 @@ De toegang tot externe websites behoort te worden beheerd om de blootstelling aa
 
 ### 8.23.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.24 Gebruik van cryptografie
 
@@ -1230,7 +1231,7 @@ Er behoren principes voor veilig coderen te worden toegepast op softwareontwikke
 
 ### 8.28.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.29 Testen van de beveiliging tijdens ontwikkeling en acceptatie
 
@@ -1291,7 +1292,7 @@ Testgegevens behoren op passende wijze te worden geselecteerd, beschermd en behe
 
 ### 8.33.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
 # Beheersmaatregel 8.34 Bescherming van informatiesystemen tijdens audits
 
@@ -1301,5 +1302,5 @@ Audittests en andere auditactiviteiten waarbij operationele systemen worden beoo
 
 ### 8.34.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
-Draagt bij aan: Basishygiëne
+Draagt bij aan: Overheidsrisico
 
