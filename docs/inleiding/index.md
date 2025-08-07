@@ -10,8 +10,13 @@ hide:
 
 Deze versie zal worden ingebracht in het OBDO voor bestuurlijke besluitvorming. De BIO2 bestaat uit drie delen: 1) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen, en 3) een bijlage (in ontwikkeling) met daarin een toelichting en nadere uitleg over best practices.
 
-Versie 1.1 Diverse tekstuele aanpassingen
-Versie 1.1.1 Nog wat kleine tekstuele aanpassingen en gelijk trekken Word- en Excel-versie
+## Wijzigingsbeheer
+| Versie | Datum | Wijziging | Door |
+| :--- | :--- | :--- | --- |
+| 1.0 | 25-03-2025 | Eerste conceptversie met instemming van het Kern-IBO | BZK |
+| 1.1 | 28-03-2025 |    | CIP |
+| 1.1.1 | 05-08-2025 | Enkele aanpassingen, maatregel 5.18.01 en 7.02.02 verwijderd, de kolom "draagt bij aan" consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO | CIP |
+
 
 ## Copyright notitie
 
