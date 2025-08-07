@@ -15,7 +15,7 @@ Deze versie zal worden ingebracht in het OBDO voor bestuurlijke besluitvorming. 
 | :--- | :--- | :--- | --- |
 | 1.0 | 25-03-2025 | Eerste conceptversie met instemming van het Kern-IBO | BZK |
 | 1.1 | 28-03-2025 |    | CIP |
-| 1.1.1 | 05-08-2025 | Enkele aanpassingen, maatregel 5.18.01 en 7.02.02 verwijderd, de kolom "draagt bij aan" consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO | CIP |
+| 1.1.1 | 05-08-2025 | Enkele aanpassingen, de kolom "draagt bij aan" consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO | CIP |
 
 
 ## Copyright notitie
