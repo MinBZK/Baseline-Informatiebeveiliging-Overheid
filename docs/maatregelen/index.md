@@ -1,5 +1,5 @@
 ---
-title: Verplichte overheidsmaatregelen, Baseline Informatiebeveiliging (BIO2), versie 1.1.1, 5 augustus 2025
+title: Baseline Informatiebeveiliging (BIO2), Deel 2 BIO2-Kader, Verplichte overheidsmaatregelen, versie 1.1.1, 5 augustus 2025
 summary: De verplichte maatregelen en richtlijnen voor overheden uit de BIO2
 hide:
   - navigation
