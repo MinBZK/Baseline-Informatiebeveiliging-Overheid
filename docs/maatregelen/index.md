@@ -463,7 +463,7 @@ De organisatie behoort procedures vast te stellen en te implementeren voor het i
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.28.01 De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en van alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar. Dit betreft onder meer de informatie benodigd voor de analyse (waaronder logging), de oplossing en het advies.
+### 5.28.01 De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar. Dit betreft onder meer de informatie benodigd voor de analyse (waaronder logging), de oplossing en het advies.
 
 Draagt bij aan: Basishygiëne
 
@@ -553,7 +553,7 @@ De naleving van het informatiebeveiligingsbeleid, het onderwerpspecifieke beleid
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.36.01 In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging, onder coördinatie van de CISO. Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument. De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
+### 5.36.01 In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging, onder coördinatie van de CISO. Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de overheidsorganisatie. De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
 
 Draagt bij aan: Basishygiëne
 
@@ -929,7 +929,7 @@ Draagt bij aan: Basishygiëne
 
 Draagt bij aan: Basishygiëne
 
-### 8.08.05 Internetfacing-informatiesystemen hebben een verplichte (bij voorkeur geautomatiseerde) penetratietest bij iedere nieuwe release of major update. Als daar bevindingen met een hoog risico uitkomen die niet op een andere manier gemitigeerd kunnen worden, mag het systeem niet in productie. Alle internetfacing-informatiesystemen worden  jaarlijks getest op zwakheden en kwetsbaarheden.
+### 8.08.05 Internetfacing-informatiesystemen hebben een verplichte (bij voorkeur geautomatiseerde) penetratietest bij iedere nieuwe release of major update. Als daar bevindingen met een hoog risico uitkomen die niet op een andere manier gemitigeerd kunnen worden, mag het systeem niet in productie. Alle internetfacing-informatiesystemen worden minimaal jaarlijks getest op zwakheden en kwetsbaarheden.
 
 Draagt bij aan: Basishygiëne
 
