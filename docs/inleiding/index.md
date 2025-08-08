@@ -1,5 +1,5 @@
 ---
-title: Baseline Informatiebeveiliging (BIO2), versie 1.1.1, datum 5 augustus 2025
+title: Baseline Informatiebeveiliging (BIO2), Deel 1 BIO2-Kader, versie 1.1.1, datum 5 augustus 2025
 summary: Dit document bevat de inleiding, context en werkwijze van de Baseline Informatiebeveiliging Overheid (BIO2). 
 hide:
   - navigation
