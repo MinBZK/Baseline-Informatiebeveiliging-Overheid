@@ -14,13 +14,13 @@ jobs:
     name: deploy PR
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Add url
         run: |
           echo "site_url: https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/pr-preview/pr-${{github.event.number}}" >> mkdocs.yml
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         if: github.event.action != 'closed' 
         with:
           python-version: 3.x
