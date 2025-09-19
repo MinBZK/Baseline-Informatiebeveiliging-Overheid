@@ -221,8 +221,8 @@ Er behoren regels op basis van bedrijfs- en informatiebeveiligingseisen te worde
 ## Verplichte overheidsspecifieke maatregelen
 
 ### 5.15.01 Toegang tot een vertrouwde zone is toegestaan in twee situaties: 
-1. vanaf geauthentiseerde apparatuur of; 
-2. vanuit programmatuur die draait binnen een veilige schil.
+### 1. vanaf geauthentiseerde apparatuur of; 
+### 2. vanuit programmatuur die draait binnen een veilige schil.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -337,7 +337,7 @@ Er behoren processen en procedures te worden bepaald en geïmplementeerd om de i
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.21.02 Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risicoís daarin. De overheidsorganisatie beoordeelt of de risicoís acceptabel zijn. 
+### 5.21.02 Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico's daarin. De overheidsorganisatie beoordeelt of de risico's acceptabel zijn. 
 
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
@@ -347,7 +347,7 @@ Draagt bij aan: Basishygiëne, ketenhygiëne
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.21.04 Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risicoís daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de overheidsorganisatie kunnen raken. 
+### 5.21.04 Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico's daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de overheidsorganisatie kunnen raken. 
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -429,7 +429,7 @@ De organisatie behoort informatiebeveiligingsgebeurtenissen te beoordelen en te 
 
 ## Verplichte overheidsspecifieke maatregelen
 
-### 5.25.01 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. Ze worden indien relevant gemeld bij toezichthouders volgens de bepalingen uit de betrokken wet- en regelgeving zoals de CBW, de Archiefwet en de Algemene verordening gegevensbescherming (AVG).
+### 5.25.01 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. Ze worden indien relevant gemeld bij toezichthouders volgens de bepalingen uit de betrokken wet- en regelgeving zoals de Cbw, de Archiefwet en de Algemene verordening gegevensbescherming (AVG).
 
 Draagt bij aan: Basishygiëne, overheidsrisico
 
@@ -1021,7 +1021,7 @@ Er behoren logbestanden waarin activiteiten, uitzonderingen, fouten en andere re
 * Resultaat: het resultaat van de gebeurtenis of handeling.
 * Oorsprong: het apparaat of de netwerklocatie van waaruit de gebeurtenis of handeling in gang is gezet.
 * Actor: identificatie van de persoon die of het proces dat de gebeurtenis in gang heeft gezet.
-* Tijdstempel: datum en tijdstip waarop de gebeurtenis of handling plaatsvond.
+* Tijdstempel: datum en tijdstip waarop de gebeurtenis of handeling plaatsvond.
 
 Draagt bij aan: Basishygiëne
 
