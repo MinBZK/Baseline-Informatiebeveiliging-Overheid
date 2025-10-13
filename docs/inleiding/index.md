@@ -53,10 +53,9 @@ De BIO is samengesteld uit de aanpak van NEN-EN-ISO/IEC 27001 (nl) (het manageme
 
 ## 3. Toepassing BIO
 Met de Cbw is de BIO verplicht voor alle organisaties die vallen onder de sector ‘Overheid’ en geldt voor alle netwerk- en informatiesystemen, zowel digitaal als fysiek, binnen deze organisaties.
-De BIO is van toepassing op de informatiebeveiliging van alle typen omgevingen, onder andere operationele technologie (OT) en zorginformatie en brengt deze op het noodzakelijke niveau met behulp van normen en richtlijnen zoals NEN 7510 Informatiebeveiliging in de zorg en Cybersecurity implementatierichtlijn (CSIR).,br><BR>
+De BIO is van toepassing op de informatiebeveiliging van alle typen omgevingen, onder andere operationele technologie (OT) en zorginformatie en brengt deze op het noodzakelijke niveau met behulp van normen en richtlijnen zoals NEN 7510 Informatiebeveiliging in de zorg en Cybersecurity implementatierichtlijn (CSIR).<br><BR>
 Deel 1 BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een verplichtend karakter en moeten altijd gevolgd worden. Deel 3 Toelichting is een verzameling, uitwerking en verduidelijking op sommige punten van het kader en de overheidsmaatregelen. Deel 3 zal ontsloten worden op de website https://www.bio-overheid.nl.<br><br>
-Een informatiesysteem is “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.” Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie.<br><br>
-_Een informatiesysteem is "een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie". Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
+_Een informatiesysteem is “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.” Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
 
 ## 4. Verplichtingen BIO
 De BIO stelt de volgende verplichtingen aan overheidsorganisaties:,<BR><BR>
@@ -145,34 +144,37 @@ Het is vanuit NEN-EN-ISO/IEC 27001 verplicht om een reikwijdte, ook wel scope, v
 Het publiceren van de reikwijdte en de VvT is daarom verplicht voor een overheidsorganisatie. 
 Een voorbeeld van een VvT wordt gepubliceerd op de website van de BIO [in ontwikkeling].
 
-## Toezicht 
-De BIO-aanpak is de basis voor het invullen van zorgplicht van de Cbw door overheden. NEN-EN-ISO/IEC 27001 en 27002 vormen de basis van de BIO. Het is aangeraden voor toezichthouders om deze standaarden te hanteren. De elementen uit het ISMS vormen de basis om het managementsysteem te toetsen, inclusief de verplichte overheidsmaatregelen uit de BIO.
+## 19. Toezicht
+De BIO-aanpak is de basis voor het invullen van zorgplicht van de Cbw door overheden. 
+NEN-EN-ISO/IEC 27001 en 27002 vormen de basis van de BIO. Het is aangeraden voor toezichthouders om deze standaarden te hanteren. De elementen uit het ISMS vormen de basis om het managementsysteem te toetsen, inclusief de verplichte overheidsmaatregelen uit de BIO.<br><BR>
+De BIO verplicht geen NEN-EN-ISO/IEC 27001-certificering. Certificering draagt wel bij aan het vereenvoudigen van de verantwoording en geeft op basis van een onafhankelijke beoordeling aan dat de organisatie in staat is om informatiebeveiliging procesmatig uit te 
+voeren. 
 
-De BIO verplicht geen NEN-EN-ISO/IEC 27001-certificering. Certificering draagt wel bij aan het vereenvoudigen van de verantwoording en geeft op basis van een onafhankelijke beoordeling aan dat de organisatie in staat is om informatiebeveiliging procesmatig uit te voeren.
+## 20. Toepasselijke overige normen, wet- en regelgeving
+De BIO bevat overheidsmaatregelen die in lijn zijn met andere wet- en regelgeving, maar is daarin zeker niet uitputtend.<br><br>
+De BIO is expliciet niet bedoeld om alle beveiligingseisen van de overheid af te dekken.
+De verschillende overheidslagen hebben te maken met specifieke dreigingen. 
+Het staat ze vrij om voor hun overheidslagen specifieke aanvullende maatregelen te benoemen en die, afhankelijk van de interne besluitvorming, verplichtend of adviserend door te voeren. 
+Daarnaast is elke overheidsorganisatie zelf verantwoordelijk om vast te stellen welke interne en externe eisen, waaronder ook wet- en regelgeving, van toepassing zijn.<br><br>
+Binnen de overheid gelden meerdere normen voor informatiebeveiliging. 
+Naast de BIO zijn er bijvoorbeeld de Nederlandse normen NEN 7510 Informatiebeveiliging in de zorg voor verwerkers van zorginformatie, NEN-EN-ISO 22301 Managementsystemen voor bedrijfscontinuïteit en crisismanagement en de CSIR voor OT. 
+De basis van die normen is de internationale norm NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002.
+Managementsystemen en beheersmaatregelen volgens deze normen kunnen worden geïntegreerd in een managementsysteem voor informatiebeveiliging op basis van NEN-EN-ISO/IEC 27001. 
+Daarmee vallen de twee onderdelen samen: risicomanagement en maatregelen die specifiek passen bij de context.
 
-## Toepasselijke overige normen, wet- en regelgeving
+## 21. Cyberbeveiligingswet (Cbw)
+Voor overheden is in de Cbw vastgelegd op welke wijze de zorgplicht voor informatiebeveiliging moet worden ingevuld. 
+Hieronder volgt een samenvatting van de belangrijkste punten die betrekking hebben op het toepassen van de BIO:<br><br>
+**Verplichting BIO**: de BIO is via de Cbw verplicht voor alle organisaties die vallen onder de sector ‘Overheid’.<br><br>
+**Verantwoordelijkheid bestuurder**: De bestuurder is verantwoordelijk voor: 
+* het treffen van passende en evenredige technische, operationele en organisatorische maatregelen om de risico’s te beheren en afgestemd op de voor de organisatie relevante risico’s en deze beheersen; 
+* het goedkeuren van te nemen maatregelen voor het beheer van cyberbeveiligingsrisico’s; 
+* het toezien op de kwaliteit van de uitvoering en het beheer van de maatregelen. 
 
-De BIO bevat overheidsmaatregelen die in lijn zijn met andere wet- en regelgeving, maar is daarin zeker niet uitputtend.
-
-De BIO is expliciet niet bedoeld om alle beveiligingseisen van de overheid af te dekken. De verschillende overheidslagen hebben te maken met specifieke dreigingen. Het staat ze vrij om voor hun overheidslagen specifieke aanvullende maatregelen te benoemen en die, afhankelijk van de interne besluitvorming, verplichtend of adviserend door te voeren. Daarnaast is elke overheidsorganisatie zelf verantwoordelijk om vast te stellen welke interne en externe eisen, waaronder ook wet- en regelgeving, van toepassing zijn.
-
-Binnen de overheid bestaan meerdere normen voor informatiebeveiliging. Naast de BIO zijn er bijvoorbeeld de Nederlandse normen NEN 7510 Informatiebeveiliging in de zorg voor verwerkers van zorginformatie, NEN-EN-ISO 22301 Managementsystemen voor bedrijfscontinuïteit en crisismanagement en de CSIR voor OT. De basis van die normen is de internationale norm NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002. Managementsystemen en beheersmaatregelen volgens deze normen kunnen worden geïntegreerd in een managementsysteem voor informatiebeveiliging op basis van NEN-EN-ISO/IEC 27001. Daarmee vallen de twee onderdelen samen: risicomanagement en maatregelen die specifiek passen bij de context. 
-
-### Cyberbeveiligingswet (Cbw)
-Voor overheden is in de Cbw vastgelegd op welke wijze de zorgplicht voor informatiebeveiliging moet worden ingevuld. Hieronder volgt een samenvatting van de belangrijkste punten die betrekking hebben op het toepassen van de BIO:
-
-- **Verplichting BIO**: de BIO is via de Cbw verplicht voor alle organisaties die vallen onder de sector 'Overheid'.   
-
-- **Verantwoordelijkheid bestuurder**: de bestuurder is verantwoordelijk voor:
-	* het treffen van passende en evenredige technische, operationele en organisatorische maatregelen om de risico’s te beheren en afgestemd op de voor de organisatie relevante risico’s en deze beheersen;
-	* het goedkeuren van te nemen maatregelen voor het beheer van cyberbeveiligingsrisico’s; 
-	* het toezien op de kwaliteit van de uitvoering en het beheer van de maatregelen.
-
-- **Opleiding**: bestuurders moeten opgeleid zijn en kennis hebben om te kunnen sturen op informatiebeveiligingsrisico's. En bestuurders moeten ervoor zorgen dat hun werknemers regelmatig opleiding/training volgen over het onderwerp. Dit betekent dat de opleiding moet voldoen aan \[invulling Cbw voor de sector 'Overheid'\].
-
-- **Meldplicht**: de organisatie is verantwoordelijk voor het tijdig melden van incidenten. Overheden moeten binnen de doorlooptijden [invulling Cbw voor de sector 'Overheid'] een melding maken van een meldplichtig incident.
-
-- **Toezicht en verantwoording:** de toezichthouder zal toezicht houden op de invulling van de zorgplicht volgens de Cbw. De RDI is als toezichthouder aangewezen voor de sector 'Overheid'.  
+**Opleiding**: bestuurders moeten opgeleid zijn en kennis hebben om te kunnen sturen op informatiebeveiligingsrisico’s. En bestuurders moeten ervoor zorgen dat hun werknemers regelmatig opleiding/training volgen over het onderwerp. Dit betekent dat de opleiding 
+moet voldoen aan [invulling Cbw voor de sector ‘Overheid’].<br><br>
+**Meldplicht**: de organisatie is verantwoordelijk voor het tijdig melden van incidenten. Overheden moeten binnen de doorlooptijden [invulling Cbw voor de sector ‘Overheid’] een melding maken van een meldplichtig incident.<br><br>
+**Toezicht en verantwoording**: de toezichthouder zal toezicht houden op de invulling van de zorgplicht volgens de Cbw. De RDI is als toezichthouder aangewezen voor de sector ‘Overheid’. 
 
 ## Governance
 De bestuurder van een overheidsorganisatie is verantwoordelijk voor het beheersen van informatiebeveiligingsrisico's. De bestuurder kan dat niet alleen. Om informatiebeveiliging gedegen in te regelen, is een structuur nodig. Het is aan de organisatie om deze structuur aan te brengen volgens NEN-EN-ISO/IEC 27001.
