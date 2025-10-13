@@ -212,39 +212,48 @@ De CISO:
 Interne toezichthouder<br><br>
 Een bestuurder moet toezien op de toepassing van informatiebeveiliging in de organisatie. Een interne toezichthouder kan helpen bij dit toezicht.  
 
-## Leveranciers
-Leveranciers bieden diensten en/of producten aan overheidsorganisaties. Een overheidsorganisatie blijft zelf verantwoordelijk voor het behandelen van risico's die betrekking hebben op de uitbestede of ingekochte dienst of product.
-
+## 23. Leveranciers 
+Leveranciers bieden diensten en/of producten aan overheidsorganisaties. 
+Een overheidsorganisatie blijft zelf verantwoordelijk voor het behandelen van risico’s die betrekking hebben op de uitbestede of ingekochte dienst of product.<br><br>
 Afhankelijk van het risico behoren daarom verplichtingen van de overheid die volgen uit de BIO of uit andere richtlijnen te worden meegenomen bij het samenstellen van inkoopeisen aan leveranciers. 
 
-## Informatiebeveiligingsprincipes
-Overheidsmaatregelen uit BIO moeten risicogericht worden toegepast en geoperationaliseerd. Daarbij is het praktisch om informatiebeveiligingsprincipes te definiëren en toe te passen zoals security by design & default, toegang op basis van need to know, assume breach, zero trust, shit happens, dingen gaan fout, defense in depth e.d.
+## 24. Informatiebeveiligingsprincipes
+Overheidsmaatregelen moeten risicogericht worden toegepast en geoperationaliseerd. 
+Daarbij is het praktisch om informatiebeveiligingsprincipes te definiëren en toe te passen zoals security by design & default, toegang op basis van need to know, assume breach, zero trust, dingen gaan fout, defense in depth et cetera. 
 
-## Operationaliseren maatregelen / balans in de maatregelenset
-De BIO bevat maatregelen op tactisch niveau, die geoperationaliseerd moeten worden. Hierbij is het belangrijk om in de maatregelenset balans te houden tussen:
-- Beschikbaarheids-, integriteits-, vertrouwelijkheidsmaatregelen.
-- Organisatorische/proces-, mensen/gedrag, applicatieve/technische maatregelen.
-- Identificeren, beschermen, detecteren, reageren en herstellen.
+## 25. Operationaliseren maatregelen/balans in de maatregelenset 
+De BIO bevat maatregelen op tactisch niveau, die geoperationaliseerd moeten worden.
+Hierbij is het belangrijk om in de maatregelenset balans te houden tussen: 
+* Beschikbaarheids-, integriteits- en vertrouwelijkheidsmaatregelen. 
+* Organisatorische/proces-, mensen/gedrag en applicatieve/technische maatregelen. 
+* Identificeren, beschermen, detecteren, reageren en herstellen. 
 
-## Treffen aanvullende maatregelen
-Overheden kennen verschillende soorten informatie. Het is aan de organisatie zelf om te bepalen welk typen informatie wordt verwerkt door de organisatie en welke aanvullende beveiligingsmaatregelen getroffen moeten worden. Bij deze afweging moeten in ieder geval – en niet uitsluitend - de volgende typen gegevens worden afgewogen:
-- Open data
-- (Bijzondere) persoonsgegevens
-- Gevoelige of interne informatie
-- Gerubriceerde informatie
+## 26. Treffen aanvullende maatregelen
+Overheden kennen verschillende soorten informatie. Het is aan de organisatie zelf om te bepalen welk typen informatie wordt verwerkt door de organisatie en welke aanvullende beveiligingsmaatregelen getroffen moeten worden. 
+Bij deze afweging moeten in ieder geval - en niet uitsluitend - de volgende typen gegevens worden afgewogen: 
+* Open data 
+* (Bijzondere) persoonsgegevens 
+* Gevoelige of interne informatie 
+* Gerubriceerde informatie 
 
-## Impact van risico's
-De impact van een informatiebeveiligingsincident hangt sterk af van de context. Overheidsorganisaties ondervinden vaak specifieke gevolgen door hun rol in de samenleving en democratie, hun bestuursstijl en hun verhouding tot de burgers. Bij het bepalen van de impact moeten minimaal onderstaande impactsgebieden worden afgewogen: 
-- Politieke schade aan een bestuurder
-- Diplomatieke schade
-- Financiële gevolgen
-- Directe imagoschade
-- Verlies van publiek respect of vertrouwen
-- Organisatiebrede negatieve publiciteit
-- Significant verlies van motivatie van medewerkers
-- Belangrijk verlies van management control
+## 27. Impact van risico’s
+De impact van een informatiebeveiligingsincident hangt sterk af van de context.
+Overheidsorganisaties ondervinden vaak specifieke gevolgen door hun rol in de samenleving en democratie, hun bestuursstijl en hun verhouding tot de burgers. 
+Bij het bepalen van de impact moeten minimaal onderstaande impactsgebieden worden afgewogen: 
+* Politieke schade aan een bestuurder 
+* Diplomatieke schade 
+* Financiële gevolgen 
+* Directe imagoschade
+* Verlies van publiek respect of vertrouwen 
+* Organisatiebrede negatieve publiciteit 
+* Significant verlies van motivatie van medewerkers 
+* Belangrijk verlies van management control 
 
-De impactgebieden kunnen ook bijdragen aan begrip bij de uitwisseling van impact met ketenpartners.
+De impactgebieden kunnen ook bijdragen aan begrip bij de uitwisseling van impact met 
+ketenpartners.
 
-## Relatie BIO en andere onderwerpen
-De BIO richt zich op informatiebeveiliging. Onderwerpen zoals privacybescherming, informatievoorziening, beheersprocessen en bedrijfscontinuïteit zijn aanpalend aan informatiebeveiliging. Voor deze onderwerpen zijn vaak aparte standaarden opgezet. Deze onderwerpen worden daarom niet uitgewerkt in de BIO. Daar waar nuttig wordt verwezen naar deze separate standaarden.
+## 28. Relatie BIO en andere onderwerpen 
+De BIO richt zich op informatiebeveiliging. Onderwerpen zoals privacybescherming, informatievoorziening, beheersprocessen, bedrijfscontinuïteit en dergelijke zijn aanpalend aan informatiebeveiliging. 
+Voor deze onderwerpen zijn vaak aparte standaarden opgezet. 
+Deze onderwerpen worden daarom niet uitgewerkt in de BIO. 
+Daar waar nuttig wordt verwezen naar deze separate standaarden.
