@@ -38,9 +38,9 @@ De Cyberbeveiligingswet (Cbw) verplicht organisaties in de sector ‘Overheid’
 
 ## 1. Leeswijzer 
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen: 
-− Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO. 
-− Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen. 
-− Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
+* Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO. 
+* Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen. 
+* Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
 Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. 
 Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld.
 
@@ -83,7 +83,7 @@ Het is belangrijk dat het managementsysteem voor informatiebeveiliging deel uitm
 Bij het bepalen van de reikwijdte van het managementsysteem moet een organisatie minimaal de bedrijfsprocessen en informatiesystemen opnemen die kritisch zijn voor haar dienstverlening. Het is aan de overheidsorganisaties zelf om te bepalen in welke mate de ondersteunende processen zijn opgenomen in het managementsysteem.<br><br>
 Waar overheden gelijkwaardige processen hanteren, is het aanbevolen om, waar beschikbaar, gebruik te maken van het ondersteuningsaanbod van de koepelorganisatie. 
 
-### 7. Samenhang managementsystemen 
+## 7. Samenhang managementsystemen 
 De BIO sluit aan op de [Harmonized Structure (HS)](https://www.nen.nl/managementsystemen/high-level-structure-hls), wat een consistente en uniforme structuur biedt voor managementsystemen, waardoor de integratie van verschillende (ISO-)normen voor managementsystemen wordt vereenvoudigd. Hierdoor wordt dubbel werk voorkomen en middelen efficiënter gebruikt. 
 Het biedt uniformiteit bij de implementatie van verschillende managementsystemen en vereenvoudigt de integratie van deze systemen.
 
@@ -96,17 +96,23 @@ Het risicomanagementproces verloopt in hoofdlijnen als volgt:
 4.	Risicobehandeling en maatregelenselectie
 5.	Kiezen Risicomanagementmethodiek
 
-### Contextbepaling
-NEN-EN-ISO/IEC 27001 vereist dat een organisatie eerst haar context vaststelt om relevante informatiebeveiligingsrisico’s te identificeren. De BIO vereist hierbij dat overheidsorganisaties minimaal de in de BIO beschreven context meenemen, waaronder de sector 'Overheid' en de specifieke informatiebeveiligingseisen. Dit omvat zowel interne als externe factoren die invloed hebben op de beveiliging van informatie(systemen), en de daarmee samenhangende wettelijke verplichtingen uit de Cbw.
+## 9. Contextbepaling
+NEN-EN-ISO/IEC 27001 vereist dat een organisatie eerst haar context vaststelt om relevante informatiebeveiligingsrisico’s te identificeren. 
+De BIO vereist hierbij dat overheidsorganisaties minimaal de in de BIO beschreven context meenemen, waaronder de sector ‘Overheid’ en de specifieke informatiebeveiligingseisen. 
+Dit omvat zowel interne als externe factoren die invloed hebben op de beveiliging van informatie(systemen), en de daarmee samenhangende wettelijke verplichtingen uit de Cbw.
 
-### Risico-identificatie
-In deze stap stelt de organisatie vast welke waardevolle informatie(verwerkende) middelen aanwezig zijn, brengt de relevante bedreigingen in kaart die daarop van invloed kunnen zijn, identificeert de kwetsbaarheden en bepaalt wat de potentiële consequenties zijn indien deze bedreigingen zich daadwerkelijk manifesteren. Hierbij worden uiteenlopende dreigingen en mogelijke scenario’s systematisch geïnventariseerd. Verschillende hulpmiddelen zoals de NEN-ISO/IEC 27005 of de NIST (CSF en SP 800-30) kunnen gebruikt worden. Voorbeelden hiervan zijn dreigingen die voortkomen uit ketenafhankelijkheden, op OT, of gegevensuitwisseling met zorginstellingen.
+## 10. Risico-identificatie
+In deze stap stelt de organisatie vast welke waardevolle informatie(verwerkende) middelen aanwezig zijn, brengt de relevante bedreigingen in kaart die daarop van invloed kunnen zijn, identificeert de kwetsbaarheden en bepaalt wat de potentiële consequenties zijn indien deze bedreigingen zich daadwerkelijk manifesteren. 
+Hierbij worden uiteenlopende dreigingen en mogelijke scenario’s systematisch geïnventariseerd. 
+Verschillende hulpmiddelen zoals de NEN-ISO/IEC 27005 of de NIST (CSF en SP 800-30) kunnen gebruikt worden. Voorbeelden hiervan zijn dreigingen die voortkomen uit ketenafhankelijkheden, op OT, of gegevensuitwisseling met zorginstellingen. 
 
-### Risicoanalyse
-De geïdentificeerde risico's worden vervolgens geanalyseerd en geclassificeerd op basis van hun waarschijnlijkheid en impact. Gebruik in dit proces de NEN-EN-ISO/IEC 27001-methoden voor het uitvoeren van risicoanalyses, ondersteund door richtlijnen uit de BIO. Het classificeren van risico's draagt bij aan een consistent beeld van de risicoprioriteiten binnen de organisatie en de overheid als geheel.
+## 11. Risicoanalyse
+De geïdentificeerde risico’s worden vervolgens geanalyseerd en geclassificeerd op basis van hun waarschijnlijkheid en impact. Gebruik in dit proces de NEN-EN-ISO/IEC 27001 methoden voor het uitvoeren van risicoanalyses, ondersteund door richtlijnen uit de BIO. 
+Het classificeren van risico’s draagt bij aan een consistent beeld van de risicoprioriteiten binnen de organisatie en de overheid als geheel.
 
-### Risicobehandeling en maatregelenselectie
-Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico's te mitigeren. NEN-EN-ISO/IEC 27001, bijlage A, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002. De BIO vult deze aan met verplicht toe te passen overheidsmaatregelen die aansluiten op de context van de overheid. Deze overheidsmaatregelen zijn altijd verplicht en kunnen ongeacht de risico-inschatting van de organisatie niet geaccepteerd worden, tenzij ze niet van toepassing kunnen zijn.
+## 12. Risicobehandeling en maatregelenselectie
+Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico's te mitigeren. NEN-EN-ISO/IEC 27001, bijlage A, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002. De BIO vult deze aan met verplicht toe te passen overheidsmaatregelen die aansluiten op de context van de overheid. 
+Deze overheidsmaatregelen zijn altijd verplicht en kunnen ongeacht de risico-inschatting van de organisatie niet geaccepteerd worden, tenzij ze niet van toepassing kunnen zijn.
 
 ### Kiezen Risicomanagementmethodiek
 Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansluit bij de NEN-EN-ISO/IEC 27001. Een risicomanagementmethodiek omvat ten minste de volgende onderdelen:
