@@ -35,40 +35,28 @@ In willekeurige volgorde danken wij de vertegenwoordigers van de koepels (Vereni
 De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers en bedrijven. 
 Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie en gegevens. 
 Om deel te kunnen nemen aan de samenleving moeten burgers en bedrijven informatie met de overheid delen, soms zelfs verplicht, en zijn zij afhankelijk van de overheid om informatie te ontvangen. De overheid heeft vanuit deze unieke rol de plicht om 
-zorgvuldig om te gaan met deze informatie. 
-
+zorgvuldig om te gaan met deze informatie.<br><br>
 De Cyberbeveiligingswet (Cbw) verplicht organisaties in de sector ‘Overheid’ de BIO2 als voornaamste invulling van de zorgplicht.
 
-## Leeswijzer
-De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen. 
-1) Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO.
-2) Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen.
-3) Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
+## 1. Leeswijzer
+De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen:
+− Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO.
+− Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen.
+− Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
+Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt.
+Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld.
 
-Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. 
+## 2. Doel van de BIO
+De Baseline Informatiebeveiliging Overheid (BIO) is het verplichte normenkader voor informatiebeveiliging binnen alle overheidsorganisaties. Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens.<br><br>
+Het doel van de BIO is om de informatieveiligheid overheidsbreed op een gemeenschappelijk basisniveau te brengen en daardoor ook de ketenpartners een basis van vertrouwen te geven bij gegevensuitwisseling. De BIO-aanpak vraagt inspanning door ketenorganisaties en eenduidige samenwerking.<br><br>
+Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als extern transparant te zijn over de wijze waarop informatiebeveiliging is ingericht. Met de BIO hanteert de overheid één gezamenlijke taal en een gezamenlijk doel voor informatiebeveiliging.<br><br>
+De BIO is samengesteld uit de aanpak van NEN-EN-ISO/IEC 27001 (nl) (het managementsysteem), de beheersmaatregelen en implementatierichtlijnen uit NEN-EN-ISO/IEC 27002 (nl) en aanvullende verplichte overheidsmaatregelen.
 
-Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld. 
-
-## Doel van de BIO
-
-De Baseline Informatiebeveiliging Overheid (BIO) is het verplichte normenkader voor informatiebeveiliging binnen alle overheidsorganisaties. Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens. 
-
-Het doel van de BIO is om de informatieveiligheid overheidsbreed op een gemeenschappelijk basisniveau te brengen en daardoor ook de ketenpartners een basis van vertrouwen te geven bij gegevensuitwisseling. De aanpak volgens de BIO vraagt inspanning door ketenorganisaties en eenduidige samenwerking.
-
-Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als extern transparant te zijn over de wijze waarop informatiebeveiliging is ingericht. Met de BIO hanteert de overheid één gezamenlijke taal en een gezamenlijk doel op het gebied van informatiebeveiliging.
-
-De BIO is samengesteld uit de aanpak van de NEN-EN-ISO/IEC 27001 (nl) (het managementsysteem), de beheersmaatregelen en implementatierichtlijnen uit NEN-EN-ISO/IEC 27002 (nl) en aanvullende verplichte overheidsmaatregelen.  
-
-## Toepassing BIO
-
-Met de Cbw is de BIO verplicht voor alle organisaties die vallen onder de sector 'Overheid' en geldt voor alle netwerk- en informatiesystemen, zowel digitaal als fysiek, binnen deze organisaties. 
-
-De BIO is van toepassing op de informatiebeveiliging van alle typen omgevingen, onder andere ook operationele technologie (OT) en zorginformatie en brengt deze op het noodzakelijke niveau met behulp van normen en richtlijnen zoals de NEN 7510 Informatiebeveiliging in de zorg en Cybersecurity implementatierichtlijn (CSIR). 
-
-Deel 1 BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een verplichtend karakter en moeten altijd gevolgd worden. Deel 3 Toelichting is een verzameling, uitwerking en verduidelijking op sommige punten van het kader en de overheidsmaatregelen. Deel 3 zal ontsloten worden op de website https://www.bio-overheid.nl.
-
-> [!NOTE]
-> _Een informatiesysteem is "een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie". Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
+## 3. Toepassing BIO
+Met de Cbw is de BIO verplicht voor alle organisaties die vallen onder de sector ‘Overheid’ en geldt voor alle netwerk- en informatiesystemen, zowel digitaal als fysiek, binnen deze organisaties.<br><br>
+De BIO is van toepassing op de informatiebeveiliging van alle typen omgevingen, onder andere operationele technologie (OT) en zorginformatie en brengt deze op het noodzakelijke niveau met behulp van normen en richtlijnen zoals NEN 7510 Informatiebeveiliging in de zorg en Cybersecurity implementatierichtlijn (CSIR).<br><br>
+Deel 1 BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een verplichtend karakter en moeten altijd gevolgd worden. Deel 3 Toelichting is een verzameling, uitwerking en verduidelijking op sommige punten van het kader en de overheidsmaatregelen. Deel 3 zal ontsloten worden op de website https://www.bio-overheid.nl.<br><br>
+Een informatiesysteem is “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.” Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie.
 
 ## Verplichtingen BIO
 
