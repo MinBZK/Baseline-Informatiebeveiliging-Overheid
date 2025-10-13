@@ -1,13 +1,13 @@
 ---
-title: Baseline Informatiebeveiliging (BIO2), Deel 1 BIO2-Kader, versie 1.1.1, datum 5 augustus 2025
+title: Baseline Informatiebeveiliging Overheid 2 (BIO2), Deel 1 BIO2-Kader, versie 1.2, datum 24 september 2025
 summary: Dit document bevat de inleiding, context en werkwijze van de Baseline Informatiebeveiliging Overheid (BIO2). 
 hide:
   - navigation
 ---
 
-!!! warning "BIO2 in besluitvorming" 
-	Deze BIO is het resultaat van de online raadpleging en input van veel andere partijen, waaronder de werkgroep BIO. Op dit moment staat deze bio ook gepubliceerd op de website [BIO-Overheid.nl] (https://www.bio-overheid.nl) als PDF en in spreadsheet formaat. Dit document bevat de laatste versie van de Baseline Informatiebeveiliging Overheid 2 (BIO2). 
-
+De originele versie van de BIO2 is gepubliceerd op de website [BIO-Overheid.nl] (https://www.bio-overheid.nl) als PDF-bestand.
+Deel 2 BIO-overheidsmaatregelen van de BIO2 is beschikbaar in spreadsheet-formaat. 
+	
 Deze versie zal worden ingebracht in het OBDO voor bestuurlijke besluitvorming. De BIO2 bestaat uit drie delen: 1) een inleiding waarin de context, verplichtingen en samenhang van de BIO worden uitgelegd, 2) de verplichte overheidsspecifieke beheersmaatregelen en implementatierichtlijnen, en 3) een bijlage (in ontwikkeling) met daarin een toelichting en nadere uitleg over best practices.
 
 ## Copyright notitie
