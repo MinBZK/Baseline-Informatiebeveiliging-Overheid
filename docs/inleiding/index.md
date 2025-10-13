@@ -1,5 +1,5 @@
 > [!Note]
-> _Op dit moment wordt de BIO2 versie 1.1.1 vervangen door versie 1.2._
+> _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2._
 
 De BIO2 versie 1.2 in pdf-formaat is goedgekeurd door de leden van het OBDO.
 Deel 2 BIO-overheidsmaatregelen van de BIO2 is beschikbaar in spreadsheet-formaat. 
@@ -176,39 +176,41 @@ moet voldoen aan [invulling Cbw voor de sector ‘Overheid’].<br><br>
 **Meldplicht**: de organisatie is verantwoordelijk voor het tijdig melden van incidenten. Overheden moeten binnen de doorlooptijden [invulling Cbw voor de sector ‘Overheid’] een melding maken van een meldplichtig incident.<br><br>
 **Toezicht en verantwoording**: de toezichthouder zal toezicht houden op de invulling van de zorgplicht volgens de Cbw. De RDI is als toezichthouder aangewezen voor de sector ‘Overheid’. 
 
-## Governance
-De bestuurder van een overheidsorganisatie is verantwoordelijk voor het beheersen van informatiebeveiligingsrisico's. De bestuurder kan dat niet alleen. Om informatiebeveiliging gedegen in te regelen, is een structuur nodig. Het is aan de organisatie om deze structuur aan te brengen volgens NEN-EN-ISO/IEC 27001.
-
-Voor overheden zijn er een aantal rollen die standaard deel uitmaken van informatiebeveiliging van een overheidsorganisatie. Deze rollen komen ook terug in de uitwerking van overheidsmaatregelen.
+## 22. Governance
+De bestuurder van een overheidsorganisatie is verantwoordelijk voor het beheersen van informatiebeveiligingsrisico’s. 
+De bestuurder kan dat niet alleen. 
+Om informatiebeveiliging gedegen in te regelen, is een structuur nodig. 
+Het is aan de organisatie om deze structuur aan te brengen volgens NEN-EN-ISO/IEC 27001. <br><BR>
+Voor overheden zijn er een aantal rollen die standaard deel uitmaken van informatiebeveiliging van een overheidsorganisatie. 
+Deze rollen komen ook terug in de uitwerking van overheidsmaatregelen. 
 
 ### Bestuurder
-De bestuurder is verantwoordelijk voor het treffen van passende en evenredige technische, operationele en organisatorische maatregelen en moet toezien op de naleving daarvan. Kortgezegd de bestuurder is verantwoordelijk voor risicomanagement, dat gericht is op het borgen van digitale weerbaarheid van de organisatie.  
-Voor de vier overheidslagen is voor de invulling van sector 'Overheid' binnen de Cbw gedefinieerd welke bestuurders worden bedoeld:
-
-- Gemeenten: \[Volgt uit invulling Cbw voor sector 'Overheid'\]
-- Provincies: \[Volgt uit invulling Cbw voor sector 'Overheid'\]
-- Rijksoverheid: \[Volgt uit invulling Cbw voor sector 'Overheid'\]
-- Waterschappen: \[Volgt uit invulling Cbw voor sector 'Overheid'\]
-
-De bestuurder laat zich daarbij adviseren door een Chief Information Security Officer (CISO), Chief Information Officer (CIO) en functionaris gegevensbescherming (FG) en dergelijke.
+De bestuurder is verantwoordelijk voor het treffen van passende en evenredige technische, operationele en organisatorische maatregelen en moet toezien op de naleving daarvan. 
+Kortgezegd de bestuurder is verantwoordelijk voor risicomanagement, dat gericht is op het borgen van digitale weerbaarheid van de organisatie.<br><br>
+Voor de vier overheidslagen is voor de invulling van de sector ‘Overheid’ binnen de Cbw gedefinieerd welke bestuurders worden bedoeld: 
+* Gemeenten: [Volgt uit invulling Cbw voor de sector ‘Overheid’] 
+* Provincies: [Volgt uit invulling Cbw voor de sector ‘Overheid’] 
+* Rijksoverheid: [Volgt uit invulling Cbw voor de sector ‘Overheid’] 
+* Waterschappen: [Volgt uit invulling Cbw voor de sector ‘Overheid’]
+  
+De bestuurder laat zich daarbij adviseren door een Chief Information Security Officer (CISO), Chief Information Officer (CIO), functionaris gegevensbescherming (FG) en dergelijke. 
 
 ### Lijnmanagement
+Het lijnmanagement: 
+* is de eigenaar van informatie(systemen) en is daarmee verantwoordelijk voor het identificeren van dreigingen en risico’s van deze informatie(systemen);
+* is verantwoordelijk voor het toepassen van de verplichte beheersmaatregelen en overheidsmaatregelen uit de BIO voor het informatiesysteem;
+* vraagt de CISO om advies, in alle gevallen waar het afwijkt van overheidsmaatregelen, ook waar dat expliciet als bevoegdheid genoemd is. 
 
-Het lijnmanagement; 
-- is de eigenaar van informatie(systemen) en is daarmee verantwoordelijk voor het identificeren van dreigingen en risico's van deze informatie(systemen);
-- is verantwoordelijk voor het toepassen van de verplichte beheersmaatregelen en overheidsmaatregelen uit de BIO voor het informatiesysteem;
-- vraagt de CISO om advies, in alle gevallen waar het afwijkt van overheidsmaatregelen, ook waar dat expliciet als bevoegdheid genoemd is.
+### CISO 
+De CISO: 
+* is verantwoordelijk voor de coördinatie van informatiebeveiliging; 
+* ondersteunt de bestuurder en moet gevraagd en ongevraagd advies kunnen geven aan de bestuurder; 
+* vertaalt wetgeving en bedrijfsdoelstellingen naar een informatiebeveiligingsbeleid; 
+* rapporteert aan het bestuur hoe het lijnmanagement het informatiebeveiligingsbeleid implementeert en op welke wijze wordt voldaan aan de BIO, om ervoor zorg te dragen dat de bestuurder geïnformeerde besluiten kan maken over de behandeling van informatiebeveiligingsrisico’s; 
+* is uitdrukkelijk niet verantwoordelijk voor informatiebeveiliging door het lijnmanagement.
 
-### CISO
-De CISO:
-- is verantwoordelijk voor de coördinatie van informatiebeveiliging; 
-- ondersteunt de bestuurder en moet gevraagd en ongevraagd advies kunnen geven aan de bestuurder;
-- vertaalt wetgeving en bedrijfsdoelstellingen naar een informatiebeveiligingsbeleid; 
-- rapporteert aan het bestuur hoe het lijnmanagement het informatiebeveiligingsbeleid implementeert en op welke wijze wordt voldaan aan de BIO, om ervoor zorg te dragen dat de bestuurder geïnformeerde besluiten kan maken over de behandeling van informatiebeveiligingsrisico's; 
-- is uitdrukkelijk niet verantwoordelijk voor de informatiebeveiliging door het lijnmanagement. 
-
-### Interne toezichthouder
-Een bestuurder moet toezien op de toepassing van informatiebeveiliging in de organisatie. Een interne toezichthouder kan helpen bij dit toezicht. 
+Interne toezichthouder<br><br>
+Een bestuurder moet toezien op de toepassing van informatiebeveiliging in de organisatie. Een interne toezichthouder kan helpen bij dit toezicht.  
 
 ## Leveranciers
 Leveranciers bieden diensten en/of producten aan overheidsorganisaties. Een overheidsorganisatie blijft zelf verantwoordelijk voor het behandelen van risico's die betrekking hebben op de uitbestede of ingekochte dienst of product.
