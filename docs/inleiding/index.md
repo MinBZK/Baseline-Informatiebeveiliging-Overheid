@@ -8,7 +8,7 @@ hide:
 De BIO2 versie 1.2 is goedgekeurd door de leden van het OBDO. De originele versie van de BIO2 is gepubliceerd op <https://www.bio-overheid.nl> als PDF-bestand.
 Deel 2 BIO-overheidsmaatregelen van de BIO2 is beschikbaar in spreadsheet-formaat. 
 
-## Copyright-notitie
+# Copyright-notitie
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is geheel gestructureerd volgens NEN-EN-ISO/IEC 27001, bijlage A en NEN-EN-ISO/IEC 27002. Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden 
 voor de publieke sector, volgens het pas-toe-of-leg-uit principe. 
 Dit betekent dat de overheid deze normen toepast tenzij er expliciet geformuleerde redenen zijn om dat niet te doen. De BIO2 beschrijft de invulling van de laatste versie van de NEN-EN-ISO/IEC 27001 en de NEN-EN-ISO/IEC 27002 voor de overheid. De BIO2 vervangt deze twee 
@@ -19,7 +19,7 @@ De ISO-documenten geven dus de details voor de toepassing, die niet in de BIO2 z
 Het gebruik van NEN-EN-ISO/IEC-normen 27001 en 27002 in de BIO is auteursrechtelijk beschermd. Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van het Nederlands  Normalisatie Instituut. 
 Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.nl.
 
-## Wijzigingsbeheer
+# Wijzigingsbeheer
 | Versie | Datum | Wijziging | Door |
 | :--- | :--- | :--- | --- |
 | 1.0 | 25-03-2025 | Eerste conceptversie met instemming van het kern-IBO.  | BZK |
@@ -27,8 +27,11 @@ Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.n
 | 1.1.1 | 05-08-2025 | Enkele aanpassingen, de kolom “draagt bij aan” consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO. | CIP |
 | 1.2 | 24-09-2025 | Voor het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) vastgestelde versie inclusief nieuwe opmaak. | CIP |
 
-# Deel 1 BIO2-Kader
+# Dankwoord
+Wij danken iedereen die direct of indirect heeft bijgedragen aan de totstandkoming van de BIO2. 
+In willekeurige volgorde danken wij de vertegenwoordigers van de koepels (Vereniging van Nederlandse Gemeenten, Interprovinciaal Overleg en Unie van Waterschappen), Chief Information Security Officers (CISO’s) van overheidsorganisaties, de Auditdienst Rijk (ADR), de Rijksinspectie Digitale Infrastructuur (RDI), medewerkers van ministeries, het Nationaal Cyber Security Centrum (NCSC), het Centrum Informatiebeveiliging en Privacybescherming (CIP), de informatiebeveiligingsdienst voor gemeenten (IBD), de leden van de werkgroep BIO, bestuurders en functionarissen van overheden en alle anderen die hebben bijgedragen.
 
+# Deel 1 BIO2-Kader
 Versienummer 1.1.1 definitief, 5 augustus 2025 
 In deze versie zijn termen geüniformeerd, nummercorrectie, taalkundige aanpassingen en overheidsmaatregel 5.19.01 ingekort.
 
