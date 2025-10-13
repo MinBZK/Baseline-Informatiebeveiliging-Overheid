@@ -61,26 +61,19 @@ Deel 1 BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een
 Een informatiesysteem is “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.” Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie.<br><br>
 _Een informatiesysteem is "een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie". Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
 
-## Verplichtingen BIO
-
-De BIO stelt de volgende verplichtingen aan overheidsorganisaties:
-
-- **NEN-EN-ISO/IEC 27001 moet worden toegepast op het formuleren van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.**
-Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.
-
-- **NEN-EN-ISO 27002 én de verplichte overheidsspecifieke maatregelen en richtlijnen uit de BIO moet worden toegepast op het formuleren van passende beheersmaatregelen.**
-Hierbij wordt rekening gehouden met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden, gebaseerd op de scope en de onderkende risico's. De maatregelen uit de NEN-ISO/IEC 27002 en de BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technology (OT) de **CSIR** en IEC 62443 Industriële cybersecurity.
-
-- **Organisaties tonen opzet, bestaan en werking van maatregelen aan.** Deze vereiste volgt ook uit de Cbw/Network and Information Security directive 2 (NIS2). De BIO omvat maatregelen op tactisch niveau. Dit betekent dat deze maatregelen door de organisatie eerst geoperationaliseerd moeten worden voordat ze geïmplementeerd kunnen worden. Deze implementatie is risicogericht en voldoet aan best practices en marktstandaarden. Onderdeel van de operationalisatie is ook het kunnen detecteren of de maatregel goed functioneert. Over het hele ontwerp wordt geborgd dat uitval van één maatregel niet leidt tot een directe kwetsbaarheid in het hele systeem.
-
-Hoe de maatregelen zijn geoperationaliseerd wordt, via verwijzingen, vastgelegd. Hiermee toont een organisatie ‘opzet’ van maatregelen aan. Al dan niet met behulp van externe partijen en/of via self-assessments, audits, pentesten, redteam-testen en dergelijke toont een organisatie het ‘bestaan’ en de ‘werking’ aan van maatregelen aan.
-
-- **Er bestaan beheersmaatregelen zonder overheidsmaatregelen.** Als een dergelijke beheersmaatregel van toepassing is, moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit NEN-EN-ISO/IEC 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid (VvT).
-
-- **Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.** Deze overheidsmaatregelen vormen de minimale invulling van de beheersmaatregel. Uit een risicoanalyse moet blijken of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen.
+## 4. Verplichtingen BIO
+De BIO stelt de volgende verplichtingen aan overheidsorganisaties:,<BR><BR>
+**NEN-EN-ISO/IEC 27001 wordt toegepast op het formuleren van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.** <BR><BR>
+Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context over uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.<BR><BR>
+**NEN-EN-ISO/IEC 27002 én de verplichte overheidsmaatregelen uit de BIO moeten worden toegepast op het formuleren van passende beheersmaatregelen.** <BR><BR>
+Hierbij wordt rekening gehouden met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden, gebaseerd op de scope en de onderkende risico’s. De beheersmaatregelen uit NEN-ISO/IEC 27002 en de BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technologie (OT) de **CSIR** en IEC 62443 Industriële cybersecurity.<BR><BR>
+**Organisaties tonen opzet, bestaan en werking van maatregelen aan.** <BR><BR>
+Deze vereiste volgt ook uit de Cbw/Network and Information Security directive 2 (NIS2). De BIO omvat maatregelen op tactisch niveau. Dit betekent dat deze maatregelen door de organisatie eerst geoperationaliseerd moeten worden voordat ze geïmplementeerd kunnen worden. Deze implementatie is risicogericht en voldoet aan best practices en marktstandaarden. Onderdeel van de operationalisatie is ook het kunnen detecteren of de maatregel goed functioneert. Over het hele ontwerp wordt geborgd dat uitval van één maatregel niet leidt tot een directe kwetsbaarheid in het hele systeem. Hoe de maatregelen zijn geoperationaliseerd, wordt via verwijzingen vastgelegd. Hiermee toont een organisatie de ‘opzet’ van maatregelen aan. Al dan niet met behulp van externe partijen en/of via self-assessments, audits, pentesten, redteam-testen en dergelijke toont een organisatie het ‘bestaan’ en de ‘werking’ aan van maatregelen aan.<BR><BR>
+**Er bestaan beheersmaatregelen zonder overheidsmaatregelen.** <BR><br>
+Als een dergelijke beheersmaatregel van toepassing is, moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit NEN-EN-ISO/IEC 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een 
+risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid (VvT).
 
 ## Het managementsysteem voor informatiebeveiliging
-
 Het managementsysteem voor informatiebeveiliging (Information Security Management Systeem, ook wel ISMS) is een werkwijze om informatiebeveiliging op een gestructureerde manier toe te passen in de organisatie. Zo wordt de organisatie, en een bestuurder in het bijzonder, in staat gesteld om de juiste afwegingen te maken. 
 
 > [!Note]
@@ -93,17 +86,14 @@ Het managementsysteem voor informatiebeveiliging borgt de beschikbaarheid, integ
 Het is belangrijk dat het managementsysteem voor informatiebeveiliging deel uitmaakt van en geïntegreerd is met de procedures van de organisatie en met de algehele managementstructuur, en dat informatiebeveiliging in aanmerking wordt genomen bij het ontwerpen van processen, informatiesystemen en beheersmaatregelen. 
 
 ### Reikwijdte managementsysteem 
-
 Bij het bepalen van de reikwijdte van het managementsysteem moet een organisatie minimaal de bedrijfsprocessen en informatiesystemen opnemen die kritisch zijn voor haar dienstverlening. Het is aan de overheidsorganisaties zelf om te bepalen in welke mate de ondersteunende processen zijn opgenomen in het managementsysteem. 
 
 Waar overheden gelijkwaardige processen hanteren, is het aanbevolen om, waar beschikbaar, gebruik te maken van het ondersteuningsaanbod van de koepelorganisatie. 
 
 ### Samenhang managementsystemen 
-
 De BIO sluit aan op de [Harmonized Structure (HS)](https://www.nen.nl/managementsystemen/high-level-structure-hls), wat een consistente en uniforme structuur biedt voor managementsystemen, waardoor de integratie van verschillende ISO-normen voor managementsystemen wordt vereenvoudigd. Hierdoor wordt dubbel werk voorkomen en middelen efficiënter gebruikt. Het biedt uniformiteit bij de implementatie van verschillende ISO-managementsystemen en vereenvoudigt de integratie van deze systemen.
 
 ## Risicomanagement
-
 Risicomanagement is een kernonderdeel van NEN-EN-ISO 27001 en vormt ook de basis van de BIO-aanpak binnen de overheid. De processen zijn ontworpen om risico's systematisch te identificeren, beoordelen, beheersen en continu te monitoren. Het risicomanagementproces verloopt in hoofdlijnen als volgt:
 1.	Contextbepaling
 2.	Risico-identificatie
@@ -112,23 +102,18 @@ Risicomanagement is een kernonderdeel van NEN-EN-ISO 27001 en vormt ook de basis
 5.	Kiezen Risicomanagementmethodiek
 
 ### Contextbepaling
-
 NEN-EN-ISO/IEC 27001 vereist dat een organisatie eerst haar context vaststelt om relevante informatiebeveiligingsrisico’s te identificeren. De BIO vereist hierbij dat overheidsorganisaties minimaal de in de BIO beschreven context meenemen, waaronder de sector 'Overheid' en de specifieke informatiebeveiligingseisen. Dit omvat zowel interne als externe factoren die invloed hebben op de beveiliging van informatie(systemen), en de daarmee samenhangende wettelijke verplichtingen uit de Cbw.
 
 ### Risico-identificatie
-
 In deze stap stelt de organisatie vast welke waardevolle informatie(verwerkende) middelen aanwezig zijn, brengt de relevante bedreigingen in kaart die daarop van invloed kunnen zijn, identificeert de kwetsbaarheden en bepaalt wat de potentiële consequenties zijn indien deze bedreigingen zich daadwerkelijk manifesteren. Hierbij worden uiteenlopende dreigingen en mogelijke scenario’s systematisch geïnventariseerd. Verschillende hulpmiddelen zoals de NEN-ISO/IEC 27005 of de NIST (CSF en SP 800-30) kunnen gebruikt worden. Voorbeelden hiervan zijn dreigingen die voortkomen uit ketenafhankelijkheden, op OT, of gegevensuitwisseling met zorginstellingen.
 
 ### Risicoanalyse
-
 De geïdentificeerde risico's worden vervolgens geanalyseerd en geclassificeerd op basis van hun waarschijnlijkheid en impact. Gebruik in dit proces de NEN-EN-ISO/IEC 27001-methoden voor het uitvoeren van risicoanalyses, ondersteund door richtlijnen uit de BIO. Het classificeren van risico's draagt bij aan een consistent beeld van de risicoprioriteiten binnen de organisatie en de overheid als geheel.
 
 ### Risicobehandeling en maatregelenselectie
-
 Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico's te mitigeren. NEN-EN-ISO/IEC 27001, bijlage A, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002. De BIO vult deze aan met verplicht toe te passen overheidsmaatregelen die aansluiten op de context van de overheid. Deze overheidsmaatregelen zijn altijd verplicht en kunnen ongeacht de risico-inschatting van de organisatie niet geaccepteerd worden, tenzij ze niet van toepassing kunnen zijn.
 
 ### Kiezen Risicomanagementmethodiek
-
 Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansluit bij de NEN-EN-ISO/IEC 27001. Een risicomanagementmethodiek omvat ten minste de volgende onderdelen:
 * Een quickscan om te bepalen of het basisniveau toereikend is of dat aanvullende maatregelen noodzakelijk zijn en waarin de classificatie van een proces en een informatiesysteem wordt uitgevoerd.
 * Een methode voor een volledige risicoanalyse om te komen tot aanvullende maatregelen.
@@ -136,15 +121,12 @@ Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansl
 * Een proces voor opvolging van risico’s om tijdelijk geaccepteerde risico’s structureel op te lossen.
 
 ### Verklaring van toepasselijkheid (VvT)
-
 NEN-EN-ISO/IEC 27001 vereist dat organisaties een VvT (statement of applicability) opstellen, waarin zij de geselecteerde beheersmaatregelen vastleggen en toelichten welke maatregelen zijn geïmplementeerd. Voor overheidsorganisaties geldt dat zij hierin ook de BIO-overheidsmaatregelen expliciet opnemen. Eventuele afwijkingen of niet-toepasbare beheersmaatregelen moeten in een bijlage ‘Uitzonderingen op de VvT‘ worden opgenomen. 
 
 ### Monitoring en continue verbetering 
-
 NEN-EN-ISO/IEC 27001 en de BIO leggen de nadruk op een continu verbeterproces. Een organisatie moet haar risicomanagementsysteem onderhouden en regelmatig te evalueren om de effectiviteit van beheersmaatregelen te waarborgen. Wijzigingen in wetgeving of nieuwe bedreigingen kunnen aanleiding geven tot het bijwerken van de risicoanalyse en beheersmaatregelen. Met interne audits, managementbeoordelingen en gestroomlijnde documentatie binnen het ISMS houdt de organisatie haar risicomanagement actueel.
 
 ### Samenstelling overheidsmaatregelen
-
 De set overheidsmaatregelen vormt een eerste stap naar een goed niveau van informatiebeveiliging voor elke (overheids)organisatie en moet zonder meer worden geïmplementeerd, ongeacht de mate van risico-acceptatie, tenzij een overheidsmaatregel volgens de VvT niet van toepassing kan zijn. Deze set bestaat uit basismaatregelen, ketenmaatregelen en maatregelen specifiek voor overheidsrisico’s of een combinatie daarvan. Het doel is een minimumstandaard te waarborgen. Overheidsmaatregelen zijn ingedeeld naar de volgende categorieën of een combinatie daarvan:
 
 - **Basishygiëne**: aan deze maatregelen dient minimaal voldaan te worden om aan NIS2 te kunnen voldoen.
@@ -154,11 +136,9 @@ De set overheidsmaatregelen vormt een eerste stap naar een goed niveau van infor
 - **Overheidsrisico’s:** mitigeren van universele informatieveiligheidsrisico’s die gelden voor de gehele overheid.
 
 ### Continue ontwikkeling
-
 Informatiebeveiliging is een cyclisch proces. De BIO kan niet afgedaan worden met een eenmalig project. Door het toepassen van een managementsysteem blijft een organisatie continu ontwikkelen en verbeteren.
 
 ## Transparantie en verantwoording
-
 Burgers moeten de overheid kunnen vertrouwen. Dit wordt bereikt door transparant te zijn over de inrichting en de staat van informatieveiligheid en daar verantwoording over af te leggen aan burgers, toezichthouders, ketenpartners en stelselverantwoordelijken.
 
 Een ISMS is een belangrijke manier om gestructureerde verantwoording te ondersteunen. 
@@ -167,7 +147,6 @@ Het is vanuit NEN-EN-ISO/IEC 27001 verplicht om een reikwijdte, ook wel scope, v
 Een voorbeeld van een VvT wordt gepubliceerd op de website van de BIO [in ontwikkeling].
 
 ## Toezicht 
-
 De BIO-aanpak is de basis voor het invullen van zorgplicht van de Cbw door overheden. NEN-EN-ISO/IEC 27001 en 27002 vormen de basis van de BIO. Het is aangeraden voor toezichthouders om deze standaarden te hanteren. De elementen uit het ISMS vormen de basis om het managementsysteem te toetsen, inclusief de verplichte overheidsmaatregelen uit de BIO.
 
 De BIO verplicht geen NEN-EN-ISO/IEC 27001-certificering. Certificering draagt wel bij aan het vereenvoudigen van de verantwoording en geeft op basis van een onafhankelijke beoordeling aan dat de organisatie in staat is om informatiebeveiliging procesmatig uit te voeren.
@@ -181,7 +160,6 @@ De BIO is expliciet niet bedoeld om alle beveiligingseisen van de overheid af te
 Binnen de overheid bestaan meerdere normen voor informatiebeveiliging. Naast de BIO zijn er bijvoorbeeld de Nederlandse normen NEN 7510 Informatiebeveiliging in de zorg voor verwerkers van zorginformatie, NEN-EN-ISO 22301 Managementsystemen voor bedrijfscontinuïteit en crisismanagement en de CSIR voor OT. De basis van die normen is de internationale norm NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002. Managementsystemen en beheersmaatregelen volgens deze normen kunnen worden geïntegreerd in een managementsysteem voor informatiebeveiliging op basis van NEN-EN-ISO/IEC 27001. Daarmee vallen de twee onderdelen samen: risicomanagement en maatregelen die specifiek passen bij de context. 
 
 ### Cyberbeveiligingswet (Cbw)
-
 Voor overheden is in de Cbw vastgelegd op welke wijze de zorgplicht voor informatiebeveiliging moet worden ingevuld. Hieronder volgt een samenvatting van de belangrijkste punten die betrekking hebben op het toepassen van de BIO:
 
 - **Verplichting BIO**: de BIO is via de Cbw verplicht voor alle organisaties die vallen onder de sector 'Overheid'.   
@@ -198,13 +176,11 @@ Voor overheden is in de Cbw vastgelegd op welke wijze de zorgplicht voor informa
 - **Toezicht en verantwoording:** de toezichthouder zal toezicht houden op de invulling van de zorgplicht volgens de Cbw. De RDI is als toezichthouder aangewezen voor de sector 'Overheid'.  
 
 ## Governance
-
 De bestuurder van een overheidsorganisatie is verantwoordelijk voor het beheersen van informatiebeveiligingsrisico's. De bestuurder kan dat niet alleen. Om informatiebeveiliging gedegen in te regelen, is een structuur nodig. Het is aan de organisatie om deze structuur aan te brengen volgens NEN-EN-ISO/IEC 27001.
 
 Voor overheden zijn er een aantal rollen die standaard deel uitmaken van informatiebeveiliging van een overheidsorganisatie. Deze rollen komen ook terug in de uitwerking van overheidsmaatregelen.
 
 ### Bestuurder
-
 De bestuurder is verantwoordelijk voor het treffen van passende en evenredige technische, operationele en organisatorische maatregelen en moet toezien op de naleving daarvan. Kortgezegd de bestuurder is verantwoordelijk voor risicomanagement, dat gericht is op het borgen van digitale weerbaarheid van de organisatie.  
 Voor de vier overheidslagen is voor de invulling van sector 'Overheid' binnen de Cbw gedefinieerd welke bestuurders worden bedoeld:
 
@@ -223,7 +199,6 @@ Het lijnmanagement;
 - vraagt de CISO om advies, in alle gevallen waar het afwijkt van overheidsmaatregelen, ook waar dat expliciet als bevoegdheid genoemd is.
 
 ### CISO
-
 De CISO:
 - is verantwoordelijk voor de coördinatie van informatiebeveiliging; 
 - ondersteunt de bestuurder en moet gevraagd en ongevraagd advies kunnen geven aan de bestuurder;
@@ -232,28 +207,23 @@ De CISO:
 - is uitdrukkelijk niet verantwoordelijk voor de informatiebeveiliging door het lijnmanagement. 
 
 ### Interne toezichthouder
-
 Een bestuurder moet toezien op de toepassing van informatiebeveiliging in de organisatie. Een interne toezichthouder kan helpen bij dit toezicht. 
 
 ## Leveranciers
-
 Leveranciers bieden diensten en/of producten aan overheidsorganisaties. Een overheidsorganisatie blijft zelf verantwoordelijk voor het behandelen van risico's die betrekking hebben op de uitbestede of ingekochte dienst of product.
 
 Afhankelijk van het risico behoren daarom verplichtingen van de overheid die volgen uit de BIO of uit andere richtlijnen te worden meegenomen bij het samenstellen van inkoopeisen aan leveranciers. 
 
 ## Informatiebeveiligingsprincipes
-
 Overheidsmaatregelen uit BIO moeten risicogericht worden toegepast en geoperationaliseerd. Daarbij is het praktisch om informatiebeveiligingsprincipes te definiëren en toe te passen zoals security by design & default, toegang op basis van need to know, assume breach, zero trust, shit happens, dingen gaan fout, defense in depth e.d.
 
 ## Operationaliseren maatregelen / balans in de maatregelenset
-
 De BIO bevat maatregelen op tactisch niveau, die geoperationaliseerd moeten worden. Hierbij is het belangrijk om in de maatregelenset balans te houden tussen:
 - Beschikbaarheids-, integriteits-, vertrouwelijkheidsmaatregelen.
 - Organisatorische/proces-, mensen/gedrag, applicatieve/technische maatregelen.
 - Identificeren, beschermen, detecteren, reageren en herstellen.
 
 ## Treffen aanvullende maatregelen
-	
 Overheden kennen verschillende soorten informatie. Het is aan de organisatie zelf om te bepalen welk typen informatie wordt verwerkt door de organisatie en welke aanvullende beveiligingsmaatregelen getroffen moeten worden. Bij deze afweging moeten in ieder geval – en niet uitsluitend - de volgende typen gegevens worden afgewogen:
 - Open data
 - (Bijzondere) persoonsgegevens
@@ -261,7 +231,6 @@ Overheden kennen verschillende soorten informatie. Het is aan de organisatie zel
 - Gerubriceerde informatie
 
 ## Impact van risico's
-
 De impact van een informatiebeveiligingsincident hangt sterk af van de context. Overheidsorganisaties ondervinden vaak specifieke gevolgen door hun rol in de samenleving en democratie, hun bestuursstijl en hun verhouding tot de burgers. Bij het bepalen van de impact moeten minimaal onderstaande impactsgebieden worden afgewogen: 
 - Politieke schade aan een bestuurder
 - Diplomatieke schade
@@ -275,9 +244,4 @@ De impact van een informatiebeveiligingsincident hangt sterk af van de context. 
 De impactgebieden kunnen ook bijdragen aan begrip bij de uitwisseling van impact met ketenpartners.
 
 ## Relatie BIO en andere onderwerpen
-
-De BIO richt zich op informatiebeveiliging. Onderwerpen zoals privacybescherming, informatievoorziening, beheersprocessen en bedrijfscontinuïteit zijn aanpalend aan informatiebeveiliging. Voor deze onderwerpen zijn vaak aparte standaarden opgezet. Deze onderwerpen worden daarom niet uitgewerkt in de BIO. Daar waar nuttig wordt verwezen naar deze separate standaarden.  
-
-## Dankwoord
-
-Wij danken iedereen die direct of indirect heeft bijgedragen aan de totstandkoming van de BIO2. In willekeurige volgorde danken wij de vertegenwoordigers van de koepels (Vereniging van Nederlandse Gemeenten, Interprovinciaal Overleg, Unie van Waterschappen), Chief Information Security Officer (CISO’s) van overheidsorganisaties, de Auditdienst Rijk (ADR), de Rijksinspectie Digitale Infrastructuur (RDI), medewerkers van ministeries, het Nationaal Cyber Security Centrum (NCSC), het Centrum Informatiebeveiliging en Privacybescherming (CIP), de informatiebeveiligingsdienst voor gemeenten (IBD), bestuurders en functionarissen van overheden en alle anderen die hebben bijgedragen.
+De BIO richt zich op informatiebeveiliging. Onderwerpen zoals privacybescherming, informatievoorziening, beheersprocessen en bedrijfscontinuïteit zijn aanpalend aan informatiebeveiliging. Voor deze onderwerpen zijn vaak aparte standaarden opgezet. Deze onderwerpen worden daarom niet uitgewerkt in de BIO. Daar waar nuttig wordt verwezen naar deze separate standaarden.
