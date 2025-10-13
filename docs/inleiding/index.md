@@ -1,12 +1,9 @@
----
-title: Baseline Informatiebeveiliging Overheid 2 (BIO2), Deel 1 BIO2-Kader, versie 1.2, datum 24 september 2025
-summary: Dit document bevat de inleiding, context en werkwijze van de Baseline Informatiebeveiliging Overheid (BIO2). 
-hide:
-  - navigation
----
+> [!Note]
+> _Op dit moment wordt de BIO2 versie 1.1.1 vervangen door versie 1.2._
 
-De BIO2 versie 1.2 is goedgekeurd door de leden van het OBDO. De originele versie van de BIO2 is gepubliceerd op <https://www.bio-overheid.nl> als PDF-bestand.
+De BIO2 versie 1.2 in pdf-formaat is goedgekeurd door de leden van het OBDO.
 Deel 2 BIO-overheidsmaatregelen van de BIO2 is beschikbaar in spreadsheet-formaat. 
+De originele versie van de BIO2 en de BIO2 in Excel zijn gepubliceerd op https://www.bio-overheid.nl> als PDF-bestand.
 
 # Copyright-notitie
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is geheel gestructureerd volgens NEN-EN-ISO/IEC 27001, bijlage A en NEN-EN-ISO/IEC 27002. Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden 
@@ -72,6 +69,8 @@ Deze vereiste volgt ook uit de Cbw/Network and Information Security directive 2 
 **Er bestaan beheersmaatregelen zonder overheidsmaatregelen.** <BR><br>
 Als een dergelijke beheersmaatregel van toepassing is, moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit NEN-EN-ISO/IEC 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een 
 risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid (VvT).
+**Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.** <br><br>
+Deze overheidsmaatregelen vormen de minimale invulling van de beheersmaatregel. Uit een risicoanalyse moet blijken of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen.
 
 ## Het managementsysteem voor informatiebeveiliging
 Het managementsysteem voor informatiebeveiliging (Information Security Management Systeem, ook wel ISMS) is een werkwijze om informatiebeveiliging op een gestructureerde manier toe te passen in de organisatie. Zo wordt de organisatie, en een bestuurder in het bijzonder, in staat gesteld om de juiste afwegingen te maken. 
