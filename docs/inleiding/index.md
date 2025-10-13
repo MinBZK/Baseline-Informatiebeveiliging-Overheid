@@ -114,11 +114,11 @@ Het classificeren van risico’s draagt bij aan een consistent beeld van de risi
 Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico's te mitigeren. NEN-EN-ISO/IEC 27001, bijlage A, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002. De BIO vult deze aan met verplicht toe te passen overheidsmaatregelen die aansluiten op de context van de overheid. 
 Deze overheidsmaatregelen zijn altijd verplicht en kunnen ongeacht de risico-inschatting van de organisatie niet geaccepteerd worden, tenzij ze niet van toepassing kunnen zijn.
 
-### Kiezen Risicomanagementmethodiek
-Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansluit bij de NEN-EN-ISO/IEC 27001. Een risicomanagementmethodiek omvat ten minste de volgende onderdelen:
-* Een quickscan om te bepalen of het basisniveau toereikend is of dat aanvullende maatregelen noodzakelijk zijn en waarin de classificatie van een proces en een informatiesysteem wordt uitgevoerd.
-* Een methode voor een volledige risicoanalyse om te komen tot aanvullende maatregelen.
-* Een risicoregister met daarin de tijdelijk geaccepteerde risico’s.
+## 13. Kiezen Risicomanagementmethodiek
+Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansluit bij de NEN-EN-ISO/IEC 27001. Een risicomanagementmethodiek omvat ten minste de volgende onderdelen: 
+* Een quickscan om te bepalen of het basisniveau toereikend is of dat aanvullende maatregelen noodzakelijk zijn en waarin de classificatie van een proces en een informatiesysteem wordt uitgevoerd. 
+* Een methode voor een volledige risicoanalyse om te komen tot aanvullende maatregelen. 
+* Een risicoregister met daarin de tijdelijk geaccepteerde risico’s. 
 * Een proces voor opvolging van risico’s om tijdelijk geaccepteerde risico’s structureel op te lossen.
 
 ### Verklaring van toepasselijkheid (VvT)
