@@ -121,30 +121,28 @@ Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansl
 * Een risicoregister met daarin de tijdelijk geaccepteerde risico’s. 
 * Een proces voor opvolging van risico’s om tijdelijk geaccepteerde risico’s structureel op te lossen.
 
-### Verklaring van toepasselijkheid (VvT)
-NEN-EN-ISO/IEC 27001 vereist dat organisaties een VvT (statement of applicability) opstellen, waarin zij de geselecteerde beheersmaatregelen vastleggen en toelichten welke maatregelen zijn geïmplementeerd. Voor overheidsorganisaties geldt dat zij hierin ook de BIO-overheidsmaatregelen expliciet opnemen. Eventuele afwijkingen of niet-toepasbare beheersmaatregelen moeten in een bijlage ‘Uitzonderingen op de VvT‘ worden opgenomen. 
+## 14. Verklaring van toepasselijkheid (VvT)
+NEN-EN-ISO/IEC 27001 vereist dat organisaties een VvT (statement of applicability) opstellen, waarin zij de geselecteerde beheersmaatregelen vastleggen en toelichten welke maatregelen zijn geïmplementeerd. Voor overheidsorganisaties geldt dat zij hierin ook de BIO-overheidsmaatregelen expliciet opnemen. Eventuele afwijkingen of niet toepasbare beheersmaatregelen moeten in een bijlage ‘Uitzonderingen op de VvT’ worden opgenomen.
 
-### Monitoring en continue verbetering 
+## 15. Monitoring en continue verbetering
 NEN-EN-ISO/IEC 27001 en de BIO leggen de nadruk op een continu verbeterproces. Een organisatie moet haar risicomanagementsysteem onderhouden en regelmatig te evalueren om de effectiviteit van beheersmaatregelen te waarborgen. Wijzigingen in wetgeving of nieuwe bedreigingen kunnen aanleiding geven tot het bijwerken van de risicoanalyse en beheersmaatregelen. Met interne audits, managementbeoordelingen en gestroomlijnde documentatie binnen het ISMS houdt de organisatie haar risicomanagement actueel.
 
-### Samenstelling overheidsmaatregelen
-De set overheidsmaatregelen vormt een eerste stap naar een goed niveau van informatiebeveiliging voor elke (overheids)organisatie en moet zonder meer worden geïmplementeerd, ongeacht de mate van risico-acceptatie, tenzij een overheidsmaatregel volgens de VvT niet van toepassing kan zijn. Deze set bestaat uit basismaatregelen, ketenmaatregelen en maatregelen specifiek voor overheidsrisico’s of een combinatie daarvan. Het doel is een minimumstandaard te waarborgen. Overheidsmaatregelen zijn ingedeeld naar de volgende categorieën of een combinatie daarvan:
+## 16. Samenstelling overheidsmaatregelen
+De set overheidsmaatregelen vormt een eerste stap naar een goed niveau van informatiebeveiliging voor elke (overheids)organisatie en moet zonder meer worden geïmplementeerd, ongeacht de mate van risico-acceptatie, tenzij een overheidsmaatregel volgens de VvT niet van toepassing kan zijn. Deze set bestaat uit basismaatregelen, ketenmaatregelen en maatregelen specifiek voor overheidsrisico’s of een combinatie daarvan. Het doel is een minimumstandaard te waarborgen.
+Overheidsmaatregelen zijn ingedeeld naar de volgende categorieën of een combinatie daarvan: 
+* Basishygiëne: aan deze maatregelen dient minimaal voldaan te worden om aan NIS2 te kunnen voldoen.
+* Ketenhygiëne: maatregelen die bijdragen aan het mitigeren van risico’s in de keten van overheden en waarbij gezamenlijk handelen door de overheid nodig is.
+* Overheidsrisico’s: mitigeren van universele informatieveiligheidsrisico’s die gelden voor de gehele overheid.
 
-- **Basishygiëne**: aan deze maatregelen dient minimaal voldaan te worden om aan NIS2 te kunnen voldoen.
+## 17. Continue ontwikkeling
+Informatiebeveiliging is een cyclisch proces. De implementatie BIO kan niet afgedaan worden met een eenmalig project. Door het toepassen van een managementsysteem blijft een organisatie continu ontwikkelen en verbeteren. 
 
-- **Ketenhygiëne**: maatregelen die bijdragen aan het mitigeren van risico’s in de keten van overheden en waarbij gezamenlijk handelen door de overheid nodig is.
-
-- **Overheidsrisico’s:** mitigeren van universele informatieveiligheidsrisico’s die gelden voor de gehele overheid.
-
-### Continue ontwikkeling
-Informatiebeveiliging is een cyclisch proces. De BIO kan niet afgedaan worden met een eenmalig project. Door het toepassen van een managementsysteem blijft een organisatie continu ontwikkelen en verbeteren.
-
-## Transparantie en verantwoording
-Burgers moeten de overheid kunnen vertrouwen. Dit wordt bereikt door transparant te zijn over de inrichting en de staat van informatieveiligheid en daar verantwoording over af te leggen aan burgers, toezichthouders, ketenpartners en stelselverantwoordelijken.
-
-Een ISMS is een belangrijke manier om gestructureerde verantwoording te ondersteunen. 
-
-Het is vanuit NEN-EN-ISO/IEC 27001 verplicht om een reikwijdte, ook wel scope, van het ISMS en een zogenaamde VvT te hanteren. Het publiceren van de reikwijdte van het ISMS en de bijbehorende VvT draagt bij aan transparantie over de inrichting van informatiebeveiliging door de overheid. Niet publiceren van deze informatie zou een onnodige drempel opwerpen voor burgers. Het publiceren van de reikwijdte en de VvT is daarom verplicht voor een overheidsorganisatie. 
+## 18. Transparantie en verantwoording
+Burgers moeten de overheid kunnen vertrouwen. 
+Dit wordt ook bereikt door transparant te zijn over de inrichting en de staat van informatieveiligheid en daar verantwoording over af te leggen aan burgers, toezichthouders, ketenpartners en stelselverantwoordelijken.<br><br>
+Een ISMS is een belangrijke manier om gestructureerde verantwoording te ondersteunen.<br><br>
+Het is vanuit NEN-EN-ISO/IEC 27001 verplicht om een reikwijdte, ook wel scope, van het ISMS en een zogenaamde VvT te hanteren. Het publiceren van de reikwijdte van het ISMS en de bijbehorende VvT draagt bij aan transparantie over de inrichting van informatiebeveiliging door de overheid. Niet publiceren van deze informatie zou een onnodige drempel opwerpen voor burgers.
+Het publiceren van de reikwijdte en de VvT is daarom verplicht voor een overheidsorganisatie. 
 Een voorbeeld van een VvT wordt gepubliceerd op de website van de BIO [in ontwikkeling].
 
 ## Toezicht 
