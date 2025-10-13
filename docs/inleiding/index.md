@@ -31,15 +31,13 @@ Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.n
 Wij danken iedereen die direct of indirect heeft bijgedragen aan de totstandkoming van de BIO2. 
 In willekeurige volgorde danken wij de vertegenwoordigers van de koepels (Vereniging van Nederlandse Gemeenten, Interprovinciaal Overleg en Unie van Waterschappen), Chief Information Security Officers (CISO’s) van overheidsorganisaties, de Auditdienst Rijk (ADR), de Rijksinspectie Digitale Infrastructuur (RDI), medewerkers van ministeries, het Nationaal Cyber Security Centrum (NCSC), het Centrum Informatiebeveiliging en Privacybescherming (CIP), de informatiebeveiligingsdienst voor gemeenten (IBD), de leden van de werkgroep BIO, bestuurders en functionarissen van overheden en alle anderen die hebben bijgedragen.
 
-# Deel 1 BIO2-Kader
-Versienummer 1.1.1 definitief, 5 augustus 2025 
-In deze versie zijn termen geüniformeerd, nummercorrectie, taalkundige aanpassingen en overheidsmaatregel 5.19.01 ingekort.
+# DEEL 1 BIO2-KADER 
+De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers en bedrijven. 
+Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie en gegevens. 
+Om deel te kunnen nemen aan de samenleving moeten burgers en bedrijven informatie met de overheid delen, soms zelfs verplicht, en zijn zij afhankelijk van de overheid om informatie te ontvangen. De overheid heeft vanuit deze unieke rol de plicht om 
+zorgvuldig om te gaan met deze informatie. 
 
-De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers bedrijven. Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie en gegevens.
-
-Om deel te kunnen nemen aan de samenleving moeten burgers en bedrijven informatie met de overheid delen, soms zelfs verplicht, en zijn zij afhankelijk van de overheid om informatie te ontvangen. De overheid heeft vanuit deze unieke rol de plicht om zorgvuldig om te gaan met de beveiliging van die gegevens. 
-
-De Cyberbeveiligingswet (Cbw) verplicht organisaties in de sector 'Overheid' de BIO2 als voornaamste invulling van de zorgplicht.
+De Cyberbeveiligingswet (Cbw) verplicht organisaties in de sector ‘Overheid’ de BIO2 als voornaamste invulling van de zorgplicht.
 
 ## Leeswijzer
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen. 
