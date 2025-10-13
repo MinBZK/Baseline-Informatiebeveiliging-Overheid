@@ -22,9 +22,10 @@ Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.n
 ## Wijzigingsbeheer
 | Versie | Datum | Wijziging | Door |
 | :--- | :--- | :--- | --- |
-| 1.0 | 25-03-2025 | Eerste conceptversie met instemming van het Kern-IBO | BZK |
+| 1.0 | 25-03-2025 | Eerste conceptversie met instemming van het kern-IBO.  | BZK |
 | 1.1 | 28-03-2025 |    | CIP |
-| 1.1.1 | 05-08-2025 | Enkele aanpassingen, de kolom "draagt bij aan" consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO | CIP |
+| 1.1.1 | 05-08-2025 | Enkele aanpassingen, de kolom “draagt bij aan” consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO. | CIP |
+| 1.2 | 24-09-2025 | Voor het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) vastgestelde versie inclusief nieuwe opmaak. | CIP |
 
 # Deel 1 BIO2-Kader
 
