@@ -83,11 +83,13 @@ Het is belangrijk dat het managementsysteem voor informatiebeveiliging deel uitm
 Bij het bepalen van de reikwijdte van het managementsysteem moet een organisatie minimaal de bedrijfsprocessen en informatiesystemen opnemen die kritisch zijn voor haar dienstverlening. Het is aan de overheidsorganisaties zelf om te bepalen in welke mate de ondersteunende processen zijn opgenomen in het managementsysteem.<br><br>
 Waar overheden gelijkwaardige processen hanteren, is het aanbevolen om, waar beschikbaar, gebruik te maken van het ondersteuningsaanbod van de koepelorganisatie. 
 
-### Samenhang managementsystemen 
-De BIO sluit aan op de [Harmonized Structure (HS)](https://www.nen.nl/managementsystemen/high-level-structure-hls), wat een consistente en uniforme structuur biedt voor managementsystemen, waardoor de integratie van verschillende ISO-normen voor managementsystemen wordt vereenvoudigd. Hierdoor wordt dubbel werk voorkomen en middelen efficiënter gebruikt. Het biedt uniformiteit bij de implementatie van verschillende ISO-managementsystemen en vereenvoudigt de integratie van deze systemen.
+### 7. Samenhang managementsystemen 
+De BIO sluit aan op de [Harmonized Structure (HS)](https://www.nen.nl/managementsystemen/high-level-structure-hls), wat een consistente en uniforme structuur biedt voor managementsystemen, waardoor de integratie van verschillende (ISO-)normen voor managementsystemen wordt vereenvoudigd. Hierdoor wordt dubbel werk voorkomen en middelen efficiënter gebruikt. 
+Het biedt uniformiteit bij de implementatie van verschillende managementsystemen en vereenvoudigt de integratie van deze systemen.
 
-## Risicomanagement
-Risicomanagement is een kernonderdeel van NEN-EN-ISO 27001 en vormt ook de basis van de BIO-aanpak binnen de overheid. De processen zijn ontworpen om risico's systematisch te identificeren, beoordelen, beheersen en continu te monitoren. Het risicomanagementproces verloopt in hoofdlijnen als volgt:
+## 8. Risicomanagement
+Risicomanagement is een kernonderdeel van NEN-EN-ISO/IEC 27001 en vormt ook de basis van de BIO-aanpak binnen de overheid. De processen zijn ontworpen om risico’s systematisch te identificeren, beoordelen, beheersen en continu te monitoren. 
+Het risicomanagementproces verloopt in hoofdlijnen als volgt: 
 1.	Contextbepaling
 2.	Risico-identificatie
 3.	Risicoanalyse
