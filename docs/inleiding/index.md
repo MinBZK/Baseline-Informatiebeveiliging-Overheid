@@ -39,15 +39,13 @@ zorgvuldig om te gaan met deze informatie.
 
 De Cyberbeveiligingswet (Cbw) verplicht organisaties in de sector ‘Overheid’ de BIO2 als voornaamste invulling van de zorgplicht.
 
-## Leeswijzer
-De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen. 
-1) Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO.
-2) Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen.
-3) Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
-
-Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. 
-
-Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld. 
+## 1. Leeswijzer 
+De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen: 
+− Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO. 
+− Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen. 
+− Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
+Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. 
+Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld.
 
 ## Doel van de BIO
 
