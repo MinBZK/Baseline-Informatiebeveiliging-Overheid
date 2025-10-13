@@ -3,7 +3,7 @@
 
 De BIO2 versie 1.2 in pdf-formaat is goedgekeurd door de leden van het OBDO.
 Deel 2 BIO-overheidsmaatregelen van de BIO2 is beschikbaar in spreadsheet-formaat. 
-De originele versie van de BIO2 en de BIO2 in Excel zijn gepubliceerd op https://www.bio-overheid.nl> als PDF-bestand.
+De originele versie van de BIO2 en de BIO2 in Excel zijn gepubliceerd op https://www.bio-overheid.nl als PDF-bestand.
 
 # Copyright-notitie
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is geheel gestructureerd volgens NEN-EN-ISO/IEC 27001, bijlage A en NEN-EN-ISO/IEC 27002. Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden 
