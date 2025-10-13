@@ -47,15 +47,12 @@ De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderd
 Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. 
 Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld.
 
-## Doel van de BIO
-
-De Baseline Informatiebeveiliging Overheid (BIO) is het verplichte normenkader voor informatiebeveiliging binnen alle overheidsorganisaties. Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens. 
-
-Het doel van de BIO is om de informatieveiligheid overheidsbreed op een gemeenschappelijk basisniveau te brengen en daardoor ook de ketenpartners een basis van vertrouwen te geven bij gegevensuitwisseling. De aanpak volgens de BIO vraagt inspanning door ketenorganisaties en eenduidige samenwerking.
-
-Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als extern transparant te zijn over de wijze waarop informatiebeveiliging is ingericht. Met de BIO hanteert de overheid één gezamenlijke taal en een gezamenlijk doel op het gebied van informatiebeveiliging.
-
-De BIO is samengesteld uit de aanpak van de NEN-EN-ISO/IEC 27001 (nl) (het managementsysteem), de beheersmaatregelen en implementatierichtlijnen uit NEN-EN-ISO/IEC 27002 (nl) en aanvullende verplichte overheidsmaatregelen.  
+## 2. Doel van de BIO
+De Baseline Informatiebeveiliging Overheid (BIO) is het verplichte normenkader voor informatiebeveiliging binnen alle overheidsorganisaties. Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, 
+onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens.<br><br>
+Het doel van de BIO is om de informatieveiligheid overheidsbreed op een gemeenschappelijk basisniveau te brengen en daardoor ook de ketenpartners een basis van vertrouwen te geven bij gegevensuitwisseling. De BIO-aanpak vraagt inspanning door ketenorganisaties en eenduidige samenwerking.<br><br>
+Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als extern transparant te zijn over de wijze waarop informatiebeveiliging is ingericht. Met de BIO hanteert de overheid één gezamenlijke taal en een gezamenlijk doel voor informatiebeveiliging.<br><br>
+De BIO is samengesteld uit de aanpak van NEN-EN-ISO/IEC 27001 (nl) (het managementsysteem), de beheersmaatregelen en implementatierichtlijnen uit NEN-EN-ISO/IEC 27002 (nl) en aanvullende verplichte overheidsmaatregelen.
 
 ## Toepassing BIO
 
