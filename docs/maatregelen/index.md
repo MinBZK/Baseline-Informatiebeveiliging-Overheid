@@ -202,71 +202,54 @@ Draagt bij aan: Basishygiëne, ketenhygiëne
 Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico’s daarin. De overheidsorganisatie beoordeelt of de risico’s acceptabel zijn.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.21.03 De overheidsorganisatie borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier. Indien informatiebeveiligingseisen zijn uitgesloten maakt de leverancier dat inzichtelijk, inclusief een onderbouwing. 
+## 5.21.03
+De overheidsorganisatie borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers, tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier.<br><br>
+Indien informatiebeveiligingseisen zijn uitgesloten, maakt de leverancier dat inzichtelijk, inclusief een onderbouwing.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.21.04 Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico's daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de overheidsorganisatie kunnen raken. 
+## 5.21.04
+Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico’s daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de overheidsorganisatie kunnen raken.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.22 Monitoren, beoordelen en het beheren van wijzigingen van leveranciersdiensten
-
-De organisatie behoort de informatiebeveiligingspraktijken en de dienstverlening van leveranciers regelmatig te monitoren, beoordelen, evalueren en veranderingen daaraan te beheren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.22.01 Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie overheidsmaatregel 5.20.03, is de proceseigenaar verantwoordelijk voor het jaarlijks beoordelen dat leverancier voldoet aan de gestelde informatiebeveiligingseisen, het vaststellen van eventuele beveiligingsrisico’s, het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risico’s.
-
+## 5.22.01
+Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie overheidsmaatregel 5.20.03, is de proceseigenaar verantwoordelijk voor het jaarlijks beoordelen dat leverancier voldoet aan de gestelde informatiebeveiligingseisen, het vaststellen van eventuele 
+beveiligingsrisico’s, het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risico’s.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.22.02 Er is een actuele registratie van leveranciers en afgesloten contracten.
-
+## 5.22.02
+Er is een actuele registratie van leveranciers en afgesloten contracten.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.23 Informatiebeveiliging voor het gebruik van clouddiensten
-
-Processen voor het aanschaffen, gebruiken, beheren en beÎindigen van clouddiensten behoren overeenkomstig de informatiebeveiligingseisen van de organisatie te worden opgesteld.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.23.01 Stel beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s. 
-
-Implementeer het beleid. 
-
-Herzie dit beleid minimaal eens per drie jaar. 
-
-Neem in de contracten op welke situaties aanleiding kunnen zijn tot ontbinding van het contract. 
-
-Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de risico’s daarvan en neem passende maatregelen.   
-
+## 5.23.01
+Stel beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s.<br><br>
+Implementeer het beleid.<br><br> 
+Herzie dit beleid minimaal eens per drie jaar.<br><br>
+Neem in de contracten op welke situaties aanleiding kunnen zijn tot ontbinding van het contract.<br><br>
+Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de risico’s daarvan en neem passende maatregelen.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.24 Plannen en voorbereiden van het beheer van informatiebeveiligingsincidenten
-
-De organisatie behoort plannen op te stellen voor, en zich voor te bereiden op, het beheren van informatiebeveiligingsincidenten door processen, rollen en verantwoordelijkheden voor het beheer van informatiebeveiligingsincidenten te definiÎren, vast te stellen en te communiceren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.24.01 Er is voor alle interne en externe medewerkers een toegankelijk meldloket waar informatiebeveiligingsincidenten kunnen worden gemeld en geregistreerd. 
-
+## 5.24.01
+Er is voor alle interne en externe medewerkers een toegankelijk meldloket waar informatiebeveiligingsincidenten kunnen worden gemeld en geregistreerd.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.24.02 Er is een meldprocedure waarin de taken en verantwoordelijkheden van het meldloket staan beschreven.
-
+## 5.24.02
+Er is een meldprocedure waarin de taken en verantwoordelijkheden van het meldloket staan beschreven.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.24.03 De proceseigenaar is verantwoordelijk voor het oplossen van informatiebeveiligingsincidenten.
-
+## 5.24.03
+De proceseigenaar is verantwoordelijk voor het oplossen van informatiebeveiligingsincidenten.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.24.04 De proceseigenaar rapporteert maandelijks de opvolging van informatiebeveiligingsincidenten aan de eindverantwoordelijke voor de bedrijfsvoering.
-
+## 5.24.04
+De proceseigenaar rapporteert maandelijks de opvolging van informatiebeveiligingsincidenten aan de eindverantwoordelijke voor de bedrijfsvoering.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.24.05 In de procedure voor informatiebeveiligingsincidenten is er een koppeling gemaakt met crisisbeheersing.
-
+## 5.24.05
+In de procedure voor informatiebeveiligingsincidenten is er een koppeling gemaakt met crisisbeheersing.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.24.06 De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de organisatie. In de risicoanalyse wordt rekening gehouden met:
+## 5.24.06
+De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de organisatie. In de risicoanalyse wordt rekening gehouden met:
 - de specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener;
 - de algemene kwaliteit van de producten;
 - de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners, met inbegrip van hun veilige ontwikkelingsprocedures.
