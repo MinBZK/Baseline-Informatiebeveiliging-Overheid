@@ -1,5 +1,8 @@
 > [!Note]
-> _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2._
+> _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2 van 24 september 2025._
+
+> [!NOTE]
+> _Let op! De BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
 
 # DEEL 2 BIO–OVERHEIDSMAATREGELEN 
 
