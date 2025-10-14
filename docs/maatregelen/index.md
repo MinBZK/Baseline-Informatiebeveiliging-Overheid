@@ -354,162 +354,72 @@ Draagt bij aan: Basishygiëne
 Alle medewerkers en contractanten die gebruikmaken van de informatiesystemen en -diensten hebben binnen drie maanden na indiensttreding aantoonbaar een training I-bewustzijn succesvol gevolgd.<br><br>
 Draagt bij aan: Basishygiëne
 
-## 6.03.03 Het management benadrukt bij aanstelling en interne overplaatsing en bijvoorbeeld in werkoverleggen of in personeelsgesprekken bij zijn medewerkers en contractanten het belang van opleiding en training op het gebied van informatiebeveiliging. Het management stimuleert hen actief deze periodiek te volgen.
-
+## 6.03.03
+Het management benadrukt bij aanstelling en interne overplaatsing en bijvoorbeeld in werkoverleggen of in personeelsgesprekken bij zijn medewerkers en contractanten het belang van opleiding en training op het gebied van informatiebeveiliging. Het management stimuleert hen actief deze periodiek te volgen.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.04 Disciplinaire procedure
-
-Er behoort een formele en gecommuniceerde disciplinaire procedure te zijn om actie te ondernemen tegen personeel en andere belanghebbenden die zich schuldig hebben gemaakt aan een schending van het informatiebeveiligingsbeleid.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 6.04.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.05 Verantwoordelijkheden na beÎindiging of wijziging van het dienstverband
-
-Verantwoordelijkheden en taken met betrekking tot informatiebeveiliging die van kracht blijven na beÎindiging of wijziging van het dienstverband, behoren te worden gedefinieerd, gehandhaafd en gecommuniceerd aan relevant personeel en andere belanghebbenden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.05.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 6.05.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.06 Vertrouwelijkheids- of geheimhoudingsovereenkomsten
-
-Vertrouwelijkheids- of geheimhoudingsovereenkomsten die de behoeften van de organisatie inzake de bescherming van informatie weerspiegelen, behoren te worden geïdentificeerd, gedocumenteerd, regelmatig te worden beoordeeld en ondertekend door personeel en andere relevante belanghebbenden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 6.06.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.07 Werken op afstand
-
-Wanneer personeel op afstand werkt, behoren er beveiligingsmaatregelen te worden geïmplementeerd om informatie te beschermen die buiten het gebouw en/of terrein van de organisatie wordt ingezien, verwerkt of opgeslagen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.07.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 6.07.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.08 Melden van informatiebeveiligingsgebeurtenissen
-
-De organisatie behoort te voorzien in een mechanisme waarmee personeel waargenomen of vermoede informatiebeveiligingsgebeurtenissen tijdig via passende kanalen kan melden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.08.01 Alle medewerkers (intern en extern) hebben aantoonbaar kennisgenomen van de meldingsprocedure van informatiebeveiligingsincidenten.
-
+## 6.08.01
+Alle medewerkers (intern en extern) hebben aantoonbaar kennisgenomen van de meldingsprocedure van informatiebeveiligingsincidenten.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.01 Fysieke beveiligingszones
-
-Zones die informatie en andere gerelateerde bedrijfsmiddelen bevatten, behoren te worden beschermd door beveiligingszones te definiÎren en te gebruiken.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.01.01 Er wordt voor het inrichten van beveiligde zones gebruik gemaakt van standaarden.
-
+## 7.01.01
+Er wordt voor het inrichten van beveiligde zones gebruik gemaakt van standaarden.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 7.01.02 Kritieke informatie of informatiesystemen zijn nooit via één beveiligde zone te bereiken. 
-
+## 7.01.02
+Kritieke informatie of informatiesystemen zijn nooit via één beveiligde zone te bereiken.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.02 Fysieke toegangsbeveiliging
-
-Beveiligde zones behoren te worden beschermd door passende toegangsbeveiligingsñmaatregelen en toegangspunten.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.02.01 In geval van concrete beveiligingsrisico's worden waarschuwingen, volgens onderlinge afspraken, verzonden aan de relevante collegaís binnen het beveiligingsdomein van de overheid.
-
+## 7.02.01
+In geval van concrete beveiligingsrisico’s worden waarschuwingen, volgens onderlinge afspraken, verzonden aan de relevante collega’s binnen het beveiligingsdomein van de overheid.<br><br>
 Draagt bij aan: Ketenhygiëne
 
-# Beheersmaatregel 7.03 Beveiligen van kantoren, ruimten en faciliteiten
-
-Voor kantoren, ruimten en faciliteiten behoort fysieke beveiliging te worden ontworpen en geïmplementeerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.03.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.03.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.04 Monitoren van de fysieke beveiliging
-
-Het gebouw en terrein behoort voortdurend te worden gemonitord op onbevoegde fysieke toegang.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.04.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.05 Beschermen tegen fysieke en omgevingsdreigingen
-
-Er behoort bescherming tegen fysieke en omgevingsdreigingen, zoals natuurrampen en andere opzettelijke of onopzettelijke fysieke dreigingen voor de infrastructuur, te worden ontworpen en geïmplementeerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.05.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.05.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.06 Werken in beveiligde zones
-
-Voor het werken in beveiligde zones behoren beveiligingsmaatregelen te worden ontwikkeld en geïmplementeerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.06.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.07 Clear desk en clear screen
-
-Er behoren clear desk-regels voor papieren documenten en verwijderbare opslagmedia en clear screen-regels voor informatieverwerkende faciliteiten te worden gedefinieerd en op passende wijze te worden afgedwongen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.07.01 Bij het gebruik van een chipcardtoken voor toegang tot systemen wordt bij het verwijderen van het token de toegangsbeveiligingsvergrendeling automatisch geactiveerd.
-
+### 7.07.01 
+Bij het gebruik van een chipcardtoken voor toegang tot systemen wordt bij het verwijderen van het token de toegangsbeveiligingsvergrendeling automatisch geactiveerd.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.08 Plaatsen en beschermen van apparatuur
-
-Apparatuur behoort veilig te worden geplaatst en beschermd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.08.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.08.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.09 Beveiligen van bedrijfsmiddelen buiten het terrein
-
-Bedrijfsmiddelen buiten het gebouw en/of terrein behoren te worden beschermd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.09.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+### 7.09.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.10 Opslagmedia
-
-Opslagmedia behoren te worden beheerd gedurende hun volledige levenscyclus van aanschaf, gebruik, transport en verwijdering overeenkomstig het classificatieschema en de hanteringseisen van de organisatie.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.10.01 Er is een verwijderinstructie waarin is opgenomen dat van verwijderbare media die herbruikbaar zijn en die de organisatie verlaten, de bedrijfsgevoelige inhoud onherstelbaar verwijderd is.
-
+### 7.10.01
+Er is een verwijderinstructie waarin is opgenomen dat van verwijderbare media die herbruikbaar zijn en die de organisatie verlaten, de bedrijfsgevoelige inhoud onherstelbaar verwijderd is.<br><br>
 Draagt bij aan: Overheidsrisico
 
 ### 7.10.02 Voor het wissen van alle data op het medium, wordt de data onherstelbaar verwijderd of onbeschikbaar gemaakt. Er wordt gecontroleerd of alle data onherstelbaar verwijderd is. Hiervan wordt verslag gemaakt. Er wordt bij voorkeur gebruik gemaakt van producten waarvoor de Unit Weerbaarheid van het Nationaal Bureau voor Verbindingsbeveiliging (NBV) een positief inzetadvies afgegeven heeft.
