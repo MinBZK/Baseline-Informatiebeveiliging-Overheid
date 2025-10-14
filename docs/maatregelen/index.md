@@ -667,161 +667,93 @@ Hierbij wordt bij voorkeur gebruik gemaakt van encryptiemiddelen waarvoor de Uni
 Heeft de Unit Weerbaarheid geen geadviseerde encryptiemiddelen, wordt in overleg met de CISO een andere geschikte versleutelingsmethodiek gekozen en ingericht.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.22.01 Alle gescheiden groepen hebben een gedefinieerd beveiligingsniveau.
-
+## 8.22.01
+Alle gescheiden groepen hebben een gedefinieerd beveiligingsniveau.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.23 Toepassen van webfilters
-
-De toegang tot externe websites behoort te worden beheerd om de blootstelling aan kwaadaardige inhoud te beperken.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.23.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.23.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.24 Gebruik van cryptografie
-
-Regels voor het doeltreffende gebruik van cryptografie, met inbegrip van het beheer van cryptografische sleutels, behoren te worden gedefinieerd en geïmplementeerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.24.01 In het cryptografiebeleid zijn minimaal de volgende onderwerpen uitgewerkt: 
-* Wanneer cryptografie ingezet wordt.
-* Wie verantwoordelijk is voor de implementatie.
-* Wie verantwoordelijk is voor het sleutelbeheer.
-* Hoe geregistreerd wordt waar welke cryptografie toegepast wordt.
+## 8.24.01 
+In het cryptografiebeleid zijn minimaal de volgende onderwerpen uitgewerkt:
+* Wanneer cryptografie ingezet wordt. 
+* Wie verantwoordelijk is voor de implementatie. 
+* Wie verantwoordelijk is voor het sleutelbeheer. 
+* Hoe geregistreerd wordt waar welke cryptografie toegepast wordt. 
 * Welke normen als basis dienen voor cryptografie en de wijze waarop de normen van het Forum Standaardisatie worden toegepast.
-* De wijze waarop het beschermingsniveau vastgesteld wordt.
+* De wijze waarop het beschermingsniveau vastgesteld wordt. 
 * Bij communicatie tussen organisaties wordt het beleid onderling vastgesteld.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 8.24.02 Cryptografische beheersmaatregelen zijn opgenomen in de inventaris van bedrijfsmiddelen. Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie er voor verantwoordelijk is en hoe ze actueel worden gehouden.
-
+## 8.24.02
+Cryptografische beheersmaatregelen zijn opgenomen in de inventaris van de bedrijfsmiddelen.<br><br>
+Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie er voor verantwoordelijk is en hoe ze actueel worden gehouden.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.24.03 Cryptografische toepassingen voldoen aan passende standaarden van het Forum Standaardisatie.
-
+## 8.24.03
+Cryptografische toepassingen voldoen aan passende standaarden van het Forum Standaardisatie.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.24.04 De sterkte van de cryptografie wordt gebaseerd op de actuele adviezen van het NCSC en de Unit Weerbaarheid van de AIVD.
-
+## 8.24.04 
+De sterkte van de cryptografie wordt gebaseerd op de actuele adviezen van het NCSC en de Unit Weerbaarheid van de AIVD.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.24.05 Er zijn (contractuele) afspraken over reservecertificaten van een alternatieve leverancier als uit een risicoafweging blijkt dat deze noodzakelijk zijn als onderdeel van gereedheid voor bedrijfscontinuïteit (beheersmaatregel 5.30).
-
+## 8.24.05
+Er zijn (contractuele) afspraken over reservecertificaten van een alternatieve leverancier als uit de risicoafweging blijkt dat deze noodzakelijk zijn als onderdeel van gereedheid voor bedrijfscontinuïteit (beheersmaatregel 5.30).<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.25 Beveiligen tijdens de ontwikkelcyclus
-
-Voor het veilig ontwikkelen van software en systemen behoren regels te worden vastgesteld en toegepast.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.25.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.25.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.26 Toepassingsbeveiligingseisen
-
-Er behoren eisen aan de informatiebeveiliging te worden geïdentificeerd, gespecificeerd en goedgekeurd bij het ontwikkelen of aanschaffen van toepassingen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.26.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.26.01 
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.27 Veilige systeemarchitectuur en technische uitgangspunten
-
-Uitgangspunten voor het ontwerpen van beveiligde systemen behoren te worden vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle activiteiten betreffende het ontwikkelen van informatiesystemen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.27.01 Architectuurprincipes zoals ‘security by design’ en 'security by default' voor het ontwerpen van beveiliging van informatiesystemen behoren te worden vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle activiteiten over het ontwikkelen van informatiesystemen.
-
+## 8.27.01
+Architectuurprincipes zoals ‘security by design’ en ‘security by default’ voor het ontwerpen van beveiliging van informatiesystemen worden vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle activiteiten over het ontwikkelen van informatiesystemen.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.28 Veilig coderen
-
-Er behoren principes voor veilig coderen te worden toegepast op softwareontwikkeling.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.28.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.28.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.29 Testen van de beveiliging tijdens ontwikkeling en acceptatie
-
-Processen voor het testen van de beveiliging behoren te worden gedefinieerd en geïmplementeerd in de ontwikkelcyclus.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.29.01 Voor acceptatietesten van systemen worden gestructureerde testmethodieken gebruikt. De testen worden bij voorkeur geautomatiseerd uitgevoerd. Van de resultaten van de testen wordt verslag gemaakt.
-
+## 8.29.01
+Voor acceptatietesten van systemen worden gestructureerde testmethodieken gebruikt. De testen worden bij voorkeur geautomatiseerd uitgevoerd.<br><br>
+Van de resultaten van de testen wordt verslag gemaakt.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.30 Uitbestede systeemontwikkeling
-
-De organisatie behoort de activiteiten in verband met uitbestede systeemontwikkeling te sturen, bewaken en beoordelen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.30.01 Interne maatregelen voor systeemontwikkeling zijn onverkort van toepassing op uitbestede ontwikkeling, aangevuld met maatregelen die volgen vanuit uitbestedingen.
-
+## 8.30.01
+Interne maatregelen voor systeemontwikkeling zijn onverkort van toepassing op uitbestede ontwikkeling, aangevuld met maatregelen die volgen vanuit uitbestedingen.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 8.31 Scheiden van ontwikkel-, test- en productieomgevingen
-
-Ontwikkel-, test- en productieomgevingen behoren te worden gescheiden en beveiligd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.31.01 In de productieomgeving wordt niet getest. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.
-
+## 8.31.01
+In de productieomgeving wordt niet getest. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.31.02 Significante wijzigingen in productieomgeving worden altijd getest voordat zij in productie gebracht worden. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.
-
+## 8.31.02 
+Significante wijzigingen in de productieomgeving worden altijd getest voordat zij in productie gebracht worden. 
+Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.32 Wijzigingsbeheer
-
-Wijzigingen in informatieverwerkende faciliteiten en informatiesystemen behoren onderworpen te zijn aan procedures voor wijzigingsbeheer.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.32.01 In het wijzigingenbeheerproces is minimaal aandacht besteed aan: 
+## 8.32.01
+In het wijzigingsbeheerproces is minimaal aandacht besteed aan:
 * het administreren van wijzigingen, met de resultaten van het testplan;
 * een risicoafweging van mogelijke gevolgen van de wijzigingen, inclusief een beschreven rollbackplan;
 * de goedkeuringsprocedure voor wijzigingen.
 
 Draagt bij aan: Basishygiëne
 
-### 8.32.02 Wijzigingsbeheer vindt plaats op basis van een algemeen geaccepteerd beheerraamwerk.
-
+## 8.32.02 
+Wijzigingsbeheer vindt plaats op basis van een algemeen geaccepteerd beheerraamwerk.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.33 Testgegevens
-
-Testgegevens behoren op passende wijze te worden geselecteerd, beschermd en beheerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.33.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.33.01 
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.34 Bescherming van informatiesystemen tijdens audits
-
-Audittests en andere auditactiviteiten waarbij operationele systemen worden beoordeeld, behoren te worden gepland en overeengekomen tussen de tester en het verantwoordelijke management.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.34.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.34.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
-
