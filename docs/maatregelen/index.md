@@ -75,100 +75,60 @@ Draagt bij aan: Basishygiëne, ketenhygiëne
 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.11 Retourneren van bedrijfsmiddelen
-
-Personeel en andere belanghebbenden, al naargelang de situatie, behoren alle bedrijfsmiddelen van de organisatie die ze in hun bezit hebben bij beÎindiging van hun dienstverband, contract of overeenkomst te retourneren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.11.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 5.12 Classificeren van informatie
-
-Informatie behoort te worden geclassificeerd volgens de informatiebeveiligingsbehoeften van de organisatie, op basis van de eisen voor vertrouwelijkheid, integriteit, beschikbaarheid en relevante eisen van belanghebbenden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.12.01 Informatie in alle informatiesystemen is door middel van een expliciete risicoafweging geclassificeerd. 
-### Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.
-
+## 5.12.01
+Informatie in alle informatiesystemen is door middel van een expliciete risicoafweging geclassificeerd.<br><br>
+Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.13 Labelen van informatie
-
-Om informatie te labelen, behoort een passende reeks procedures te worden ontwikkeld en geïmplementeerd in overeenstemming met het informatieclassificatieschema dat is vastgesteld door de organisatie.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.13.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.13.01 
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Ketenhygiëne
 
-# Beheersmaatregel 5.14 Overdragen van informatie
-
-Er behoren regels, procedures of overeenkomsten voor informatieoverdracht te zijn ingesteld voor alle soorten van communicatiefaciliteiten binnen de organisatie en tussen de organisatie en andere partijen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.14.01 Internetfacing-informatiesystemen en e-mail-berichtenverkeer moeten blijvend voldoen aan de verplichte standaarden, zie hiervoor de website van het Forum Standaardisatie. 
-### Hierop wordt gestuurd met de metingen van internet.nl. 
-### Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
-
+## 5.14.01
+Internetfacing-informatiesystemen en e-mail berichtenverkeer moeten blijvend voldoen aan de verplichte standaarden, zie hiervoor de website van het Forum Standaardisatie.<br><br>
+Hierop wordt gestuurd met de metingen van internet.nl.<br><br>
+Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.14.02 Maak bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten. 
-### Maak bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV-certificaten of private PKIo-certificaten. Hogere eisen aan certificaten kunnen voortvloeien uit een risicoanalyse, aansluitvoorwaarden of wetgeving.
-
+## 5.14.02 
+Maak bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten.<br><br>
+Maak bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV-certificaten of private PKIo-certificaten.
+Hogere eisen aan certificaten kunnen voortvloeien uit een risicoanalyse, aansluitvoorwaarden of wetgeving.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.14.03 Geavanceerde en/of gekwalificeerde elektronische handtekeningen moeten voldoen aan de Advanced Electronic Signatures (AdES Baseline Profiles), zoals opgenomen in de Lijst open standaarden van Forum Standaardisatie.
-
+## 5.14.03
+Geavanceerde en/of gekwalificeerde elektronische handtekeningen moeten voldoen aan de Advanced Electronic Signatures (AdES Baseline Profiles), zoals opgenomen in de Lijst open standaarden van Forum Standaardisatie.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.14.04 Van alle internetfacingsystemen, webapplicaties, IP-adressen en API's is een actuele registratie.
-
+## 5.14.04
+Van alle internetfacing-informatiesystemen, webapplicaties, IP-adressen en API’s is een actuele registratie.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.14.05 Publiek toegankelijke websites worden bekend gemaakt via Register Internetdomeinen Overheid. 
-### Deze informatie wordt ten minste iedere zes maanden geactualiseerd. 
-
+## 5.14.05
+Publiek toegankelijke websites worden bekend gemaakt via Register Internetdomeinen Overheid.<br><br>
+Deze informatie wordt ten minste iedere zes maanden geactualiseerd.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.15 Toegangsbeveiliging
-
-Er behoren regels op basis van bedrijfs- en informatiebeveiligingseisen te worden vastgesteld en geïmplementeerd om de fysieke en logische toegang tot informatie en andere gerelateerde bedrijfsmiddelen te beheersen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.15.01 Toegang tot een vertrouwde zone is toegestaan in twee situaties: 
-### 1. vanaf geauthentiseerde apparatuur of; 
-### 2. vanuit programmatuur die draait binnen een veilige schil.
+## 5.15.01
+Toegang tot een vertrouwde zone is toegestaan in twee situaties: 
+1. vanaf geauthentiseerde apparatuur of;
+2. vanuit programmatuur die draait binnen een veilige schil.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.16 Identiteitsbeheer
-
-De volledige levenscyclus van identiteiten behoort te worden beheerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.16.01 Er is een sluitende formele registratie- en afmeldprocedure voor het beheren van gebruikersidentificaties.
-
+## 5.16.01
+Er is een sluitende formele registratie- en afmeldprocedure voor het beheren van gebruikersidentificaties.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.16.02 Het gebruiken van groepsaccounts is niet toegestaan, tenzij de proceseigenaar dit motiveert, vastlegt en afstemt met de CISO.
-
+## 5.16.02 
+Het gebruiken van groepsaccounts is niet toegestaan, tenzij de proceseigenaar dit motiveert, vastlegt en afstemt met de CISO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.17 Authenticatie-informatie
-
-De toewijzing en het beheer van authenticatie-informatie behoort te worden beheerst door middel van een beheerproces waarvan het adviseren van het personeel over de juiste manier van omgaan met authenticatie-informatie deel uitmaakt.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.17.01 Pas multi-factor authenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
+## 5.17.01 Pas multi-factor authenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
 
 Pas MFA toe in deze twee vormen:
 I. wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey);
