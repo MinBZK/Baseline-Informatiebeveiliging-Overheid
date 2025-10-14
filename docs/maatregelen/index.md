@@ -249,96 +249,58 @@ In de procedure voor informatiebeveiligingsincidenten is er een koppeling gemaak
 Draagt bij aan: Basishygiëne
 
 ## 5.24.06
-De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de organisatie. In de risicoanalyse wordt rekening gehouden met:
-- de specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener;
-- de algemene kwaliteit van de producten;
-- de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners, met inbegrip van hun veilige ontwikkelingsprocedures.
+De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de organisatie. In de risicoanalyse wordt rekening gehouden met: 
+* specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener; 
+* de algemene kwaliteit van de producten; 
+* de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners, met inbegrip van hun veilige ontwikkelingsprocedures.
 
 Draagt bij aan: Basishygiëne
 
-### 5.24.07 De incidentprocedure is er op ingericht om:
-- binnen de wettelijke termijn informatiebeveiligingsincidenten te melden bij het Cyber Security Incident Responce Team (CSIRT); 
-- meldingen van het nationale CSIRT te ontvangen, te beoordelen en op te nemen in de risicobehandeling;
-- betrokkenen binnen de wettelijke termijn op de hoogte te stellen van het incident.
+## 5.24.07
+De incidentprocedure is er op ingericht om:
+* binnen de wettelijke termijn informatiebeveiligingsincidenten te melden bij het nationale Cyber Security Incident Responce Team (CSIRT);
+* meldingen van het nationale CSIRT te ontvangen, te beoordelen en op te nemen in de risicobehandeling;
+* betrokkenen binnen de wettelijke termijn op de hoogte te stellen van het incident.
 
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.25 Beoordelen van en besluiten over informatiebeveiligingsgebeurtenissen
-
-De organisatie behoort informatiebeveiligingsgebeurtenissen te beoordelen en te beslissen of ze moeten worden gecategoriseerd als informatiebeveiligingsincidenten.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.25.01 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. Ze worden indien relevant gemeld bij toezichthouders volgens de bepalingen uit de betrokken wet- en regelgeving zoals de Cbw, de Archiefwet en de Algemene verordening gegevensbescherming (AVG).
-
+## 5.25.01
+Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. 
+Ze worden indien relevant gemeld bij toezichthouders volgens de bepalingen uit de betrokken wet- en regelgeving zoals de Cbw, de Archiefwet en de Algemene 
+verordening gegevensbescherming (AVG).<br><br>
 Draagt bij aan: Basishygiëne, overheidsrisico
 
-# Beheersmaatregel 5.26 Reageren op informatiebeveiligingsincidenten
-
-Op informatiebeveiligingsincidenten behoort te worden gereageerd in overeenstemming met de gedocumenteerde procedures.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.26.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.26.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 5.27 Leren van informatiebeveiligingsincidenten
-
-Kennis die is opgedaan met informatiebeveiligingsincidenten behoort te worden gebruikt om de beheersmaatregelen voor informatiebeveiliging te versterken en te verbeteren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.27.01 Informatiebeveiligingsincidenten worden geanalyseerd om achterliggende oorzaken vast te stellen, verbeteringen te realiseren, om zo toekomstige incidenten te voorkomen.
-
+## 5.27.01
+Informatiebeveiligingsincidenten worden geanalyseerd om achterliggende oorzaken vast te stellen, verbeteringen te realiseren, om zo toekomstige incidenten te voorkomen.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.27.02 De analyses van informatiebeveiligingsincidenten, inclusief de achterliggende oorzaken en de verbeteringen worden breed gedeeld met relevante partners om herhaling en toekomstige incidenten te voorkomen.
-
+## 5.27.02
+De analyses van informatiebeveiligingsincidenten, inclusief de achterliggende oorzaken en de verbeteringen worden breed gedeeld met relevante partners om herhaling en toekomstige incidenten te voorkomen.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.28 Verzamelen van bewijsmateriaal
-
-De organisatie behoort procedures vast te stellen en te implementeren voor het identificeren, verzamelen, verkrijgen en bewaren van bewijs met betrekking tot informatiebeveiligingsgebeurtenissen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.28.01 De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar. Dit betreft onder meer de informatie benodigd voor de analyse (waaronder logging), de oplossing en het advies.
-
+## 5.28.01 
+De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar. 
+Dit betreft onder meer de informatie benodigd voor de analyse (waaronder logging), de oplossing en het advies.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.29 Informatiebeveiliging tijdens een verstoring
-
-De organisatie behoort plannen te maken voor het op het passende niveau waarborgen van de informatiebeveiliging tijdens een verstoring.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.29.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.29.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.30 ICT-gereedheid voor bedrijfscontinuïteit
-
-De ICT-gereedheid behoort te worden gepland, geïmplementeerd, onderhouden en getest op basis van bedrijfscontinuïteitsdoelstellingen en ICT-continuïteitseisen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.30.01 De proceseigenaar test jaarlijks continuïteitsplannen op werking, volledigheid en actualiteit, om de plannen te verbeteren.
-
+## 5.30.01
+De proceseigenaar test jaarlijks continuïteitsplannen op werking, volledigheid en actualiteit, om de plannen te verbeteren.<br><br>
 Draagt bij aan: Overheidsrisico
 
-### 5.30.02 Binnen de inventarisatie van beheersmaatregel 5.12, identificeert de proceseigenaar kritieke systemen op basis van de vastgestelde risicomanagementmethodiek en een expliciete risicoafweging. 
-### De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.
-
+## 5.30.02
+Binnen de inventarisatie van beheersmaatregel 5.12, identificeert de proceseigenaar kritieke systemen op basis van de vastgestelde risicomanagementmethodiek en een expliciete risicoafweging.
+De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 5.31 Wettelijke, statutaire, regelgevende en contractuele eisen
-
-Wettelijke, statutaire, regelgevende en contractuele eisen die relevant zijn voor informatiebeveiliging en de aanpak van de organisatie om aan deze eisen te voldoen, behoren te worden geïdentificeerd, gedocumenteerd en actueel gehouden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.31.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
+## 5.31.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
