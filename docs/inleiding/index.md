@@ -41,6 +41,7 @@ De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderd
 * Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO. 
 * Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen. 
 * Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
+
 Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. 
 Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld.
 
@@ -58,17 +59,17 @@ Deel 1 BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een
 _Een informatiesysteem is “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.” Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
 
 ## 4. Verplichtingen BIO
-De BIO stelt de volgende verplichtingen aan overheidsorganisaties:,<BR><BR>
-**NEN-EN-ISO/IEC 27001 wordt toegepast op het formuleren van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.** <BR><BR>
-Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context over uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.<BR><BR>
-**NEN-EN-ISO/IEC 27002 én de verplichte overheidsmaatregelen uit de BIO moeten worden toegepast op het formuleren van passende beheersmaatregelen.** <BR><BR>
-Hierbij wordt rekening gehouden met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden, gebaseerd op de scope en de onderkende risico’s. De beheersmaatregelen uit NEN-ISO/IEC 27002 en de BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technologie (OT) de **CSIR** en IEC 62443 Industriële cybersecurity.<BR><BR>
-**Organisaties tonen opzet, bestaan en werking van maatregelen aan.** <BR><BR>
-Deze vereiste volgt ook uit de Cbw/Network and Information Security directive 2 (NIS2). De BIO omvat maatregelen op tactisch niveau. Dit betekent dat deze maatregelen door de organisatie eerst geoperationaliseerd moeten worden voordat ze geïmplementeerd kunnen worden. Deze implementatie is risicogericht en voldoet aan best practices en marktstandaarden. Onderdeel van de operationalisatie is ook het kunnen detecteren of de maatregel goed functioneert. Over het hele ontwerp wordt geborgd dat uitval van één maatregel niet leidt tot een directe kwetsbaarheid in het hele systeem. Hoe de maatregelen zijn geoperationaliseerd, wordt via verwijzingen vastgelegd. Hiermee toont een organisatie de ‘opzet’ van maatregelen aan. Al dan niet met behulp van externe partijen en/of via self-assessments, audits, pentesten, redteam-testen en dergelijke toont een organisatie het ‘bestaan’ en de ‘werking’ aan van maatregelen aan.<BR><BR>
-**Er bestaan beheersmaatregelen zonder overheidsmaatregelen.** <BR><br>
+De BIO stelt de volgende verplichtingen aan overheidsorganisaties:,<BR>
+**NEN-EN-ISO/IEC 27001 wordt toegepast op het formuleren van eisen voor het vaststellen, implementeren, bijhouden en continu verbeteren van een managementsysteem voor informatiebeveiliging en het vaststellen van het toepassingsgebied (de reikwijdte) van dit managementsysteem.** <br>
+Voor het bepalen van de context van de organisatie neemt de organisatie minimaal de beschreven context over uit de BIO bij het inrichten, implementeren, in stand houden en continu verbeteren van het managementsysteem voor informatiebeveiliging.<BR>
+**NEN-EN-ISO/IEC 27002 én de verplichte overheidsmaatregelen uit de BIO moeten worden toegepast op het formuleren van passende beheersmaatregelen.** <BR>
+Hierbij wordt rekening gehouden met de omgeving(en) waarin de informatiebeveiligingsrisico’s gelden, gebaseerd op de scope en de onderkende risico’s. De beheersmaatregelen uit NEN-ISO/IEC 27002 en de BIO kunnen, waar nodig én gelijkwaardig worden vervangen of gecombineerd met beheersmaatregelen uit andere normen en richtlijnen, zoals voor zorginformatie de **NEN 7510** en voor Operationele Technologie (OT) de **CSIR** en IEC 62443 Industriële cybersecurity.<BR>
+**Organisaties tonen opzet, bestaan en werking van maatregelen aan.** <BR>
+Deze vereiste volgt ook uit de Cbw/Network and Information Security directive 2 (NIS2). De BIO omvat maatregelen op tactisch niveau. Dit betekent dat deze maatregelen door de organisatie eerst geoperationaliseerd moeten worden voordat ze geïmplementeerd kunnen worden. Deze implementatie is risicogericht en voldoet aan best practices en marktstandaarden. Onderdeel van de operationalisatie is ook het kunnen detecteren of de maatregel goed functioneert. Over het hele ontwerp wordt geborgd dat uitval van één maatregel niet leidt tot een directe kwetsbaarheid in het hele systeem. Hoe de maatregelen zijn geoperationaliseerd, wordt via verwijzingen vastgelegd. Hiermee toont een organisatie de ‘opzet’ van maatregelen aan. Al dan niet met behulp van externe partijen en/of via self-assessments, audits, pentesten, redteam-testen en dergelijke toont een organisatie het ‘bestaan’ en de ‘werking’ aan van maatregelen aan.<BR>
+**Er bestaan beheersmaatregelen zonder overheidsmaatregelen.** <BR>
 Als een dergelijke beheersmaatregel van toepassing is, moet gebruik gemaakt worden van de bijbehorende implementatieaanwijzing uit NEN-EN-ISO/IEC 27002. Afwijken of niet toepassen van bovenliggende beheersmaatregel moet worden onderbouwd met een 
-risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid (VvT).
-**Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.** <br><br>
+risicoanalyse en de referentie naar deze analyse moet in een bijlage uitzonderingen opgenomen zijn in de Verklaring van Toepasselijkheid (VvT).<br>
+**Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.** <br>
 Deze overheidsmaatregelen vormen de minimale invulling van de beheersmaatregel. Uit een risicoanalyse moet blijken of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen.
 
 ## 5. Het managementsysteem voor informatiebeveiliging
@@ -113,7 +114,7 @@ Het classificeren van risico’s draagt bij aan een consistent beeld van de risi
 Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico's te mitigeren. NEN-EN-ISO/IEC 27001, bijlage A, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002. De BIO vult deze aan met verplicht toe te passen overheidsmaatregelen die aansluiten op de context van de overheid. 
 Deze overheidsmaatregelen zijn altijd verplicht en kunnen ongeacht de risico-inschatting van de organisatie niet geaccepteerd worden, tenzij ze niet van toepassing kunnen zijn.
 
-## 13. Kiezen Risicomanagementmethodiek
+## 13. Kiezen risicomanagementmethodiek
 Een organisatie moet een risicomanagementmethodiek kiezen en toepassen die aansluit bij de NEN-EN-ISO/IEC 27001. Een risicomanagementmethodiek omvat ten minste de volgende onderdelen: 
 * Een quickscan om te bepalen of het basisniveau toereikend is of dat aanvullende maatregelen noodzakelijk zijn en waarin de classificatie van een proces en een informatiesysteem wordt uitgevoerd. 
 * Een methode voor een volledige risicoanalyse om te komen tot aanvullende maatregelen. 
