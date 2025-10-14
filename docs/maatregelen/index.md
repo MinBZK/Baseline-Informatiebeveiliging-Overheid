@@ -189,7 +189,7 @@ Onderdeel van de afspraken is dat de leverancier transparant is over kwetsbaarhe
 Dit stelt de overheidsorganisatie in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.20.06
+## 5.20.06
 Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is.<br><br>
 Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
@@ -317,7 +317,7 @@ Draagt bij aan: Basishygiëne, ketenhygiëne
 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.35.01
+## 5.35.01
 Er is een werkend ISMS volgens NEN-EN-ISO/IEC ISO 27001.<br><br>
 Draagt bij aan: Basishygiëne
 
@@ -406,7 +406,7 @@ Draagt bij aan: Basishygiëne
 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 7.07.01 
+## 7.07.01 
 Bij het gebruik van een chipcardtoken voor toegang tot systemen wordt bij het verwijderen van het token de toegangsbeveiligingsvergrendeling automatisch geactiveerd.<br><br>
 Draagt bij aan: Basishygiëne
 
@@ -414,11 +414,11 @@ Draagt bij aan: Basishygiëne
 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 7.09.01
+## 7.09.01
 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 7.10.01
+## 7.10.01
 Er is een verwijderinstructie waarin is opgenomen dat van verwijderbare media die herbruikbaar zijn en die de organisatie verlaten, de bedrijfsgevoelige inhoud onherstelbaar verwijderd is.<br><br>
 Draagt bij aan: Overheidsrisico
 
@@ -449,253 +449,173 @@ Draagt bij aan: Basishygiëne
 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen ('zero footprint'). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen met een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op mobiele apparatuur moet wissen op afstand mogelijk zijn.
-
+## 8.01.01
+Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (‘zero footprint’). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen met een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens.<br><br>
+Op mobiele apparatuur moet ‘wissen op afstand’ mogelijk zijn.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.01.02 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd: 
-* In bewustwordingsprogramma’s komen gedragsaspecten van veilig mobiel werken aan de orde.
-* Het apparaat maakt deel uit van patchmanagement en hardening.
-* Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of van Mobile Application Management (MAM)-oplossingen. 
+## 8.01.02
+Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd:
+* In bewustwordingsprogramma’s komen gedragsaspecten van veilig mobiel werken aan de orde. 
+* Het apparaat maakt deel uit van patchmanagement en hardening. 
+* Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of Mobile Application Management (MAM)-oplossingen. 
 * Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
 
-Periodiek wordt getoetst of de punten in lid 1., 2. en 3. worden nageleefd.
-
+Periodiek wordt getoetst of de punten in lid 1., 2. en 3. worden nageleefd.<br><br>
 Draagt bij aan: Basishygiëne 
 
-# Beheersmaatregel 8.02 Speciale toegangsrechten
-
-Het toewijzen en het gebruik van speciale toegangsrechten behoren te worden beperkt en beheerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.02.01 De toegewezen of gebruikte speciale bevoegdheden worden in opzet, bestaan en werking minimaal ieder kwartaal beoordeeld.
-
+## 8.02.01 
+De toegewezen of gebruikte speciale bevoegdheden worden in opzet, bestaan en werking minimaal ieder kwartaal beoordeeld.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.03 Beperking toegang tot informatie
-
-De toegang tot informatie en andere gerelateerde bedrijfsmiddelen behoren te worden beperkt overeenkomstig het vastgestelde onderwerpspecifieke beleid inzake toegangsbeveiliging.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.03.01 Er zijn maatregelen genomen die het fysiek en/of logisch isoleren van informatie met specifiek belang waarborgen.
-
+## 8.03.01
+Er zijn maatregelen genomen die het fysiek en/of logisch isoleren van informatie met specifiek belang waarborgen.
 Draagt bij aan: Basishygiëne
 
-### 8.03.02 Gebruikers kunnen alleen die informatie met specifiek belang inzien en verwerken die ze nodig hebben voor de uitoefening van hun taak.
-
+## 8.03.02
+Gebruikers kunnen alleen die informatie met specifiek belang inzien en verwerken die ze nodig hebben voor de uitoefening van hun taak.
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.04 Toegangsbeveiliging op broncode
-
-Lees- en schrijftoegang tot broncode, ontwikkelinstrumenten en softwarebibliotheken behoren op passende wijze te worden beheerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.04.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.04.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.05 Beveiligde authenticatie
-
-Er behoren beveiligde authenticatietechnologieÎn en -procedures te worden geïmplementeerd op basis van beperkingen van de toegang tot informatie en het onderwerpspecifieke beleid inzake toegangsbeveiliging.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.05.01 Voor het verlenen van toegang tot het netwerk aan externe leveranciers wordt vooraf een risicoafweging gemaakt. De risicoafweging bepaalt onder welke voorwaarden en voor hoelang de leveranciers toegang krijgen. Uit een registratie blijkt hoe de rechten zijn toegekend.
-
+## 8.05.01
+Voor het verlenen van toegang tot het netwerk aan externe leveranciers wordt vooraf een risicoafweging gemaakt. De risicoafweging bepaalt onder welke voorwaarden en voor hoelang de leveranciers toegang krijgen. Uit een registratie blijkt hoe de rechten zijn toegekend.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 8.06 Capaciteitsbeheer
-
-Het gebruik van middelen behoort te worden gemonitord en aangepast overeenkomstig de huidige en verwachte capaciteitseisen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.06.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.07 Bescherming tegen malware
+## 8.07.01 
+Het downloaden van bestanden is beheerst en beperkt op basis van het risico en need-of-use.<br><br>
+De antimalware-software moet altijd alle downloads beoordelen.<br><br>
+Draagt bij aan: Basishygiëne
 
-Bescherming tegen malware behoort te worden geïmplementeerd en ondersteund door een passend gebruikersbewustzijn.
+## 8.07.02
+Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.<br><br>
+Draagt bij aan: Basishygiëne
 
-## Verplichte overheidsspecifieke maatregelen
+## 8.07.03 
+De gebruikte antimalware-software en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates.<br><br>
+Draagt bij aan: Basishygiëne
 
-### 8.07.01 Het downloaden van bestanden is beheerst en beperkt op basis van het risico en need-of-use. De antimalware software moet altijd alle downloads beoordelen.
-
-Draagt bij aan: Basishygiëne 
-
-### 8.07.02 Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links. 
+## 8.07.04 
+De malwarescan wordt uitgevoerd op: 
+* alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie; 
+* alle gedownloade content voorafgaand aan executie of opslag; 
+* alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving. 
 
 Draagt bij aan: Basishygiëne
 
-### 8.07.03 De gebruikte antimalwaresoftware en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates. 
-
+## 8.08.01 
+Als de kans op misbruik en de verwachte schade beide hoog zijn (bijvoorbeeld met de NCSC-Inschalingsmatrix beveiligingsadviezen of leveranciersbeveiligingsadviezen), worden passende mitigerende maatregelen zo snel mogelijk, maar uiterlijk binnen een week getroffen.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.07.04 De malwarescan wordt uitgevoerd op: 
-* alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de organisatie;
-* alle gedownloade content voorafgaand aan executie of opslag;
-* alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
-
+## 8.08.02
+Op basis van een expliciete risicoafweging wordt bepaald op welke wijze mitigerende maatregelen getroffen worden.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.08 Beheer van technische kwetsbaarheden
-
-Er behoort informatie te worden verkregen over technische kwetsbaarheden van in gebruik zijnde informatiesystemen, de blootstelling van de organisatie aan dergelijke kwetsbaarheden behoort te worden geÎvalueerd en er behorende passende maatregelen te worden getroffen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.08.01 Als de kans op misbruik en de verwachte schade beide hoog zijn (bijvoorbeeld met de NCSC-Inschalingsmatrix beveiligingsadviezen of leveranciersbeveiligingsadviezen), worden passende mitigerende maatregelen zo snel mogelijk, maar uiterlijk binnen een week getroffen.
-
+## 8.08.03
+In de tussentijd of als installatie binnen een week niet mogelijk is, worden op basis van een expliciete risicoafweging mitigerende maatregelen getroffen.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.08.02 Op basis van een expliciete risicoafweging wordt bepaald op welke wijze mitigerende maatregelen getroffen worden.
-
+## 8.08.04
+Informatiesystemen worden bij voorkeur jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en risico’s van de feitelijke veiligheid. 
+Dit kan bijvoorbeeld door (geautomatiseerde) kwetsbaarheidsanalyses, penetratietesten of red-teamingstesten. Internetfacing-informatiesystemen worden bij voorkeur continue getest op zwakheden en kwetsbaarheden.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.08.03 In de tussentijd of als installatie binnen een week niet mogelijk is, worden op basis van een expliciete risicoafweging mitigerende maatregelen getroffen.
-
+## 8.08.05
+Internetfacing-informatiesystemen hebben een verplichte (bij voorkeur geautomatiseerde) penetratietest bij iedere nieuwe release of major update.<br><br>
+Als daar bevindingen met een hoog risico uitkomen die niet op een andere manier gemitigeerd kunnen worden, mag het systeem niet in productie.<br><br>
+Alle internetfacing-informatiesystemen worden minimaal jaarlijks getest op zwakheden en kwetsbaarheden.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.08.04 Informatiesystemen worden bij voorkeur jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en risico’s van de feitelijke veiligheid. Dit kan bijvoorbeeld door (geautomatiseerde) kwetsbaarheidsanalyses, penetratietesten of red-teamingstesten. Internetfacing-informatiesystemen worden bij voorkeur continue getest op zwakheden en kwetsbaarheden.
-
+## 8.08.06
+Een Coordinated Vulnerability Disclosure (CVD)-procedure is ingericht en gepubliceerd volgens de NCSC-leidraad of NEN-EN-ISO/IEC 29147:2020 Vulnerability disclosure.<br><br>
+Informatie afkomstig uit de Coordinated Vulnerability Disclosure (CVD)-meldingen is onderdeel van de incidentrapportage.
 Draagt bij aan: Basishygiëne
 
-### 8.08.05 Internetfacing-informatiesystemen hebben een verplichte (bij voorkeur geautomatiseerde) penetratietest bij iedere nieuwe release of major update. Als daar bevindingen met een hoog risico uitkomen die niet op een andere manier gemitigeerd kunnen worden, mag het systeem niet in productie. Alle internetfacing-informatiesystemen worden minimaal jaarlijks getest op zwakheden en kwetsbaarheden.
-
-Draagt bij aan: Basishygiëne
-
-### 8.08.06 Een Coordinated Vulnerability Disclosure (CVD)-procedure is gepubliceerd en ingericht volgens de NCSC leidraad of NEN-EN-ISO/IEC 29147:2020 Vulnerability disclosure. Informatie afkomstig uit de Coordinated Vulnerability Disclosure (CVD)-meldingen is onderdeel van de incidentrapportage.
-
-Draagt bij aan: Basishygiëne
-
-# Beheersmaatregel 8.09 Configuratiebeheer
-
-Configuraties, met inbegrip van beveiligingsconfiguraties, van hardware, software, diensten en netwerken behoren te worden vastgesteld, gedocumenteerd, geïmplementeerd, gemonitord en beoordeeld.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.09.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.09.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.10 Wissen van informatie
-
-In informatiesystemen, apparaten of andere opslagmedia opgeslagen informatie behoort te worden gewist als deze niet langer vereist is.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.10.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.10.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.11 Maskeren van gegevens
-
-Gegevens behoren te worden gemaskeerd overeenkomstig het onderwerpspecifieke beleid inzake toegangsbeveiliging en andere gerelateerde onderwerpspecifieke beleidsregels, en bedrijfseisen van de organisatie, rekening houdend met de toepasselijke wetgeving.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.11.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.12 Voorkomen van gegevenslekken (data leakage prevention)
-
-Maatregelen om gegevenslekken te voorkomen, behoren te worden toegepast in systemen, netwerken en andere apparaten waarop of waarmee gevoelige informatie wordt verwerkt, opgeslagen of getransporteerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.12.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.12.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.13 Back-up van informatie
-
-Back-ups van informatie, software en systemen behoren te worden bewaard en regelmatig te worden getest overeenkomstig het overeengekomen onderwerpspecifieke beleid inzake back-ups.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.13.01 Er is een back-upbeleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. Er moet speciale aandacht zijn voor het beschermen van de back-up tegen ransomware-aanvallen en genomen maatregelen om de integriteit van de back-up te behouden.
-
+## 8.13.01 
+Er is een back-upbeleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. 
+Er moet speciale aandacht zijn voor het beschermen van de back-up tegen ransomware-aanvallen en genomen maatregelen om de integriteit van de back-up te behouden.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 8.13.02 Op basis van een expliciete risicoafweging is bepaald wat het maximaal toegestane dataverlies is en wat de maximale hersteltijd is na een incident.
-
+## 8.13.02
+Op basis van een expliciete risicoafweging is bepaald wat het maximaal toegestane dataverlies is en wat de maximale hersteltijd is na een incident.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 8.13.03 Het back-upproces voorziet in opslag van de back-up op een locatie, waarbij een incident op de ene locatie niet kan leiden tot schade op de andere.
-
+## 8.13.03
+Het back-upproces voorziet in de opslag van de back-up op een locatie, waarbij een incident op de ene locatie niet kan leiden tot schade op de andere.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 8.13.04 De herstelprocedure wordt minimaal jaarlijks getest of na een grote wijziging, om de goede werking te waarborgen als deze in noodgevallen uitgevoerd moet worden.
-
+## 8.13.04
+De herstelprocedure wordt minimaal jaarlijks getest of na een grote wijziging, om de goede werking te waarborgen als deze in noodgevallen uitgevoerd moet worden.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 8.14 Redundantie van informatieverwerkende faciliteiten
-
-Informatieverwerkende faciliteiten behoren met voldoende redundantie te worden geïmplementeerd om aan beschikbaarheidseisen te voldoen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.14.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.14.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.15 Logging
-
-Er behoren logbestanden waarin activiteiten, uitzonderingen, fouten en andere relevante gebeurtenissen worden geregistreerd, te worden geproduceerd, opgeslagen, beschermd en geanalyseerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.15.01 Een logregel bevat minimaal:
+## 8.15.01 
+Een logregel bevat minimaal: 
 * Actie: de gebeurtenis of handeling die heeft plaatsgevonden.
 * Object: waarop de gebeurtenis of handeling effect had (bijvoorbeeld welk bestand, proces of systeem).
 * Resultaat: het resultaat van de gebeurtenis of handeling.
 * Oorsprong: het apparaat of de netwerklocatie van waaruit de gebeurtenis of handeling in gang is gezet.
 * Actor: identificatie van de persoon die of het proces dat de gebeurtenis in gang heeft gezet.
 * Tijdstempel: datum en tijdstip waarop de gebeurtenis of handeling plaatsvond.
-
+  
 Draagt bij aan: Basishygiëne
 
-### 8.15.02 Een logregel bevat nooit gegevens die tot het doorbreken van de beveiliging kunnen leiden.
-
+## 8.15.02
+Een logregel bevat nooit gegevens die tot het doorbreken van de beveiliging kunnen leiden.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.15.03 Er is een overzicht van logbestanden die worden gegenereerd.
-
+## 8.15.03
+Er is een overzicht van logbestanden die worden gegenereerd.<br><br> 
 Draagt bij aan: Basishygiëne
 
-### 8.15.04 De bewaartermijn van logbestanden en gegevens in het Security Incident en Event Monitoring (SIEM) worden risicogericht bepaald, rekening houdend met het scenario dat aanvallers langdurig binnen zijn.
-
+## 8.15.04 
+De bewaartermijn van logbestanden en gegevens in het Security Incident en Event Monitoring (SIEM) worden risicogericht bepaald, rekening houdend met het scenario dat aanvallers langdurig binnen zijn. 
 Draagt bij aan: Basishygiëne
 
-### 8.15.05 Oneigenlijk wijzigen, verwijderen of pogingen daartoe van loggegevens worden zo snel mogelijk gemeld als informatiebeveiligingsincident via de procedure voor informatiebeveiligingsincidenten volgens beheersmaatregel 5.24.
-
+## 8.15.05 
+Oneigenlijk wijzigen, verwijderen of pogingen daartoe van loggegevens worden zo snel mogelijk gemeld als informatiebeveiligingsincident via de procedure voor informatiebeveiligingsincidenten volgens beheersmaatregel 5.24.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.15.06 Op basis van een expliciete risicoafweging bepaalt de organisatie de periodieke toetsing op het ongewijzigd bestaan van logbestanden gedurende de  bewaartermijn. Toetsing wordt uitgevoerd door een onafhankelijke functionaris (ten opzichte van de uitvoering).
-
+## 8.15.06 
+Op basis van een expliciete risicoafweging bepaalt de organisatie de periodieke toetsing op het ongewijzigd bestaan van logbestanden gedurende de bewaartermijn.<br><br>
+Toetsing wordt uitgevoerd door een onafhankelijke functionaris (ten opzichte van de uitvoering).<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.16 Monitoren van activiteiten
-
-Netwerken, systemen en toepassingen behoren te worden gemonitord op afwijkend gedrag en er behoren passende maatregelen te worden getroffen om potentiÎle informatiebeveiligingsincidenten te evalueren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.16.01 Bij ontdekte nieuwe dreigingen (aanvallen) via overheidsmaatregel 8.16.3 worden deze binnen geldende juridische kaders verplicht gedeeld met de daarvoor aangewezen Computer Emergency Response Team (CERT).
-
+## 8.16.01
+Bij ontdekte nieuwe dreigingen (aanvallen) via overheidsmaatregel 8.16.3 worden deze binnen geldende juridische kaders verplicht gedeeld met de daarvoor aangewezen Computer Emergency Response Team (CERT).<br><br>
 Draagt bij aan: Basishygiëne, Overheidsrisico
 
-### 8.16.02 Het SIEM- en/of het SOC monitoring-proces hebben eenduidige regels over wanneer een incident moet worden gerapporteerd aan het verantwoordelijk management.
-
+## 8.16.02
+Het SIEM- en/of het SOC-monitoring-proces hebben eenduidige regels over wanneer een incident moet worden gerapporteerd aan het verantwoordelijke management.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.16.03 De informatieverwerkende omgeving wordt gemonitord met een detectie- en response-oplossing, waarmee aanvallen kunnen worden gedetecteerd en afwijkingen adequaat en tijdig worden behandeld.
-
+## 8.16.03
+De informatieverwerkende omgeving wordt gemonitord met een detectie- en response-oplossing, waarmee aanvallen kunnen worden gedetecteerd en afwijkingen adequaat en tijdig worden behandeld.<br><br>
 Draagt bij aan: Basishygiëne
 
 ### 8.16.04 Actieve netwerkcomponenten zijn voorzien van logging en monitoring van die logging om afwijkende gebeurtenissen te kunnen waarnemen en daarop te reageren.
