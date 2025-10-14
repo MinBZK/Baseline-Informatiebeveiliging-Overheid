@@ -1,28 +1,7 @@
----
-title: Baseline Informatiebeveiliging (BIO2), Deel 2 BIO2-Kader, Verplichte overheidsmaatregelen, versie 1.1.1, 5 augustus 2025
-summary: De verplichte maatregelen en richtlijnen voor overheden uit de BIO2
-hide:
-  - navigation
----
+> [!Note]
+> _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2._
 
 # Verplichte overheidsspecifieke maatregelen en richtlijnen
-
-!!! warning "BIO2 in conceptversie" 
-    Dit is de door de werkgroep-BIO en het kern-IBO goedgekeurde versie van de BIO2. De teksten zijn representatief voor de definitieve versie, de definitieve versie kan nog veranderen als gevolg van opmaak en redactie. Deze versie zal worden ingebracht in het Overheidsbrede overleg OBDO. 
-
-!!! info 
-    Het gebruik van delen van de NEN-EN-ISO/IEC normen 27001 en 27002 in de BIO is auteursrechtelijk beschermd. Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van het Nederlands Normalisatie Instituut. Voor meer informatie zie de [website van NEN](https://www.nen.nl)
-
-De opbouw van dit document is als volgt:
-- Beheersmaatregelnummer en -titel
-- Beheersmaatregeltekst uit de ISO 27002
-- Verplichte overheidsspecifieke maatregelen, achtereenvolgens:
-      - “maatregelnummer” “maatregeltekst” 
-      - “draagt bij aan”
-
-!!! Het kan voorkomen dat een deel van een overheidsmaatregeltekst niet **vet** weergegeven wordt.
-
-Versie 1.1.1 Diverse tekstuele aanpassingen
 
 # Beheersmaatregel 5.01 Beleidsregels voor informatiebeveiliging
 
