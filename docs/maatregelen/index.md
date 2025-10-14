@@ -5,7 +5,7 @@
 
 ## 5.01.01 
 Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie (OT) en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van de organisatie, bedrijfscontinuïteitsmanagement (BCM) zijn 
-beschreven en vastgesteld. 
+beschreven en vastgesteld.<br><br>
 De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door de leiding van de organisatie. 
 Dit beleid bevat ten minste de volgende punten: 
 1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid. 
@@ -16,31 +16,19 @@ Dit beleid bevat ten minste de volgende punten:
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.01.02 Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de (bestaande) bestuurs- en Planning & Control (P&C)-cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld.
-
+## 5.01.02 
+Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de (bestaande) bestuurs- en Planning & Control (P&C)-cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld. <br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.02 Rollen en verantwoordelijkheden bij informatiebeveiliging
-
-Rollen en verantwoordelijkheden bij informatiebeveiliging behoren te worden gedefinieerd en toegewezen overeenkomstig de behoeften van de organisatie.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.02.01 De leiding van de organisatie heeft vastgelegd wat de verantwoordelijkheden en rollen zijn op het gebied van informatiebeveiliging (ook voor OT, BCM en privacybescherming) binnen haar organisatie. Hierbij is specifieke aandacht voor de verantwoordelijkheden en rollen voor het adequaat afhandelen van incidenten.
-
-Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico's die op die bedrijfsmiddelen van toepassing zijn.
-
+## 5.02.01 
+De leiding van de organisatie heeft vastgelegd wat de verantwoordelijkheden en rollen zijn voor informatiebeveiliging (ook voor OT, BCM en privacybescherming) binnen haar organisatie. 
+Hierbij is specifieke aandacht voor de verantwoordelijkheden en rollen voor het adequaat afhandelen van incidenten.<br><br>
+Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico’s die op die bedrijfsmiddelen van toepassing zijn.<br><br> 
 Draagt bij aan: Basishygiëne
 
-### 5.02.02 Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging.
-
+## 5.02.02
+Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging.<br><br>
 Draagt bij aan: Basishygiëne
-
-# Beheersmaatregel 5.03 Functiescheiding
-
-Conflicterende taken en conflicterende verantwoordelijkheden behoren te worden gescheiden.
-
-## Verplichte overheidsspecifieke maatregelen
 
 ### 5.03.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
 
