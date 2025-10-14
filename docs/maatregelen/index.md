@@ -30,89 +30,49 @@ Draagt bij aan: Basishygiëne
 Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.03.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.03.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 5.04 Managementverantwoordelijkheden
-
-Het management behoort van al het personeel te eisen dat ze informatiebeveiliging toepassen overeenkomstig het vastgestelde informatiebeveiligingsbeleid, de onderwerpspecifieke beleidsregels en procedures van de organisatie.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.04.01 Bestuur en werknemers moeten regelmatig, scholing volgen om cyberbeveiligingsrisico's te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.
-### Daarbij tonen bestuurders aan dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico's te beoordelen op de diensten en/of producten die de organisatie levert.
-
+## 5.04.01
+Bestuur en werknemers moeten regelmatig, scholing volgen om cyberbeveiligingsrisico’s te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.<br><br>
+Daarbij tonen bestuurders aan dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico’s te beoordelen op de diensten en/of producten die de organisatie levert.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.04.02 De gedragsregels voor het gebruik van bedrijfsmiddelen zijn voor extern personeel en vrijwilligers in het contract vastgelegd volgens de huisregels of interne gedragsregels.
-
-Draagt bij aan: Basishygiëne
-
-### 5.04.03 Alle medewerkers zijn aantoonbaar gewezen op de gedragsregels voor het gebruik van bedrijfsmiddelen.
-
-Draagt bij aan: Basishygiëne
-
-# Beheersmaatregel 5.05 Contact met overheidsinstanties
-
-De organisatie behoort contact met de relevante instanties te leggen en te onderhouden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.05.01 De organisatie heeft uitgewerkt welke functionarissen met welke (overheids)instanties en toezichthouders formele contacten hebben over informatiebeveiliging. Dit overzicht wordt ten minste jaarlijks geactualiseerd.
-
-Draagt bij aan: Ketenhygiëne
-
-# Beheersmaatregel 5.06 Contact met speciale belangengroepen
-
-De organisatie behoort contacten met speciale belangengroepen of andere gespecialiseerde beveiligingsfora en beroepsverenigingen te leggen en te onderhouden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.06.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.04.02
+De gedragsregels voor het gebruik van bedrijfsmiddelen zijn voor extern personeel en vrijwilligers in het contract vastgelegd volgens de huisregels of interne gedragsregels.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 5.07 Informatie en analyses over dreigingen
+## 5.04.03
+Alle medewerkers zijn aantoonbaar gewezen op de gedragsregels voor het gebruik van bedrijfsmiddelen.<br><br>
+Draagt bij aan: Overheidsrisico
 
-Informatie met betrekking tot informatiebeveiligingsdreigingen behoort te worden verzameld en geanalyseerd om informatie en analyses over dreigingen te produceren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.07.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
-Draagt bij aan: Basishygiëne, ketenhygiëne
-
-# Beheersmaatregel 5.08 Informatiebeveiliging in projectmanagement
-
-Informatiebeveiliging behoort te worden geïntegreerd in projectmanagement.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.08.01 Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen moet een expliciete risicoafweging op basis van de door de organisatie vastgestelde risicomanagementmethodiek worden uitgevoerd, om risico’s te identificeren en in voldoende mate te beheersen en ook voor het vaststellen van de beveiligingseisen.
-
+## 5.05.01
+De organisatie heeft uitgewerkt welke functionarissen met welke (overheids)instanties en toezichthouders formele contacten hebben over informatiebeveiliging.<br><br>
+Dit overzicht wordt ten minste jaarlijks geactualiseerd.<br><br>
 Draagt bij aan: Ketenhygiëne
 
-# Beheersmaatregel 5.09 Inventarisatie van informatie en andere gerelateerde bedrijfsmiddelen
+## 5.06.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
+Draagt bij aan: Overheidsrisico
 
-Er behoort een inventarislijst van informatie en andere gerelateerde bedrijfsmiddelen, met inbegrip van de eigenaren, te worden opgesteld en onderhouden.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.09.01 Er is een inventaris van bedrijfsmiddelen die van belang zijn, voor informatieverwerking met inbegrip van OT. 
-### De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud. In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de organisatie staan. 
-### De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.
-
+## 5.07.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.10 Aanvaard gebruik van informatie en andere gerelateerde bedrijfsmiddelen
+## 5.08.01
+Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen moet een expliciete risicoafweging op basis van de door de organisatie vastgestelde risicomanagementmethodiek worden uitgevoerd, om risico’s te identificeren en in voldoende mate 
+te beheersen en ook voor het vaststellen van de beveiligingseisen.<br><br>
+Draagt bij aan: Ketenhygiëne
 
-Regels voor het aanvaardbaar gebruik van en procedures voor het omgaan met informatie en andere gerelateerde bedrijfsmiddelen behoren te worden geïdentificeerd, gedocumenteerd en geïmplementeerd.
+## 5.09.01 
+Er is een inventaris van bedrijfsmiddelen die van belang zijn voor informatieverwerking, met inbegrip van OT.<br><br>
+De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud. In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de organisatie staan.<br><br>
+De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.<br><br>
+Draagt bij aan: Basishygiëne, ketenhygiëne
 
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.10.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.10.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
 # Beheersmaatregel 5.11 Retourneren van bedrijfsmiddelen
