@@ -128,62 +128,43 @@ Draagt bij aan: Basishygiëne
 Het gebruiken van groepsaccounts is niet toegestaan, tenzij de proceseigenaar dit motiveert, vastlegt en afstemt met de CISO.<br><br>
 Draagt bij aan: Basishygiëne
 
-## 5.17.01 Pas multi-factor authenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.
+## 5.17.01 
+Pas multi-factorauthenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.<br><br>
+Pas MFA toe in deze twee vormen: 
+1. Wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey).
+2. Wachtwoordtoegang in combinatie met minimaal een tweede factor. 
 
-Pas MFA toe in deze twee vormen:
-I. wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey);
-II. wachtwoordtoegang in combinatie met minimaal een tweede factor. 
-
-Indien MFA niet mogelijk is voor deze accounts, neem andere mitigerende maatregelen. Betrek de CISO hierbij en laat ze goedkeuren door de proceseigenaar.
-
-Combineer waar mogelijk en veilig, MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone oplossing.
-
-Voor beheer en monitoring van authenticatiegegevens:
-* geef authenticatie-informatie uit met formele vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld;
+Indien MFA niet mogelijk is voor deze accounts, neem andere mitigerende maatregelen. Betrek de CISO hierbij en laat ze goedkeuren door de proceseigenaar.<br><br>
+Combineer waar mogelijk en veilig, MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone-oplossing.<br><br>
+Voor beheer en monitoring van authenticatiegegevens: 
+* geef authenticatie-informatie uit met formele vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld; 
 * definieer Use Cases voor misbruik van authenticatiegegevens, monitor deze en neem passende actie bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.17.02 De organisatie biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan.
-
+## 5.17.02
+De organisatie biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.17.03 De eisen aan wachtwoorden moeten geautomatiseerd worden afgedwongen.
-
+## 5.17.03
+De eisen aan wachtwoorden moeten geautomatiseerd worden afgedwongen.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.18 Toegangsrechten
-
-Toegangsrechten voor informatie en andere gerelateerde bedrijfsmiddelen behoren te worden verstrekt, beoordeeld, aangepast en verwijderd overeenkomstig het onderwerpspecifieke beleid en de regels inzake toegangsbeveiliging van de organisatie.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.18.01 Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt dit als zodanig vastgelegd en afgehandeld. 
-
+## 5.18.01
+Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt als zodanig vastgelegd en afgehandeld.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.18.02 Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet.
-
+## 5.18.02
+Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.19 Informatiebeveiliging in leveranciersrelaties
-
-Er behoren processen en procedures te worden vastgesteld en geïmplementeerd om de informatiebeveiligingsrisicoís in verband met het gebruik van producten of diensten van de leverancier te beheersen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.19.01 Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn eisen ten aanzien van informatiebeveiligingseisen (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen. 
-### Informatiebeveiligingseisen zijn gebaseerd op een expliciete risicoafweging.
-
+## 5.19.01
+Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn informatiebeveiligingseisen (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen.<br><br>
+De informatiebeveiligingseisen zijn gebaseerd op een expliciete risicoafweging.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.20 Adresseren van informatiebeveiliging in leveranciersovereenkomsten
-
-Relevante informatiebeveiligingseisen behoren te worden vastgesteld en met elke leverancier op basis van het type leveranciersrelatie te worden overeengekomen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.20.01 De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in de (inkoop)contracten waar de verwerking van informatie een rol speelt.
+## 5.20.01
+De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in de (inkoop)contracten waar de verwerking van informatie een rol speelt.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
