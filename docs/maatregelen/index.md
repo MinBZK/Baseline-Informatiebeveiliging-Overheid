@@ -164,54 +164,48 @@ De informatiebeveiligingseisen zijn gebaseerd op een expliciete risicoafweging.<
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
 ## 5.20.01
-De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in de (inkoop)contracten waar de verwerking van informatie een rol speelt.
-
+De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in de (inkoop)contracten waar de verwerking van informatie een rol speelt.<br><br> 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.20.02 Sluit waar mogelijk algemene voorwaarden van leveranciers expliciet uit en neem eventueel aanvullende voorwaarden op. Als uitsluiten niet mogelijk is beoordeel dan de risico's. Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd moeten zijn en welke voorwaarden niet of nooit geaccepteerd mogen worden bij het aangaan van de overeenkomst.
-
+## 5.20.02
+Sluit waar mogelijk algemene voorwaarden van leveranciers expliciet uit en neem eventueel aanvullende voorwaarden op.
+Als uitsluiten niet mogelijk is, beoordeel dan de risico’s.<br><br>
+Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd moeten zijn en welke voorwaarden niet of nooit geaccepteerd mogen worden bij het aangaan van de overeenkomst.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.20.03 In het inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden. Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de toeleveringsketen en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie overheidsmaatregel 5.21.01. 
-### Dit toont de leverancier jaarlijks opnieuw aan.
+## 5.20.03
+In het inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden.<br><br>
+Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de toeleveringsketen en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie overheidsmaatregel 5.21.01.<br><br>
+Dit toont de leverancier jaarlijks opnieuw aan. Draagt bij aan: Basishygiëne, ketenhygiëne
 
+## 5.20.04
+De overheidsorganisatie voert zelfstandig onderzoek uit, ook ter validatie van de rapportages die de leverancier aanlevert.<br><br>
+Om dit mogelijk te maken, wordt expliciet opgenomen dat er een mogelijkheid is voor een externe audit.
+Indien uit het voorgaande restrisico’s volgen, beheerst de overheidsorganisatie deze door het toepassen van zijn vastgestelde risicomanagementmethodiek.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.20.04 De overheidsorganisatie voert zelfstandig onderzoek uit, ook ter validatie van de rapportages die de leverancier aanlevert. Om dit mogelijk te maken, wordt in ieder geval expliciet opgenomen dat er een mogelijkheid is voor een externe audit. Indien uit het voorgaande restrisico’s volgen, beheerst de overheidsorganisatie deze door het toepassen van zijn vastgestelde risicomanagementmethodiek.
-
-Draagt bij aan: Basishygiëne, ketenhygiëne
- 
-
-### 5.20.05 Onderdeel van de afspraken is dat de leverancier transparant is over kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken. Dit stelt de overheidsorganisatie in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.
-
+## 5.20.05
+Onderdeel van de afspraken is dat de leverancier transparant is over kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken. 
+Dit stelt de overheidsorganisatie in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.20.06 Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is. Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie. 
-
+### 5.20.06
+Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is.<br><br>
+Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.21 Beheren van informatiebeveiliging in de ICT-toeleveringsketen
-
-Er behoren processen en procedures te worden bepaald en geïmplementeerd om de informatiebeveiligingsrisicoís in verband met de toeleveringsketen van ICT-producten en -diensten te beheersen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.21.01 In het contract is opgenomen dat de leverancier verantwoordelijk is voor het borgen van de gestelde eisen bij de toeleveranciers.
-
+## 5.21.01
+In het contract is opgenomen dat de leverancier verantwoordelijk is voor het borgen van de gestelde eisen bij de toeleveranciers.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-### 5.21.02 Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico's daarin. De overheidsorganisatie beoordeelt of de risico's acceptabel zijn. 
-
-
+## 5.21.02
+Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico’s daarin. De overheidsorganisatie beoordeelt of de risico’s acceptabel zijn.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
 ### 5.21.03 De overheidsorganisatie borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier. Indien informatiebeveiligingseisen zijn uitgesloten maakt de leverancier dat inzichtelijk, inclusief een onderbouwing. 
-
-
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
 ### 5.21.04 Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico's daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de overheidsorganisatie kunnen raken. 
-
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
 # Beheersmaatregel 5.22 Monitoren, beoordelen en het beheren van wijzigingen van leveranciersdiensten
