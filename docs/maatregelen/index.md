@@ -300,111 +300,61 @@ Binnen de inventarisatie van beheersmaatregel 5.12, identificeert de proceseigen
 De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.<br><br>
 Draagt bij aan: Overheidsrisico
 
-## 5.31.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.31.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.32 Intellectuele-eigendomsrechten
-
-De organisatie behoort passende procedures te implementeren om intellectuele-eigendomsrechten te beschermen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.32.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.32.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 5.33 Beschermen van registraties
-
-Registraties behoren te worden beschermd tegen verlies, vernietiging, vervalsing, toegang door onbevoegden en ongeoorloofde vrijgave.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.33.01 De proceseigenaar heeft voor alle informatie(systemen) in selectielijsten de bewaartermijnen vastgelegd, rekening houdend met de eigen bedrijfsdoelstellingen en wet- en regeling zoals de archiefwet en privacywetgeving. 
-De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.
-
+## 5.33.01 
+De proceseigenaar heeft voor alle informatie(systemen) in selectielijsten de bewaartermijn vastgelegd, rekening houdend met de eigen bedrijfsdoelstellingen en wet- en regeling, zoals de archiefwet en privacywetgeving.<br><br>
+De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.<br><br>
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
-# Beheersmaatregel 5.34 Privacy en bescherming van persoonsgegevens
-
-De organisatie behoort de eisen met betrekking tot het behoud van privacy en de bescherming van persoonsgegevens volgens de toepasselijke wet- en regelgeving en contractuele eisen te identificeren en eraan te voldoen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.34.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.34.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.35 Onafhankelijke beoordeling van informatiebeveiliging
-
-De aanpak van de organisatie ten aanzien van het beheer van informatiebeveiliging en de implementatie ervan, met inbegrip van mensen, processen en technologieÎn, behoren onafhankelijk en met geplande tussenpozen of zodra zich belangrijke veranderingen voordoen, te worden beoordeeld.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.35.01 Er is een werkend ISMS volgens NEN-EN-ISO/IEC ISO 27001.
-
+### 5.35.01
+Er is een werkend ISMS volgens NEN-EN-ISO/IEC ISO 27001.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 5.35.02 Er is een vastgesteld auditplan waarin jaarlijks keuzes worden gemaakt voor welke systemen welk soort beveiligingsaudits worden uitgevoerd.
-
+## 5.35.02
+Er is een vastgesteld auditplan waarin jaarlijks keuzes worden gemaakt voor welke systemen welk soort beveiligingsaudits worden uitgevoerd.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.36 Naleving van beleid, regels en normen voor informatiebeveiliging
-
-De naleving van het informatiebeveiligingsbeleid, het onderwerpspecifieke beleid, regels en de normen van de organisatie behoren regelmatig te worden beoordeeld.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.36.01 In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging, onder coördinatie van de CISO. Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de overheidsorganisatie. De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
-
+## 5.36.01
+In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging onder coördinatie van de CISO. 
+Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de overheidsorganisatie. 
+De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 5.37 Gedocumenteerde bedieningsprocedures
-
-Bedieningsprocedures voor informatieverwerkende faciliteiten behoren te worden gedocumenteerd en beschikbaar te worden gesteld aan het personeel dat ze nodig heeft.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.37.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 5.37.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br> 
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.01 Screening
-
-De achtergrond van alle kandidaten voor een dienstverband behoort te worden gecontroleerd voordat ze bij de organisatie in dienst treden en daarna op gezette tijden te worden herhaald. Hierbij behoort rekening te worden gehouden met de toepasselijke wet- en regelgeving en ethische overwegingen, en deze controle behoort in verhouding te staan tot de bedrijfseisen, de classificatie van de informatie waartoe toegang wordt verleend en de vastgestelde risico's.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.01.01 Elke organisatie heeft een vastgesteld screeningsbeleid. Bij indiensttreding en bij functiewijziging kan op basis van een risicoafweging een Verklaring Omtrent het Gedrag (VOG) gevraagd worden.
-
+## 6.01.01 
+Elke organisatie heeft een vastgesteld screeningsbeleid.<br><br>
+Bij indiensttreding en bij functiewijziging kan op basis van een risicoafweging een Verklaring Omtrent het Gedrag (VOG) gevraagd worden.<br><br>
 Draagt bij aan: Basishygiëne, overheidsrisico
 
-# Beheersmaatregel 6.02 Arbeidsovereenkomst
-
-In arbeidsovereenkomsten behoort te worden vermeld wat de verantwoordelijkheden van het personeel en van de organisatie zijn wat betreft informatiebeveiliging.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.02.01 Alle medewerkers (intern en extern) zijn bij hun aanstelling of functiewisseling gewezen op hun verantwoordelijkheden voor informatiebeveiliging. 
-### De voor hen geldende regelingen en instructies voor informatiebeveiliging zijn eenvoudig toegankelijk.
-
+## 6.02.01
+Alle medewerkers (intern en extern) zijn bij hun aanstelling of functiewisseling gewezen op hun verantwoordelijkheden voor informatiebeveiliging.<br><br>
+De voor hen geldende regelingen en instructies voor informatiebeveiliging zijn eenvoudig toegankelijk.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 6.03 Bewustwording van, opleiding en training in informatiebeveiliging
-
-Personeel van de organisatie en relevante belanghebbenden behoren een passende bewustwording van, opleiding en training in informatiebeveiliging en regelmatige updates over het informatiebeveiligingsbeleid, onderwerpspecifieke beleidsregels en procedures van de organisatie, voor zover relevant voor hun functie, te krijgen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 6.03.01 Alle medewerkers, lijnmanagers en bestuurders hebben de verantwoordelijkheid bedrijfsinformatie te beschermen. Iedereen kent de regels van en verplichtingen voor informatiebeveiliging en daar waar relevant de speciale eisen voor gerubriceerde omgevingen.
-
+## 6.03.01
+Alle medewerkers, lijnmanagers en bestuurders hebben de verantwoordelijkheid bedrijfsinformatie te beschermen.
+Iedereen kent de regels van en verplichtingen voor informatiebeveiliging en daar waar relevant de speciale eisen voor gerubriceerde omgevingen.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 6.03.02 Alle medewerkers en contractanten die gebruikmaken van de informatiesystemen en -diensten hebben binnen drie maanden na indiensttreding aantoonbaar een training I-bewustzijn succesvol gevolgd.
-
+## 6.03.02
+Alle medewerkers en contractanten die gebruikmaken van de informatiesystemen en -diensten hebben binnen drie maanden na indiensttreding aantoonbaar een training I-bewustzijn succesvol gevolgd.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 6.03.03 Het management benadrukt bij aanstelling en interne overplaatsing en bijvoorbeeld in werkoverleggen of in personeelsgesprekken bij zijn medewerkers en contractanten het belang van opleiding en training op het gebied van informatiebeveiliging. Het management stimuleert hen actief deze periodiek te volgen.
+## 6.03.03 Het management benadrukt bij aanstelling en interne overplaatsing en bijvoorbeeld in werkoverleggen of in personeelsgesprekken bij zijn medewerkers en contractanten het belang van opleiding en training op het gebied van informatiebeveiliging. Het management stimuleert hen actief deze periodiek te volgen.
 
 Draagt bij aan: Basishygiëne
 
