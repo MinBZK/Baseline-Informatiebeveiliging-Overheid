@@ -422,59 +422,32 @@ Draagt bij aan: Basishygiëne
 Er is een verwijderinstructie waarin is opgenomen dat van verwijderbare media die herbruikbaar zijn en die de organisatie verlaten, de bedrijfsgevoelige inhoud onherstelbaar verwijderd is.<br><br>
 Draagt bij aan: Overheidsrisico
 
-### 7.10.02 Voor het wissen van alle data op het medium, wordt de data onherstelbaar verwijderd of onbeschikbaar gemaakt. Er wordt gecontroleerd of alle data onherstelbaar verwijderd is. Hiervan wordt verslag gemaakt. Er wordt bij voorkeur gebruik gemaakt van producten waarvoor de Unit Weerbaarheid van het Nationaal Bureau voor Verbindingsbeveiliging (NBV) een positief inzetadvies afgegeven heeft.
-
+## 7.10.02
+Voor het wissen van alle data op het medium, wordt data onherstelbaar verwijderd of onbeschikbaar gemaakt.<br><br>
+Er wordt gecontroleerd of alle data onherstelbaar verwijderd is.<br><br>
+Hiervan wordt verslag gemaakt.<br><br>
+Er wordt bij voorkeur gebruik gemaakt van producten waarvoor de Unit Weerbaarheid van het Nationaal Bureau voor Verbindingsbeveiliging (NBV) een positief inzetadvies afgegeven heeft.<br><br>
 Draagt bij aan: Overheidsrisico
 
-### 7.10.03 Het gebruik van koeriers of transporteurs voor transport van geclassificeerde informatie voldoet aan vooraf opgestelde betrouwbaarheidseisen.
-
+## 7.10.03
+Het gebruik van koeriers of transporteurs voor transport van geclassificeerde informatie voldoet aan vooraf opgestelde betrouwbaarheidseisen.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 7.11 Nutsvoorzieningen
-
-Informatieverwerkende faciliteiten behoren te worden beschermd tegen stroomuitval en andere verstoringen die worden veroorzaakt door storingen in nutsvoorzieningen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.11.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.11.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.12 Beveiligen van bekabeling
-
-Voedingskabels en kabels voor het versturen van gegevens of die informatiediensten ondersteunen, behoren te worden beschermd tegen onderschepping, interferentie of beschadiging.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.12.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.12.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.13 Onderhoud van apparatuur
-
-Apparatuur behoort op de juiste wijze te worden onderhouden om de beschikbaarheid, integriteit en betrouwbaarheid van informatie te garanderen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.13.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.13.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 7.14 Veilig verwijderen of hergebruiken van apparatuur
-
-Onderdelen van de apparatuur die opslagmedia bevatten, behoren te worden gecontroleerd om te waarborgen dat gevoelige gegevens en gelicentieerde software zijn verwijderd of veilig zijn overschreven voordat ze worden verwijderd of hergebruikt.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 7.14.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 7.14.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Basishygiëne
-
-# Beheersmaatregel 8.01 User endpoint devices
-
-Informatie die is opgeslagen op, wordt verwerkt door of toegankelijk is via user endpoint devices behoort te worden beschermd.
-
-## Verplichte overheidsspecifieke maatregelen
 
 ### 8.01.01 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen ('zero footprint'). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat (zoals een laptop, tablet en smartphone) de mogelijkheid om de toegang te beschermen met een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens. Op mobiele apparatuur moet wissen op afstand mogelijk zijn.
 
