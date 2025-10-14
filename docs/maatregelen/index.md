@@ -1,25 +1,20 @@
 > [!Note]
 > _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2._
 
-# Verplichte overheidsspecifieke maatregelen en richtlijnen
+# DEEL 2 BIO–OVERHEIDSMAATREGELEN 
 
-# Beheersmaatregel 5.01 Beleidsregels voor informatiebeveiliging
-
-Informatiebeveiligingsbeleid en onderwerpspecifieke beleidsregels behoren te worden gedefinieerd, goedgekeurd door het management, gepubliceerd, gecommuniceerd aan en erkend door relevant personeel en relevante belanghebbenden en met geplande tussenpozen en als zich significante wijzigingen voordoen, te worden beoordeeld.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 5.01.01 Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie (OT) en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van de organisatie, bedrijfscontinuïteitsmanagement (BCM) zijn beschreven en vastgesteld. De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door de leiding van de organisatie. Dit beleid bevat ten minste de volgende punten:
-
- 1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid.
- 2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden.
- 3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
- 4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.
- 5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.
- 6. De bevordering van het beveiligingsbewustzijn.
+## 5.01.01 
+Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie (OT) en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van de organisatie, bedrijfscontinuïteitsmanagement (BCM) zijn 
+beschreven en vastgesteld. 
+De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door de leiding van de organisatie. 
+Dit beleid bevat ten minste de volgende punten: 
+1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid. 
+2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden. 
+3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
+4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.
+5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
-
 
 ### 5.01.02 Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de (bestaande) bestuurs- en Planning & Control (P&C)-cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld.
 
