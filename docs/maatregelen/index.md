@@ -618,88 +618,54 @@ Draagt bij aan: Basishygiëne
 De informatieverwerkende omgeving wordt gemonitord met een detectie- en response-oplossing, waarmee aanvallen kunnen worden gedetecteerd en afwijkingen adequaat en tijdig worden behandeld.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.16.04 Actieve netwerkcomponenten zijn voorzien van logging en monitoring van die logging om afwijkende gebeurtenissen te kunnen waarnemen en daarop te reageren.
-
+## 8.16.04 
+Actieve netwerkcomponenten zijn voorzien van logging en monitoring van die logging om afwijkende gebeurtenissen te kunnen waarnemen en daarop te reageren.<br><br>
 Draagt bij aan: Basishygiëne
 
-# Beheersmaatregel 8.17 Kloksynchronisatie
-
-De klokken van informatieverwerkende systemen die door de organisatie worden gebruikt, behoren te worden gesynchroniseerd met goedgekeurde tijdsbronnen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.17.01 Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO
-
+## 8.17.01
+Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.18 Gebruik van speciale systeemhulpmiddelen
-
-Het gebruik van systeemhulpmiddelen die in staat kunnen zijn om beheersmaatregelen voor systemen en toepassingen te omzeilen, behoort te worden beperkt en nauwkeurig te worden gecontroleerd.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.18.01 Alleen bevoegd personeel heeft op die momenten dat toegang strikt noodzakelijk is toegang tot systeemhulpmiddelen.
-
+## 8.18.01 
+Alleen bevoegd personeel heeft op die momenten dat toegang strikt noodzakelijk is toegang tot systeemhulpmiddelen.<br><br>
 Draagt bij aan: Overheidsrisico
 
-### 8.18.02 Het gebruik van systeemhulpmiddelen wordt gelogd. De logging is een halfjaar beschikbaar voor onderzoek.
-
+## 8.18.02 
+Het gebruik van systeemhulpmiddelen wordt gelogd.<br><br>
+De logging is een halfjaar beschikbaar voor onderzoek.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.19 Installeren van software op operationele systemen
-
-Er behoren procedures en maatregelen te worden geïmplementeerd om het installeren van software op operationele systemen op beveiligde wijze te beheren.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.19.01 Het risico van installatie door gebruikers van niet geautoriseerde software moet worden beheerst.
-
+## 8.19.01 
+Het risico van installatie door gebruikers van niet geautoriseerde software moet worden beheerst.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.20 Beveiliging netwerkcomponenten
-
-Netwerken en netwerkapparaten behoren te worden beveiligd, beheerd en beheerst om informatie in systemen en toepassingen te beschermen.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.20.01 Netwerkcomponenten moeten minimaal voldoen aan het vertrouwelijkheidsniveau van het netwerk waarvan ze onderdeel zijn.
-
+## 8.20.01
+Netwerkcomponenten moeten minimaal voldoen aan het vertrouwelijkheidsniveau van het netwerk waarvan ze onderdeel zijn.<br><br>
 Draagt bij aan: Overheidsrisico
 
-### 8.20.02 Toegang tot beheerinterfaces van netwerkcomponenten moet (zo veel als mogelijk en risicogericht) gescheiden zijn van het gebruikersnetwerk.
-
+## 8.20.02
+Toegang tot beheerinterfaces van netwerkcomponenten moet (zo veel als mogelijk en risicogericht) gescheiden zijn van het gebruikersnetwerk.<br><br>
 Draagt bij aan: Overheidsrisico
 
-# Beheersmaatregel 8.21 Beveiliging van netwerkdiensten
-
-Beveiligingsmechanismen, dienstverleningsniveaus en dienstverleningseisen voor alle netwerkdiensten behoren te worden geïdentificeerd, geïmplementeerd en gemonitord.
-
-## Verplichte overheidsspecifieke maatregelen
-
-### 8.21.01 In koppelpunten met externe of onvertrouwde zones en vanwege netwerksegmentatie zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beïnvloeden (bijvoorbeeld DDoS-aanvallen, Distributed Denial of Service attacks) te signaleren en te mitigeren.
-
+## 8.21.01 
+In koppelpunten met externe of onvertrouwde zones en vanwege netwerksegmentatie zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beïnvloeden (bijvoorbeeld DDoS-aanvallen, Distributed Denial of Service attacks) te 
+signaleren en te mitigeren.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.21.02 Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt/geanalyseerd op verdacht verkeer met detectievoorzieningen
-
+## 8.21.02 
+Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt/geanalyseerd op verdacht verkeer met detectievoorzieningen.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.21.03 Bij ontdekte nieuwe dreigingen vanuit overheidsmaatregel 8.21.02 worden deze doorgeleid, rekening houdend met de geldende juridische kaders gedeeld binnen de overheid.
-
+## 8.21.03 
+Bij ontdekte nieuwe dreigingen vanuit overheidsmaatregel 8.21.02 worden deze doorgeleid, rekening houdend met de geldende juridische kaders gedeeld binnen de overheid.<br><br>
 Draagt bij aan: Basishygiëne
 
-### 8.21.04 Bij transport van gegevens over draadloze verbindingen zoals wifi en bij bedrade verbindingen buiten het gecontroleerd gebied worden de gegevens versleuteld met uitzondering van metagegevens die noodzakelijk zijn om het transport tot stand te laten komen. 
-### De inrichting van de versleuteling is risicogericht en houdt rekening met de noodzakelijke beschermingstermijn en -niveau. 
-### Hierbij wordt bij voorkeur gebruik gemaakt van encryptiemiddelen waarvoor de Unit Weerbaarheid van de Algemene Inlichtigen en Veiligheidsdienst (AIVD) een positief inzetadvies heeft afgegeven. 
-### Heeft de Unit Weerbaarheid geen geadviseerde encryptiemiddelen, wordt in overleg met de CISO een andere geschikte versleutelingsmethodiek gekozen en ingericht. 
-
+## 8.21.04 
+Bij transport van gegevens over draadloze verbindingen zoals wifi en bij bedrade verbindingen buiten het gecontroleerd gebied worden de gegevens versleuteld met uitzondering van metagegevens die noodzakelijk zijn om het transport tot stand te laten komen.<br><br>
+De inrichting van de versleuteling is risicogericht en houdt rekening met de noodzakelijke beschermingstermijn en niveau.<br><br>
+Hierbij wordt bij voorkeur gebruik gemaakt van encryptiemiddelen waarvoor de Unit Weerbaarheid van de Algemene Inlichtingen en Veiligheidsdienst (AIVD) een positief inzetadvies heeft afgegeven.<br><br>
+Heeft de Unit Weerbaarheid geen geadviseerde encryptiemiddelen, wordt in overleg met de CISO een andere geschikte versleutelingsmethodiek gekozen en ingericht.<br><br>
 Draagt bij aan: Basishygiëne
-
-# Beheersmaatregel 8.22 Netwerksegmentatie
-
-Groepen informatiediensten, gebruikers en informatiesystemen behoren in de netwerken van de organisatie te worden gesegmenteerd.
-
-## Verplichte overheidsspecifieke maatregelen
 
 ### 8.22.01 Alle gescheiden groepen hebben een gedefinieerd beveiligingsniveau.
 
