@@ -32,12 +32,12 @@ theme:
 # Navigation for the site 
 nav:
     - Home: index.md
-    - Ontwerp: 
+    - Ontwerp BIO2:
         - ontwerp/index.md
         - ontwerp/nis2enbio.md
-    - Deel 1 BIO2 Kader: 
+    - BIO2 Deel 1 BIO2-Kader: 
         - inleiding/index.md
-    - Verplichte maatregelen en richtlijnen:
+    - BIO2 Deel 2 Overheidsmaatregelen:
         - maatregelen/index.md
         
 # Extra opties
