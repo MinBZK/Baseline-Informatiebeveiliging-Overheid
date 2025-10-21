@@ -1,8 +1,5 @@
-> [!Note]
-> _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2 van 24 september 2025._
-
 > [!NOTE]
-> _Let op! De BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
+> De BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
 
 # Copyright-notitie
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is geheel gestructureerd volgens NEN-EN-ISO/IEC 27001, bijlage A en NEN-EN-ISO/IEC 27002. Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden 
@@ -51,7 +48,7 @@ Daarnaast biedt de BIO een basis voor overheidsorganisaties om zowel intern als 
 De BIO is samengesteld uit de aanpak van NEN-EN-ISO/IEC 27001 (nl) (het managementsysteem), de beheersmaatregelen en implementatierichtlijnen uit NEN-EN-ISO/IEC 27002 (nl) en aanvullende verplichte overheidsmaatregelen.
 
 ## 3. Toepassing BIO
-Met de Cbw is de BIO verplicht voor alle organisaties die vallen onder de sector ‘Overheid’ en geldt voor alle netwerk- en informatiesystemen, zowel digitaal als fysiek, binnen deze organisaties.
+Met de Cbw is de BIO verplicht voor alle organisaties die vallen onder de sector ‘Overheid’ en geldt voor alle netwerk- en informatiesystemen, zowel digitaal als fysiek, binnen deze organisaties.<br><br>
 De BIO is van toepassing op de informatiebeveiliging van alle typen omgevingen, onder andere operationele technologie (OT) en zorginformatie en brengt deze op het noodzakelijke niveau met behulp van normen en richtlijnen zoals NEN 7510 Informatiebeveiliging in de zorg en Cybersecurity implementatierichtlijn (CSIR).<br><BR>
 Deel 1 BIO2-kader en het bijbehorende deel 2 BIO-overheidsmaatregelen hebben een verplichtend karakter en moeten altijd gevolgd worden. Deel 3 Toelichting is een verzameling, uitwerking en verduidelijking op sommige punten van het kader en de overheidsmaatregelen. Deel 3 zal ontsloten worden op de website https://www.bio-overheid.nl.<br><br>
 _Een informatiesysteem is “een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie.” Het gaat dus expliciet niet alleen om technische (ICT) systemen, maar informatie en organisatie._
