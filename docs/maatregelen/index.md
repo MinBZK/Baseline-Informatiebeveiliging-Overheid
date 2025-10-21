@@ -1,8 +1,5 @@
-> [!Note]
-> _Op dit moment wordt de BIO2 versie 1.1.1 in GitHub vervangen door versie 1.2 van 24 september 2025._
-
 > [!NOTE]
-> _Let op! De BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
+> De BIO2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
 
 # DEEL 2 BIO–OVERHEIDSMAATREGELEN 
 
@@ -16,6 +13,7 @@ Dit beleid bevat ten minste de volgende punten:
 3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
 4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.
 5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.
+6. De bevordering van het beveiligingsbewustzijn.
 
 Draagt bij aan: Basishygiëne, ketenhygiëne
 
@@ -472,11 +470,11 @@ De toegewezen of gebruikte speciale bevoegdheden worden in opzet, bestaan en wer
 Draagt bij aan: Basishygiëne
 
 ## 8.03.01
-Er zijn maatregelen genomen die het fysiek en/of logisch isoleren van informatie met specifiek belang waarborgen.
+Er zijn maatregelen genomen die het fysiek en/of logisch isoleren van informatie met specifiek belang waarborgen.<br><br>
 Draagt bij aan: Basishygiëne
 
 ## 8.03.02
-Gebruikers kunnen alleen die informatie met specifiek belang inzien en verwerken die ze nodig hebben voor de uitoefening van hun taak.
+Gebruikers kunnen alleen die informatie met specifiek belang inzien en verwerken die ze nodig hebben voor de uitoefening van hun taak.<br><br>
 Draagt bij aan: Basishygiëne
 
 ## 8.04.01
