@@ -5,7 +5,7 @@
 # users below will be requested for
 # review when someone opens a pull request.
 * @MinBZK/bio
-* @KMABZK
+
 
 # Order is important; the last matching pattern takes the most
 # precedence. When someone opens a pull request that only
