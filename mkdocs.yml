@@ -46,6 +46,13 @@ markdown_extensions:
         alternate_style: true
     - pymdownx.superfences
     - pymdownx.details
+    - def_list
+    - pymdownx.highlight
+    - pymdownx.betterem
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.tilde
     - admonition
     - attr_list
     - abbr
