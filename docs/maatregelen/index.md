@@ -6,16 +6,16 @@
 ## 5.01.01 
 Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie (OT) en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van de organisatie, bedrijfscontinuïteitsmanagement (BCM) zijn 
 beschreven en vastgesteld.<br><br>
-De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door de leiding van de organisatie. 
-Dit beleid bevat ten minste de volgende punten: 
-1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid. 
-2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden. 
-3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.
-4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.
-5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.
-6. De bevordering van het beveiligingsbewustzijn.
+De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door de leiding van de organisatie.  
+Dit beleid bevat ten minste de volgende punten:  
+1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid.  
+2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden.  
+3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.  
+4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.  
+5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.  
+6. De bevordering van het beveiligingsbewustzijn.  
 
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Draagt bij aan: Basishygiëne, ketenhygiëne  
 
 ## 5.01.02 
 Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de (bestaande) bestuurs- en Planning & Control (P&C)-cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld. <br><br>
