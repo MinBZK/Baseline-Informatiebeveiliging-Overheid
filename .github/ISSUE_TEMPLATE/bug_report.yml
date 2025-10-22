@@ -1,0 +1,14 @@
+name: 🐞 Bug report
+description: Test van issue form
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vul dit formulier in als test.
+  - type: input
+    id: probleem
+    attributes:
+      label: Beschrijf het probleem
+      description: Korte samenvatting van de bug.
