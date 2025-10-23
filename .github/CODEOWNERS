@@ -5,6 +5,7 @@
 # users below will be requested for
 # review when someone opens a pull request.
 * @MinBZK/bio
+* @keeshint
 
 
 # Order is important; the last matching pattern takes the most
