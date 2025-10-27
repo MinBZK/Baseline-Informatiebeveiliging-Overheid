@@ -1,44 +1,43 @@
 ---
-name: Wijzigingsvoorstel
-about: Dien hier uw wijzigingsvoorstel in op de BIO2
-title: Wijzigingsvoorstel BIO2
+name: BIO-wijzigingsverzoek
+about: Dien hier je BIO-wijzigingsverzoek in op de BIO2
+title: BIO-wijzigigingsverzoek
 labels: ''
 assignees: ''
 ---
 # BIO Feature Request
-
-Gebruik dit formulier om een voorstel te doen voor een wijziging of uitbreiding van de BIO.  
-Na beoordeling wordt het voorstel toegevoegd aan de publieke lijst van wijzigingsverzoeken.
+Gebruik dit formulier om een BIO-wijzigingsverzoek in te dienen.<br>
+Na beoordeling wordt het BIO-wijzigingsverzoek toegevoegd aan de publieke lijst van wijzigingsverzoeken.
 
 ---
 **Nummer**
-Issue volgnummer  
+Issue volgnummer
 
-**Datum**  
-Automatisch ingevuld bij aanmaak  
+**Datum**
+Automatisch ingevuld bij aanmaak
 
-**BIO-versie**  
+**BIO-versie**
 Versienummer van de BIO waarop de wijziging betrekking heeft  
 
-**Contactgegevens indiener**  
-Organisatie:  
-Naam:  
-E-mail (optioneel):  
+**Contactgegevens indiener**
+Organisatie:
+Naam:
+E-mail (optioneel):
 Telefoon (optioneel):  
 
-**Korte omschrijving**  
-Beschrijf kort het wijzigingsvoorstel.  
+**Korte omschrijving**
+Beschrijf kort het wijzigingsverzoek.
 
-**Nummer(s) maatregel(en)**  
-Vermeld de maatregel(en) of onderdelen van de BIO waarop dit voorstel betrekking heeft.  
+**Nummer(s) maatregel(en)**
+Vermeld de overheidsmaatregel(en) of onderdelen van de BIO waarop dit verzoek betrekking heeft.
 
-**Huidige tekst**  
-Plak hier de huidige tekst uit de BIO of neem de regelnummers op.  
+**Huidige tekst**
+Plak hier de huidige tekst uit de BIO of neem de regelnummers op.
 
-**Voorgestelde tekst**  
-Beschrijf hier de gewenste wijziging.  
+**Voorgestelde tekst**
+Beschrijf hier de gewenste wijziging.
 
-**Argumentatie / criterium**  
+**Argumentatie/criterium**  
 Licht toe waarom deze wijziging nodig of wenselijk is.  
 
 **Risico**
@@ -51,5 +50,3 @@ Beschrijf de verwachte positieve en negatieve gevolgen.
 Bijv. hele overheid, gemeenten, rijk, provincies, etc.  
 
 ---
-
-*Versie 2.2 definitief*
