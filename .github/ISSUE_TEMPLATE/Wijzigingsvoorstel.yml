@@ -1,0 +1,127 @@
+name: "Wijzigingsvoorstel"
+description: "Dank je wel voor het indienen van een wijzigingsvoorstel!"
+assignees:
+  - @Annemieke-CIP
+title: "<korte_omschrijving_wijzigingsvoorstel>"
+labels:
+  - wijzigingsvoorstel
+body:
+  - type: input
+    id: bio_version
+    attributes:
+      label: BIO-versie
+      description: Versienummer (bijv. 2.0.1)
+      placeholder: "<versienummer>"
+    validations:
+      required: true
+
+  - type: input
+    id: indiener_organisatie
+    attributes:
+      label: Organisatie
+      placeholder: "<organisatie>"
+    validations:
+      required: true
+
+  - type: input
+    id: indiener_naam
+    attributes:
+      label: Naam
+      placeholder: "<naam>"
+    validations:
+      required: true
+
+  - type: input
+    id: indiener_email
+    attributes:
+      label: E-mail
+      placeholder: "<email>"
+    validations:
+      required: true
+
+  - type: input
+    id: indiener_tel
+    attributes:
+      label: Telefoon
+      placeholder: "<telefoonnummer>"
+
+  - type: dropdown
+    id: welk_deel_van_de_BIO
+    attributes:
+      label: Welk deel van de BIO
+      options:
+        - Deel 1 Inleiding
+        - Deel 2 Overheidsmaatregelen
+    validations:
+      required: true
+
+  - type: input
+    id: maatregelen_nummers
+    attributes:
+      label: Maatregel- of regelnummer(s)
+      placeholder: "<nummer(s)_maatregel(en)>"
+    validations:
+      required: true
+
+  - type: textarea
+    id: huidige_tekst
+    attributes:
+      label: Huidige tekst
+      description: Plak hier de huidige tekst.
+      render: text
+      placeholder: "<huidige tekst hier plaatsen>"
+    validations:
+      required: true
+
+  - type: textarea
+    id: voorgestelde_tekst
+    attributes:
+      label: Voorgestelde tekst
+      description: Geef de exacte nieuwe tekst.
+      render: text
+      placeholder: "<voorgestelde tekst hier plaatsen>"
+    validations:
+      required: true
+
+  - type: textarea
+    id: argumentatie
+    attributes:
+      label: Argumentatie
+      placeholder: "<geef hier de argumenten voor de wijziging>"
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: verwachte_impact
+    attributes:
+      label: Verwachte impact
+      placeholder: "<schatting van positieve en negatieve impact>"
+      render: text
+
+  - type: dropdown
+    id: reikwijdte
+    attributes:
+      label: Reikwijdte
+      options:
+        - Hele overheid
+        - Alleen gemeenten
+        - Anders (licht toe in opmerkingen)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: besluitvraag
+    attributes:
+      label: Besluitvraag
+      options:
+        - label: Besluitvorming werkgroep BIO en kennisname kern-IBO indien niet impactvol.
+        - label: Besluitvorming kern-IBO en OBDO indien impactvol.
+        - label: Publicatie op github.com/bio-overheid na besluit.
+
+  - type: textarea
+    id: opmerkingen
+    attributes:
+      label: Opmerkingen
+      placeholder: "Overige toelichting, links, bijlagen"
+      render: text
