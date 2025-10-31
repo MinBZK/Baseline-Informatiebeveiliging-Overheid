@@ -1,7 +1,7 @@
 name: "Wijzigingsvoorstel"
 description: "Dank je wel voor het indienen van een wijzigingsvoorstel!"
 assignees:
-  - @Annemieke-CIP
+  - Annemieke-CIP
 title: "<korte_omschrijving_wijzigingsvoorstel>"
 labels:
   - wijzigingsvoorstel
