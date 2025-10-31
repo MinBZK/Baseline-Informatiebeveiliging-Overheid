@@ -1,7 +1,7 @@
 ---
 name: BIO-wijzigingsverzoek
 about: Dien hier je BIO-wijzigingsverzoek in op de BIO2
-title: BIO-wijzigigingsverzoek
+title: BIO-wijzigingsverzoek
 labels: ''
 assignees: ''
 ---
@@ -10,11 +10,6 @@ Gebruik dit formulier om een BIO-wijzigingsverzoek in te dienen.<br>
 Na beoordeling wordt het BIO-wijzigingsverzoek toegevoegd aan de publieke lijst van wijzigingsverzoeken.
 
 ---
-**Nummer**
-Issue volgnummer
-
-**Datum**
-Automatisch ingevuld bij aanmaak
 
 **BIO-versie**
 Versienummer van de BIO waarop de wijziging betrekking heeft  
