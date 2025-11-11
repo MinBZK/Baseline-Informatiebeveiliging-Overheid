@@ -2,15 +2,12 @@
 Deze repository is opgestart om te kunnen werken aan de BIO2.
 We ontwikkelen de BIO op een open manier via GitHub.
 
-## De GitHub repository voor de BIO2
-De repository van de BIO2 staat op <https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid>.
-De BIO2 als website vind je op <https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/>.
-Bovenaan deze pagina vind je de BIO2 en het ontwerp van de BIO2.<br>
+## Bijdragen aan de BIO2
+Via deze omgeving kan je BIO-wijzigingsverzoeken indienen. 
+Druk op de knop Issues in het horizontale navigatiemenu.
+Wil je de tekst van de BIO2 bekijken, ga naar <https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/>.
+Bovenaan deze webpagina vind je de BIO2, maar ook het ontwerp van de BIO2.<br>
 
-De informatie van de BIO2 wordt uitgewerkt in verschillende markdown-bestanden (een bestandsformaat voor platte tekstbestanden). 
-Deze bestanden worden inzichtelijk gemaakt met behulp van [mkdocs](https://www.mkdocs.org/) en [material for mkdocs](https://squidfunk.github.io/mkdocs-material/).
-
-## De status van de BIO2
 De BIO2 is door het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) vastgesteld. 
 Dat neemt niet weg dat je nog steeds BIO-wijzigingsverzoeken kan indienen op de BIO2.
 Zie [CONTRIBUTING](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/blob/main/CONTRIBUTING.md) voor een uitleg over hoe je kan bijdragen aan de BIO2.
