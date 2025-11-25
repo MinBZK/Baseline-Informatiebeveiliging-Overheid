@@ -1,6 +1,6 @@
 # Bijdragen aan de Baseline Informatiebeveiliging Overheid 2 (BIO2)
-Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van de BIO2.
-Samen werken we aan een toegankelijke, bruikbare en toekomstbestendige baseline voor de hele overheid, [de BIO2](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/).
+Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van [de BIO2](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/).
+Samen werken we aan een toegankelijke, bruikbare en toekomstbestendige baseline voor de hele overheid, de BIO2.
 Open ontwikkeling vinden we belangrijk.
 Ieders inbreng helpt om BIO2 nog beter te maken.
 Op deze pagina vind je alles wat je nodig hebt om direct aan de slag te gaan. 
