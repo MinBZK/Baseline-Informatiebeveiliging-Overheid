@@ -61,5 +61,5 @@ Heb je een vraag, stel hem gerust.
 We helpen je graag verder.
 Gebruik voor het stellen van een vraag bij voorkeur het [contactformulier](https://www.bio-overheid.nl/contact/).
 Zo hebben we alle vragen overzichtelijk bij elkaar en kunnen we je sneller van een antwoord voorzien.<br>
-Je kunt ook een vraa stellen via GitHub. 
-Dit werkt op dezelfde manier als het indienen van een BIO-wijzigingsverzoek, zie [Ik wil een wijzigingsverzoek indienen](#Ik-wil-een-wijzigingsverzoek-indienen).
+Je kunt ook een vraag stellen via GitHub. 
+Dit werkt op dezelfde manier als het indienen van een BIO-wijzigingsverzoek, zie paragraaf [Ik wil een wijzigingsverzoek indienen](#Ik-wil-een-wijzigingsverzoek-indienen).
