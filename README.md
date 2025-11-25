@@ -19,7 +19,7 @@ Bovenaan deze webpagina vind je de BIO2, maar ook het ontwerp van de BIO2.
 
 ## Onderhoud van de BIO2
 Het onderhoud en de doorontwikkeling van BIO2 liggen in handen van de interbestuurlijke werkgroep-BIO. 
-Deze werkgroep staat onder voorzitterschap van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties en bestaat uit vertegenwoordigers van alle overheidslagen en relevante organisaties:
+Deze werkgroep staat onder voorzitterschap van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) en bestaat uit vertegenwoordigers van alle overheidslagen en relevante organisaties:
 
 Overheidslagen:
 - CIO Rijk
@@ -41,7 +41,7 @@ Dit omvat onder andere:
 - **Ondersteuning:** Het faciliteren van feedback en BIO-wijzigingsverzoeken via GitHub en het doorgeven van deze input aan de werkgroep-BIO voor verdere behandeling.
 - **Samenwerking**: Nauw overleg met het ministerie van BZK, de werkgroep-BIO en andere betrokken partijen om de kwaliteit en actualiteit van BIO2 te waarborgen.
 
-Het CIP zorgt er zo voor dat BIO2 een betrouwbare en actuele baseline blijft voor de hele overheid.
+Op deze manier zorgt het CIP ervoor dat BIO2 een betrouwbare en actuele basis blijft voor de hele overheid.
 
 ## Vragen en opmerkingen
 Heb je algemene vragen of opmerkingen, gebruik [de contactpagina van de BIO-website](https://www.bio-overheid.nl/contact/).
