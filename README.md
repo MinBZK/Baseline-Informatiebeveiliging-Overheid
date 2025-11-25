@@ -15,7 +15,7 @@ Dat neemt niet weg dat je nog steeds BIO-wijzigingsverzoeken kan indienen op de 
 Zie het bestand [CONTRIBUTING.md](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/blob/main/CONTRIBUTING.md) voor een uitleg over hoe je kan bijdragen aan de BIO2.
 
 Wil je de tekst van de BIO2 bekijken, ga naar <https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/>.
-Bovenaan deze webpagina vind je de BIO2, maar ook het ontwerp van de BIO2.<br>
+Bovenaan deze webpagina vind je de BIO2, maar ook het ontwerp van de BIO2.
 
 ## Onderhoud van de BIO2
 Het onderhoud en de doorontwikkeling van BIO2 liggen in handen van de interbestuurlijke werkgroep-BIO. 
@@ -34,7 +34,7 @@ Overige organisaties:
 - [Centrum Informatiebeveiliging en Privacybescherming (CIP)](https://www.cip-overheid.nl/)
 
 ## Beheer van de BIO2
-Het Centrum Informatiebeveiliging en Privacybescherming (CIP) is verantwoordelijk voor het dagelijks beheer van BIO2. 
+Het Centrum Informatiebeveiliging en Privacybescherming (CIP) is verantwoordelijk voor het dagelijks beheer van BIO2.<br>
 Dit omvat onder andere:
 - **Technisch beheer**: Zorgen voor een actuele, toegankelijke en veilige omgeving waar de BIO2 beschikbaar is.
 - **Versiebeheer**: Het bijwerken en publiceren van nieuwe versies van BIO2, gebaseerd op besluiten van de werkgroep-BIO en het kern-IBO.
