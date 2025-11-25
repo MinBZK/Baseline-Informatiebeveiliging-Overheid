@@ -29,7 +29,7 @@ Voordat je een BIO-wijzigingsverzoek indient, is het belangrijk om te weten dat 
 Ze moeten nuttig zijn voor de meerderheid van de overheid, niet alleen voor een kleine groep of één overheidslaag.<br>
 
 Het indienen van een wijzigingsverzoek gaat als volgt:
-1. **Ga naar GitHub**: Klik in GitHub in het BIO2-project in het horizontale navigatiemenu op [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
+1. **Ga naar GitHub**: Klik in de BIO2-repository van GitHub in het horizontale navigatiemenu op [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
 2. **Controleer of je verzoek al bestaat**: Blader door [het overzicht met bestaande wijzigingsverzoeken (issues)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues). Misschien is jouw idee al ingediend of in behandeling.
 3. **Dien je verzoek in**: Als je wijzigingsverzoek nog niet bestaat, gebruik de knop [New issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues/new/choose).
 4. **Geef je verzoek een duidelijke titel**: Geef het wijzigingsverzoek een beknopte en dekkende titel, zodat anderen direct begrijpen waar je verzoek over gaat.
@@ -53,8 +53,8 @@ Elk BIO-wijzigingsverzoek wordt als volgt afgehandeld:
 5. **Resultaat en terugkoppeling**: De BIO-beheerder voegt aan je wijzigingsverzoek (issue) toe wat er mee is gebeurd, bijvoorbeeld:
    - Goedkeuring (wordt verwerkt in een volgende versie)
    - Afgewijzing (met uitleg)
-   - On hold gezet (elijk uitgesteld, bijvoorbeeld in afwachting van verdere informatie)
-   - Verwerkt in de Veelgestelde vragen BIO
+   - On hold gezet (tijdelijk uitgesteld, bijvoorbeeld in afwachting van verdere informatie)
+   - Verwerkt in de [Veelgestelde vragen BIO](https://www.bio-overheid.nl/category/producten/faq)
 
 ## Ik wil een vraag stellen
 Heb je een vraag, stel hem gerust.
