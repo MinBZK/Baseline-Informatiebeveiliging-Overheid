@@ -17,6 +17,14 @@ Let op! De BIO2 in de GitHub-omgeving heeft geen formele status.
 De inhoud van dit document kan afwijken van de formele documentatie.
 De officiële versie van de BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>.
 
+## Onderhoud op de BIO2
+De interbestuurlijke [werkgroep-BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/#:~:text=De%20interbestuurlijke%20werkgroep%2DBIO%20draagt,Overleg%20en%20Unie%20van%20Waterschappen.) onderhoudt de BIO.
+Onder het voorzitterschap van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) zijn in de werkgroep BIO vier overheidskoepels vertegenwoordigd:
+1.  CIO Rijk (Rijksoverheid)
+2.  Vereniging Nederlandse Gemeenten (gemeenten)
+3.  Interprovinciaal Overleg (provincies)
+4.  Unie van Waterschappen (waterschappen)
+
 ## Vragen, opmerkingen of wijzigingsverzoeken
 Heb je opmerkingen of wijzigingsverzoeken, maak een [Issue (BIO-wijzigingsverzoek)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) of als je bekend bent met GitHub een [pull request (codewijziging)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pulls) aan.
 Op [CONTRIBUTING](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/blob/main/CONTRIBUTING.md) vind je hierover meer informatie.
