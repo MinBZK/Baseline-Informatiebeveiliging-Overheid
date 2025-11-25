@@ -2,6 +2,38 @@
 Deze repository is opgestart om te kunnen werken aan de BIO2.
 We ontwikkelen de BIO op een open manier via GitHub.
 
+## Inhoudsopgave
+- [Onderhoud van de BIO2](#Onderhoud-van-BIO2)
+- [Beheer van de BIO2](#Beheer-van-de-BIO2)
+- [Bijdragen aan de BIO2](#Bijdragen-aan-de-BIO2)
+- [Vragen, opmerkingen of wijzigingsverzoeken](#Vragen,-opmerkingen-of-wijzigingsverzoeken)
+
+## Onderhoud van de BIO2
+Het onderhoud en de doorontwikkeling van BIO2 liggen in handen van de interbestuurlijke werkgroep-BIO. 
+Deze werkgroep staat onder voorzitterschap van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties en bestaat uit vertegenwoordigers van alle overheidslagen en relevante organisaties:
+
+Overheidslagen:
+- CIO Rijk
+- [Vereniging van Nederlandse Gemeenten (VNG)](https://vng.nl/)
+- [Interprovinciaal Overleg (IPO)](https://www.ipo.nl/)
+- [Unie van Waterschappen (UvW)](https://unievanwaterschappen.nl/)
+
+Overige organisaties:
+- Grote uitvoeringsorganisaties
+- [Forum Standaardisatie](https://www.forumstandaardisatie.nl/)
+- [Nationaal Cybersecurity Centrum (NCSC)](https://www.ncsc.nl/)
+- [Centrum Informatiebeveiliging en Privacybescherming (CIP)](https://www.cip-overheid.nl/)
+
+## Beheer van de BIO2
+Het Centrum Informatiebeveiliging en Privacybescherming (CIP) is verantwoordelijk voor het dagelijks beheer van BIO2. 
+Dit omvat onder andere:
+- **Technisch beheer**: Zorgen voor een actuele, toegankelijke en veilige omgeving waar de BIO2 beschikbaar is.
+- **Versiebeheer**: Het bijwerken en publiceren van nieuwe versies van BIO2, gebaseerd op besluiten van de werkgroep-BIO en het kern-IBO.
+- **Ondersteuning:** Het faciliteren van feedback en BIO-wijzigingsverzoeken via GitHub en het doorgeven van deze input aan de werkgroep-BIO voor verdere behandeling.
+- **Samenwerking**: Nauw overleg met het ministerie van BZK, de werkgroep-BIO en andere betrokken partijen om de kwaliteit en actualiteit van BIO2 te waarborgen.
+
+Het CIP zorgt er zo voor dat BIO2 een betrouwbare en actuele baseline blijft voor de hele overheid.
+
 ## Bijdragen aan de BIO2
 Via deze omgeving kan je BIO-wijzigingsverzoeken indienen. 
 Druk op de knop Issues in het horizontale navigatiemenu.
@@ -16,14 +48,6 @@ Deze BIO-wijzigingsverzoeken worden behandeld in het onderhoudsproces van de BIO
 Let op! De BIO2 in de GitHub-omgeving heeft geen formele status.
 De inhoud van dit document kan afwijken van de formele documentatie.
 De officiële versie van de BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>.
-
-## Onderhoud op de BIO2
-De interbestuurlijke [werkgroep-BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/#:~:text=De%20interbestuurlijke%20werkgroep%2DBIO%20draagt,Overleg%20en%20Unie%20van%20Waterschappen.) onderhoudt de BIO.
-Onder het voorzitterschap van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) zijn in de werkgroep BIO vier overheidskoepels vertegenwoordigd:
-1.  CIO Rijk (Rijksoverheid)
-2.  Vereniging Nederlandse Gemeenten (gemeenten)
-3.  Interprovinciaal Overleg (provincies)
-4.  Unie van Waterschappen (waterschappen)
 
 ## Vragen, opmerkingen of wijzigingsverzoeken
 Heb je opmerkingen of wijzigingsverzoeken, maak een [Issue (BIO-wijzigingsverzoek)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues) of als je bekend bent met GitHub een [pull request (codewijziging)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pulls) aan.
