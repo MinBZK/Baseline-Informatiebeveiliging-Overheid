@@ -29,7 +29,7 @@ Ze moeten nuttig zijn voor de meerderheid van de overheid, niet alleen voor een 
 
 Het indienen van een wijzigingsverzoek gaat als volgt:
 1. **Ga naar GitHub**. Klik in GitHub in het BIO2-project in het horizontale navigatiemenu op [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
-2. **Controleer of je verzoek al bestaat**. Blader door het [het overzicht met bestaande wijzigingsverzoeken (issues)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues). Misschien is jouw idee al ingediend of in behandeling.
+2. **Controleer of je verzoek al bestaat**. Blader door [het overzicht met bestaande wijzigingsverzoeken (issues)](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues). Misschien is jouw idee al ingediend of in behandeling.
 3. **Dien je verzoek in**. Als je wijzigingsverzoek nog niet bestaat, gebruik de knop [New issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues/new/choose).
 4. **Geef je verzoek een duidelijke titel**. Geef het wijzigingsverzoek een beknopte en dekkende titel, zodat anderen direct begrijpen waar je verzoek over gaat.
 5. **Leg je verzoek uit**. Leg uit wat je precies wilt wijzigen of toevoegen en waarom deze wijziging een goede toevoeging is voor de brede overheid.
