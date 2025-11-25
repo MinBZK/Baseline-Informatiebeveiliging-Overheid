@@ -25,7 +25,8 @@ updates:
       timezone: "Europe/Amsterdam"
     open-pull-requests-limit: 5
     reviewers:
-      - "dvebzk"
+      - "keeshint"
+      - "annemieke-CIP"
     groups:
       all-pip-packages:
         patterns:
