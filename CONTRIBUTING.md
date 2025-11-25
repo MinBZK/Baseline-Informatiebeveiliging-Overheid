@@ -26,7 +26,7 @@ Je gaat ermee akkoord dat je 100% van de inhoud hebt geschreven, dat je de benod
 
 ## Ik wil een wijzigingsverzoek indienen
 Voordat je een BIO-wijzigingsverzoek indient, is het belangrijk om te weten dat BIO-wijzigingsverzoeken bedoeld zijn voor de brede overheid. 
-Ze moeten nuttig zijn voor de meerderheid van de overheid, niet alleen voor een kleine groep of één overheidslaag.<br>
+Ze moeten nuttig zijn voor de meerderheid van de overheid, niet alleen voor een kleine groep of één overheidslaag.<br> De BIO2 in GitHub vind je op deze pagina: https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/.
 
 Het indienen van een wijzigingsverzoek gaat als volgt:
 1. **Ga naar GitHub**: Klik in de BIO2-repository van GitHub in het horizontale navigatiemenu op [Issue](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/issues).
