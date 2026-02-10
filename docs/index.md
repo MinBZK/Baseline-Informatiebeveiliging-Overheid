@@ -1,7 +1,4 @@
 #  Welkom bij de GitHub-pagina van de BIO2
-> [!NOTE]
-> _De BIO2 versie 1.2 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
-
 ## Doorontwikkeling BIO2
 In deze GitHub-omgeving wordt gewerkt aan de BIO2, het het kader voor informatiebeveiliging voor de overheid.
 Hierin is feedback verwerkt, afkomstig uit GitHub.
