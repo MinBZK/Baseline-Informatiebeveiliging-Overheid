@@ -34,7 +34,7 @@ jobs:
         if: github.event.action != 'closed' 
         run: mkdocs build
 
-      - uses: actions/upload-artifact@v6
+      - uses: actions/upload-artifact@v7
         if: github.event.action != 'closed' 
         with: 
           name: BIOwebsite-${{github.event.number}}
