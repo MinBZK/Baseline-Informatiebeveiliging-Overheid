@@ -4,7 +4,7 @@
 
 9 januari 2026, versie 1.3 definitief
 
-# 	COPYRIGHT-NOTITIE
+# COPYRIGHT-NOTITIE
 Deel 1 BIO2-kader van de Baseline Informatiebeveiliging Overheid 2 (BIO2) is gestructureerd volgens NEN-EN-ISO/IEC 27001:2023, en deel 2 BIO-overheidsmaatregelen van de BIO2 is gestructureerd volgens NEN-EN-ISO/IEC 27002:2022. 
 Entiteiten kunnen kosteloos beschikken over deze normen via NEN connect, het digitale platform van het Nederlands Normalisatie Instituut (NEN).<br><br>
 Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden voor de publieke sector. 
@@ -17,13 +17,14 @@ Het gebruik van informatie uit NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002 in d
 Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van NEN. 
 Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.nl.
 
-# Wijzigingsbeheer
+# WIJZIGINGSBEHEER
 | Versie | Datum | Wijziging | Door |
-| :--- | :--- | :--- | --- |
-| 1.0 | 25-03-2025 | Eerste conceptversie met instemming van het kern-IBO.  | BZK |
-| 1.1 | 28-03-2025 |    | CIP |
-| 1.1.1 | 05-08-2025 | Enkele aanpassingen, de kolom “draagt bij aan” consistentie, gelijktrekken GitHub-versie/Word-versie en Excel-versie, voor OBDO. | CIP |
-| 1.2 | 24-09-2025 | Voor het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO) vastgestelde versie inclusief nieuwe opmaak. | CIP |
+| :--- | :--- | :--- | :--- |
+| 1.0 concept | 05-03-2025 | Eerste online gepubliceerde conceptversie met instemming van het kern-IBO. | BZK |
+| 1.1 concept | 14-04-2025 | Tweede online gepubliceerde conceptversie: Versie en status toegevoegd. Enters tussen overheidsmaatregelen toegevoegd als er meerdere maatregelen binnen één nummer bestaan. Diverse tekstuele verbeteringen. | CIP |
+| 1.1.1 concept | 05-08-2025 | Versie voor goedkeuring door het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO): Herstel onvolkomenheden in kolom ’draagt bij aan’. Verduidelijken paragraaf risico-identificatie. Consistentie in termgebruik. Overbodige overheidsmaatregel 7.07.02 verwijderd. | CIP |
+| 1.2 definitief | 24-09-2025 | Door het OBDO vastgestelde versie. Opmaak in huisstijl. Toevoeging wijzigingsbeheertabel. Overheidsmaatregel 5.18.1 verwijderd vanwege maatregel 5.18.2 en 5.18.3. Overheidsmaatregel 7.07.02 verwijderd vanwege maatregel 7.07.01. | CIP |
+| 1.3 definitief | 09-01-2026 | Aanpassingen vanwege BIO2 als wetgeving. Overheidsmaatregelen buiten Cbw-reikwijdte grijs gemarkeerd. 5.24.08 toegevoegd en vanuit 8.08.06 ernaar verwezen. Verwijderd: Derde alinea van 2. Doel van de BIO is in § Cyberbeveiligingswet (Cbw) beschreven. Eerste alinea van 3. Toepasing BIO is beschreven in 1. Leeswijzer. Typen hygiënen en overheidsrisico. 5.21.01 is beschreven in 5.21.03. Nationale in 5.24.07 vanwege Cbw. 5.35.01 is beschreven in Deel 1 BIO2-kader. 7.01.01 is onvoldoende concreet. Eerste alinea van 7.10.02 is beschreven bij 7.10.01. 8.24.03 is indirect beschreven bij 8.24.01. Verplaatste overheidsmaatregelen: Eerste deel van 5.01.01 naar 5.02.01. 5.04.02 naar 5.10.02. 5.04.03 naar 5.10.03. 5.24.06 naar 5.21.05. 5.25.01 naar 5.26.01. 5.26.01 naar 5.25.01. Eerste bullet van 8.01.02 naar 6.03.04. 08.08.06 met een verwijzing naar 5.24.02. | CIP |
 
 # Dankwoord
 Wij danken iedereen die direct of indirect heeft bijgedragen aan de totstandkoming van de BIO2. 
