@@ -4,15 +4,17 @@
 
 9 januari 2026, versie 1.3 definitief
 
-# Copyright-notitie
-De Baseline Informatiebeveiliging Overheid 2 (BIO2) is geheel gestructureerd volgens NEN-EN-ISO/IEC 27001, bijlage A en NEN-EN-ISO/IEC 27002. Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden 
-voor de publieke sector, volgens het pas-toe-of-leg-uit principe. 
-Dit betekent dat de overheid deze normen toepast tenzij er expliciet geformuleerde redenen zijn om dat niet te doen. De BIO2 beschrijft de invulling van de laatste versie van de NEN-EN-ISO/IEC 27001 en de NEN-EN-ISO/IEC 27002 voor de overheid. De BIO2 vervangt deze twee 
-normen niet. In de BIO2 zijn alleen specifieke overheidsmaatregelen opgenomen. 
-NEN EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002 beschrijven de details voor implementatie (richtlijnen) en eisen voor de procesinrichting (het ISMS uit NEN-EN-ISO/IEC 27001). 
-Het volgen van ISO 27001 is verplicht voor het inrichten van het managementsysteem voor informatiebeveiliging. Daar waar de BIO2 niet expliciet iets voorschrijft, moeten beide ISO-documenten gebruikt worden om te komen tot een goede inrichting voor risicomanagement. 
-De ISO-documenten geven dus de details voor de toepassing, die niet in de BIO2 zijn beschreven en die nodig blijven voor een goede implementatie van de BIO2. 
-Het gebruik van NEN-EN-ISO/IEC-normen 27001 en 27002 in de BIO is auteursrechtelijk beschermd. Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van het Nederlands  Normalisatie Instituut. 
+# 	COPYRIGHT-NOTITIE
+Deel 1 BIO2-kader van de Baseline Informatiebeveiliging Overheid 2 (BIO2) is gestructureerd volgens NEN-EN-ISO/IEC 27001:2023, en deel 2 BIO-overheidsmaatregelen van de BIO2 is gestructureerd volgens NEN-EN-ISO/IEC 27002:2022. 
+Entiteiten kunnen kosteloos beschikken over deze normen via NEN connect, het digitale platform van het Nederlands Normalisatie Instituut (NEN).<br><br>
+Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden voor de publieke sector. 
+Dit betekent dat de overheid deze normen toepast tenzij er expliciet geformuleerde redenen zijn om dat niet te doen. 
+De BIO2 beschrijft de invulling van NEN-EN-ISO/IEC 27001:2023 en NEN-EN-ISO/IEC 27002:2022 voor de overheid. 
+De BIO2 vervangt deze twee normen niet, maar vult ze aan.<br><br>
+NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002 beschrijven de details voor implementatie (richtlijnen) en eisen voor de procesinrichting (onder andere het ISMS uit NEN-EN-ISO/IEC 27001). ISO 27001 is verplicht voor het inrichten van het managementsysteem voor informatiebeveiliging. Daar waar de BIO2 niet expliciet iets voorschrijft, worden beide ISO-normen gebruikt, om te komen tot een goede inrichting voor risicomanagement. 
+Deze ISO-normen geven dus de details voor de toepassing, die niet in de BIO2 zijn beschreven en die nodig blijven voor een goede implementatie van de BIO2.<br><br>
+Het gebruik van informatie uit NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002 in de BIO is auteursrechtelijk beschermd. 
+Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van NEN. 
 Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.nl.
 
 # Wijzigingsbeheer
