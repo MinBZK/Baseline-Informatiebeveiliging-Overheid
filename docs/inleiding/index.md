@@ -29,12 +29,13 @@ Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.n
 # DANKWOORD
 Wij danken iedereen die direct of indirect heeft bijgedragen aan de totstandkoming van de BIO2. In willekeurige volgorde danken wij de vertegenwoordigers van de koepelorganisaties (Vereniging van Nederlandse Gemeenten, Interprovinciaal Overleg en Unie van Waterschappen), Chief Information Security Officers (CISO’s) van overheidseniteiten, de Auditdienst Rijk (ADR), de Rijksinspectie Digitale Infrastructuur (RDI), het Nationaal Cyber Security Centrum (NCSC), het Centrum Informatiebeveiliging en Privacybescherming (CIP), de informatiebeveiligingsdienst voor gemeenten (IBD), de leden van de werkgroep BIO, bestuurders en functionarissen van overheden en alle anderen die hebben bijgedragen.
 
-# DEEL 1 BIO2-KADER 
+# DEEL 1 BIO2-KADER
 De overheid vervult een essentiële rol in de samenleving door bij te dragen aan de democratische rechtsstaat en het bieden van diensten aan burgers en bedrijven. 
 Deze verantwoordelijkheden vereisen een zorgvuldige omgang met informatie en gegevens. 
-Om deel te kunnen nemen aan de samenleving moeten burgers en bedrijven informatie met de overheid delen, soms zelfs verplicht, en zijn zij afhankelijk van de overheid om informatie te ontvangen. De overheid heeft vanuit deze unieke rol de plicht om 
-zorgvuldig om te gaan met deze informatie.<br><br>
-De Cyberbeveiligingswet (Cbw) verplicht organisaties in de sector ‘Overheid’ de BIO2 als voornaamste invulling van de zorgplicht.
+Om deel te kunnen nemen aan de samenleving moeten burgers en bedrijven informatie met de overheid delen en zijn zij afhankelijk van de overheid om informatie te ontvangen. 
+De overheid heeft vanuit deze unieke rol de plicht om zorgvuldig om te gaan met deze informatie.<br><br>
+De Baseline Informatiebeveiliging Overheid (BIO) is het normenkader voor informatiebeveiliging binnen alle overheidsentiteiten. 
+Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens.
 
 ## 1. Leeswijzer 
 De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen: 
