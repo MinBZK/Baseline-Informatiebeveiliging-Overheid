@@ -7,7 +7,7 @@
 # 	COPYRIGHT-NOTITIE
 Deel 1 BIO2-kader van de Baseline Informatiebeveiliging Overheid 2 (BIO2) is gestructureerd volgens NEN-EN-ISO/IEC 27001:2023, en deel 2 BIO-overheidsmaatregelen van de BIO2 is gestructureerd volgens NEN-EN-ISO/IEC 27002:2022. 
 Entiteiten kunnen kosteloos beschikken over deze normen via NEN connect, het digitale platform van het Nederlands Normalisatie Instituut (NEN).<br><br>
-Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden voor de publieke sector. 
+Forum Standaardisatie heeft deze normen opgenomen in de ‘pas-toe-of-leg-uit’-lijst met verplichte standaarden voor de publieke sector.
 Dit betekent dat de overheid deze normen toepast tenzij er expliciet geformuleerde redenen zijn om dat niet te doen. 
 De BIO2 beschrijft de invulling van NEN-EN-ISO/IEC 27001:2023 en NEN-EN-ISO/IEC 27002:2022 voor de overheid. 
 De BIO2 vervangt deze twee normen niet, maar vult ze aan.<br><br>
@@ -17,7 +17,7 @@ Het gebruik van informatie uit NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002 in d
 Het gebruik van teksten uit deze normen in de BIO geschiedt met toestemming van NEN. 
 Voor meer informatie over de NEN en het gebruik van hun producten zie: www.nen.nl.
 
-# Wijzigingsbeheer
+# WIJZIGINGSBEHEER
 | Versie | Datum | Wijziging | Door |
 | :--- | :--- | :--- | :--- |
 | 1.0 concept | 14-04-2025 | Eerste online gepubliceerde conceptversie met instemming van het kern-IBO. | BZK |
@@ -38,13 +38,12 @@ De Baseline Informatiebeveiliging Overheid (BIO) is het normenkader voor informa
 Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, onderhouden en verbeteren van informatiebeveiliging binnen de overheid en haar ketens.
 
 ## 1. Leeswijzer 
-De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit drie onderdelen: 
-* Deel 1: BIO2-kader - de context en het belang van informatiebeveiliging voor overheidsorganisaties, evenals de structuur en toepasselijkheid van de BIO. 
-* Deel 2: BIO-overheidsmaatregelen - verplichte maatregelen, gebaseerd op de internationale standaard zoals NEN-EN-ISO/IEC 27001, annex A, aangevuld met specifieke overheidseisen. 
-* Deel 3: Toelichting [in ontwikkeling] - praktische ondersteuning met extra toelichting of voorbeelden om overheidsmaatregelen effectief te implementeren via de website https://www.bio-overheid.nl.
+De Baseline Informatiebeveiliging Overheid 2 (BIO2) is opgebouwd uit twee delen: 
+1. **Deel 1 BIO2-kader** - de context en het belang van informatiebeveiliging voor entiteiten, evenals de structuur en toepasselijkheid van de BIO. 
+2. **Deel 2 BIO-overheidsmaatregelen** - verplichte maatregelen, gebaseerd op de internationale norm NEN-EN-ISO/IEC 27001, bijlage A (normatief) Referentie voor beheersmaatregelen voor informatiebeveiliging, aangevuld met specifieke overheidseisen.
 
-Samen vormen deze onderdelen een compleet kader voor informatiebeveiliging binnen de overheid. Er worden voor de (ISO-)normen in dit document geen jaartallen gebruikt. 
-Daar waar gerefereerd wordt aan een andere norm wordt de meest actuele versie bedoeld.
+Deze twee delen vormen een compleet kader voor informatiebeveiliging binnen de overheid. 
+Er worden voor de ISO-normen in dit document alleen jaartallen vermeld als dit van belang is. Daar waar gerefereerd wordt aan een andere norm is geen jaartal vermeld en wordt de meest actuele versie bedoeld.
 
 ## 2. Doel van de BIO
 De Baseline Informatiebeveiliging Overheid (BIO) is het verplichte normenkader voor informatiebeveiliging binnen alle overheidsorganisaties. Het biedt richtlijnen, algemene principes en verplichte overheidsmaatregelen voor het initiëren, implementeren, 
