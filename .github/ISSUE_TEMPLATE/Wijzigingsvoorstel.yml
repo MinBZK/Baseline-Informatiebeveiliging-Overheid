@@ -1,4 +1,4 @@
-name: "Wijzigingsvoorstel"
+name: "BIO-wijzigingsverzoek"
 description: "Dank je wel voor het indienen van een wijzigingsvoorstel!"
 assignees:
   - Annemieke-CIP
@@ -31,21 +31,7 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: indiener_email
-    attributes:
-      label: E-mail
-      placeholder: "<email>"
-    validations:
-      required: true
-
-  - type: input
-    id: indiener_tel
-    attributes:
-      label: Telefoon
-      placeholder: "<telefoonnummer>"
-
-  - type: dropdown
+   - type: dropdown
     id: welk_deel_van_de_BIO
     attributes:
       label: Welk deel van de BIO
