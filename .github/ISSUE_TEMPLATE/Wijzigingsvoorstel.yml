@@ -23,15 +23,7 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: indiener_naam
-    attributes:
-      label: Naam
-      placeholder: "<naam>"
-    validations:
-      required: true
-
-   - type: dropdown
+     - type: dropdown
     id: welk_deel_van_de_BIO
     attributes:
       label: Welk deel van de BIO
