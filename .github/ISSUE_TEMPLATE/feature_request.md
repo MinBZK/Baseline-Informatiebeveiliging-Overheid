@@ -5,7 +5,7 @@ title: BIO-wijzigingsverzoek
 labels: ''
 assignees: ''
 ---
-# Formulier BIO-wijzigingsverzoek
+# BIO-wijzigingsverzoek
 Gebruik dit formulier om een BIO-wijzigingsverzoek in te dienen.<br>
 Na beoordeling wordt het BIO-wijzigingsverzoek toegevoegd aan de publieke lijst van wijzigingsverzoeken.
 
@@ -16,7 +16,6 @@ Versienummer van de BIO waarop de wijziging betrekking heeft
 
 **Contactgegevens indiener**
 Organisatie:
-Naam:
 
 **Korte omschrijving**
 Beschrijf kort het wijzigingsverzoek.
