@@ -4,337 +4,314 @@
 # DEEL 2 BIO–OVERHEIDSMAATREGELEN 
 
 ## 5.01.01 
-Verantwoordelijkheden en samenhang voor informatiebeveiliging, de beveiliging van operationele technologie (OT) en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van de organisatie, bedrijfscontinuïteitsmanagement (BCM) zijn 
-beschreven en vastgesteld.<br><br>
-De toewijzing van verantwoordelijkheid voor ketens van informatiesystemen aan lijnmanagers. De organisatie heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door de leiding van de organisatie.  
-Dit beleid bevat ten minste de volgende punten:  
-1. De strategische uitgangspunten en randvoorwaarden die de organisatie hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid.  
-2. De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden.  
-3. De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden met betrekking tot de continuïteit van de taakuitvoering van organisatie (BCM) aan lijnmanagers.  
-4. De gemeenschappelijke betrouwbaarheidseisen en normen die op de organisatie van toepassing zijn.  
-5. De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.  
-6. De bevordering van het beveiligingsbewustzijn.  
+De entiteit heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door het bestuur van de entiteit. 
+Dit beleid bevat ten minste de volgende punten: 
 
-Draagt bij aan: Basishygiëne, ketenhygiëne  
+•  De strategische uitgangspunten en randvoorwaarden die de entiteit hanteert voor informatiebeveiliging en in het bijzonder de inbedding in en afstemming op het algemene beveiligingsbeleid en het informatievoorzieningsbeleid. 
+
+•  De organisatie van de informatiebeveiligingsfunctie, waaronder verantwoordelijkheden, taken en bevoegdheden. 
+
+•  De toewijzing van de verantwoordelijkheden en samenhang van informatiebeveiliging voor ketens van informatiesystemen, de beveiliging van OT, privacybescherming en de verantwoordelijkheden voor de continuïteit van de taakuitvoering van entiteit (BCM) aan lijnmanagers. 
+
+•  De gemeenschappelijke betrouwbaarheidseisen en normen die op de entiteit van toepassing zijn. 
+
+•  De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd. 
+
+•  De bevordering van het beveiligingsbewustzijn. 
 
 ## 5.01.02 
-Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de (bestaande) bestuurs- en Planning & Control (P&C)-cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld. <br><br>
-Draagt bij aan: Basishygiëne
+Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de bestuurs- en Planning & Control (P&C)cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld.
 
 ## 5.02.01 
-De leiding van de organisatie heeft vastgelegd wat de verantwoordelijkheden en rollen zijn voor informatiebeveiliging (ook voor OT, BCM en privacybescherming) binnen haar organisatie. 
-Hierbij is specifieke aandacht voor de verantwoordelijkheden en rollen voor het adequaat afhandelen van incidenten.<br><br>
-Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico’s die op die bedrijfsmiddelen van toepassing zijn.<br><br> 
-Draagt bij aan: Basishygiëne
+Het bestuur van de entiteit heeft vastgelegd en vastgesteld: 
+
+•  wat de verantwoordelijkheden en rollen zijn voor informatiebeveiliging, privacybescherming, operationele technologie (OT), bedrijfscontinuïteitsmanagement (BCM) binnen haar entiteit; 
+
+•  de samenhang voor informatiebeveiliging, de beveiliging van OT, de continuïteit van de taakuitvoering en BCM van de entiteit. 
+Bij het definiëren en toewijzen van rollen en verantwoordelijkheden is specifieke aandacht voor het adequaat afhandelen van incidenten. Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico’s die op die bedrijfsmiddelen van toepassing zijn.
 
 ## 5.02.02
-Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging.<br><br>
-Draagt bij aan: Basishygiëne
+Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging. 
 
 ## 5.03.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Overheidsrisico
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.04.01
-Bestuur en werknemers moeten regelmatig, scholing volgen om cyberbeveiligingsrisico’s te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.<br><br>
-Daarbij tonen bestuurders aan dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico’s te beoordelen op de diensten en/of producten die de organisatie levert.<br><br>
-Draagt bij aan: Basishygiëne
+Het bestuur en de werknemers volgen regelmatig scholing, om cyberbeveiligingsrisico’s te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is. Daarbij tonen bestuurders an dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico’s te beoordelen op de diensten en/of producten die de entiteit levert.
 
 ## 5.04.02
-De gedragsregels voor het gebruik van bedrijfsmiddelen zijn voor extern personeel en vrijwilligers in het contract vastgelegd volgens de huisregels of interne gedragsregels.<br><br>
-Draagt bij aan: Overheidsrisico
+Verplaatst naar 5.10.02. 
 
 ## 5.04.03
-Alle medewerkers zijn aantoonbaar gewezen op de gedragsregels voor het gebruik van bedrijfsmiddelen.<br><br>
-Draagt bij aan: Overheidsrisico
+Verplaatst naar 5.10.03.
 
 ## 5.05.01
-De organisatie heeft uitgewerkt welke functionarissen met welke (overheids)instanties en toezichthouders formele contacten hebben over informatiebeveiliging.<br><br>
-Dit overzicht wordt ten minste jaarlijks geactualiseerd.<br><br>
-Draagt bij aan: Ketenhygiëne
+De entiteit heeft uitgewerkt welke functionarissen met welke (overheids)instanties en toezichthouders formele contacten hebben over informatiebeveiliging. Dit overzicht wordt ten minste jaarlijks geactualiseerd. 
 
 ## 5.06.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Overheidsrisico
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.07.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.08.01
-Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen moet een expliciete risicoafweging op basis van de door de organisatie vastgestelde risicomanagementmethodiek worden uitgevoerd, om risico’s te identificeren en in voldoende mate 
-te beheersen en ook voor het vaststellen van de beveiligingseisen.<br><br>
-Draagt bij aan: Ketenhygiëne
+Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen wordt een expliciete risicoafweging op basis van een vastgestelde risicomanagementmethodiek uitgevoerd, om risico’s te identificeren en in voldoende mate te beheersen en ook voor het vaststellen van de beveiligingseisen.
 
 ## 5.09.01 
-Er is een inventaris van bedrijfsmiddelen die van belang zijn voor informatieverwerking, met inbegrip van OT.<br><br>
-De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud. In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de organisatie staan.<br><br>
-De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Er is een inventaris van bedrijfsmiddelen die van belang zijn voor informatieverwerking, met inbegrip van OT. 
+
+De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud. In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de entiteit staan. 
+
+De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.
 
 ## 5.10.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Basishygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
+
+## 5.10.02
+De gedragsregels voor het gebruik van bedrijfsmiddelen zijn voor extern personeel en vrijwilligers in het contract vastgelegd volgens de huisregels of interne gedragsregels. 
+
+## 5.10.03
+Alle medewerkers zijn aantoonbaar gewezen op de gedragsregels voor het gebruik van bedrijfsmiddelen. 
 
 ## 5.11.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Overheidsrisico
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.12.01
-Informatie in alle informatiesystemen is door middel van een expliciete risicoafweging geclassificeerd.<br><br>
-Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Informatie in alle informatiesystemen wordt met een expliciete risicoafweging geclassificeerd. 
+
+Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.
 
 ## 5.13.01 
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Ketenhygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.14.01
-Internetfacing-informatiesystemen en e-mail berichtenverkeer moeten blijvend voldoen aan de verplichte standaarden, zie hiervoor de website van het Forum Standaardisatie.<br><br>
-Hierop wordt gestuurd met de metingen van internet.nl.<br><br>
-Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.<br><br>
-Draagt bij aan: Basishygiëne
+Internetfacing-informatiesystemen en e-mail berichtenverkeer blijven voldoen aan de verplichte beveiligingsstandaarden, zie hiervoor de website van het Forum Standaardisatie en het Cyberbeveiligingsbesluit. 
+
+Hierop wordt gestuurd met de metingen van internet.nl. 
+
+Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst. 
 
 ## 5.14.02 
-Maak bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten.<br><br>
-Maak bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV-certificaten of private PKIo-certificaten.
-Hogere eisen aan certificaten kunnen voortvloeien uit een risicoanalyse, aansluitvoorwaarden of wetgeving.<br><br>
-Draagt bij aan: Basishygiëne
+De entiteit maakt bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten. 
+
+De entiteit maakt bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV certificaten of private PKIo-certificaten. 
+
+Hogere eisen aan certificaten vloeien voort uit een risicoanalyse, aansluitvoorwaarden of wetgeving. 
 
 ## 5.14.03
-Geavanceerde en/of gekwalificeerde elektronische handtekeningen moeten voldoen aan de Advanced Electronic Signatures (AdES Baseline Profiles), zoals opgenomen in de Lijst open standaarden van Forum Standaardisatie.<br><br>
-Draagt bij aan: Basishygiëne
+Geavanceerde en/of gekwalificeerde elektronische handtekeningen voldoen aan de Advanced Electronic Signatures (AdES Baseline Profiles), zoals opgenomen in de Lijst open standaarden van Forum Standaardisatie.
 
 ## 5.14.04
-Van alle internetfacing-informatiesystemen, webapplicaties, IP-adressen en API’s is een actuele registratie.<br><br>
-Draagt bij aan: Basishygiëne
+Van alle internetfacing-informatiesystemen, webapplicaties, IP-adressen en API’s is er een actuele registratie. 
 
 ## 5.14.05
-Publiek toegankelijke websites worden bekend gemaakt via Register Internetdomeinen Overheid.<br><br>
-Deze informatie wordt ten minste iedere zes maanden geactualiseerd.<br><br>
-Draagt bij aan: Basishygiëne
+Publiek toegankelijke websites worden bekend gemaakt via het Register Internetdomeinen Overheid (RIO). 
+
+Deze informatie wordt ten minste iedere zes maanden geactualiseerd.
 
 ## 5.15.01
 Toegang tot een vertrouwde zone is toegestaan in twee situaties: 
+
 1. vanaf geauthentiseerde apparatuur of;
 2. vanuit programmatuur die draait binnen een veilige schil.
 
-Draagt bij aan: Basishygiëne, ketenhygiëne
-
 ## 5.16.01
-Er is een sluitende formele registratie- en afmeldprocedure voor het beheren van gebruikersidentificaties.<br><br>
-Draagt bij aan: Basishygiëne
+Er is een sluitende formele registratie- en afmeldprocedure voor het beheren van gebruikersidentificaties.
 
 ## 5.16.02 
-Het gebruiken van groepsaccounts is niet toegestaan, tenzij de proceseigenaar dit motiveert, vastlegt en afstemt met de CISO.<br><br>
-Draagt bij aan: Basishygiëne
+Het gebruiken van groepsaccounts is niet toegestaan, tenzij de proceseigenaar dit motiveert, vastlegt en afstemt met de CISO. 
 
 ## 5.17.01 
-Pas multi-factorauthenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.<br><br>
-Pas MFA toe in deze twee vormen: 
-1. Wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey).
-2. Wachtwoordtoegang in combinatie met minimaal een tweede factor. 
+De entiteit past multi-factorauthenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is. 
 
-Indien MFA niet mogelijk is voor deze accounts, neem andere mitigerende maatregelen. Betrek de CISO hierbij en laat ze goedkeuren door de proceseigenaar.<br><br>
-Combineer waar mogelijk en veilig, MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone-oplossing.<br><br>
-Voor beheer en monitoring van authenticatiegegevens: 
-* geef authenticatie-informatie uit met formele vastgestelde procedures en pas nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld; 
-* definieer Use Cases voor misbruik van authenticatiegegevens, monitor deze en neem passende actie bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen.
+De entiteit past MFA toe in deze twee vormen: 
+1. Wachtwoordloze toegang, zoals een pincode in combinatie met een hardware token of persoonlijk uniek certificaat (passkey). 
+2. Wachtwoordtoegang in combinatie met minimaal een tweede factor.
+   
+Indien MFA niet mogelijk is voor deze accounts, worden andere mitigerende maatregelen genomen. Bij het nemen van mitigerende maatregelen wordt de CISO 
+betrokken. 
 
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De proceseigenaar keurt de mitigerende maatregelen goed. Waar mogelijk en veilig wordt MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een 
+Stepping Stone-oplossing worden gecombineerd toegepast. Voor beheer en monitoring van authenticatiegegevens: 
+
+•  wordt authenticatie-informatie uitgegeven met formele vastgestelde procedures, nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld; 
+
+•  worden Use Cases voor misbruik van authenticatiegegevens gedefinieerd, worden deze gemonitord en wordt passende actie ondernomen bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen. 
 
 ## 5.17.02
-De organisatie biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan.<br><br>
-Draagt bij aan: Basishygiëne
+De entiteit biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan. 
 
 ## 5.17.03
-De eisen aan wachtwoorden moeten geautomatiseerd worden afgedwongen.<br><br>
-Draagt bij aan: Basishygiëne
+De eisen aan wachtwoorden worden geautomatiseerd afgedwongen.
 
 ## 5.18.01
-Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt als zodanig vastgelegd en afgehandeld.<br><br>
-Draagt bij aan: Basishygiëne
+Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord. Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt dat als zodanig vastgelegd en afgehandeld. 
 
 ## 5.18.02
-Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet.<br><br>
-Draagt bij aan: Basishygiëne
+Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet. 
 
 ## 5.19.01
-Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn informatiebeveiligingseisen (beschikbaarheid, integriteit en vertrouwelijkheid) onderdeel van het hele pakket aan inkoopeisen.<br><br>
-De informatiebeveiligingseisen zijn gebaseerd op een expliciete risicoafweging.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn informatiebeveiligingseisen waaronder de beschikbaarheid, integriteit en vertrouwelijkheid, onderdeel van het hele pakket aan inkoopeisen. 
+
+De informatiebeveiligingseisen zijn gebaseerd op een expliciete risicoafweging.
 
 ## 5.20.01
-De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in de (inkoop)contracten waar de verwerking van informatie een rol speelt.<br><br> 
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in (inkoop)contracten waar de verwerking van informatie een rol speelt. 
 
 ## 5.20.02
-Sluit waar mogelijk algemene voorwaarden van leveranciers expliciet uit en neem eventueel aanvullende voorwaarden op.
-Als uitsluiten niet mogelijk is, beoordeel dan de risico’s.<br><br>
-Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd moeten zijn en welke voorwaarden niet of nooit geaccepteerd mogen worden bij het aangaan van de overeenkomst.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Waar mogelijk worden algemene voorwaarden van leveranciers expliciet uitgesloten en worden eventueel aanvullende voorwaarden opgenomen. Als uitsluiten niet mogelijk is, worden risico’s beoordeeld. 
+
+Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd zijn en welke voorwaarden niet of nooit geaccepteerd worden bij het aangaan van de overeenkomst. 
 
 ## 5.20.03
-In het inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden.<br><br>
-Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de toeleveringsketen en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie overheidsmaatregel 5.21.01.<br><br>
-Dit toont de leverancier jaarlijks opnieuw aan. Draagt bij aan: Basishygiëne, ketenhygiëne
+In het inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden. 
+
+Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de toeleveringsketen en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie overheidsmaatregel 5.21.01. 
+
+Dit toont de leverancier jaarlijks opnieuw aan. 
 
 ## 5.20.04
-De overheidsorganisatie voert zelfstandig onderzoek uit, ook ter validatie van de rapportages die de leverancier aanlevert.<br><br>
-Om dit mogelijk te maken, wordt expliciet opgenomen dat er een mogelijkheid is voor een externe audit.
-Indien uit het voorgaande restrisico’s volgen, beheerst de overheidsorganisatie deze door het toepassen van zijn vastgestelde risicomanagementmethodiek.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De entiteit voert zelfstandig onderzoek uit, ook ter validatie van de rapportages die de leverancier aanlevert. 
+
+Om dit mogelijk te maken, wordt expliciet opgenomen dat er een mogelijkheid is voor een externe audit. 
+
+Indien uit het voorgaande restrisico’s volgen, beheerst de entiteit deze door het toepassen van zijn vastgestelde risicomanagementmethodiek. 
 
 ## 5.20.05
-Onderdeel van de afspraken is dat de leverancier transparant is over kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken. 
-Dit stelt de overheidsorganisatie in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Onderdeel van de afspraken is dat de leverancier transparant is over kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken. Dit 
+stelt de entiteit in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.
 
 ## 5.20.06
-Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is.<br><br>
-Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is. 
+
+Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie. 
 
 ## 5.21.01
-In het contract is opgenomen dat de leverancier verantwoordelijk is voor het borgen van de gestelde eisen bij de toeleveranciers.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Vervallen.
 
 ## 5.21.02
-Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico’s daarin. De overheidsorganisatie beoordeelt of de risico’s acceptabel zijn.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico’s daarin. De entiteit beoordeelt of de risico’s acceptabel zijn.
 
 ## 5.21.03
-De overheidsorganisatie borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers, tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier.<br><br>
-Indien informatiebeveiligingseisen zijn uitgesloten, maakt de leverancier dat inzichtelijk, inclusief een onderbouwing.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De entiteit borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers, tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier. Indien informatiebeveiligingseisen zijn uitgesloten, maakt de leverancier dat inzichtelijk, inclusief een ònderbouwing. 
 
 ## 5.21.04
-Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico’s daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de overheidsorganisatie kunnen raken.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico’s daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de entiteit kunnen raken. 
 
+## 5.21.05
+De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de entiteit. In de risicoanalyse wordt rekening gehouden met: 
+
+•  specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener;
+
+•  de algemene kwaliteit van de producten; 
+
+•  de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners, met inbegrip van hun veilige ontwikkelingsprocedures.
+   
 ## 5.22.01
-Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie overheidsmaatregel 5.20.03, is de proceseigenaar verantwoordelijk voor het jaarlijks beoordelen dat leverancier voldoet aan de gestelde informatiebeveiligingseisen, het vaststellen van eventuele 
-beveiligingsrisico’s, het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risico’s.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie overheidsmaatregel 5.20.03, is de proceseigenaar verantwoordelijk voor: 
+
+•  het jaarlijks beoordelen dat de leverancier voldoet aan de gestelde informatiebeveiligingseisen; 
+
+•  het vaststellen van eventuele beveiligingsrisico’s; 
+
+•  het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risico’s.
 
 ## 5.22.02
-Er is een actuele registratie van leveranciers en afgesloten contracten.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De entiteit heeft een actuele registratie van leveranciers en afgesloten contracten. 
 
 ## 5.23.01
-Stel beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s.<br><br>
-Implementeer het beleid.<br><br> 
-Herzie dit beleid minimaal eens per drie jaar.<br><br>
-Neem in de contracten op welke situaties aanleiding kunnen zijn tot ontbinding van het contract.<br><br>
-Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de risico’s daarvan en neem passende maatregelen.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De entiteit stelt beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van 
+dienstverlening door CSP’s en past dat toe. 
+
+Dit beleid wordt minimaal eens per drie jaar herzien. 
+
+In de inkoopcontracten wordt opgenomen welke situaties aanleiding kunnen geven tot ontbinding van het contract. 
+
+Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de risico’s daarvan en neem passende maatregelen.
 
 ## 5.24.01
-Er is voor alle interne en externe medewerkers een toegankelijk meldloket waar informatiebeveiligingsincidenten kunnen worden gemeld en geregistreerd.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Er is voor alle interne en externe medewerkers een toegankelijk meldloket waar informatiebeveiligingsincidenten kunnen worden gemeld en geregistreerd.
 
 ## 5.24.02
-Er is een meldprocedure waarin de taken en verantwoordelijkheden van het meldloket staan beschreven.<br><br>
-Draagt bij aan: Basishygiëne
+Er is een meldprocedure waarin de taken en verantwoordelijkheden van het meldloket staan beschreven. 
 
 ## 5.24.03
-De proceseigenaar is verantwoordelijk voor het oplossen van informatiebeveiligingsincidenten.<br><br>
-Draagt bij aan: Basishygiëne
+De proceseigenaar is verantwoordelijk voor het oplossen van informatiebeveiligingsincidenten. 
 
 ## 5.24.04
-De proceseigenaar rapporteert maandelijks de opvolging van informatiebeveiligingsincidenten aan de eindverantwoordelijke voor de bedrijfsvoering.<br><br>
-Draagt bij aan: Basishygiëne
+De proceseigenaar rapporteert maandelijks de opvolging van informatiebeveiligingsincidenten aan de eindverantwoordelijke voor de bedrijfsvoering.
 
 ## 5.24.05
-In de procedure voor informatiebeveiligingsincidenten is er een koppeling gemaakt met crisisbeheersing.<br><br>
-Draagt bij aan: Basishygiëne
+In de procedure voor informatiebeveiligingsincidenten is er een verwijzing gemaakt naar de procedure voor crisisbeheersing. 
 
 ## 5.24.06
-De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de organisatie. In de risicoanalyse wordt rekening gehouden met: 
-* specifieke kwetsbaarheden van elke rechtstreekse leverancier en dienstverlener; 
-* de algemene kwaliteit van de producten; 
-* de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners, met inbegrip van hun veilige ontwikkelingsprocedures.
-
-Draagt bij aan: Basishygiëne
+Verplaatst naar 5.21.05.
 
 ## 5.24.07
-De incidentprocedure is er op ingericht om:
-* binnen de wettelijke termijn informatiebeveiligingsincidenten te melden bij het nationale Cyber Security Incident Responce Team (CSIRT);
-* meldingen van het nationale CSIRT te ontvangen, te beoordelen en op te nemen in de risicobehandeling;
-* betrokkenen binnen de wettelijke termijn op de hoogte te stellen van het incident.
+De incidentprocedure bevat tenminste: 
 
-Draagt bij aan: Basishygiëne
+• dat binnen de wettelijke termijn informatiebeveiligingsincidenten worden gemeld bij het Cyber Security Incident Response Team (CSIRT); 
+
+• dat meldingen van het CSIRT worden ontvangen, beoordeeld en opgenomen in de risicobehandeling; 
+
+• dat betrokkenen binnen de wettelijke termijn op de hoogte gesteld worden van het incident.
+
+## 5.24.08
+Een Coordinated Vulnerability Disclosure (CVD)-procedure is ingericht en gepubliceerd volgens de NCSC-leidraad of NEN-EN-ISO/IEC 29147:2020 Vulnerability disclosure. Informatie afkomstig uit de Coordinated Vulnerability Disclosure (CVD)-meldingen is onderdeel van de incidentrapportage.
 
 ## 5.25.01
-Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. 
-Ze worden indien relevant gemeld bij toezichthouders volgens de bepalingen uit de betrokken wet- en regelgeving zoals de Cbw, de Archiefwet en de Algemene 
-verordening gegevensbescherming (AVG).<br><br>
-Draagt bij aan: Basishygiëne, overheidsrisico
+Verplaatst naar 5.26.02. 
 
 ## 5.26.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Overheidsrisico
+Verplaatst naar 5.25.02.
+
+## 5.26.02
+Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces. 
+
+In het incidentbeheerproces is opgenomen dat incidenten indien relevant gemeld worden bij de in wet- en regelgeving aangewezen toezichthouders. 
 
 ## 5.27.01
-Informatiebeveiligingsincidenten worden geanalyseerd om achterliggende oorzaken vast te stellen, verbeteringen te realiseren, om zo toekomstige incidenten te voorkomen.<br><br>
-Draagt bij aan: Basishygiëne
+Informatiebeveiligingsincidenten worden geanalyseerd om achterliggende oorzaken vast te stellen, verbeteringen te realiseren, om zo toekomstige incidenten te voorkomen.
 
 ## 5.27.02
-De analyses van informatiebeveiligingsincidenten, inclusief de achterliggende oorzaken en de verbeteringen worden breed gedeeld met relevante partners om herhaling en toekomstige incidenten te voorkomen.<br><br>
-Draagt bij aan: Basishygiëne
+De analyses van informatiebeveiligingsincidenten, inclusief de achterliggende oorzaken en de verbeteringen worden breed gedeeld met relevante partners om herhaling en toekomstige incidenten te voorkomen.
 
 ## 5.28.01 
-De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar. 
-Dit betreft onder meer de informatie benodigd voor de analyse (waaronder logging), de oplossing en het advies.<br><br>
-Draagt bij aan: Basishygiëne
+De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar. Dit betreft onder meer de informatie benodigd voor de analyse waaronder logging, de oplossing en het advies.
 
 ## 5.29.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.30.01
-De proceseigenaar test jaarlijks continuïteitsplannen op werking, volledigheid en actualiteit, om de plannen te verbeteren.<br><br>
-Draagt bij aan: Overheidsrisico
+De proceseigenaar test jaarlijks continuïteitsplannen op werking, volledigheid en actualiteit, om de plannen te verbeteren. 
 
 ## 5.30.02
-Binnen de inventarisatie van beheersmaatregel 5.12, identificeert de proceseigenaar kritieke systemen op basis van de vastgestelde risicomanagementmethodiek en een expliciete risicoafweging.
-De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.<br><br>
-Draagt bij aan: Overheidsrisico
+Binnen de inventarisatie van beheersmaatregel 5.12 uit NEN-EN-ISO/IEC 27002:2022, identificeert de proceseigenaar kritieke systemen op basis van de vastgestelde risicomanagementmethodiek en een expliciete risicoafweging. De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar. 
 
 ## 5.31.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 ## 5.32.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Overheidsrisico
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 ## 5.33.01 
-De proceseigenaar heeft voor alle informatie(systemen) in selectielijsten de bewaartermijn vastgelegd, rekening houdend met de eigen bedrijfsdoelstellingen en wet- en regeling, zoals de archiefwet en privacywetgeving.<br><br>
-De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.<br><br>
-Draagt bij aan: Basishygiëne, ketenhygiëne
+De proceseigenaar heeft voor alle informatie(systemen) in selectielijsten de bewaartermijn vastgelegd, rekening houdend met de eigen bedrijfsdoelstellingen en wet- en regeling, zoals de archiefwet en privacywetgeving. De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.
 
 ## 5.34.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br>
-Draagt bij aan: Basishygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 5.35.01
-Er is een werkend ISMS volgens NEN-EN-ISO/IEC ISO 27001.<br><br>
-Draagt bij aan: Basishygiëne
+Vervallen.
 
 ## 5.35.02
-Er is een vastgesteld auditplan waarin jaarlijks keuzes worden gemaakt voor welke systemen welk soort beveiligingsaudits worden uitgevoerd.<br><br>
-Draagt bij aan: Basishygiëne
+Er is een vastgesteld auditplan waarin jaarlijks keuzes worden gemaakt voor welke systemen welk soort beveiligingsaudits worden uitgevoerd. 
 
 ## 5.36.01
-In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging onder coördinatie van de CISO. 
-Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de overheidsorganisatie. 
-De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.<br><br>
-Draagt bij aan: Basishygiëne
+In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging onder coördinatie van de CISO. Dit 
+resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de entiteit. De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
 
 ## 5.37.01
-Geen overheidsmaatregel, zie deel 1 Kader BIO2, verplichtingen BIO.<br><br> 
-Draagt bij aan: Basishygiëne
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
 ## 6.01.01 
 Elke organisatie heeft een vastgesteld screeningsbeleid.<br><br>
