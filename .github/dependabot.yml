@@ -11,6 +11,7 @@ updates:
     reviewers:
       - "keeshint"
       - "annemieke-CIP"
+      - "BartL-CIP"
     groups:
       all-github-actions:
         patterns:
@@ -27,6 +28,7 @@ updates:
     reviewers:
       - "keeshint"
       - "annemieke-CIP"
+      - "BartL-CIP"
     groups:
       all-pip-packages:
         patterns:
