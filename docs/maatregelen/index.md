@@ -9,12 +9,12 @@ De navolgende nummers zijn het unieke volgnummer van de overheidsmaatregel.<br><
 Grijs gemarkeerde overheidsmaatregelen met bijbehorende beheersmaatregelen vallen niet onder de reikwijdte van de Cbw. 
 Hiervoor geldt verplichtende zelfregulering.
 
-**Er bestaan beheersmaatregelen zonder overheidsmaatregelen.**
+**Er bestaan beheersmaatregelen zonder overheidsmaatregelen.**<br>
 Als een dergelijke beheersmaatregel van toepassing is, wordt gebruik gemaakt van de bijbehorende implementatierichtlijn uit NEN-EN-ISO/IEC 27002. 
 Afwijken of niet toepassen van de bovenliggende beheersmaatregel wordt onderbouwd met een risicoanalyse. 
 De referentie naar deze analyse is in een bijlage uitzonderingen opgenomen in de Verklaring van Toepasselijkheid (VvT).
 
-**Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.**
+**Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.**<br>
 Deze overheidsmaatregelen vormen de verplichte minimale invulling van de beheersmaatregel. 
 Uit een risicoanalyse blijkt of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen. 
 
