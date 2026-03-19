@@ -1,22 +1,22 @@
-!!! warning "Disclaimer" 
+!!! warning "Disclaimer"
     Op dit moment wordt de BIO2 versie 1.2 in GitHub vervangen door versie 1.3 van 09 januari 2026.
-    De BIO2 versie 1.3 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio)._
+    De BIO2 versie 1.3 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio).
 
-# DEEL 2 BIO–OVERHEIDSMAATREGELEN 
+# DEEL 2 BIO–OVERHEIDSMAATREGELEN
+Deel 2 van de BIO bevat alle overheidsmaatregelen. Deze maatregelen zijn gekoppeld aan de beheersmaatregelen uit NEN-EN-ISO/IEC 27002:2022.
+De eerste drie cijfers uit elke overheidsmaatregelnummer verwijst naar de bijbehorende beheersmaatregel uit deze norm.
+De navolgende nummers zijn het unieke volgnummer van de overheidsmaatregel.<br><br>
+Grijs gemarkeerde overheidsmaatregelen met bijbehorende beheersmaatregelen vallen niet onder de reikwijdte van de Cbw. 
+Hiervoor geldt verplichtende zelfregulering.
 
-Deel 2 van de BIO bevat alle overheidsmaatregelen. Deze maatregelen zijn gekoppeld aan de beheersmaatregelen uit NEN-EN-ISO/IEC 27002:2022. De eerste drie cijfers uit 
-elke overheidsmaatregelnummer verwijst naar de bijbehorende beheersmaatregel uit deze norm. De navolgende nummers zijn het unieke volgnummer van de overheidsmaatregel. 
-Grijs gemarkeerde overheidsmaatregelen met bijbehorende beheersmaatregelen vallen niet onder de reikwijdte van de Cbw. Hiervoor geldt verplichtende zelfregulering. 
+**Er bestaan beheersmaatregelen zonder overheidsmaatregelen.**
+Als een dergelijke beheersmaatregel van toepassing is, wordt gebruik gemaakt van de bijbehorende implementatierichtlijn uit NEN-EN-ISO/IEC 27002. 
+Afwijken of niet toepassen van de bovenliggende beheersmaatregel wordt onderbouwd met een risicoanalyse. 
+De referentie naar deze analyse is in een bijlage uitzonderingen opgenomen in de Verklaring van Toepasselijkheid (VvT).
 
-Er bestaan beheersmaatregelen zonder overheidsmaatregelen. 
-
-Als een dergelijke beheersmaatregel van toepassing is, wordt gebruik gemaakt van de bijbehorende implementatierichtlijn uit NEN-EN-ISO/IEC 27002. Afwijken of niet toepassen van de bovenliggende beheersmaatregel wordt onderbouwd met een risicoanalyse. De referentie naar deze analyse is in een bijlage uitzonderingen opgenomen in de Verklaring van Toepasselijkheid (VvT). 
-
-Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben. 
-
-Deze overheidsmaatregelen vormen de verplichte minimale invulling van de beheersmaatregel. Uit een risicoanalyse blijkt of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen. 
-
-
+**Een beheersmaatregel kan een of meerdere overheidsmaatregelen hebben.**
+Deze overheidsmaatregelen vormen de verplichte minimale invulling van de beheersmaatregel. 
+Uit een risicoanalyse blijkt of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen. 
 
 ## 5.01.01
 De entiteit heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door het bestuur van de entiteit.
