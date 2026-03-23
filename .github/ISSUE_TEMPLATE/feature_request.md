@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 # BIO-wijzigingsverzoek
-Gebruik dit formulier om een BIO-wijzigingsverzoek in te dienen.<br>
+Gebruik dit formulier om een BIO-wijzigingsverzoek in te dienen.
 Na beoordeling wordt het BIO-wijzigingsverzoek toegevoegd aan de publieke lijst van wijzigingsverzoeken.
 
 ---
