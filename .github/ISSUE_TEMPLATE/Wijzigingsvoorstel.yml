@@ -5,13 +5,9 @@ assignees:
 labels:
   - wijzigingsvoorstel
 body:
-  - type: input
-    id: titel
+  - type: markedown
     attributes:
-      label: Titel van het verzoek
-      description: Noteer het hoofdstuk- of paragraafnummer, gevolgd door een dubbele punt en daarna een korte samenvatting van het BIO-wijzigingsverzoek. Gaat het om een toevoeging van een hoofdstuk of paragraaf start met Algemeen.
-    validations:
-      required: true
+      value: Noteer het hoofdstuk- of paragraafnummer, gevolgd door een dubbele punt en daarna een korte samenvatting van het BIO-wijzigingsverzoek. Gaat het om een toevoeging van een hoofdstuk of paragraaf start met Algemeen.
 
   - type: checkboxes
     id: welk_deel_van_de_BIO
