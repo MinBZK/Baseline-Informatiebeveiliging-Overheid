@@ -5,7 +5,7 @@ assignees:
 labels:
   - wijzigingsvoorstel
 body:
-  - type: markedown
+  - type: markdown
     attributes:
       value: Noteer het hoofdstuk- of paragraafnummer, gevolgd door een dubbele punt en daarna een korte samenvatting van het BIO-wijzigingsverzoek. Gaat het om een toevoeging van een hoofdstuk of paragraaf start met Algemeen.
 
