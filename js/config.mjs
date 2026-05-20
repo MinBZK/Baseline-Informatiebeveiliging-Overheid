@@ -1,4 +1,4 @@
-import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+import { loadRespecWithConfiguration } from "./organisation-config.mjs";
 
 loadRespecWithConfiguration({
   useLogo: true,
