@@ -1,7 +1,7 @@
 const organisationConfig = {
   nl_organisationName: "MinBZK/CIP",
   nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-  nl_organisationPublishURL: "https://bio-overheid.nl/",
+  nl_organisationPublishURL: "https://bio-overheid.nl",
 
   logos: [{
     src: "https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/figure-logius.svg",
@@ -64,7 +64,7 @@ const organisationConfig = {
     nl: {
       sotd: "Status van dit document",
       def: `Dit is de definitieve versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,
-      wv: `Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het TO goedgekeurde consultatieversie.`,
+      wv: `Dit is een werkversie waarin wijzigingen zijn opgenomen die goedgekeurd zijn door de Werkgroep BIO`,
       cp: "Dit is een werkversie waarin wijziging zijn opgenomen die goedgekeurd zijn door de Werkgroep BIO",
       cv: `Dit is een door het TO goedgekeurde consultatieversie. Commentaar over dit document kan gestuurd worden naar digikoppeling@logius.nl`,
       vv: `Dit is een definitief concept van de nieuwe versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,

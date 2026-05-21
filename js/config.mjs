@@ -4,32 +4,30 @@ loadRespecWithConfiguration({
   useLogo: true,
   useLabel: true,
   license: "cc-by",
-  specStatus: "cp",
+  specStatus: "wv",
   specType: "st",
   pubDomain: "dk",
   shortName: "template",
   publishDate: "2023-06-21",
   publishVersion: "0.0.3",
 
-  // TODO: Verwijder voordat de release plaats vindt
-  latestVersion: "https://github.com/logius-standaarden/respec-template/",
   prevVersion: [],
 
   editors:
     [
       {
-        name: "Naam van persoon hier",
-        company: "Logius",
-        companyURL: "https://www.logius.nl",
+        name: "Bart Leegwater",
+        company: "CIP",
+        companyURL: "https://www.cip-overheid.nl",
       }
     ],
   authors:
     [
       {
-        name: "Naam van persoon hier",
-        company: "Logius",
-        companyURL: "https://www.logius.nl",
+        name: "Erik Becker",
+        company: "MinBZK",
+        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid",
 });
