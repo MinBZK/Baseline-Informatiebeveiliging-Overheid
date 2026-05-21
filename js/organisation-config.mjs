@@ -1,5 +1,5 @@
 const organisationConfig = {
-  nl_organisationName: "MinBZK/CIP",
+  nl_organisationName: "BIO2",
   nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
   nl_organisationPublishURL: "https://bio-overheid.nl",
 
@@ -57,6 +57,7 @@ const organisationConfig = {
       al: "Algemeen",
       bd: "Beheerdocumentatie",
       bp: "Best practice",
+      nk: "Normenkader"
     },
   },
 
