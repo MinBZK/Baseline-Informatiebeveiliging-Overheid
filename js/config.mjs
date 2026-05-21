@@ -5,7 +5,7 @@ loadRespecWithConfiguration({
   useLabel: true,
   license: "cc-by",
   specStatus: "cp",
-  specType: "HR",
+  specType: "st",
   pubDomain: "dk",
   shortName: "template",
   publishDate: "2023-06-21",

@@ -1,22 +1,22 @@
 const organisationConfig = {
-  nl_organisationName: "Logius",
+  nl_organisationName: "MinBZK/CIP",
   nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-  nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
+  nl_organisationPublishURL: "https://bio-overheid.nl/",
 
   logos: [{
     src: "https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/figure-logius.svg",
-    alt: "Logius",
-    id: "Logius",
+    alt: "logo rijksoverheid",
+    id: "Logo",
     height: 77,
     width: 44,
-    url: "https://www.logius.nl/onze-dienstverlening/standaarden",
+    url: "https://www.bio-overheid.nl/",
   }],
   useLogo: true,
 
   fileName: "",
-  latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "fileName"],
-  thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "publishVersion", "/", "fileName"],
-  prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "previousPublishVersion", "/", "fileName"],
+  latestVersion: ["nl_organisationPublishURL"],
+  thisVersion: ["nl_organisationPublishURL","/", "publishVersion"],
+  prevVersion: ["nl_organisationPublishURL","/", "previousPublishVersion"],
 
   addSectionLinks: true,
 
