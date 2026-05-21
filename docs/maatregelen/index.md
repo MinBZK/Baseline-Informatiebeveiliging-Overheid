@@ -1,6 +1,3 @@
-!!! warning "Disclaimer"
-    De BIO2 versie 1.3 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio).
-
 # DEEL 2 BIO–OVERHEIDSMAATREGELEN
 
 Deel 2 van de BIO bevat alle overheidsmaatregelen. Deze maatregelen zijn gekoppeld aan de beheersmaatregelen uit NEN-EN-ISO/IEC 27002:2022.
