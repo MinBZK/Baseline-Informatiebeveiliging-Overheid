@@ -432,7 +432,7 @@ Vervallen.
 
 ## 7.01.02
 
-Kritieke informatie of informatiesystemen zijn nooit via één beveiligde zone te bereiken.
+Kritieke informatie of informatiesystemen zijn alleen bereikbaar via ten minste twee opeenvolgende beveiligde zones.
 
 ## 7.02.01
 
