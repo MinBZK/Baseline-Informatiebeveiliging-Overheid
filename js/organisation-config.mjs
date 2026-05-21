@@ -65,7 +65,7 @@ const organisationConfig = {
     nl: {
       sotd: "Status van dit document",
       def: `Dit is de definitieve versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,
-      wv: `Dit is een werkversie waarin wijzigingen zijn opgenomen die goedgekeurd zijn door de Werkgroep BIO`,
+      wv: `Dit is een werkversie waarin wijzigingen zijn opgenomen die goedgekeurd zijn door de Werkgroep BIO. De definitieve publicatie van de volgende juridisch geldende versie van de BIO is gepland in het najaar 2027`,
       cp: "Dit is een werkversie waarin wijziging zijn opgenomen die goedgekeurd zijn door de Werkgroep BIO",
       cv: `Dit is een door het TO goedgekeurde consultatieversie. Commentaar over dit document kan gestuurd worden naar digikoppeling@logius.nl`,
       vv: `Dit is een definitief concept van de nieuwe versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.`,
