@@ -16,7 +16,7 @@ loadRespecWithConfiguration({
   editors:
     [
       {
-        name: "Bart Leegwater",
+        name: "Beheer BIO",
         company: "CIP",
         companyURL: "https://www.cip-overheid.nl",
       }
@@ -24,9 +24,9 @@ loadRespecWithConfiguration({
   authors:
     [
       {
-        name: "Erik Becker",
-        company: "MinBZK",
-        companyURL: "https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties",
+        name: "Werkgroep BIO",
+        company: "Rijksoverheid, VNG, IPO, UvW",
+        companyURL: "https://www.rijksoverheid.nl",
       }
     ],
   github: "https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid",
