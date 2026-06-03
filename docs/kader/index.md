@@ -58,13 +58,13 @@ Het managementsysteem voor informatiebeveiliging borgt de beschikbaarheid, integ
 Dit geeft belanghebbenden het vertrouwen dat risico’s adequaat worden beheerd.<br><br>
 Het is belangrijk dat het managementsysteem voor informatiebeveiliging deel uitmaakt van en geïntegreerd is met de procedures van de organisatie en met de algehele managementstructuur, en dat informatiebeveiliging in aanmerking wordt genomen bij het ontwerpen van processen, informatiesystemen en beheersmaatregelen.<br><br>
 
-## 5.1 Reikwijdte managementsysteem
+### 5.1 Reikwijdte managementsysteem
 
 Bij het bepalen van de reikwijdte van het managementsysteem moet een organisatie minimaal de bedrijfsprocessen en informatiesystemen opnemen die kritisch zijn voor haar dienstverlening.
 Het is aan de overheidsorganisaties zelf om te bepalen in welke mate de ondersteunende processen zijn opgenomen in het managementsysteem.<br><br>
 Waar overheden gelijkwaardige processen hanteren, is het aanbevolen om, waar beschikbaar, gebruik te maken van het ondersteuningsaanbod van de koepelorganisatie.
 
-## 5.2 Samenhang managementsystemen
+### 5.2 Samenhang managementsystemen
 
 De BIO sluit aan op de [Harmonized Structure (HS)](https://www.nen.nl/managementsystemen/high-level-structure-hls), wat een consistente en uniforme structuur biedt voor managementsystemen, waardoor de integratie van verschillende (ISO-)normen voor managementsystemen wordt vereenvoudigd.
 Hierdoor wordt dubbel werk voorkomen en middelen efficiënter gebruikt.
@@ -82,12 +82,12 @@ Het risicomanagementproces verloopt in hoofdlijnen als volgt:
 4.	Risicoanalyse
 5.	Risicobehandeling en maatregelenselectie
 
-## 6.1 Contextbepaling
+### 6.1 Contextbepaling
 
 NEN-EN-ISO/IEC 27001 vereist dat een entiteit eerst haar context vaststelt om relevante informatiebeveiligingsrisico’s te identificeren.
 Dit omvat zowel interne als externe factoren die invloed hebben op de beveiliging van informatie(systemen), en de daarmee samenhangende wettelijke verplichtingen uit de Cbw.
 
-## 6.2 Kiezen risicomanagementmethodiek
+### 6.2 Kiezen risicomanagementmethodiek
 
 Een entiteit kiest een risicomanagementmethodiek en past deze toe die aansluit bij NEN-EN-ISO/IEC 27001.
 Een risicomanagementmethodiek omvat ten minste de volgende onderdelen:
@@ -97,7 +97,7 @@ Een risicomanagementmethodiek omvat ten minste de volgende onderdelen:
 - een risicoregister met daarin de tijdelijk geaccepteerde risico’s
 - een proces voor opvolging van risico’s om tijdelijk geaccepteerde risico’s structureel op te lossen 
 
-## 6.3 Risico-identificatie
+### 6.3 Risico-identificatie
 
 De entiteit:
 
@@ -110,13 +110,13 @@ Hierbij worden uiteenlopende dreigingen en mogelijke scenario’s systematisch g
 Verschillende hulpmiddelen zoals NEN-ISO/IEC 27005 of het Cybersecurity Framework (CSF) en SP 800-30 van National Institute of Standards and Technology (NIST) kunnen gebruikt worden.
 Voorbeelden hiervan zijn dreigingen die voortkomen uit ketenafhankelijkheden, op OT, of gegevensuitwisseling met zorginstellingen.
 
-## 6.4 Risicoanalyse
+### 6.4 Risicoanalyse
 
 De geïdentificeerde risico’s worden vervolgens geanalyseerd en geclassificeerd op basis van hun waarschijnlijkheid en impact.
 De entiteit gebruikt in dit proces NEN-EN-ISO/IEC 27001 voor het uitvoeren van risicoanalyses, ondersteund door richtlijnen uit de BIO.
 Het classificeren van risico’s draagt bij aan een consistent beeld van de risicoprioriteiten binnen de entiteit en de overheid als geheel.
 
-## 6.5 Risicobehandeling en maatregelenselectie
+### 6.5 Risicobehandeling en maatregelenselectie
 
 Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico’s te beheersen.
 NEN-EN-ISO/IEC 27001, bijlage A (normatief) Referentie voor beheersmaatregelen voor informatiebeveiliging, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002.
@@ -169,7 +169,7 @@ De basis van deze normen is NEN-EN-ISO/IEC 27001 en NEN-EN-ISO/IEC 27002.
 Managementsystemen en beheersmaatregelen volgens deze normen kunnen worden geïntegreerd in een managementsysteem voor informatiebeveiliging op basis van NEN-EN-ISO/IEC 27001.
 Daarmee vallen de twee onderdelen samen: risicomanagement en maatregelen die specifiek passen bij de context.
 
-## 11.1 Cyberbeveiligingswet (Cbw)
+### 11.1 Cyberbeveiligingswet (Cbw)
 
 Voor overheden is in de Cbw vastgelegd op welke wijze de zorgplicht voor de beveiliging van netwerk- en informatiesystemen wordt ingevuld. 
 Hieronder volgt een samenvatting van de belangrijkste punten die betrekking hebben op het toepassen van de BIO:
@@ -198,14 +198,14 @@ Het is aan de entiteit om deze structuur aan te brengen volgens NEN-EN-ISO/IEC 2
 Voor overheden zijn er een aantal rollen die standaard deel uitmaken van informatiebeveiliging van een entiteit.
 Deze rollen komen ook terug in de uitwerking van overheidsmaatregelen.
 
-## 12.1 Bestuurder
+### 12.1 Bestuurder
 
 De aangewezen bestuurders zijn verantwoordelijk voor het treffen van passende en evenredige technische, operationele en organisatorische maatregelen en ziet toe op de naleving daarvan.
 Kortgezegd zij zijn verantwoordelijk voor risicomanagement, dat gericht is op het borgen van digitale weerbaarheid van de entiteit.<br><br>
 Voor de sector ‘Overheid’ is in artikel 24 twaalfde lid van de Cbw gedefinieerd welke bestuurders worden bedoeld.<br><br>
 De bestuurder laat zich daarbij adviseren door een Chief Information Security Officer (CISO), Chief Information Officer (CIO), functionaris gegevensbescherming (FG) en dergelijke.
 
-## 12.2 Lijnmanagement
+### 12.2 Lijnmanagement
 
 Het lijnmanagement:
 
@@ -213,7 +213,7 @@ Het lijnmanagement:
 - is verantwoordelijk voor het toepassen van de verplichte beheersmaatregelen en overheidsmaatregelen uit de BIO voor het informatiesysteem;
 - vraagt de CISO om advies, in alle gevallen waar het afwijkt van overheidsmaatregelen, ook waar dat expliciet als bevoegdheid genoemd is.
 
-## 12.3 CISO
+### 12.3 CISO
 
 De CISO:
 
@@ -223,7 +223,7 @@ De CISO:
 - rapporteert aan het bestuur hoe het lijnmanagement het informatiebeveiligingsbeleid implementeert en op welke wijze wordt voldaan aan de BIO, om ervoor zorg te dragen dat de bestuurder geïnformeerde besluiten kan maken over de behandeling van informatiebeveiligingsrisico’s;
 - is uitdrukkelijk niet verantwoordelijk voor informatiebeveiliging door het lijnmanagement.
 
-## 12.4 Interne toezichthouder
+### 12.4 Interne toezichthouder
 
 Een bestuurder ziet toe op de toepassing van informatiebeveiliging binnen de entiteit. 
 Een interne toezichthouder kan helpen bij dit toezicht.
