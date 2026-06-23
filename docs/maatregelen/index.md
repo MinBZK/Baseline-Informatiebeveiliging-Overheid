@@ -437,8 +437,9 @@ Vervallen.
 
 Kritieke informatie of informatiesystemen zijn alleen bereikbaar via ten minste twee opeenvolgende beveiligde zones.
 
-<p class="note" title="Gewijzigd voor BIO2 v2.0 ">
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/470/changes">was-wordt</a>
+<p class="note" title="Toelichting wijziging">
+<p>Deze maatregel is gewijzigd voor BIO2 v2.0.</p>
+Zie commit: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/470/changes">Was-Wordt</a>
 </p>
 
 ### 7.02.01
