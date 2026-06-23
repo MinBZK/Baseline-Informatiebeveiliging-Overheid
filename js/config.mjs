@@ -25,8 +25,8 @@ loadRespecWithConfiguration({
     [
       {
         name: "Werkgroep BIO",
-        company: "Rijksoverheid, VNG, IPO, UvW",
-        companyURL: "https://www.rijksoverheid.nl",
+        company: "Rijksoverheid, VNG, IPO, UvW, Forum Standaardisatie, NCSC",
+        companyURL: "https://www.bio-overheid.nl",
       }
     ],
   github: "https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid",
