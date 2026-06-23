@@ -16,7 +16,7 @@ Neem de tijd om de informatie door te lezen, zodat je jouw bijdrage zo effectief
 
 ## Disclaimer
 - **GitHub als platform**: GitHub is voor ons een nieuw werkinstrument. We zijn nog volop aan het leren en verbeteren. Onvolkomenheden kunnen daarom voorkomen. We stellen je begrip en feedback zeer op prijs.
-- **Versiebeheer**: De BIO2 versie 1.3 op de BIO-website is de officiële en leidende versie. De officiële versie van de BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>. De BIO2 in de GitHub-omgeving (https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/) heeft dus geen formele status. De inhoud van de BIO2 in GitHub kan afwijken van de formele documentatie. De BIO2 versie 1.3 in GitHub wordt alleen aangepast als er afwijkingen zijn ten opzichte van deze officiële versie. <br>
+- **Versiebeheer**: De BIO2 versie 1.3 op de BIO-website is de officiële en leidende versie. De officiële versie van de BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>. De BIO2 in de GitHub-omgeving (https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/) heeft dus geen formele status.<br>
 - **Gebruik van NEN-normen**: De teksten uit [NEN-EN-ISO/IEC 27001](https://www.nen.nl/nen-en-iso-iec-27001-2023-en-313608) en [NEN-EN-ISO/IEC 27002](https://www.nen.nl/nen-en-iso-iec-27002-2022-en-303737) in de BIO2 zijn met toestemming van het Nederlands Normalisatie Instituut (NEN) opgenomen in BIO2. Voor meer informatie over NEN en het gebruik van hun normen, ga naar [www.nen.nl](https://www.nen.nl/).<br>
 
 ## Gedragscode
@@ -42,17 +42,16 @@ Zodra je BIO-wijzigingsverzoek is ingediend, kunnen anderen er opmerkingen aan t
 Zo kunnen we samen de beste oplossing vinden.
 
 Elk BIO-wijzigingsverzoek wordt als volgt afgehandeld:
-1. **Labeling**: De BIO-beheerder voorziet binnen een werkdag je wijzigingsverzoek (issue) van een of meer [labels](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) zoals:
-   - Onduidelijk/onvolledig
-   - Onjuist
-   - Duplicaat
+1. **Labeling**: De BIO-beheerder voorziet binnen drie werkdagen je wijzigingsverzoek (issue) van een of meer [labels](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) zoals:
    - Suggestie
+   - Duplicaat
+   - Onvolledigheid
    - Taalfout/spelfout/stijlfout
 3. **Verduidelijking (indien nodig)**: De BIO-beheerder neemt indien nodig contact met jou op voor een verduidelijking of een oplossing.
 4. **Behandeling**: De werkgroep BIO en/of het kern-IBO behandelen het wijzigingsverzoek.
 5. **Resultaat en terugkoppeling**: De BIO-beheerder voegt aan je wijzigingsverzoek (issue) toe wat er mee is gebeurd, bijvoorbeeld:
    - Goedkeuring (wordt verwerkt in een volgende versie)
-   - Afgewijzing (met uitleg)
+   - Afwijzing (met uitleg)
    - On hold gezet (tijdelijk uitgesteld, bijvoorbeeld in afwachting van verdere informatie)
    - Verwerkt in de [Veelgestelde vragen BIO](https://www.bio-overheid.nl/category/producten/faq)
 
