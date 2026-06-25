@@ -408,6 +408,15 @@ Het management stimuleert hen actief deze periodiek te volgen.
 
 In bewustwordingsprogramma’s komen gedragsaspecten van veilig mobiel werken aan de orde. 
 
+### 6.03.05
+
+Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Deze maatregel stond eerder onder 8.07.02 en is verplaatst naar 6.03.05.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/[PR-NUMMER]/changes">Was-wordt</a>
+</p>
+
 ### 6.04.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
@@ -550,19 +559,34 @@ De antimalware-software beoordeelt altijd alle downloads.
 
 ### 8.07.02
 
-Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.
-
-### 8.07.03
-
 De gebruikte antimalware-software en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates.
 
-### 8.07.04
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Dit maatregelnummer is gewijzigd. Deze maatregel stond eerder onder 8.07.03. 8.07.02 is verplaatst naar 6.03.05.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/[PR-NUMMER]/changes">Was-wordt</a>
+</p>
+
+### 8.07.03
 
 De malwarescan wordt uitgevoerd op:
 
 - alle omgevingen, bijvoorbeeld op (mail)servers, (desktop)computers en bij de toegangsverlening tot het netwerk van de entiteit;
 - alle gedownloade content voorafgaand aan executie of opslag;
 - alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Dit maatregelnummer is gewijzigd. Deze maatregel stond eerder onder 8.07.04.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/[PR-NUMMER]/changes">Was-wordt</a>
+</p>
+
+### 8.07.04
+
+Dit maatregelnummer is vervallen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  De maatregel die eerder onder 8.07.04 stond, is hernummerd naar 8.07.03.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/[PR-NUMMER]/changes">Was-wordt</a>
+</p>
 
 ### 8.08.01
 
