@@ -270,7 +270,7 @@ Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de r
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
   De afzonderlijke herzieningstermijn voor CSP-beleid is geschrapt. Het CSP-beleid valt onder de reguliere beleidsevaluatiecyclus.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/[PR-NUMMER]/changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/475/changes">Was-wordt</a>
 </p>
 
 ### 5.24.01
