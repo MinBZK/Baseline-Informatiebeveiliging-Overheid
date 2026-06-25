@@ -262,10 +262,16 @@ De entiteit heeft een actuele registratie van leveranciers en afgesloten contrac
 
 ### 5.23.01
 
-De entiteit stelt beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s en past dat toe.<br><br>
-Dit beleid wordt minimaal eens per drie jaar herzien.<br><br>
-In de inkoopcontracten wordt opgenomen welke situaties aanleiding kunnen geven tot ontbinding van het contract.<br><br>
+De entiteit stelt beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s en past dat toe.
+
+In de inkoopcontracten wordt opgenomen welke situaties aanleiding kunnen geven tot ontbinding van het contract.
+
 Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de risico’s daarvan en neem passende maatregelen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  De afzonderlijke herzieningstermijn voor CSP-beleid is geschrapt. Het CSP-beleid valt onder de reguliere beleidsevaluatiecyclus.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/475/changes">Was-wordt</a>
+</p>
 
 ### 5.24.01
 
