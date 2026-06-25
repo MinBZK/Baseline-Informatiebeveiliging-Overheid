@@ -362,7 +362,7 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 ```De proceseigenaar heeft voor informatie(systemen) bewaartermijnen vastgesteld en ingericht, zodanig dat gegevens niet langer beschikbaar en toegankelijk zijn dan noodzakelijk voor het beperken van het aanvalsoppervlak en het beheersen van risico's bij datalekken```<br><br>
 ```De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.```
 
-<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0."> De maatregel is herformuleerd met een expliciete informatiebeveiligingsfocus. Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/[PR-NUMMER]/changes">Was-wordt</a> </p>
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0."> De maatregel is herformuleerd met een expliciete informatiebeveiligingsfocus. Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/476/changes">Was-wordt</a> </p>
 
 ### 5.34.01
 
