@@ -261,19 +261,13 @@ Bij deze afweging worden in ieder geval - en niet uitsluitend - de volgende type
 
 ## 17. Impact van risico’s
 
-De impact van een informatiebeveiligingsincident hangt sterk af van de context.
-Entiteiten ondervinden vaak specifieke gevolgen door hun rol in de samenleving en democratie, hun bestuursstijl en hun verhouding tot de burgers.
-Bij het bepalen van de impact worden minimaal onderstaande impactsgebieden afgewogen:
+De impact van een informatiebeveiligingsincident hangt sterk af van de context. Entiteiten ondervinden vaak specifieke gevolgen door hun rol in de samenleving en democratie, hun bestuursstijl en hun verhouding tot burgers. Bij het bepalen van de impact wordt gebruik gemaakt van de impactniveaus die voor de entiteit relevant zijn zoals vastgelegd in de ministeriële regeling onder de Cyberbeveiligingswet.
 
-- Politieke schade aan een bestuurder
-- Diplomatieke schade
-- Financiële gevolgen
-- Directe imagoschade 
-- Verlies van publiek respect of vertrouwen
-- Organisatiebrede negatieve publiciteit
-- Significant verlies van motivatie van medewerkers
-- Belangrijk verlies van management control
-De impactgebieden kunnen ook bijdragen aan begrip bij de uitwisseling van impact met ketenpartners.
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Wijziging impactbepaling hoofdstuk 17.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/479/changes">Was-wordt</a>
+</p>
+
 
 ## 18. Relatie BIO en andere onderwerpen 
 
