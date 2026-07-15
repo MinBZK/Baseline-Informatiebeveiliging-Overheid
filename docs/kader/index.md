@@ -118,10 +118,16 @@ Het classificeren van risico’s draagt bij aan een consistent beeld van de risi
 
 ### 6.5 Risicobehandeling en maatregelenselectie
 
-Er worden na de risicoanalyse passende beheersmaatregelen geselecteerd om risico’s te beheersen.
-NEN-EN-ISO/IEC 27001, bijlage A (normatief) Referentie voor beheersmaatregelen voor informatiebeveiliging, biedt een reeks beheersmaatregelen, die nader uitgewerkt zijn in NEN-EN-ISO/IEC 27002.
-De BIO vult deze aan met verplicht toe te passen overheidsmaatregelen die aansluiten op de context van de overheid.
-Deze overheidsmaatregelen zijn altijd verplicht en kunnen ongeacht de risico-inschatting van de entiteit niet geaccepteerd worden, tenzij ze niet van toepassing kunnen zijn.
+De entiteit bepaalt op basis van uitgevoerde risicoanalyses welke beheersmaatregelen passend zijn en legt deze vast in de verklaring van toepasselijkheid. NEN-EN-ISO/IEC 27001:2023, bijlage A, biedt hiervoor een referentieset van beheersmaatregelen. NEN-EN-ISO/IEC 27002:2022 geeft richting aan de implementatie van deze maatregelen. Niet alle beheersmaatregelen uit bijlage A zijn automatisch van toepassing. De entiteit bepaalt op basis van de risicoanalyse welke maatregelen noodzakelijk zijn en motiveert deze keuze in de verklaring van toepasselijkheid.
+
+De BIO vult de ISO-maatregelen aan met verplicht toe te passen overheidsmaatregelen. Deze maatregelen vormen het minimumniveau van informatiebeveiliging voor overheidsorganisaties en zijn, voor zover zij binnen de vastgestelde reikwijdte vallen, verplicht toe te passen.
+
+Indien de risicoanalyse daartoe aanleiding geeft, treft de entiteit aanvullende beheersmaatregelen boven op de BIO-overheidsmaatregelen en de geselecteerde ISO-maatregelen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Verduidelijking status ISO- en BIO-maatregelen
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/487/changes">Was-wordt</a>
+</p>
 
 ## 7. Verklaring van toepasselijkheid (VvT)
 
