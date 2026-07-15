@@ -40,7 +40,7 @@ body:
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     id: argumentatie
     attributes:
       label: Constatering + argumentatie
@@ -56,7 +56,7 @@ body:
       description: Noteer de huidige tekst uit de BIO of uit het BIO-ontwerp.
       render: text
 
- - type: textarea
+  - type: textarea
     id: voorgestelde_tekst
     attributes:
       label: Voorgestelde tekst
@@ -65,7 +65,7 @@ body:
     validations:
       required: true
  
- - type: textarea
+  - type: textarea
     id: verwachte_impact
     attributes:
       label: Verwachte impact
