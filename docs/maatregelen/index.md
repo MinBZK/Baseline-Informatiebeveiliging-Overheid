@@ -1,6 +1,3 @@
-!!! warning "Disclaimer"
-    De BIO2 versie 1.3 in de GitHub-omgeving heeft geen formele status. De inhoud van dit document kan afwijken van de formele documentatie. De officiële versie van de BIO2 is beschikbaar via de [BIO-website](https://www.bio-overheid.nl/category/producten/bio).
-
 # DEEL 2 BIO–OVERHEIDSMAATREGELEN
 
 Deel 2 van de BIO bevat alle overheidsmaatregelen. Deze maatregelen zijn gekoppeld aan de beheersmaatregelen uit NEN-EN-ISO/IEC 27002:2022.
@@ -18,7 +15,8 @@ De referentie naar deze analyse is in een bijlage uitzonderingen opgenomen in de
 Deze overheidsmaatregelen vormen de verplichte minimale invulling van de beheersmaatregel.
 Uit een risicoanalyse blijkt of deze voldoende zijn om het risico te beheersen en tot een acceptabel niveau verlagen.
 
-## 5.01.01
+## Categorie 5: Organisatorische maatregelen
+### 5.01.01
 
 De entiteit heeft een informatiebeveiligingsbeleid opgesteld en vastgesteld door het bestuur van de entiteit.<br><br>
 Dit beleid bevat ten minste de volgende punten:
@@ -30,11 +28,11 @@ Dit beleid bevat ten minste de volgende punten:
 - De frequentie waarmee het informatiebeveiligingsbeleid wordt geëvalueerd.
 - De bevordering van het beveiligingsbewustzijn.
 
-## 5.01.02
+### 5.01.02
 
 Het informatiebeveiligingsbeleid wordt minimaal jaarlijks en in aansluiting bij de bestuurs- en Planning & Control (P&C)cycli en externe ontwikkelingen beoordeeld en zo nodig bijgesteld.
 
-## 5.02.01
+### 5.02.01
 
 Het bestuur van de entiteit heeft vastgelegd en vastgesteld:
 
@@ -44,116 +42,116 @@ Het bestuur van de entiteit heeft vastgelegd en vastgesteld:
 Bij het definiëren en toewijzen van rollen en verantwoordelijkheden is specifieke aandacht voor het adequaat afhandelen van incidenten.<br><br>
 Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen zijn ook verantwoordelijk voor de behandeling van risico’s die op die bedrijfsmiddelen van toepassing zijn.
 
-## 5.02.02
+### 5.02.02
 
 Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging.
 
-## 5.03.01
+### 5.03.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.04.01
+### 5.04.01
 
 Het bestuur en de werknemers volgen regelmatig scholing, om cyberbeveiligingsrisico’s te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.<br><br>
 Daarbij tonen bestuurders an dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico’s te beoordelen op de diensten en/of producten die de entiteit levert.
 
-## 5.04.02
+### 5.04.02
 
 Verplaatst naar 5.10.02.
 
-## 5.04.03
+### 5.04.03
 
 Verplaatst naar 5.10.03.
 
-## 5.05.01
+### 5.05.01
 
 De entiteit heeft uitgewerkt welke functionarissen met welke (overheids)instanties en toezichthouders formele contacten hebben over informatiebeveiliging.<br><br>
 Dit overzicht wordt ten minste jaarlijks geactualiseerd.
 
-## 5.06.01
+### 5.06.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.07.01
+### 5.07.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.08.01
+### 5.08.01
 Bij nieuwe informatiesystemen en bij significante wijzigingen op bestaande informatiesystemen wordt een expliciete risicoafweging op basis van een vastgestelde risicomanagementmethodiek uitgevoerd, om risico’s te identificeren en in voldoende mate te beheersen en ook voor het vaststellen van de beveiligingseisen.
 
-## 5.09.01
+### 5.09.01
 
 Er is een inventaris van bedrijfsmiddelen die van belang zijn voor informatieverwerking, met inbegrip van OT.<br><br>
 De inventaris omvat alle eigenschappen die nodig zijn voor het beheer en onderhoud.
 In de inventaris zijn ook opgenomen: bedrijfsmiddelen op afstand, cloud-omgevingen en bedrijfsmiddelen die regelmatig zijn verbonden met de netwerkinfrastructuur maar niet onder controle van de entiteit staan.<br><br>
 De volledigheid en actualiteit van de inventaris wordt periodiek gecontroleerd met tussenpozen die passend zijn voor de frequentie waarmee wijzigingen optreden.
 
-## 5.10.01
+### 5.10.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.10.02
+### 5.10.02
 
 De gedragsregels voor het gebruik van bedrijfsmiddelen zijn voor extern personeel en vrijwilligers in het contract vastgelegd volgens de huisregels of interne gedragsregels.
 
-## 5.10.03
+### 5.10.03
 
 Alle medewerkers zijn aantoonbaar gewezen op de gedragsregels voor het gebruik van bedrijfsmiddelen.
 
-## 5.11.01
+### 5.11.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.12.01
+### 5.12.01
 
 Informatie in alle informatiesystemen wordt met een expliciete risicoafweging geclassificeerd.<br><br>
 Hierbij wordt gebruik gemaakt van een vastgestelde impactclassificatiemethodiek die onderdeel is van de vastgestelde risicomanagementmethodiek.
 
-## 5.13.01
+### 5.13.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.14.01
+### 5.14.01
 
 Internetfacing-informatiesystemen en e-mail berichtenverkeer blijven voldoen aan de verplichte beveiligingsstandaarden, zie hiervoor de website van het Forum Standaardisatie en het Cyberbeveiligingsbesluit.<br><br>
 Hierop wordt gestuurd met de metingen van internet.nl.<br><br>
 Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
 
-## 5.14.02
+### 5.14.02
 
 De entiteit maakt bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten.<br><br>
 De entiteit maakt bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV certificaten of private PKIo-certificaten.<br><br>
 Hogere eisen aan certificaten vloeien voort uit een risicoanalyse, aansluitvoorwaarden of wetgeving.
 
-## 5.14.03
+### 5.14.03
 
 Geavanceerde en/of gekwalificeerde elektronische handtekeningen voldoen aan de Advanced Electronic Signatures (AdES Baseline Profiles), zoals opgenomen in de Lijst open standaarden van Forum Standaardisatie.
 
-## 5.14.04
+### 5.14.04
 
 Van alle internetfacing-informatiesystemen, webapplicaties, IP-adressen en API’s is er een actuele registratie.
 
-## 5.14.05
+### 5.14.05
 
 Publiek toegankelijke websites worden bekend gemaakt via het Register Internetdomeinen Overheid (RIO).<br><br>
 Deze informatie wordt ten minste iedere zes maanden geactualiseerd.
 
-## 5.15.01
+### 5.15.01
 
 Toegang tot een vertrouwde zone is toegestaan in twee situaties:
 
 1. vanaf geauthentiseerde apparatuur of;
 2. vanuit programmatuur die draait binnen een veilige schil.
 
-## 5.16.01
+### 5.16.01
 
 Er is een sluitende formele registratie- en afmeldprocedure voor het beheren van gebruikersidentificaties.
 
-## 5.16.02
+### 5.16.02
 
 Het gebruiken van groepsaccounts is niet toegestaan, tenzij de proceseigenaar dit motiveert, vastlegt en afstemt met de CISO.
 
-## 5.17.01 
+### 5.17.01 
 
 De entiteit past multi-factorauthenticatie (MFA) ten minste toe voor het primaire aanloggen op de digitale werkomgeving, bij accounts voor via het internet bereikbare voorzieningen en accounts die beheerrechten hebben en in andere situaties waar uit de risicoanalyse blijkt dat dit een passende oplossing is.<br><br>
 De entiteit past MFA toe in deze twee vormen:
@@ -170,79 +168,79 @@ Voor beheer en monitoring van authenticatiegegevens:
 - wordt authenticatie-informatie uitgegeven met formele vastgestelde procedures, nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld;
 - worden Use Cases voor misbruik van authenticatiegegevens gedefinieerd, worden deze gemonitord en wordt passende actie ondernomen bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen.
 
-## 5.17.02
+### 5.17.02
 
 De entiteit biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare oplossing aan.
 
-## 5.17.03
+### 5.17.03
 
 De eisen aan wachtwoorden worden geautomatiseerd afgedwongen.
 
-## 5.18.01
+### 5.18.01
 
 Het maken en aanpassen van accounts met bijzondere rechten wordt gemonitord.
 Indien deze wijzigingen ongeautoriseerd zijn, is dit een informatiebeveiligingsincident en wordt dat als zodanig vastgelegd en afgehandeld. 
 
-## 5.18.02
+### 5.18.02
 
 Alle uitgegeven toegangsrechten worden minimaal eenmaal per jaar beoordeeld. Een risicoafweging bepaalt of dit sneller moet.
 
-## 5.19.01
+### 5.19.01
 
 Bij offerteaanvragen waar informatie(voorziening) een rol speelt, zijn informatiebeveiligingseisen waaronder de beschikbaarheid, integriteit en vertrouwelijkheid, onderdeel van het hele pakket aan inkoopeisen.<br><br>
 De informatiebeveiligingseisen zijn gebaseerd op een expliciete risicoafweging.
 
-## 5.20.01
+### 5.20.01
 
 De beveiligingseisen uit de offerteaanvraag worden expliciet opgenomen in (inkoop)contracten waar de verwerking van informatie een rol speelt.
 
-## 5.20.02
+### 5.20.02
 
 Waar mogelijk worden algemene voorwaarden van leveranciers expliciet uitgesloten en worden eventueel aanvullende voorwaarden opgenomen.
 Als uitsluiten niet mogelijk is, worden risico’s beoordeeld.<br><br>
 Expliciet is gemaakt welke consequenties geaccepteerd worden, welke gemitigeerd zijn en welke voorwaarden niet of nooit geaccepteerd worden bij het aangaan van de overeenkomst.
 
-## 5.20.03
+### 5.20.03
 
 In het inkoopcontract wordt opgenomen dat de leverancier aantoont dat hij aan alle gestelde eisen voldoet in opzet, bestaan en werking, op basis van onderzoeken van onafhankelijke derden.<br><br>
 Deze onderzoeken hebben een scope die dekkend is voor de gecontracteerde dienstverlening. Hierbij is expliciet aandacht voor de toeleveringsketen en hoe de leverancier zijn leveranciersmanagement ingeregeld heeft, zie overheidsmaatregel 5.21.01.<br><br>
 Dit toont de leverancier jaarlijks opnieuw aan.
 
-## 5.20.04
+### 5.20.04
 
 De entiteit voert zelfstandig onderzoek uit, ook ter validatie van de rapportages die de leverancier aanlevert.<br><br>
 Om dit mogelijk te maken, wordt expliciet opgenomen dat er een mogelijkheid is voor een externe audit.<br><br>
 Indien uit het voorgaande restrisico’s volgen, beheerst de entiteit deze door het toepassen van zijn vastgestelde risicomanagementmethodiek.
 
-## 5.20.05
+### 5.20.05
 
 Onderdeel van de afspraken is dat de leverancier transparant is over kwetsbaarheden in de dienstverlening en informatiebeveiligingsincidenten waaronder datalekken.
 Dit stelt de entiteit in staat om passend te reageren onder meer door te rapporteren en mitigerende maatregelen te nemen.
 
-## 5.20.06
+### 5.20.06
 
 Voordat een contract wordt afgesloten, wordt in een risicoafweging bepaald of de afhankelijkheid van een leverancier beheersbaar is.<br><br>
 Een vast onderdeel van het contract is een expliciete uitwerking van de exit-strategie.
 
-## 5.21.01
+### 5.21.01
 
 Vervallen.
 
-## 5.21.02
+### 5.21.02
 
 Voorafgaand aan het afsluiten van de overeenkomst geeft de leverancier inzicht in de keten van toeleveranciers en eventuele risico’s daarin. 
 De entiteit beoordeelt of de risico’s acceptabel zijn.
 
-## 5.21.03
+### 5.21.03
 
 De entiteit borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers, tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier.<br><br>
 Indien informatiebeveiligingseisen zijn uitgesloten, maakt de leverancier dat inzichtelijk, inclusief een ònderbouwing.
 
-## 5.21.04
+### 5.21.04
 
 Gedurende de looptijd geeft de leverancier veranderingen in de keten van toeleveranciers door, inclusief risico’s daarin. Dit omvat minimaal kwetsbaarheden en informatiebeveiligingsincidenten die de dienstverlening aan de entiteit kunnen raken.
 
-## 5.21.05
+### 5.21.05
 
 De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de entiteit. In de risicoanalyse wordt rekening gehouden met:
 
@@ -250,7 +248,7 @@ De beveiliging van toeleveringsketens is onderdeel van de risicoanalyse voor de 
 - de algemene kwaliteit van de producten;
 - de cyberbeveiligingspraktijken van hun leveranciers en dienstverleners, met inbegrip van hun veilige ontwikkelingsprocedures.
 
-## 5.22.01
+### 5.22.01
 
 Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie overheidsmaatregel 5.20.03, is de proceseigenaar verantwoordelijk voor:
 
@@ -258,42 +256,48 @@ Op basis van het door de leverancier aangeleverde bewijsmateriaal, zie overheids
 - het vaststellen van eventuele beveiligingsrisico’s;
 - het (laten) nemen van mitigerende maatregelen en het accepteren van rest-risico’s.
 
-## 5.22.02
+### 5.22.02
 
 De entiteit heeft een actuele registratie van leveranciers en afgesloten contracten.
 
-## 5.23.01
+### 5.23.01
 
-De entiteit stelt beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s en past dat toe.<br><br>
-Dit beleid wordt minimaal eens per drie jaar herzien.<br><br>
-In de inkoopcontracten wordt opgenomen welke situaties aanleiding kunnen geven tot ontbinding van het contract.<br><br>
+De entiteit stelt beleid op dat toeziet op het inventariseren, classificeren, selecteren, beoordelen en managen van Cloud Service Providers (CSP) en het beëindigen van dienstverlening door CSP’s en past dat toe.
+
+In de inkoopcontracten wordt opgenomen welke situaties aanleiding kunnen geven tot ontbinding van het contract.
+
 Wanneer zich belangrijke wijzigingen bij de leverancier optreden, beoordeel de risico’s daarvan en neem passende maatregelen.
 
-## 5.24.01
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  De afzonderlijke herzieningstermijn voor CSP-beleid is geschrapt. Het CSP-beleid valt onder de reguliere beleidsevaluatiecyclus.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/475/changes">Was-wordt</a>
+</p>
+
+### 5.24.01
 
 Er is voor alle interne en externe medewerkers een toegankelijk meldloket waar informatiebeveiligingsincidenten kunnen worden gemeld en geregistreerd.
 
-## 5.24.02
+### 5.24.02
 
 Er is een meldprocedure waarin de taken en verantwoordelijkheden van het meldloket staan beschreven. 
 
-## 5.24.03
+### 5.24.03
 
 De proceseigenaar is verantwoordelijk voor het oplossen van informatiebeveiligingsincidenten.
 
-## 5.24.04
+### 5.24.04
 
 De proceseigenaar rapporteert maandelijks de opvolging van informatiebeveiligingsincidenten aan de eindverantwoordelijke voor de bedrijfsvoering.
 
-## 5.24.05
+### 5.24.05
 
 In de procedure voor informatiebeveiligingsincidenten is er een verwijzing gemaakt naar de procedure voor crisisbeheersing.
 
-## 5.24.06
+### 5.24.06
 
 Verplaatst naar 5.21.05.
 
-## 5.24.07
+### 5.24.07
 
 De incidentprocedure bevat tenminste:
 
@@ -301,210 +305,232 @@ De incidentprocedure bevat tenminste:
 - dat meldingen van het CSIRT worden ontvangen, beoordeeld en opgenomen in de risicobehandeling;
 - dat betrokkenen binnen de wettelijke termijn op de hoogte gesteld worden van het incident.
 
-## 5.24.08
+### 5.24.08
 
 Een Coordinated Vulnerability Disclosure (CVD)-procedure is ingericht en gepubliceerd volgens de NCSC-leidraad of NEN-EN-ISO/IEC 29147:2020 Vulnerability disclosure.<br><br>
 Informatie afkomstig uit de Coordinated Vulnerability Disclosure (CVD)-meldingen is onderdeel van de incidentrapportage.
 
-## 5.25.01
+### 5.25.01
 
 Verplaatst naar 5.26.02.
 
-## 5.26.01
+### 5.26.01
 
 Verplaatst naar 5.25.02.
 
-## 5.26.02
+### 5.26.02
 
 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces.<br><br>
 In het incidentbeheerproces is opgenomen dat incidenten indien relevant gemeld worden bij de in wet- en regelgeving aangewezen toezichthouders.
 
-## 5.27.01
+### 5.27.01
 
 Informatiebeveiligingsincidenten worden geanalyseerd om achterliggende oorzaken vast te stellen, verbeteringen te realiseren, om zo toekomstige incidenten te voorkomen.
 
-## 5.27.02
+### 5.27.02
 
 De analyses van informatiebeveiligingsincidenten, inclusief de achterliggende oorzaken en de verbeteringen worden breed gedeeld met relevante partners om herhaling en toekomstige incidenten te voorkomen.
 
-## 5.28.01 
+### 5.28.01 
 
 De bewaartermijn van een (vermoedelijk) informatiebeveiligingsincident en alle informatie om het incident te analyseren en op te lossen, is minimaal drie jaar.
 Dit betreft onder meer de informatie benodigd voor de analyse waaronder logging, de oplossing en het advies.
 
-## 5.29.01
+### 5.29.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.30.01
+### 5.30.01
 
 De proceseigenaar test jaarlijks continuïteitsplannen op werking, volledigheid en actualiteit, om de plannen te verbeteren.
 
-## 5.30.02
+### 5.30.02
 
 Binnen de inventarisatie van beheersmaatregel 5.12 uit NEN-EN-ISO/IEC 27002:2022, identificeert de proceseigenaar kritieke systemen op basis van de vastgestelde risicomanagementmethodiek en een expliciete risicoafweging.
 De proceseigenaar actualiseert dit overzicht ten minste eens per drie jaar.
 
-## 5.31.01
+### 5.31.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 5.32.01
+### 5.32.01
 
 ```Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.```
 
-## 5.33.01 
+### 5.33.01 
 
-```De proceseigenaar heeft voor alle informatie(systemen) in selectielijsten de bewaartermijn vastgelegd, rekening houdend met de eigen bedrijfsdoelstellingen en wet- en regeling, zoals de archiefwet en privacywetgeving.```<br><br>
+```De proceseigenaar heeft voor informatie(systemen) bewaartermijnen vastgesteld en ingericht, zodanig dat gegevens niet langer beschikbaar en toegankelijk zijn dan noodzakelijk voor het beperken van het aanvalsoppervlak en het beheersen van risico's bij datalekken```<br><br>
 ```De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.```
 
-## 5.34.01
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0."> De maatregel is herformuleerd met een expliciete informatiebeveiligingsfocus. Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/476/changes">Was-wordt</a> </p>
+
+### 5.34.01
 
 ```Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.```
 
-## 5.35.01
+### 5.35.01
 
 Vervallen.
 
-## 5.35.02
+### 5.35.02
 
 Er is een vastgesteld auditplan waarin jaarlijks keuzes worden gemaakt voor welke systemen welk soort beveiligingsaudits worden uitgevoerd.
 
-## 5.36.01
+### 5.36.01
 
 In de P&C-cyclus en als onderdeel van de plan-do-check-act (PDCA)-cyclus wordt gerapporteerd over informatiebeveiliging onder coördinatie van de CISO.
 Dit resulteert in een jaarlijks af te geven In Control Verklaring (ICV), of een vergelijkbaar instrument, over de gehele informatiebeveiliging van de entiteit.
 De ICV of het vergelijkbare instrument kan ook onderdeel zijn van de formele verantwoording.
 
-## 5.37.01
+### 5.37.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 6.01.01
+## Categorie 6: Mensgerichte maatregelen
+### 6.01.01
 
 Elke entiteit heeft een vastgesteld screeningsbeleid.<br><br>
 Bij indiensttreding en bij functiewijziging kan op basis van een risicoafweging een Verklaring Omtrent het Gedrag (VOG) gevraagd worden.
 
-## 6.02.01
+### 6.02.01
 
 Alle medewerkers (intern en extern) zijn bij hun aanstelling of functiewisseling gewezen op hun verantwoordelijkheden voor informatiebeveiliging.<br><br>
 De voor hen geldende regelingen en instructies voor informatiebeveiliging zijn eenvoudig toegankelijk.
 
-## 6.03.01
+### 6.03.01
 
 Alle medewerkers, lijnmanagers en bestuurders hebben de verantwoordelijkheid bedrijfsinformatie te beschermen. 
 Iedereen kent de regels van en verplichtingen voor informatiebeveiliging en daar waar relevant de speciale eisen voor gerubriceerde omgevingen.
 
-## 6.03.02
+### 6.03.02
 
 Alle medewerkers en contractanten die gebruikmaken van informatiesystemen en -diensten hebben binnen drie maanden na indiensttreding aantoonbaar een training I-bewustzijn succesvol gevolgd.
 
-## 6.03.03
+### 6.03.03
 
 Het management benadrukt bij aanstelling en interne overplaatsing en bijvoorbeeld in werkoverleggen of in personeelsgesprekken bij zijn medewerkers en contractanten 
 het belang van opleiding en training voor informatiebeveiliging.
 Het management stimuleert hen actief deze periodiek te volgen.
 
-## 6.03.04
+### 6.03.04
 
 In bewustwordingsprogramma’s komen gedragsaspecten van veilig mobiel werken aan de orde. 
 
-## 6.04.01
+### 6.03.05
+
+Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Deze maatregel stond eerder onder 8.07.02 en is verplaatst naar 6.03.05.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/474/changes">Was-wordt</a>
+</p>
+
+### 6.04.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
-## 6.05.01
+### 6.05.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
-## 6.06.01
+### 6.06.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen. 
 
-## 6.07.01
+### 6.07.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 6.08.01
+### 6.08.01
 
 Alle medewerkers (intern en extern) hebben aantoonbaar kennisgenomen van de meldingsprocedure van informatiebeveiligingsincidenten.
 
-## 7.01.01
+## Categorie 7: Fysieke maatregelen
+### 7.01.01
 
 Vervallen.
 
-## 7.01.02
+### 7.01.02
 
-Kritieke informatie of informatiesystemen zijn nooit via één beveiligde zone te bereiken.
+Kritieke informatie of informatiesystemen zijn alleen bereikbaar via ten minste twee opeenvolgende beveiligde zones.
 
-## 7.02.01
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+   Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/470/changes">Was-Wordt</a>
+
+### 7.02.01
 
 In geval van concrete beveiligingsrisico’s worden waarschuwingen, volgens onderlinge afspraken, verzonden aan de relevante collega’s binnen het beveiligingsdomein van de overheid.
 
-## 7.03.01
+### 7.03.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.04.01
+### 7.04.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.05.01
+### 7.05.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.06.01
+### 7.06.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.07.01
+### 7.07.01
 
-Bij het gebruik van een chipcardtoken voor toegang tot systemen wordt bij het verwijderen van het token de toegangsbeveiligingsvergrendeling automatisch geactiveerd.
+Werkplekken en sessies worden automatisch vergrendeld wanneer de gebruiker de werkplek verlaat of na een ingestelde periode van inactiviteit.
 
-## 7.08.01
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Maatregel gewijzigd naar technologieonafhankelijke vergrendeling.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/482/changes">Was-wordt</a>
+</p>
+
+### 7.08.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.09.01
+### 7.09.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.10.01
+### 7.10.01
 
 In de verwijderinstructie is opgenomen dat van verwijderbare media, die herbruikbaar zijn en de entiteit verlaten, de bedrijfsgevoelige inhoud onherstelbaar verwijderd is. 
 
-## 7.10.02
+### 7.10.02
 
 Er wordt gecontroleerd of alle data op het medium onherstelbaar verwijderd is.<br><br>
 Hiervan wordt verslag gemaakt.<br><br>
 Er wordt waar mogelijk gebruik gemaakt van producten waarvoor de Unit Weerbaarheid van het Nationaal Bureau voor Verbindingsbeveiliging (NBV) van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) een positief inzetadvies afgegeven heeft.
 
-## 7.10.03
+### 7.10.03
 
 Het gebruik van koeriers of transporteurs voor transport van geclassificeerde informatie voldoet aan vooraf opgestelde betrouwbaarheidseisen.
 
-## 7.11.01
+### 7.11.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.12.01
+### 7.12.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.13.01
+### 7.13.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 7.14.01
+### 7.14.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.01.01
+## Categorie 8: Technologische maatregelen
+### 8.01.01
 
 Mobiele apparatuur is zo ingericht dat bedrijfsinformatie niet standaard op het gebruikersdevice wordt opgeslagen (‘zero footprint’). Als (near) zero footprint (nog) niet realiseerbaar is, biedt een mobiel apparaat de mogelijkheid om de toegang te beschermen met een toegangsbeveiligingsmechanisme met minimaal versleuteling van de gegevens.<br><br>
 Op mobiele apparatuur is ‘wissen op afstand’ mogelijk.
 
-## 8.01.02
+### 8.01.02
 
 Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd:
 
@@ -514,45 +540,46 @@ Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplem
 
 Periodiek wordt getoetst of deze drie aspecten worden nageleefd.
 
-## 8.02.01
+### 8.02.01
 
 De toegewezen of gebruikte speciale bevoegdheden worden in opzet, bestaan en werking minimaal ieder kwartaal beoordeeld.
 
-## 8.03.01
+### 8.03.01
 
 Er zijn maatregelen genomen die het fysiek en/of logisch isoleren van informatie met specifiek belang waarborgen.
 
-## 8.03.02
+### 8.03.02
 
 Gebruikers kunnen alleen die informatie met specifiek belang inzien en verwerken die ze nodig hebben voor de uitoefening van hun taak.
 
-## 8.04.01
+### 8.04.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.05.01
+### 8.05.01
 
 Voor het verlenen van toegang tot het netwerk aan externe leveranciers wordt vooraf een risicoafweging gemaakt. 
 De risicoafweging bepaalt onder welke voorwaarden en voor hoelang de leveranciers toegang krijgen. Uit een registratie blijkt hoe de rechten zijn toegekend.
 
-## 8.06.01
+### 8.06.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.07.01
+### 8.07.01
 
 Het downloaden van bestanden is beheerst en beperkt op basis van het risico en need-of-use.<br><br>
 De antimalware-software beoordeelt altijd alle downloads.
 
-## 8.07.02
-
-Gebruikers zijn voorgelicht over de risico’s van surfgedrag en het klikken op onbekende links.
-
-## 8.07.03
+### 8.07.02
 
 De gebruikte antimalware-software en bijbehorende herstelsoftware zijn actueel en wordt ondersteund door periodieke updates.
 
-## 8.07.04
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Dit maatregelnummer is gewijzigd. Deze maatregel stond eerder onder 8.07.03. 8.07.02 is verplaatst naar 6.03.05.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/474/changes">Was-wordt</a>
+</p>
+
+### 8.07.03
 
 De malwarescan wordt uitgevoerd op:
 
@@ -560,70 +587,84 @@ De malwarescan wordt uitgevoerd op:
 - alle gedownloade content voorafgaand aan executie of opslag;
 - alle bestanden die via netwerken of via elke vorm van opslagmedium zijn ontvangen, vóór gebruik of opslag in de eigen omgeving.
 
-## 8.08.01
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Dit maatregelnummer is gewijzigd. Deze maatregel stond eerder onder 8.07.04.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/474/changes">Was-wordt</a>
+</p>
+
+### 8.07.04
+
+Dit maatregelnummer is vervallen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  De maatregel die eerder onder 8.07.04 stond, is hernummerd naar 8.07.03.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/474/changes">Was-wordt</a>
+</p>
+
+### 8.08.01
 
 Als van een kwetsbaarheidswaarschuwing de kans op misbruik en de verwachte schade beide hoog zijn, worden passende mitigerende maatregelen zo snel mogelijk, maar uiterlijk binnen een week getroffen.
 
-## 8.08.02
+### 8.08.02
 
 Op basis van een expliciete risicoafweging wordt bepaald op welke wijze mitigerende maatregelen getroffen worden.
 
-## 8.08.03
+### 8.08.03
 
 In de tussentijd of als installatie binnen een week niet mogelijk is, worden op basis van een expliciete risicoafweging mitigerende maatregelen getroffen.
 
-## 8.08.04
+### 8.08.04
 
 Informatiesystemen worden waar mogelijk jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en risico’s van de feitelijke veiligheid. Dit kan bijvoorbeeld door (geautomatiseerde) kwetsbaarheidsanalyses, penetratietesten of red-teamingstesten. Internetfacing-informatiesystemen worden waar mogelijk continue getest op zwakheden en kwetsbaarheden.
 
-## 8.08.05
+### 8.08.05
 
 Internetfacing-informatiesystemen hebben een verplichte waar mogelijk geautomatiseerde penetratietest bij iedere nieuwe release of major update.<br><br>
 Als daar bevindingen met een hoog risico uitkomen die niet op een andere manier gemitigeerd kunnen worden, mag het systeem niet in productie.<br><br>
 Alle internetfacing-informatiesystemen worden minimaal jaarlijks getest op zwakheden en kwetsbaarheden.
 
-## 8.08.06
+### 8.08.06
 
 Zie overheidsmaatregel 5.24.08.
 
-## 8.09.01
+### 8.09.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.10.01
+### 8.10.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.11.01
+### 8.11.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.12.01
+### 8.12.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.13.01
+### 8.13.01
 
 Er is een back-upbeleid waarin de eisen voor het bewaren en beschermen zijn gedefinieerd en vastgesteld. 
 Er is speciale aandacht voor het beschermen van de back-up tegen ransomware-aanvallen en genomen maatregelen om de integriteit van de back-up te behouden.
 
-## 8.13.02
+### 8.13.02
 
 Op basis van een expliciete risicoafweging is bepaald wat het maximaal toegestane dataverlies is en wat de maximale hersteltijd is na een incident.
 
-## 8.13.03
+### 8.13.03
 
 Het back-upproces voorziet in de opslag van de back-up op een locatie, waarbij een incident op de ene locatie niet kan leiden tot schade op de andere.
 
-## 8.13.04
+### 8.13.04
 
 De herstelprocedure wordt minimaal jaarlijks getest of na een grote wijziging, om de goede werking te waarborgen als deze in noodgevallen uitgevoerd wordt.
 
-## 8.14.01
+### 8.14.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.15.01
+### 8.15.01
 
 Een logregel bevat minimaal:
 
@@ -634,96 +675,96 @@ Een logregel bevat minimaal:
 - Actor: identificatie van de persoon die of het proces dat de gebeurtenis in gang heeft gezet.
 - Tijdstempel: datum en tijdstip waarop de gebeurtenis of handeling plaatsvond.
 
-## 8.15.02
+### 8.15.02
 
 Een logregel bevat nooit gegevens die tot het doorbreken van de beveiliging kunnen leiden.
 
-## 8.15.03
+### 8.15.03
 
 Er is een overzicht van logbestanden die worden gegenereerd.
 
-## 8.15.04
+### 8.15.04
 
 De bewaartermijn van logbestanden en gegevens in het Security Incident en Event Monitoring (SIEM) worden risicogericht bepaald, rekening houdend met het scenario dat aanvallers langdurig binnen zijn.
 
-## 8.15.05
+### 8.15.05
 
 Oneigenlijk wijzigen, verwijderen of pogingen daartoe van loggegevens worden zo snel mogelijk gemeld als informatiebeveiligingsincident via de procedure voor informatiebeveiligingsincidenten volgens beheersmaatregel 5.24 uit NEN-EN-ISO/IEC 27002:2022.
 
-## 8.15.06
+### 8.15.06
 
 Op basis van een expliciete risicoafweging bepaalt de entiteit de periodieke toetsing op het ongewijzigd bestaan van logbestanden gedurende de bewaartermijn.<br><br>
 Toetsing wordt uitgevoerd door een ten opzichte van de uitvoering onafhankelijke functionaris.
 
-## 8.16.01
+### 8.16.01
 
 Bij ontdekte nieuwe dreigingen (aanvallen) via overheidsmaatregel 8.16.3 worden deze binnen geldende juridische kaders verplicht gedeeld met de daarvoor aangewezen Computer Emergency Response Team (CERT).
 
-## 8.16.02
+### 8.16.02
 
 Het SIEM- en/of het SOC-monitoringsproces hebben eenduidige regels over wanneer een incident wordt gerapporteerd aan het verantwoordelijke management.
 
-## 8.16.03
+### 8.16.03
 
 De informatieverwerkende omgeving wordt gemonitord met een detectie- en response-oplossing, waarmee aanvallen kunnen worden gedetecteerd en afwijkingen adequaat en tijdig worden behandeld. 
 
-## 8.16.04
+### 8.16.04
 
 Actieve netwerkcomponenten zijn voorzien van logging en monitoring van die logging om afwijkende gebeurtenissen te kunnen waarnemen en daarop te reageren.
 
-## 8.17.01
+### 8.17.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.18.01 
+### 8.18.01 
 
 Alleen bevoegd personeel heeft op die momenten dat toegang strikt noodzakelijk is toegang tot systeemhulpmiddelen.
 
-## 8.18.02
+### 8.18.02
 
 Het gebruik van systeemhulpmiddelen wordt gelogd.<br><br>
 De logging is een halfjaar beschikbaar voor onderzoek.
 
-## 8.19.01
+### 8.19.01
 
 Het risico van installatie door gebruikers van niet geautoriseerde software wordt beheerst.
 
-## 8.20.01
+### 8.20.01
 
 Netwerkcomponenten voldoen minimaal aan het vertrouwelijkheidsniveau van het netwerk waarvan ze onderdeel zijn.
 
-## 8.20.02
+### 8.20.02
 
 Toegang tot beheerinterfaces van netwerkcomponenten zijn zo veel als mogelijk gescheiden van het gebruikersnetwerk.
 
-## 8.21.01
+### 8.21.01
 
 In koppelpunten met externe of onvertrouwde zones en vanwege netwerksegmentatie zijn maatregelen getroffen om mogelijke aanvallen die de beschikbaarheid van de informatievoorziening negatief beïnvloeden te signaleren en te mitigeren.
 
-## 8.21.02
+### 8.21.02
 
 Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt en geanalyseerd op verdacht verkeer met detectievoorzieningen.
 
-## 8.21.03
+### 8.21.03
 
 Bij ontdekte nieuwe dreigingen vanuit overheidsmaatregel 8.21.02 worden deze doorgeleid, rekening houdend met de geldende juridische kaders gedeeld binnen de overheid.
 
-## 8.21.04
+### 8.21.04
 
 Bij transport van gegevens over draadloze verbindingen zoals wifi en bij bedrade verbindingen buiten het gecontroleerd gebied worden gegevens versleuteld met uitzondering van metagegevens die noodzakelijk zijn om het transport tot stand te laten komen.<br><br>
 De inrichting van de versleuteling is risicogericht en houdt rekening met de noodzakelijke beschermingstermijn en het noodzakelijke beschermingsniveau.<br><br>
 Hierbij wordt waar mogelijk gebruik gemaakt van encryptiemiddelen waarvoor de Unit Weerbaarheid van het NBV van de AIVD een positief inzetadvies heeft afgegeven.<br><br>
 Als de Unit Weerbaarheid geen encryptiemiddelen heeft geadviseerd, wordt in overleg met de CISO een andere geschikte versleutelingsmethodiek gekozen en ingericht.
 
-## 8.22.01
+### 8.22.01
 
 Alle gescheiden groepen hebben een gedefinieerd beveiligingsniveau.
 
-## 8.23.01
+### 8.23.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.24.01
+### 8.24.01
 
 In het cryptografiebeleid zijn minimaal de volgende onderwerpen uitgewerkt:
 
@@ -735,58 +776,58 @@ In het cryptografiebeleid zijn minimaal de volgende onderwerpen uitgewerkt:
 - De wijze waarop het beschermingsniveau vastgesteld wordt.
 - Bij communicatie tussen entiteiten wordt het beleid onderling vastgesteld.
 
-## 8.24.02
+### 8.24.02
 
 Cryptografische beheersmaatregelen zijn opgenomen in de inventaris van de bedrijfsmiddelen.<br><br>
 Voor alle cryptografische beheersmaatregelen is vastgesteld waar ze worden ingezet, wie ervoor verantwoordelijk is en hoe ze actueel worden gehouden. 
 
-## 8.24.03
+### 8.24.03
 
 Vervallen.
 
-## 8.24.04 
+### 8.24.04 
 
 De sterkte van de cryptografie wordt gebaseerd op de actuele adviezen van het NCSC en de Unit Weerbaarheid van het NBV van de AIVD. 
 
-## 8.24.05
+### 8.24.05
 
 Er zijn afspraken over reservecertificaten van een alternatieve leverancier als uit de risicoafweging blijkt dat deze noodzakelijk zijn als onderdeel van gereedheid voor bedrijfscontinuïteit (zie beheersmaatregel 5.30 uit NEN-EN-ISO/IEC 27002:2022).
 
-## 8.25.01
+### 8.25.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.26.01
+### 8.26.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.27.01
+### 8.27.01
 
 Architectuurprincipes zoals ‘security by design’ en ‘security by default’ voor het ontwerpen van de beveiliging van informatiesystemen worden vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle activiteiten over het ontwikkelen van informatiesystemen.
 
-## 8.28.01
+### 8.28.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.29.01
+### 8.29.01
 
 Voor acceptatietesten van systemen worden gestructureerde testmethodieken gebruikt.
 De testen worden waar mogelijk geautomatiseerd uitgevoerd.<br><br>
 Van de resultaten van de testen wordt verslag gemaakt.
 
-## 8.30.01
+### 8.30.01
 
 Interne maatregelen voor systeemontwikkeling zijn onverkort van toepassing op uitbestede ontwikkeling, aangevuld met maatregelen die volgen vanuit uitbestedingen.
 
-## 8.31.01
+### 8.31.01
 
 In de productieomgeving wordt niet getest. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.
 
-## 8.31.02
+### 8.31.02
 
 Significante wijzigingen in de productieomgeving worden altijd getest voordat zij in productie gebracht worden. Alleen met voorafgaande goedkeuring door de proceseigenaar kan hiervan worden afgeweken.
 
-## 8.32.01
+### 8.32.01
 
 In het wijzigingsbeheerproces is minimaal aandacht besteed aan:
 
@@ -794,14 +835,14 @@ In het wijzigingsbeheerproces is minimaal aandacht besteed aan:
 - een risicoafweging van mogelijke gevolgen van de wijzigingen, inclusief een beschreven rollback-plan;
 - de goedkeuringsprocedure voor wijzigingen.
 
-## 8.32.02 
+### 8.32.02 
 
 Wijzigingsbeheer vindt plaats op basis van een algemeen geaccepteerd beheerraamwerk.
 
-## 8.33.01
+### 8.33.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
-## 8.34.01
+### 8.34.01
 
 Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.

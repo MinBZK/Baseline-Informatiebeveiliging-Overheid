@@ -16,7 +16,7 @@ Neem de tijd om de informatie door te lezen, zodat je jouw bijdrage zo effectief
 
 ## Disclaimer
 - **GitHub als platform**: GitHub is voor ons een nieuw werkinstrument. We zijn nog volop aan het leren en verbeteren. Onvolkomenheden kunnen daarom voorkomen. We stellen je begrip en feedback zeer op prijs.
-- **Versiebeheer**: De BIO2 versie 1.3 op de BIO-website is de officiële en leidende versie. De officiële versie van de BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>. De BIO2 in de GitHub-omgeving (https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/) heeft dus geen formele status. De inhoud van de BIO2 in GitHub kan afwijken van de formele documentatie. De BIO2 versie 1.3 in GitHub wordt alleen aangepast als er afwijkingen zijn ten opzichte van deze officiële versie. <br>
+- **Versiebeheer**: De BIO2 versie 1.3 op de BIO-website is de officiële en leidende versie. De officiële versie van de BIO2 is beschikbaar via de BIO-website: <https://www.bio-overheid.nl/category/producten/bio>. De BIO2 in de GitHub-omgeving (https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/) heeft dus geen formele status.<br>
 - **Gebruik van NEN-normen**: De teksten uit [NEN-EN-ISO/IEC 27001](https://www.nen.nl/nen-en-iso-iec-27001-2023-en-313608) en [NEN-EN-ISO/IEC 27002](https://www.nen.nl/nen-en-iso-iec-27002-2022-en-303737) in de BIO2 zijn met toestemming van het Nederlands Normalisatie Instituut (NEN) opgenomen in BIO2. Voor meer informatie over NEN en het gebruik van hun normen, ga naar [www.nen.nl](https://www.nen.nl/).<br>
 
 ## Gedragscode
@@ -47,6 +47,8 @@ Elk BIO-wijzigingsverzoek wordt als volgt afgehandeld:
    - Onjuist
    - Duplicaat
    - Suggestie
+   - Duplicaat
+   - Onvolledigheid
    - Taalfout/spelfout/stijlfout
 3. **Verduidelijking (indien nodig)**: De BIO-beheerder neemt indien nodig contact met jou op voor een verduidelijking of een oplossing.
 4. **Behandeling**: Het kernteam BIO, werkgroep BIO en/of het kern-IBO behandelen het wijzigingsverzoek.

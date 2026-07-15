@@ -1,12 +1,4 @@
----
-title: Concept ontwerp BIO2
-summary: Ontwerp van de BIO2 op hoofdlijnen
----
-
 # Concept ontwerp BIO2
-
-!!! warning "BIO2 in ontwikkeling" 
-    Dit is een werkversie van de BIO2. De teksten zijn nog niet representatief voor de definitieve versie. De documentatie is alleen bedoeld om mee te kunnen denken. De definitieve versie kan nog wezenlijk veranderen.
 
 ## Doel van de BIO2 
 

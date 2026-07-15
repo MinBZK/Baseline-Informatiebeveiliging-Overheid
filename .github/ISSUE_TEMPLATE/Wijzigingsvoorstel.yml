@@ -7,19 +7,19 @@ labels:
 body:
   - type: markdown
     attributes:
-      value: Noteer het hoofdstuk- of paragraafnummer, gevolgd door een dubbele punt en daarna een korte samenvatting van het BIO-wijzigingsverzoek. Gaat het om een toevoeging van een hoofdstuk of paragraaf start met Algemeen.
+      value: Noteer het hoofdstuk-, paragraaf- of maatregelnummer, gevolgd door een dubbele punt en daarna een korte samenvatting van het wijzigingsverzoek. 
 
   - type: checkboxes
     id: welk_deel_van_de_BIO
     attributes:
-      label: Welk deel van de BIO of het BIO-ontwerp
+      label: Welk deel van de BIO heeft je verzoek betrekking op?
       description: Bijvoorbeeld de Voortekst. Hiermee worden de ongenummerde hoofdstukken bedoeld (voorblad, copyright-notitie, wijzigingsbeheer en dankwoord).
       options:
-        - label: Voortekst
+        - label: Voortekst 
         - label: Deel 1 BIO2-kader
         - label: Deel 2 BIO-overheidsmaatregelen
         - label: BIO-ontwerp
-        - label: Algemeen
+        - label: Algemeen/Overig
     validations:
       required: true
       
@@ -27,7 +27,7 @@ body:
     id: bio_version
     attributes:
       label: BIO-versie of BIO-ontwerpversie
-      description: Noteer het versienummer van de BIO of het BIO-ontwerp waarop het BIO-wijzigingsverzoek betrekking heeft. De laatste versie van de BIO is de BIO2 v1.3.
+      description: Noteer het versienummer waarop het verzoek betrekking heeft. De huidige versie is BIO2 v1.3.
       value: BIO2 v1.3
     validations:
       required: true
@@ -36,7 +36,16 @@ body:
     id: identificatienummer
     attributes:
       label: Identificatienummer(s) + titel(s)
-      description: Noteer het nummer van het hoofdstuk + titel, de paragraaf + titel, de overheidsmaatregel etc., waarhet BIO-wijzigingsverzoek betrekking op heeft. Voeg eventueel regelnummer(s) of de betreffende alinea(s) toe.
+      description: Noteer het nummer van het hoofdstuk, de paragraaf en/of de overheidsmaatregel waar het verzoek betrekking op heeft. 
+    validations:
+      required: true
+
+  - type: textarea
+    id: argumentatie
+    attributes:
+      label: Constatering + motivatie
+      description: Noteer de constatering en motivatie voor het verzoek. Denk aan feitelijke onjuistheden, inconsitentie tekst, veranderde wet- en regelgeving, nieuwe ontwikkelingen etc.
+      render: text
     validations:
       required: true
 
@@ -45,4 +54,27 @@ body:
     attributes:
       label: Huidige tekst
       description: Noteer de huidige tekst uit de BIO of uit het BIO-ontwerp.
+      render: text
+
+  - type: textarea
+    id: voorgestelde_tekst
+    attributes:
+      label: Voorgestelde tekst
+      description: Noteer de voorgestelde tekst.
+      render: text
+    validations:
+      required: true
+ 
+  - type: textarea
+    id: verwachte_impact
+    attributes:
+      label: Verwachte impact
+      description: Noteer de eventuele verwachte positieve en negatieve impact. Denk aan middelen per overheidslaag, aanpassen van processen per overheidslaag, capaciteit per overheidslaag etc.
+      render: text
+
+  - type: textarea
+    id: opmerkingen
+    attributes:
+      label: Opmerkingen
+      description: Noteer eventuele opmerkingen of aanvullende informatie, zoals een toelichting, links en/of bijlagen.
       render: text
