@@ -532,13 +532,18 @@ Op mobiele apparatuur is ‘wissen op afstand’ mogelijk.
 
 ### 8.01.02
 
-Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd:
+Bij de inzet van mobiele apparatuur zijn minimaal de volgende aspecten geïmplementeerd: 
 
-- Het apparaat maakt deel uit van patchmanagement en hardening.
-- Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of Mobile Application Management (MAM)-oplossingen.
+- Het verbonden apparaat maakt deel uit van patchmanagement en hardening. 
+- Er wordt gebruik gemaakt van Mobile Device Management (MDM)- of Mobile Application Management (MAM)-oplossingen. Het organisatiebeleid wordt op ieder verbonden apparaat blijvend afgedwongen.
 - Gebruikers tekenen een gebruikersovereenkomst voor mobiel werken, waarmee zij verklaren zich bewust te zijn van de gevaren van mobiel werken en verklaren dit veilig te zullen doen. Deze verklaring heeft betrekking op alle mobiele apparatuur die de medewerker zakelijk gebruikt.
 
-Periodiek wordt getoetst of deze drie aspecten worden nageleefd.
+Ten minste jaarlijks en bij significante wijzigingen wordt getoetst of deze drie aspecten worden nageleefd.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Verduidelijking en concretisering van de toetsingsfrequentie. 
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 8.02.01
 
