@@ -479,7 +479,12 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 ### 7.07.01
 
-Bij het gebruik van een chipcardtoken voor toegang tot systemen wordt bij het verwijderen van het token de toegangsbeveiligingsvergrendeling automatisch geactiveerd.
+Werkplekken en sessies worden automatisch vergrendeld wanneer de gebruiker de werkplek verlaat of na een ingestelde periode van inactiviteit.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Maatregel gewijzigd naar technologieonafhankelijke vergrendeling.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 7.08.01
 
