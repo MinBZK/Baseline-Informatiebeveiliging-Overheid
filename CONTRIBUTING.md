@@ -1,5 +1,5 @@
 # Bijdragen aan de Baseline Informatiebeveiliging Overheid 2 (BIO2)
-Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van de [de BIO2](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/).
+Bedankt dat je wilt bijdragen aan de verdere ontwikkeling van de [BIO2](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/).
 Samen werken we aan een toegankelijke, bruikbare en toekomstbestendige baseline voor de hele overheid, de BIO2.
 Open ontwikkeling vinden we belangrijk.
 Ieders inbreng helpt om BIO2 nog beter te maken.<br>
@@ -42,13 +42,16 @@ Zodra je BIO-wijzigingsverzoek is ingediend, kunnen anderen er opmerkingen aan t
 Zo kunnen we samen de beste oplossing vinden.
 
 Elk BIO-wijzigingsverzoek wordt als volgt afgehandeld:
-1. **Labeling**: De BIO-beheerder voorziet binnen drie werkdagen je wijzigingsverzoek (issue) van een of meer [labels](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) zoals:
+1. **Labeling**: De BIO-beheerder voorziet binnen een werkweek je wijzigingsverzoek (issue) van een of meer [labels](https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/labels) zoals:
+   - Onduidelijk/onvolledig
+   - Onjuist
+   - Duplicaat
    - Suggestie
    - Duplicaat
    - Onvolledigheid
    - Taalfout/spelfout/stijlfout
 3. **Verduidelijking (indien nodig)**: De BIO-beheerder neemt indien nodig contact met jou op voor een verduidelijking of een oplossing.
-4. **Behandeling**: De werkgroep BIO en/of het kern-IBO behandelen het wijzigingsverzoek.
+4. **Behandeling**: Het kernteam BIO, werkgroep BIO en/of het kern-IBO behandelen het wijzigingsverzoek.
 5. **Resultaat en terugkoppeling**: De BIO-beheerder voegt aan je wijzigingsverzoek (issue) toe wat er mee is gebeurd, bijvoorbeeld:
    - Goedkeuring (wordt verwerkt in een volgende versie)
    - Afwijzing (met uitleg)
