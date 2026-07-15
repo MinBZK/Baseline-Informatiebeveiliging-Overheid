@@ -483,7 +483,7 @@ Werkplekken en sessies worden automatisch vergrendeld wanneer de gebruiker de we
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Maatregel gewijzigd naar technologieonafhankelijke vergrendeling.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/482/changes">Was-wordt</a>
 </p>
 
 ### 7.08.01
