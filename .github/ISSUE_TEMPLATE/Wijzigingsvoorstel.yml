@@ -40,9 +40,41 @@ body:
     validations:
       required: true
 
+ - type: textarea
+    id: argumentatie
+    attributes:
+      label: Constatering + argumentatie
+      description: Noteer de constatering en de argumentatie voor het BIO-wijzigingsverzoe, denk aan feitelijke onjuistheden, inconsitentie tekst, veranderde wet- en regelgeving, BIO onderhoudsarmer maken etc.
+      render: text
+    validations:
+      required: true
+
   - type: textarea
     id: huidige_tekst
     attributes:
       label: Huidige tekst
       description: Noteer de huidige tekst uit de BIO of uit het BIO-ontwerp.
+      render: text
+
+ - type: textarea
+    id: voorgestelde_tekst
+    attributes:
+      label: Voorgestelde tekst
+      description: Noteer de voorgestelde tekst.
+      render: text
+    validations:
+      required: true
+ 
+ - type: textarea
+    id: verwachte_impact
+    attributes:
+      label: Verwachte impact
+      description: Noteer eventueel de verwachte positieve en negatieve impact. Denk aan middelen per overheidslaag, aanpassen van processen per overheidslaag, capaciteit per overheidslaag etc.
+      render: text
+
+  - type: textarea
+    id: opmerkingen
+    attributes:
+      label: Opmerkingen
+      description: Noteer eventuele opmerkingen of aanvullende informatie, zoals een toelichting, links en/of bijlagen.
       render: text
