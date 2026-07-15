@@ -276,6 +276,6 @@ De BIO richt zich primair op informatiebeveiliging. Aanverwante vakgebieden, zoa
 Deze vakgebieden worden niet integraal uitgewerkt in de BIO. Waar relevant bevat de BIO overheidsmaatregelen op het koppelvlak met informatiebeveiliging of verwijst zij naar geldende wet- en regelgeving, normen en richtlijnen.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
-  Wijziging impactbepaling hoofdstuk 17.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Verduidelijk relatie BIO met aanverwante vakgebieden
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/486/changes">Was-wordt</a>
 </p>
