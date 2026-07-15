@@ -269,10 +269,13 @@ De impact van een informatiebeveiligingsincident hangt sterk af van de context. 
 </p>
 
 
-## 18. Relatie BIO en andere onderwerpen 
+## 18. Relatie BIO en aanverwante vakgebieden
 
-De BIO richt zich op informatiebeveiliging.
-Onderwerpen zoals privacybescherming, informatievoorziening, beheersprocessen, bedrijfscontinuïteit zijn aanpalend aan informatiebeveiliging.
-Voor deze onderwerpen zijn vaak aparte standaarden opgezet.
-Deze onderwerpen worden daarom niet uitgewerkt in de BIO.
-Daar waar nuttig wordt verwezen naar deze separate standaarden.
+De BIO richt zich primair op informatiebeveiliging. Aanverwante vakgebieden, zoals privacybescherming, informatievoorziening en bedrijfscontinuïteit, hebben raakvlakken met informatiebeveiliging.
+
+Deze vakgebieden worden niet integraal uitgewerkt in de BIO. Waar relevant bevat de BIO overheidsmaatregelen op het koppelvlak met informatiebeveiliging of verwijst zij naar geldende wet- en regelgeving, normen en richtlijnen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Verduidelijk relatie BIO met aanverwante vakgebieden
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/486/changes">Was-wordt</a>
+</p>
