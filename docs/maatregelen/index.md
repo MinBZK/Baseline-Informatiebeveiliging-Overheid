@@ -542,7 +542,7 @@ Ten minste jaarlijks en bij significante wijzigingen wordt getoetst of deze drie
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Verduidelijking en concretisering van de toetsingsfrequentie. 
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/485/changes">Was-wordt</a>
 </p>
 
 ### 8.02.01
