@@ -12,10 +12,10 @@ body:
   - type: checkboxes
     id: welk_deel_van_de_BIO
     attributes:
-      label: Welk deel van de BIO of het BIO-ontwerp
+      label: Welk deel van de BIO heeft je verzoek betrekking op?
       description: Bijvoorbeeld de Voortekst. Hiermee worden de ongenummerde hoofdstukken bedoeld (voorblad, copyright-notitie, wijzigingsbeheer en dankwoord).
       options:
-        - label: Voortekst
+        - label: Voortekst 
         - label: Deel 1 BIO2-kader
         - label: Deel 2 BIO-overheidsmaatregelen
         - label: BIO-ontwerp
