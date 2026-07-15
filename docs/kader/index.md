@@ -277,5 +277,5 @@ Deze vakgebieden worden niet integraal uitgewerkt in de BIO. Waar relevant bevat
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
   Wijziging impactbepaling hoofdstuk 17.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/479/changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
 </p>
