@@ -44,7 +44,7 @@ body:
     id: argumentatie
     attributes:
       label: Constatering + argumentatie
-      description: Noteer de constatering en de argumentatie voor het BIO-wijzigingsverzoe, denk aan feitelijke onjuistheden, inconsitentie tekst, veranderde wet- en regelgeving, BIO onderhoudsarmer maken etc.
+      description: Noteer de constatering en de argumentatie voor het BIO-wijzigingsverzoek, denk aan feitelijke onjuistheden, inconsitentie tekst, veranderde wet- en regelgeving, BIO onderhoudsarmer maken etc.
       render: text
     validations:
       required: true
