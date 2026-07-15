@@ -126,7 +126,7 @@ Indien de risicoanalyse daartoe aanleiding geeft, treft de entiteit aanvullende 
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
   Verduidelijking status ISO- en BIO-maatregelen
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/487/changes">Was-wordt</a>
 </p>
 
 ## 7. Verklaring van toepasselijkheid (VvT)
