@@ -44,7 +44,12 @@ Lijnmanagers en proceseigenaren die verantwoordelijk zijn voor bedrijfsmiddelen 
 
 ### 5.02.02
 
-Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te adviseren en te rapporteren aan het bestuur en of het controlerend orgaan over informatiebeveiliging.
+Er is een CISO aangesteld die bevoegd is om zelfstandig en onafhankelijk te adviseren en te rapporteren aan het bestuur over de staat van informatiebeveiliging.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Verduidelijking positionering en rol CISO
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/489/changes">Was-wordt</a>
+</p>
 
 ### 5.03.01
 
@@ -289,7 +294,12 @@ Er is een meldprocedure waarin de taken en verantwoordelijkheden van het meldlok
 
 ### 5.24.03
 
-De proceseigenaar is verantwoordelijk voor het oplossen van informatiebeveiligingsincidenten.
+De proceseigenaar is verantwoordelijk voor het (laten) oplossen van informatiebeveiligingsincidenten. De incidentmanagementfunctie coördineert bij domeinoverstijgende incidenten.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Verduidelijking rol proceseigenaar
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/489/changes">Was-wordt</a>
+</p>
 
 ### 5.24.04
 
