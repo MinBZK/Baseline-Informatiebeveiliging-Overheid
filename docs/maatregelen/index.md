@@ -52,7 +52,7 @@ Geen overheidsmaatregel; de implementatierichtlijn uit NEN-EN-ISO/IEC 27002 is l
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Verduidelijking generieke tekst zonder overheidsmaatregel. Deze wijziging wordt verwerkt op alle plaatsen waar de generieke tekst bij een beheersmaatregel zonder overheidsmaatregel voorkomt.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/488/changes">Was-wordt</a>
 </p>
 
 
