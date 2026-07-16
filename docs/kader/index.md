@@ -225,9 +225,17 @@ De CISO:
 
 - is verantwoordelijk voor de coördinatie van informatiebeveiliging;
 - ondersteunt de bestuurder en geeft gevraagd en ongevraagd advies aan de bestuurder;
-- vertaalt wetgeving en bedrijfsdoelstellingen naar een informatiebeveiligingsbeleid;
-- rapporteert aan het bestuur hoe het lijnmanagement het informatiebeveiligingsbeleid implementeert en op welke wijze wordt voldaan aan de BIO, om ervoor zorg te dragen dat de bestuurder geïnformeerde besluiten kan maken over de behandeling van informatiebeveiligingsrisico’s;
-- is uitdrukkelijk niet verantwoordelijk voor informatiebeveiliging door het lijnmanagement.
+- adviseert over de vertaling van wetgeving, dreigingen, risico’s en organisatiedoelstellingen naar informatiebeveiligingsbeleid;
+- rapporteert aan het bestuur over de staat van informatiebeveiliging en over de wijze waarop het lijnmanagement het informatiebeveiligingsbeleid implementeert en voldoet aan de BIO;
+- vertaalt informatiebeveiligingsrisico’s naar handelingsperspectief voor de bestuurder;
+- is uitdrukkelijk niet verantwoordelijk voor de uitvoering van informatiebeveiliging door het lijnmanagement.
+
+Verantwoording aan het controlerend orgaan loopt via het bestuur en de reguliere verantwoordingscyclus.
+
+<p class="note" title="Deze paragraaf is gewijzigd voor BIO2 v2.0.">
+  Verduidelijking positionering en rol CISO
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/489/changes">Was-wordt</a>
+</p>
 
 ### 12.4 Interne toezichthouder
 
