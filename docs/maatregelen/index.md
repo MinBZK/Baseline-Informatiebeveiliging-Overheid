@@ -48,7 +48,13 @@ Er is een CISO aangesteld die bevoegd is om onafhankelijk en zelfstandig te advi
 
 ### 5.03.01
 
-Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
+Geen overheidsmaatregel; de implementatierichtlijn uit NEN-EN-ISO/IEC 27002 is leidend.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Verduidelijking generieke tekst zonder overheidsmaatregel. Deze wijziging wordt verwerkt op alle plaatsen waar de generieke tekst bij een beheersmaatregel zonder overheidsmaatregel voorkomt.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/488/changes">Was-wordt</a>
+</p>
+
 
 ### 5.04.01
 
