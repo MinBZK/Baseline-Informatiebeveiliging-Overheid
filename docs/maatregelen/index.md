@@ -636,13 +636,28 @@ In de tussentijd of als installatie binnen een week niet mogelijk is, worden op 
 
 ### 8.08.04
 
-Informatiesystemen worden waar mogelijk jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en risico’s van de feitelijke veiligheid. Dit kan bijvoorbeeld door (geautomatiseerde) kwetsbaarheidsanalyses, penetratietesten of red-teamingstesten. Internetfacing-informatiesystemen worden waar mogelijk continue getest op zwakheden en kwetsbaarheden.
+Informatiesystemen worden periodiek en ten minste jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en de feitelijke veiligheidsstatus. De wijze en frequentie van controleren worden bepaald op basis van een risicoafweging, passend bij de classificatie, het dreigingsbeeld en het belang van het informatiesysteem.
+
+De overweging welke methodiek wordt ingezet, van scans tot red teaming, maakt expliciet onderdeel uit van deze risicoafweging. Internetfacing-informatiesystemen worden continu automatisch gescand of getest op zwakheden en kwetsbaarheden.
+
+De controle wordt aantoonbaar uitgevoerd; ten minste methode, bevindingen, beoordeling en opvolging worden vastgelegd. Onderdeel van de beoordeling is tevens de analyse van de root-cause en de verificatie of de kwetsbaarheid ook op andere systemen aanwezig is.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Inhoudelijke verduidelijking en aanscherping van het technische testregime.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 8.08.05
 
-Internetfacing-informatiesystemen hebben een verplichte waar mogelijk geautomatiseerde penetratietest bij iedere nieuwe release of major update.<br><br>
-Als daar bevindingen met een hoog risico uitkomen die niet op een andere manier gemitigeerd kunnen worden, mag het systeem niet in productie.<br><br>
-Alle internetfacing-informatiesystemen worden minimaal jaarlijks getest op zwakheden en kwetsbaarheden.
+Voor internetfacing-informatiesystemen wordt een penetratietest uitgevoerd bij ingebruikname of bij een majeure wijziging.
+
+Als uit de penetratietest bevindingen met een hoog risico komen die niet op een andere manier zijn gemitigeerd, mag het systeem niet in productie worden genomen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Inhoudelijke verduidelijking en aanscherping van het technische testregime.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
+
 
 ### 8.08.06
 
