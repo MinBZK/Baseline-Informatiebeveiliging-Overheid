@@ -644,7 +644,7 @@ De controle wordt aantoonbaar uitgevoerd; ten minste methode, bevindingen, beoor
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Inhoudelijke verduidelijking en aanscherping van het technische testregime.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/498/changes">Was-wordt</a>
 </p>
 
 ### 8.08.05
@@ -655,7 +655,7 @@ Als uit de penetratietest bevindingen met een hoog risico komen die niet op een 
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Inhoudelijke verduidelijking en aanscherping van het technische testregime.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/498/changes">Was-wordt</a>
 </p>
 
 
