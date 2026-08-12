@@ -636,7 +636,7 @@ In de tussentijd of als installatie binnen een week niet mogelijk is, worden op 
 
 ### 8.08.04
 
-Informatiesystemen worden periodiek en ten minste jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en de feitelijke veiligheidsstatus. De wijze en frequentie van controleren worden bepaald op basis van een risicoafweging, passend bij de classificatie, het dreigingsbeeld en het belang van het informatiesysteem.
+Informatiesystemen worden periodiek en ten minste jaarlijks gecontroleerd op technische naleving van beveiligingsnormen en de feitelijke veiligheidsstatus. De wijze van controleren en de noodzaak van een hogere frequentie worden bepaald op basis van een risicoafweging, passend bij de classificatie, het dreigingsbeeld en het belang van het informatiesysteem.
 
 De overweging welke methodiek wordt ingezet, van scans tot red teaming, maakt expliciet onderdeel uit van deze risicoafweging. Internetfacing-informatiesystemen worden continu automatisch gescand of getest op zwakheden en kwetsbaarheden.
 
