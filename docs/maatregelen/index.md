@@ -245,7 +245,7 @@ De entiteit beoordeelt of de risico’s acceptabel zijn.
 ### 5.21.03
 
 De entiteit borgt dat de beveiligingseisen aan de leverancier onverminderd van toepassing zijn op de keten van toeleveranciers, tenzij die eisen niet relevant zijn gezien de aard van de dienstverlening door de toeleverancier.<br><br>
-Indien informatiebeveiligingseisen zijn uitgesloten, maakt de leverancier dat inzichtelijk, inclusief een ònderbouwing.
+Indien informatiebeveiligingseisen zijn uitgesloten, maakt de leverancier dat inzichtelijk, inclusief een onderbouwing.
 
 ### 5.21.04
 
