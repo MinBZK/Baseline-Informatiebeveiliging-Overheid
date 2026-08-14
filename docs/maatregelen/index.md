@@ -831,7 +831,7 @@ De entiteit heeft maatregelen getroffen om bij uitval, intrekking of verlies van
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Wijziging naar certificaatcontinuïteit
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/500/changes">Was-wordt</a>
 </p>
 
 
