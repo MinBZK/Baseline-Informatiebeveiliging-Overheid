@@ -827,7 +827,13 @@ De sterkte van de cryptografie wordt gebaseerd op de actuele adviezen van het NC
 
 ### 8.24.05
 
-Er zijn afspraken over reservecertificaten van een alternatieve leverancier als uit de risicoafweging blijkt dat deze noodzakelijk zijn als onderdeel van gereedheid voor bedrijfscontinuïteit (zie beheersmaatregel 5.30 uit NEN-EN-ISO/IEC 27002:2022).
+De entiteit heeft maatregelen getroffen om bij uitval, intrekking of verlies van vertrouwen in een certificaatleverancier tijdig te kunnen overschakelen op een passend alternatief. De aard van deze maatregelen volgt uit een risicoafweging. De overweging of een reservecertificaat noodzakelijk is, maakt expliciet onderdeel uit van deze risicoafweging.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Wijziging naar certificaatcontinuïteit
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/500/changes">Was-wordt</a>
+</p>
+
 
 ### 8.25.01
 
