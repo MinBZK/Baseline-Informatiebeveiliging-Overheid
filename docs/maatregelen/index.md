@@ -144,7 +144,7 @@ Van alle internetfacing-informatiesystemen, websites, IP-adressen, domeinnamen e
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
   Verduidelijk registratie internetfacing-systemen
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/501/changes">Was-wordt</a>
 </p>
 
 ### 5.14.05
