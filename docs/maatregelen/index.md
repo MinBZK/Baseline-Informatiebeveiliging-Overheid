@@ -178,11 +178,16 @@ De entiteit past MFA toe in deze twee vormen:
 Indien MFA niet mogelijk is voor deze accounts, worden andere mitigerende maatregelen genomen.<br><br>
 Bij het nemen van mitigerende maatregelen wordt de CISO betrokken.<br><br>
 De proceseigenaar keurt de mitigerende maatregelen goed.<br><br>
-Waar mogelijk en veilig wordt MFA met federatieve authenticatievoorzieningen zoals Single Sign On en een Stepping Stone-oplossing worden gecombineerd toegepast.<br><br>
+Waar mogelijk en veilig wordt MFA gecombineerd toegepast met federatieve authenticatievoorzieningen, zoals Single Sign On en een Stepping Stone-oplossing.<br><br>
 Voor beheer en monitoring van authenticatiegegevens:
 
 - wordt authenticatie-informatie uitgegeven met formele vastgestelde procedures, nadat de identiteit van de gebruiker met voldoende zekerheid is vastgesteld;
 - worden Use Cases voor misbruik van authenticatiegegevens gedefinieerd, worden deze gemonitord en wordt passende actie ondernomen bij het optreden ervan. Deze Use Cases omvatten in ieder geval inlogpogingen van ongebruikelijke plekken en pieken in mislukte inlogpogingen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Correctie in formulering
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/502/changes">Was-wordt</a>
+</p>
 
 ### 5.17.02
 
