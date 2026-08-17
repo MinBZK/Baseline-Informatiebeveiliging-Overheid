@@ -195,7 +195,12 @@ De entiteit biedt aan alle medewerkers een wachtwoordmanager of vergelijkbare op
 
 ### 5.17.03
 
-De eisen aan wachtwoorden worden geautomatiseerd afgedwongen.
+Eisen aan wachtwoorden worden geautomatiseerd afgedwongen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Correctie in formulering
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/502/changes">Was-wordt</a>
+</p>
 
 ### 5.18.01
 
