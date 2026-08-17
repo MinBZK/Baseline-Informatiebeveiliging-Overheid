@@ -140,7 +140,12 @@ Geavanceerde en/of gekwalificeerde elektronische handtekeningen voldoen aan de A
 
 ### 5.14.04
 
-Van alle internetfacing-informatiesystemen, webapplicaties, IP-adressen en API’s is er een actuele registratie.
+Van alle internetfacing-informatiesystemen, websites, IP-adressen, domeinnamen en API's wordt een actuele registratie bijgehouden.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Verduidelijk registratie internetfacing-systemen
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 5.14.05
 
