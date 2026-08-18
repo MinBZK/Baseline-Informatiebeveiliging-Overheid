@@ -130,9 +130,16 @@ Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiligin
 
 ### 5.14.02
 
-De entiteit maakt bij openbaar webverkeer van gevoelige gegevens gebruik van ten minste publiek vertrouwde Organization Validated (OV)-certificaten.<br><br>
-De entiteit maakt bij intern webverkeer voor gevoelige gegevens gebruik van ten minste publieke vertrouwde OV certificaten of private PKIo-certificaten.<br><br>
-Hogere eisen aan certificaten vloeien voort uit een risicoanalyse, aansluitvoorwaarden of wetgeving.
+Bij publiek toegankelijke websites wordt gebruikgemaakt van publiek vertrouwde TLS-certificaten. 
+
+Deze betreffende certificaten worden tijdig en geautomatiseerd aangevraagd, beheerd en vernieuwd door middel van het ACME-protocol. 
+
+Uit een risicoanalyse kan blijken dat een hoger validatieniveau (OV of EV) nodig is. (Zie ook overheidsmaatregelen 8.24.01 t/m 8.24.05).
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Verplichte wijze in de normtekst vastgesteld
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/503/changes">Was-wordt</a>
+</p>
 
 ### 5.14.03
 
