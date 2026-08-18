@@ -244,9 +244,15 @@ Een interne toezichthouder kan helpen bij dit toezicht.
 
 ## 13. Leveranciers
 
-Leveranciers bieden diensten en/of producten aan entiteiten. 
-Een entiteit blijft zelf verantwoordelijk voor het behandelen van risico’s die betrekking hebben op de uitbestede of ingekochte dienst of product.<br><br>
-Afhankelijk van het risico behoren daarom verplichtingen van de overheid die volgen uit de BIO of uit andere richtlijnen te worden meegenomen bij het samenstellen van inkoopeisen aan leveranciers.
+Leveranciers bieden diensten en/of producten aan entiteiten. Een entiteit blijft zelf verantwoordelijk voor het behandelen van risico's die betrekking hebben op de uitbestede of ingekochte dienst of product. Afhankelijk van het risico behoren verplichtingen van de overheid die volgen uit de BIO of uit andere richtlijnen te worden meegenomen bij het samenstellen van inkoopeisen aan leveranciers en bij de afspraken over contractbeheer.<br><br>
+De beheersing van leveranciersrisico's geldt gedurende de volledige levensduur van het contract. Dit omvat inkoop, contractering, uitvoering, wijziging, periodieke evaluatie, verlenging, beëindiging en exit.<br><br>
+Omdat risico's gedurende de looptijd kunnen veranderen, beoordeelt de entiteit periodiek of beveiligingseisen, afspraken of beheersmaatregelen moeten worden bijgesteld. De entiteit kan aantonen dat de beheersing van leveranciersrisico's is ingericht, wordt gevolgd en periodiek wordt beoordeeld.
+
+<p class="note" title="Deze paragraaf is gewijzigd voor BIO2 v2.0.">
+  Verduidelijking looptijd risicobeheersing
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/504/changes">Was-wordt</a>
+</p>
+
 
 ## 14. Informatiebeveiligingsprincipes
 
