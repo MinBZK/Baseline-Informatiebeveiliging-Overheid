@@ -50,19 +50,29 @@ Al dan niet met behulp van externe partijen en/of via self-assessments, audits, 
 
 ## 5. Het managementsysteem voor informatiebeveiliging
 
-Het managementsysteem voor informatiebeveiliging (Information Security Management Systeem, ook wel ISMS) is een werkwijze om informatiebeveiliging op een gestructureerde manier toe te passen in de entiteit.
-Zo wordt de entiteit, en een bestuurder in het bijzonder, in staat gesteld om de juiste afwegingen te maken. <br><br>
-_Om een veelvoorkomend misverstand te voorkomen: een managementsysteem is géén applicatie.
-Een applicatie kan wel ondersteunen bij het toepassen van een managementsysteem._<br><br>
+Het managementsysteem voor informatiebeveiliging (information security management system - ISMS) is een gestructureerde en beheerste aanpak voor informatiebeveiliging binnen de entiteit.<br><br>
+Met een ISMS worden de vertrouwelijkheid, integriteit en beschikbaarheid van informatie beschermd door risico’s systematisch te beoordelen, te behandelen, te monitoren en waar nodig bij te sturen.<br><br>
+Zo wordt de entiteit, en een bestuurder in het bijzonder, ondersteund bij het maken van passende afwegingen over risico’s, maatregelen, verantwoordelijkheden en continue verbetering.<br><br>
+Om een veelvoorkomend misverstand te voorkomen: een managementsysteem is géén applicatie.
+Een applicatie kan wel ondersteunen bij het toepassen van een managementsysteem.<br><br>
 Het managementsysteem voor informatiebeveiliging borgt de beschikbaarheid, integriteit en vertrouwelijkheid van informatie door een risicomanagementproces toe te passen.
 Dit geeft belanghebbenden het vertrouwen dat risico’s adequaat worden beheerd.<br><br>
 Het is belangrijk dat het managementsysteem voor informatiebeveiliging deel uitmaakt van en geïntegreerd is met de procedures van de organisatie en met de algehele managementstructuur, en dat informatiebeveiliging in aanmerking wordt genomen bij het ontwerpen van processen, informatiesystemen en beheersmaatregelen.<br><br>
 
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Verduidelijking ISMS definitie
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/505/changes">Was-wordt</a>
+</p>
+
 ### 5.1 Reikwijdte managementsysteem
 
-Bij het bepalen van de reikwijdte van het managementsysteem moet een organisatie minimaal de bedrijfsprocessen en informatiesystemen opnemen die kritisch zijn voor haar dienstverlening.
-Het is aan de overheidsorganisaties zelf om te bepalen in welke mate de ondersteunende processen zijn opgenomen in het managementsysteem.<br><br>
-Waar overheden gelijkwaardige processen hanteren, is het aanbevolen om, waar beschikbaar, gebruik te maken van het ondersteuningsaanbod van de koepelorganisatie.
+Bij het bepalen van de reikwijdte van het managementsysteem betrekt een entiteit de bedrijfsprocessen, diensten en netwerk- en informatiesystemen die worden gebruikt voor haar dienstverlening. De entiteit bepaalt risicogebaseerd hoe deze binnen het managementsysteem worden ingericht, geprioriteerd en beheerst.<br><br>
+Ondersteunende processen worden opgenomen voor zover zij relevant zijn voor de beveiliging, continuïteit of risicobeheersing van de dienstverlening. De gemaakte scopekeuzes worden onderbouwd, vastgelegd en periodiek beoordeeld.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  5.1 risicogericht geherfomuleerd
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/505/changes">Was-wordt</a>
+</p>
 
 ### 5.2 Samenhang managementsystemen
 
