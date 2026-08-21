@@ -254,7 +254,7 @@ Een interne toezichthouder kan helpen bij dit toezicht.
 
 ## 13. Leveranciers
 
-Leveranciers bieden diensten en/of producten aan entiteiten. Afhankelijk van het risico behoren verplichtingen van de overheid die volgen uit de BIO of uit andere richtlijnen te worden meegenomen bij het samenstellen van inkoopeisen aan leveranciers en bij de afspraken over contractbeheer. <br><br>
+Leveranciers leveren diensten en/of producten aan entiteiten. Afhankelijk van het risico behoren verplichtingen van de overheid die volgen uit de BIO of uit andere richtlijnen te worden meegenomen bij het samenstellen van inkoopeisen aan leveranciers en bij de afspraken over contractbeheer. <br><br>
 De beheersing van risico's geldt gedurende de volledige levensduur van het contract. Dit omvat inkoop, contractering, uitvoering, wijziging, periodieke evaluatie, verlenging, beëindiging en exit. Hierin behoudt de entiteit een verantwoordelijkheid voor de risicobeheersing van ingekochte diensten of producten.<br><br>
 Omdat risico's gedurende de looptijd kunnen veranderen, beoordeelt de entiteit periodiek of beveiligingseisen, afspraken of beheersmaatregelen moeten worden bijgesteld. De entiteit kan aantonen dat de beheersing van leveranciersrisico's is ingericht, wordt gevolgd en periodiek wordt beoordeeld.
 
