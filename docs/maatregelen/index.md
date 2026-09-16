@@ -881,7 +881,12 @@ Van de resultaten van de testen wordt verslag gemaakt.
 
 ### 8.30.01
 
-Interne maatregelen voor systeemontwikkeling zijn onverkort van toepassing op uitbestede ontwikkeling, aangevuld met maatregelen die volgen vanuit uitbestedingen.
+Bij uitbestede systeemontwikkeling worden relevante informatiebeveiligingseisen voor systeemontwikkeling op basis van risico’s vastgelegd in afspraken met de leverancier. De naleving van deze afspraken wordt bewaakt. Daarbij worden ook relevante risico’s in de ICT-toeleveringsketen betrokken, zoals bedoeld in maatregel 5.21.05.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Absolute formulering vervangen door risicogerichte toepassing.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 8.31.01
 
