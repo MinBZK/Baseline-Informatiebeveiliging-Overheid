@@ -867,7 +867,12 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 ### 8.27.01
 
-Architectuurprincipes zoals ‘security by design’ en ‘security by default’ voor het ontwerpen van de beveiliging van informatiesystemen worden vastgesteld, gedocumenteerd, onderhouden en toegepast voor alle activiteiten over het ontwikkelen van informatiesystemen.
+Bij het ontwerpen en ontwikkelen van informatiesystemen worden passende informatiebeveiligingsprincipes voor beveiligde systeemarchitectuur en engineering vastgesteld, gedocumenteerd, onderhouden en toegepast. Daarbij worden de informatiebeveiligingsprincipes uit hoofdstuk 14 betrokken, waaronder security by design en security by default.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Wijziging door herformulering.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/511/changes">Was-wordt</a>
+</p>
 
 ### 8.28.01
 
