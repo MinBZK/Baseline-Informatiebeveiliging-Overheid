@@ -885,7 +885,7 @@ Bij uitbestede systeemontwikkeling worden relevante informatiebeveiligingseisen 
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Absolute formulering vervangen door risicogerichte toepassing.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/510/changes">Was-wordt</a>
 </p>
 
 ### 8.31.01
