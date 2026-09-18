@@ -771,7 +771,7 @@ Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.16.03 wordt rel
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Dreigingen/aanvallen en functioneel onderscheid.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/515/changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/516/changes">Was-wordt</a>
 </p>
 
 ### 8.16.02
