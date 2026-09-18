@@ -784,7 +784,12 @@ De informatieverwerkende omgeving wordt gemonitord met een detectie- en response
 
 ### 8.16.04
 
-Actieve netwerkcomponenten zijn voorzien van logging en monitoring van die logging om afwijkende gebeurtenissen te kunnen waarnemen en daarop te reageren.
+Actieve netwerkcomponenten zijn voorzien van logging en monitoring van die logging om afwijkende gebeurtenissen te kunnen waarnemen en daarop te reageren. De bewaartermijn van deze logging wordt bepaald overeenkomstig de risicogerichte uitgangspunten voor de bewaartermijn van logging als bedoeld in 8.15.04.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Verduidelijking maatregel en bewaartermijn.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/516/changes">Was-wordt</a>
+</p>
 
 ### 8.17.01
 
