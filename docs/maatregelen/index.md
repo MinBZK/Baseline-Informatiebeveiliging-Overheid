@@ -767,7 +767,12 @@ Toetsing wordt uitgevoerd door een ten opzichte van de uitvoering onafhankelijke
 
 ### 8.16.01
 
-Bij ontdekte nieuwe dreigingen (aanvallen) via overheidsmaatregel 8.16.3 worden deze binnen geldende juridische kaders verplicht gedeeld met de daarvoor aangewezen Computer Emergency Response Team (CERT).
+Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.16.03 wordt relevante informatie daarover, binnen de geldende juridische kaders, gedeeld met het voor de entiteit aangewezen Cyber Security Incident Response Team (CSIRT).
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Dreigingen/aanvallen en functioneel onderscheid.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 8.16.02
 
@@ -816,7 +821,12 @@ Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt en geanalyseer
 
 ### 8.21.03
 
-Bij ontdekte nieuwe dreigingen vanuit overheidsmaatregel 8.21.02 worden deze doorgeleid, rekening houdend met de geldende juridische kaders gedeeld binnen de overheid.
+Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.21.02 wordt relevante informatie daarover, conform afspraken en binnen de geldende juridische kaders, doorgeleid en gedeeld binnen de overheid.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Verduidelijken in formulering.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+</p>
 
 ### 8.21.04
 
