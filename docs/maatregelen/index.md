@@ -346,7 +346,7 @@ De incidentprocedure bevat ten minste:
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
   Wettelijke meldplicht duidelijker beleggen
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/514/changes">Was-wordt</a>
 </p>
 
 ### 5.24.08
@@ -369,7 +369,7 @@ In het incidentbeheerproces is opgenomen dat incidenten indien relevant gemeld w
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
   Maatregel vervalt na formele vaststelling Kern-IBO. Geen zelfstandige meerwaarde naast 5.24.07 en ISO 5.26.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/514/changes">Was-wordt</a>
 </p>
 
 ### 5.27.01
