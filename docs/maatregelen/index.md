@@ -337,11 +337,17 @@ Verplaatst naar 5.21.05.
 
 ### 5.24.07
 
-De incidentprocedure bevat tenminste:
+De incidentprocedure bevat ten minste:
 
-- dat binnen de wettelijke termijn informatiebeveiligingsincidenten worden gemeld bij het Cyber Security Incident Response Team (CSIRT);
-- dat meldingen van het CSIRT worden ontvangen, beoordeeld en opgenomen in de risicobehandeling;
-- dat betrokkenen binnen de wettelijke termijn op de hoogte gesteld worden van het incident.
+- dat wordt vastgesteld of voor een incident een wettelijke meldplicht geldt;
+- dat meldplichtige incidenten binnen de daarvoor geldende wettelijke termijnen worden gemeld bij de op grond van toepasselijke wet- en regelgeving aangewezen instanties, zoals het CSIRT en de AP;
+- dat relevante informatie die naar aanleiding van een melding wordt ontvangen, wordt beoordeeld en waar nodig wordt betrokken bij de risicobehandeling;
+- dat betrokkenen worden geïnformeerd indien en voor zover dit wettelijk is vereist.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Wettelijke meldplicht duidelijker beleggen
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/514/changes">Was-wordt</a>
+</p>
 
 ### 5.24.08
 
@@ -360,6 +366,11 @@ Verplaatst naar 5.25.02.
 
 Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces.<br><br>
 In het incidentbeheerproces is opgenomen dat incidenten indien relevant gemeld worden bij de in wet- en regelgeving aangewezen toezichthouders.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+  Maatregel vervalt na formele vaststelling Kern-IBO. Geen zelfstandige meerwaarde naast 5.24.07 en ISO 5.26.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/514/changes">Was-wordt</a>
+</p>
 
 ### 5.27.01
 
