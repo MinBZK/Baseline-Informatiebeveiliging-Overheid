@@ -17,4 +17,4 @@ De volgende documenten/onderdelen zijn beschikbaar:
 - Verplichte maatregelen en richtlijnen
 
 ## Meer informatie BIO
-Wil je meer weten over de huidige versie, de achtergrond van de BIO en ondersteunende documentatie, ga naar [bio-overheid.nl](https://bio-overheid.nl/over-de-bio).
+Wil je meer weten over de huidige versie, de achtergrond van de BIO en ondersteunende documentatie, ga naar [bio-overheid.nl](https://bio-overheid.nl).
