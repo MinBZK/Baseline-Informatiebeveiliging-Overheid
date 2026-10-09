@@ -64,7 +64,7 @@ Geen overheidsmaatregel; de implementatierichtlijn uit NEN-EN-ISO/IEC 27002 is l
 ### 5.04.01
 
 Het bestuur en de werknemers volgen regelmatig scholing, om cyberbeveiligingsrisico’s te herkennen en te voorkomen en te weten wat men moet doen als er een informatiebeveiligingsincident is.<br><br>
-Daarbij tonen bestuurders an dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico’s te beoordelen op de diensten en/of producten die de entiteit levert.
+Daarbij tonen bestuurders aan dat zij voldoende kennis en vaardigheden hebben om de gevolgen van informatiebeveiligingsrisico’s te beoordelen op de diensten en/of producten die de entiteit levert.
 
 ### 5.04.02
 
