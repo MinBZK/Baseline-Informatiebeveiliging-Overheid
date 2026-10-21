@@ -138,7 +138,7 @@ Uit een risicoanalyse kan blijken dat een hoger validatieniveau (OV of EV) nodig
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Technologieneutrale formulering
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/529/changes">Was-wordt</a>
 </p>
 
 ### 5.14.03
