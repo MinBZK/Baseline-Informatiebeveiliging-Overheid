@@ -810,7 +810,12 @@ Het risico van installatie door gebruikers van niet geautoriseerde software word
 
 ### 8.20.01
 
-Netwerkcomponenten voldoen minimaal aan het vertrouwelijkheidsniveau van het netwerk waarvan ze onderdeel zijn.
+Netwerkcomponenten voldoen minimaal aan het beveiligingsniveau van het netwerk waarvan ze onderdeel zijn.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Gelijktrekken terminologie
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/530/changes">Was-wordt</a>
+</p>
 
 ### 8.20.02
 
