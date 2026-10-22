@@ -814,7 +814,7 @@ Netwerkcomponenten voldoen minimaal aan het beveiligingsniveau van het netwerk w
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Gelijktrekken terminologie
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/530/changes">Was-wordt</a>
 </p>
 
 ### 8.20.02
