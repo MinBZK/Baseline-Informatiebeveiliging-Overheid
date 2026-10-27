@@ -512,7 +512,7 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Maatregel stond op verkeerde plek. Naar 08.16.01 gegaan.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
 ### 7.03.01
@@ -778,7 +778,7 @@ Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.16.03 of 8.21.0
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Dreigingen/aanvallen en functioneel onderscheid.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
 ### 8.16.02
@@ -842,7 +842,7 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Samengevoegd in maatregel 08.16.01.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
 ### 8.21.04
