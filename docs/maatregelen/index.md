@@ -124,9 +124,14 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 ### 5.14.01
 
-Internetfacing-informatiesystemen en e-mail berichtenverkeer blijven voldoen aan de verplichte beveiligingsstandaarden, zie hiervoor de website van het Forum Standaardisatie en het Cyberbeveiligingsbesluit.<br><br>
-Hierop wordt gestuurd met de metingen van internet.nl.<br><br>
-Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
+De entiteit voldoet aan de voor de overheid verplichte open standaarden, in elk geval voor internetfacing-informatiesystemen, e-mailberichtenverkeer en geavanceerde en gekwalificeerde elektronische handtekeningen.
+
+Voor internetfacing-informatiesystemen en e-mailberichtenverkeer wordt hierop gestuurd met de metingen van internet.nl. Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Technologieneutrale formulering
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/534/changes">Was-wordt</a>
+</p>
 
 ### 5.14.02
 
@@ -143,7 +148,12 @@ Uit een risicoanalyse kan blijken dat een hoger validatieniveau (OV of EV) nodig
 
 ### 5.14.03
 
-Geavanceerde en/of gekwalificeerde elektronische handtekeningen voldoen aan de Advanced Electronic Signatures (AdES Baseline Profiles), zoals opgenomen in de Lijst open standaarden van Forum Standaardisatie.
+Vervallen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ De verplichting is ondergebracht in 5.14.01.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/534/changes">Was-wordt</a>
+</p>
 
 ### 5.14.04
 
