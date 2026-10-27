@@ -508,7 +508,12 @@ Kritieke informatie of informatiesystemen zijn alleen bereikbaar via ten minste 
 
 ### 7.02.01
 
-In geval van concrete beveiligingsrisico’s worden waarschuwingen, volgens onderlinge afspraken, verzonden aan de relevante collega’s binnen het beveiligingsdomein van de overheid.
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Maatregel stond op verkeerde plek. Naar 08.16.01 gegaan.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
+</p>
 
 ### 7.03.01
 
@@ -767,11 +772,13 @@ Toetsing wordt uitgevoerd door een ten opzichte van de uitvoering onafhankelijke
 
 ### 8.16.01
 
-Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.16.03 wordt relevante informatie daarover, binnen de geldende juridische kaders, gedeeld met het voor de entiteit aangewezen Cyber Security Incident Response Team (CSIRT).
+Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.16.03 of 8.21.02, en bij andere concrete beveiligingsrisico’s, wordt relevante informatie daarover gedeeld:
+- met het voor de entiteit aangewezen Cyber Security Incident Response Team (CSIRT);
+- conform afspraken met de relevante partijen binnen het beveiligingsdomein van de overheid.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Dreigingen/aanvallen en functioneel onderscheid.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/516/changes">Was-wordt</a>
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
 ### 8.16.02
@@ -831,11 +838,11 @@ Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt en geanalyseer
 
 ### 8.21.03
 
-Bij ontdekte dreigingen en/of aanvallen via overheidsmaatregel 8.21.02 wordt relevante informatie daarover, conform afspraken en binnen de geldende juridische kaders, doorgeleid en gedeeld binnen de overheid.
+Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
- Verduidelijken in formulering.
- Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/515/changes">Was-wordt</a>
+ Samengevoegd in maatregel 08.16.01.
+ Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
 ### 8.21.04
