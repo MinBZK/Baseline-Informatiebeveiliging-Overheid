@@ -682,7 +682,7 @@ De uitgevoerde risicoafwegingen en onderzoeksresultaten worden geëvalueerd en v
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Onmiddellijke mitigatie, IoC-monitoring, onderzoek en evaluatie toegevoegd. 
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/535/changes">Was-wordt</a>
 </p>
 
 ### 8.08.02
@@ -693,7 +693,7 @@ Indien volledige mitigatie niet direct mogelijk is, worden op basis van een expl
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  Risicogestuurd beleid, monitoring, onderzoek en tijdelijke mitigatie toegevoegd.
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/535/changes">Was-wordt</a>
 </p>
 
 ### 8.08.03
@@ -702,7 +702,7 @@ De normtekst van 8.08.03 vervalt. De functie van deze maatregel, tijdelijke miti
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
  	Inhoud ondergebracht in 8.08.01 en 8.08.02
-  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/.../changes">Was-wordt</a>
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/535/changes">Was-wordt</a>
 </p>
 
 ### 8.08.04
