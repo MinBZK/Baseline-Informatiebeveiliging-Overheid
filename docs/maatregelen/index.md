@@ -672,15 +672,38 @@ Dit maatregelnummer is vervallen.
 
 ### 8.08.01
 
-Als van een kwetsbaarheidswaarschuwing de kans op misbruik en de verwachte schade beide hoog zijn, worden passende mitigerende maatregelen zo snel mogelijk, maar uiterlijk binnen een week getroffen.
+Als van een kwetsbaarheidswaarschuwing de kans op misbruik en de verwachte schade beide hoog zijn, worden passende mitigerende maatregelen onmiddellijk getroffen. Indien volledige mitigatie niet direct mogelijk is, worden op basis van een expliciete risicoafweging tijdelijke mitigerende maatregelen getroffen.
+
+Indien voor de kwetsbaarheid indicators of compromise beschikbaar zijn, wordt hierop gemonitord. Is er betrouwbare informatie dat de kwetsbaarheid actief wordt misbruikt en is het kwetsbare informatiesysteem bereikbaar vanuit een onvertrouwde zone, dan wordt onmiddellijk onderzocht of sprake is van mogelijke compromittering in de periode tot de volledige mitigatie.
+
+Worden indicators of compromise of andere sporen van misbruik in de eigen omgeving aangetroffen, dan vindt nader onderzoek plaats en wordt dit afgehandeld via het incidentbeheerproces.
+
+De uitgevoerde risicoafwegingen en onderzoeksresultaten worden geëvalueerd en vastgelegd, inclusief wat op basis van de beschikbare informatie niet kon worden uitgesloten.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Onmiddellijke mitigatie, IoC-monitoring, onderzoek en evaluatie toegevoegd. 
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/535/changes">Was-wordt</a>
+</p>
 
 ### 8.08.02
 
-Op basis van een expliciete risicoafweging wordt bepaald op welke wijze mitigerende maatregelen getroffen worden.
+Voor kwetsbaarheden die niet onder 8.08.01 vallen, heeft de entiteit beleid vastgesteld voor risicogestuurde prioritering en behandeling. Op basis van de inschaling van de kans op misbruik en de verwachte schade wordt bepaald welke mitigerende maatregelen, monitoring en onderzoek nodig zijn en binnen welke termijn deze worden getroffen. Hierbij wordt aangesloten bij een erkende inschalingsmethodiek.
+
+Indien volledige mitigatie niet direct mogelijk is, worden op basis van een expliciete risicoafweging tijdelijke mitigerende maatregelen getroffen.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ Risicogestuurd beleid, monitoring, onderzoek en tijdelijke mitigatie toegevoegd.
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/535/changes">Was-wordt</a>
+</p>
 
 ### 8.08.03
 
-In de tussentijd of als installatie binnen een week niet mogelijk is, worden op basis van een expliciete risicoafweging mitigerende maatregelen getroffen.
+De normtekst van 8.08.03 vervalt. De functie van deze maatregel, tijdelijke mitigatie op basis van een expliciete risicoafweging, is opgenomen in 8.08.01 en 8.08.02. Het nummer wordt niet opnieuw gebruikt.
+
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
+ 	Inhoud ondergebracht in 8.08.01 en 8.08.02
+  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/535/changes">Was-wordt</a>
+</p>
 
 ### 8.08.04
 
