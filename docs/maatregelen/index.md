@@ -129,7 +129,7 @@ De entiteit voldoet aan de voor de overheid verplichte open standaarden, in elk 
 Voor internetfacing-informatiesystemen en e-mailberichtenverkeer wordt hierop gestuurd met de metingen van internet.nl. Daarbij dienen alle onderdelen te worden ingesteld zodat een optimale beveiliging wordt bereikt zonder afbreuk te doen aan de functionaliteit van de geboden dienst.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
- Technologieneutrale formulering
+ Technologieneutrale formulering 
   Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/534/changes">Was-wordt</a>
 </p>
 
@@ -148,10 +148,10 @@ Uit een risicoanalyse kan blijken dat een hoger validatieniveau (OV of EV) nodig
 
 ### 5.14.03
 
-Vervallen.
+Deze maatregel is ondergebracht in 5.14.01. 
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
- De verplichting is ondergebracht in 5.14.01.
+ De verplichting is verplaatst.
   Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/534/changes">Was-wordt</a>
 </p>
 
@@ -374,11 +374,10 @@ Verplaatst naar 5.25.02.
 
 ### 5.26.02
 
-Informatiebeveiligingsincidenten worden afgedaan via het incidentbeheerproces.<br><br>
-In het incidentbeheerproces is opgenomen dat incidenten indien relevant gemeld worden bij de in wet- en regelgeving aangewezen toezichthouders.
+Vervalt. Geen zelfstandige meerwaarde naast 5.24.07 en ISO 5.26.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
-  Maatregel vervalt na formele vaststelling Kern-IBO. Geen zelfstandige meerwaarde naast 5.24.07 en ISO 5.26.
+  Maatregel vervalt na formele vaststelling Kern-IBO. 
   Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/514/changes">Was-wordt</a>
 </p>
 
@@ -421,7 +420,8 @@ Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
 ```De proceseigenaar heeft voor informatie(systemen) bewaartermijnen vastgesteld en ingericht, zodanig dat gegevens niet langer beschikbaar en toegankelijk zijn dan noodzakelijk voor het beperken van het aanvalsoppervlak en het beheersen van risico's bij datalekken```<br><br>
 ```De proceseigenaar heeft deze termijnen ook praktisch ingeregeld en toetst periodiek de werking hiervan.```
 
-<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0."> De maatregel is herformuleerd met een expliciete informatiebeveiligingsfocus. Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/476/changes">Was-wordt</a> </p>
+<p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0."> De maatregel is herformuleerd met een expliciete informatiebeveiligingsfocus. ISO-beheersmaatregel 5.33 valt onder de Cbw-verplichting. Deze aanvullende BIO-overheidsmaatregel is hiervan uitgezonderd, maar blijft wel gelden als verplichtende zelfregulering via de BIO.
+Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/476/changes">Was-wordt</a> </p>
 
 ### 5.34.01
 
@@ -518,10 +518,10 @@ Kritieke informatie of informatiesystemen zijn alleen bereikbaar via ten minste 
 
 ### 7.02.01
 
-Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
+Vervalt. Opgenomen in 8.16.01.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
- Maatregel stond op verkeerde plek. Naar 08.16.01 gegaan.
+ Maatregel stond op verkeerde plek. 
   Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
@@ -871,10 +871,10 @@ Het dataverkeer van of naar de vertrouwde omgeving, wordt bewaakt en geanalyseer
 
 ### 8.21.03
 
-Geen overheidsmaatregel, zie inleiding deel 2 BIO-overheidsmaatregelen.
+Vervalt. Opgenomen in 8.16.01.
 
 <p class="note" title="Deze maatregel is gewijzigd voor BIO2 v2.0.">
- Samengevoegd in maatregel 08.16.01.
+ Samengevoegd in maatregel 8.16.01.
  Zie: <a href="https://github.com/MinBZK/Baseline-Informatiebeveiliging-Overheid/pull/533/changes">Was-wordt</a>
 </p>
 
